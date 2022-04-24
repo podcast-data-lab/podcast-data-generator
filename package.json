@@ -32,7 +32,7 @@
     "js-yaml": "^4.1.0",
     "lodash": "^4.17.21",
     "ncp": "^2.0.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "opml-to-json": "^1.0.1",
     "path": "^0.12.7",
     "podcast-feed-parser": "^1.0.4",

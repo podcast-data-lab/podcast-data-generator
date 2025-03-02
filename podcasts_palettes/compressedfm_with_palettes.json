@@ -21,8 +21,8 @@
                     "@xmlns": "http://www.w3.org/2005/Atom"
                 }
             ],
-            "copyright": "2024 COMPRESSED.fm",
-            "description": "A weekly podcast about web design and development with a little zest from James Q Quick, Amy Dutton, Brad Garropy, and Bekah HW.",
+            "copyright": "2025 COMPRESSED.fm",
+            "description": "A weekly podcast about web design and development with a little zest from Amy Dutton and Brad Garropy",
             "generator": "https://simplecast.com",
             "image": {
                 "link": "http://compressed.fm",
@@ -38,6 +38,35 @@
                 "url": "https://image.simplecastcdn.com/images/6da0eb34-b1fa-4059-bc17-c3069ec770cb/887a7d9c-5eac-49df-a771-c0e3cadfe81c/3000x3000/podast-cover.jpg?aid=rss_feed"
             },
             "item": [
+                {
+                    "author": "amy@selfteach.me (Josh Goldberg)",
+                    "content:encoded": "<p>Josh Goldberg joins Amy and Brad to unpack the recent ESLint V9 release and its impact on the TypeScript ecosystem. From explaining the nuances of flat config migration to debating the proper separation between Prettier and ESLint, Josh offers practical advice for improving developer workflows. The conversation covers Josh's journey as a full-time open source maintainer, the Open Source Pledge initiative, and best practices for implementing linting in CI/CD pipelines. Plus, Josh shares behind-the-scenes details from the inaugural SquiggleConf event.</p><h2>Chapter Marks</h2><p>00:00 - Intro</p><p>00:48 - Welcome Josh Goldberg</p><p>01:06 - Working in open source and getting paid</p><p>03:10 - The Open Source Pledge</p><p>04:49 - ESLint V9 and flat config changes</p><p>07:25 - Migration challenges with flat config</p><p>09:52 - Understanding ESLint config format</p><p>11:50 - How most people use ESLint</p><p>16:20 - Prettier vs ESLint responsibilities</p><p>18:47 - Conflict between Prettier and ESLint</p><p>21:26 - TypeScript's role in ESLint</p><p>25:01 - TypeScript ESLint packages explained</p><p>27:43 - Linters for other languages</p><p>29:31 - ESLint in CI/CD pipelines</p><p>32:03 - Auto-fixing in different environments</p><p>37:14 - AI's role in linting and formatting</p><p>41:45 - SquiggleConf discussion</p><p>44:15 - Conference tooling and Q&A system</p><p>46:33 - Future SquiggleConf plans</p><p>47:13 - Picks and Plugs</p><ul><li>Brad Garropy<ul><li><a href=\"https://amzn.to/3Db7CMO\"><strong>Pick</strong>: Philips Hue smart lighting system</a> - Set up Christmas lights with Hue smart outlets for easy control via phone or voice commands</li><li><strong>Plug</strong>: Brad's BlueSky account - <a href=\"https://bsky.app/profile/bradgarropy.com\">@bradgarropy.com</a></li></ul></li><li>Josh Goldberg<ul><li><strong>Pick</strong>: <a href=\"https://bsky.app/profile/joshuakgoldberg.com\">BlueSky social network</a> - Appreciates how it feels like early Twitter without spam bots and complicated server setups</li><li><strong>Plug</strong>: <a href=\"https://squiggleconf.com/\">SquiggleConf</a> - Web development tooling conference returning in September 2025</li></ul></li><li>Amy Dutton<ul><li><strong>Pick</strong>: <a href=\"https://amzn.to/4bmX3Tp\">The Inheritance Games</a> (book) - Describes it as an easy-to-read young adult fiction with puzzles, similar to Knives Out</li><li><strong>Plug</strong>: Amy's BlueSky account - <a href=\"https://bsky.app/profile/selfteach.me\">@selfteachme</a></li></ul></li></ul><h2>Links</h2><h3>Mentioned in the Episode</h3><ul><li><a href=\"https://typescript-eslint.io/\">TypeScript ESLint</a></li><li><a href=\"https://eslint.org/docs/latest/use/migrate-to-9.0.0\">ESLint v9 migration docs</a></li><li><a href=\"https://eslint-config-inspector.netlify.app/\">ESLint Config Inspector</a></li><li><a href=\"https://blog.sentry.io/we-just-gave-750-000-dollars-to-open-source-maintainers/\">Sentry Grave $750k to Open Source Maintainers</a></li><li><a href=\"https://opensourcepledge.com/\">Open Source Pledge initiative</a></li><li><a href=\"https://squiggleconf.com/\">Squiggle Conf website</a></li><li><a href=\"https://www.prisma.io/pulse\">Prisma Pulse</a></li><li><a href=\"https://amzn.to/3Db7CMO\">Philips Hue smart lighting</a></li><li><a href=\"https://amzn.to/4bmX3Tp\">The Inheritance Games</a> (book mentioned by Amy)</li></ul><h3>Social Media Accounts</h3><ul><li>Brad's BlueSky account: <a href=\"https://bsky.app/profile/bradgarropy.com\">@bradgarropy.com</a></li><li>Amy's BlueSky account: <a href=\"https://bsky.app/profile/selfteach.me\">@selfteachme</a></li><li>Josh Goldberg's BlueSky Account: <a href=\"https://bsky.app/profile/joshuakgoldberg.com\">@joshuakgoldberg.com</a></li></ul><h3>Related Resources</h3><ul><li><a href=\"https://eslint.style/\">ESLint Stylistic project</a></li><li><a href=\"https://github.com/prettier/eslint-config-prettier\">ESLint Config Prettier</a></li><li><a href=\"https://github.com/prettier/eslint-plugin-prettier\">ESLint Plugin Prettier</a></li><li><a href=\"https://github.com/JoshuaKGoldberg/create-typescript-app\">\"Create TypeScript Apps\" project (Josh's tooling package)</a></li><li><a href=\"https://github.com/dustinspecker/awesome-eslint\">Awesome ESLint repo</a> (collection of ESLint plugins)</li><li><a href=\"https://gitnation.com/contents/manual-to-magical-ai-in-developer-tooling\">Manual to Magical: AI in Developer Tooling</a>: Tobbe's talk on using AI to write code mods</li><li><a href=\"https://syntax.fm/show/604/supper-club-eslint-with-nicholas-zakas\">Nicholas Zakas discussing the ESLint config system on Syntax podcast</a></li></ul><h3>Tools Mentioned</h3><ul><li><a href=\"https://typicode.github.io/husky/get-started.html\">Husky</a></li><li><a href=\"https://github.com/lint-staged/lint-staged\">Lint-staged</a></li><li><a href=\"https://cursor.com\">Cursor</a></li><li><a href=\"https://biomejs.dev/\">Biome</a> and <a href=\"https://oxc.rs/\">OXLint</a> (Rust-based linters)</li><li><a href=\"https://github.com/features/actions\">GitHub Actions</a></li></ul>\n",
+                    "description": "<p>Josh Goldberg joins Amy and Brad to unpack the recent ESLint V9 release and its impact on the TypeScript ecosystem. From explaining the nuances of flat config migration to debating the proper separation between Prettier and ESLint, Josh offers practical advice for improving developer workflows. The conversation covers Josh's journey as a full-time open source maintainer, the Open Source Pledge initiative, and best practices for implementing linting in CI/CD pipelines. Plus, Josh shares behind-the-scenes details from the inaugural SquiggleConf event.</p><h2>Chapter Marks</h2><p>00:00 - Intro</p><p>00:48 - Welcome Josh Goldberg</p><p>01:06 - Working in open source and getting paid</p><p>03:10 - The Open Source Pledge</p><p>04:49 - ESLint V9 and flat config changes</p><p>07:25 - Migration challenges with flat config</p><p>09:52 - Understanding ESLint config format</p><p>11:50 - How most people use ESLint</p><p>16:20 - Prettier vs ESLint responsibilities</p><p>18:47 - Conflict between Prettier and ESLint</p><p>21:26 - TypeScript's role in ESLint</p><p>25:01 - TypeScript ESLint packages explained</p><p>27:43 - Linters for other languages</p><p>29:31 - ESLint in CI/CD pipelines</p><p>32:03 - Auto-fixing in different environments</p><p>37:14 - AI's role in linting and formatting</p><p>41:45 - SquiggleConf discussion</p><p>44:15 - Conference tooling and Q&A system</p><p>46:33 - Future SquiggleConf plans</p><p>47:13 - Picks and Plugs</p><ul><li>Brad Garropy<ul><li><a href=\"https://amzn.to/3Db7CMO\"><strong>Pick</strong>: Philips Hue smart lighting system</a> - Set up Christmas lights with Hue smart outlets for easy control via phone or voice commands</li><li><strong>Plug</strong>: Brad's BlueSky account - <a href=\"https://bsky.app/profile/bradgarropy.com\">@bradgarropy.com</a></li></ul></li><li>Josh Goldberg<ul><li><strong>Pick</strong>: <a href=\"https://bsky.app/profile/joshuakgoldberg.com\">BlueSky social network</a> - Appreciates how it feels like early Twitter without spam bots and complicated server setups</li><li><strong>Plug</strong>: <a href=\"https://squiggleconf.com/\">SquiggleConf</a> - Web development tooling conference returning in September 2025</li></ul></li><li>Amy Dutton<ul><li><strong>Pick</strong>: <a href=\"https://amzn.to/4bmX3Tp\">The Inheritance Games</a> (book) - Describes it as an easy-to-read young adult fiction with puzzles, similar to Knives Out</li><li><strong>Plug</strong>: Amy's BlueSky account - <a href=\"https://bsky.app/profile/selfteach.me\">@selfteachme</a></li></ul></li></ul><h2>Links</h2><h3>Mentioned in the Episode</h3><ul><li><a href=\"https://typescript-eslint.io/\">TypeScript ESLint</a></li><li><a href=\"https://eslint.org/docs/latest/use/migrate-to-9.0.0\">ESLint v9 migration docs</a></li><li><a href=\"https://eslint-config-inspector.netlify.app/\">ESLint Config Inspector</a></li><li><a href=\"https://blog.sentry.io/we-just-gave-750-000-dollars-to-open-source-maintainers/\">Sentry Grave $750k to Open Source Maintainers</a></li><li><a href=\"https://opensourcepledge.com/\">Open Source Pledge initiative</a></li><li><a href=\"https://squiggleconf.com/\">Squiggle Conf website</a></li><li><a href=\"https://www.prisma.io/pulse\">Prisma Pulse</a></li><li><a href=\"https://amzn.to/3Db7CMO\">Philips Hue smart lighting</a></li><li><a href=\"https://amzn.to/4bmX3Tp\">The Inheritance Games</a> (book mentioned by Amy)</li></ul><h3>Social Media Accounts</h3><ul><li>Brad's BlueSky account: <a href=\"https://bsky.app/profile/bradgarropy.com\">@bradgarropy.com</a></li><li>Amy's BlueSky account: <a href=\"https://bsky.app/profile/selfteach.me\">@selfteachme</a></li><li>Josh Goldberg's BlueSky Account: <a href=\"https://bsky.app/profile/joshuakgoldberg.com\">@joshuakgoldberg.com</a></li></ul><h3>Related Resources</h3><ul><li><a href=\"https://eslint.style/\">ESLint Stylistic project</a></li><li><a href=\"https://github.com/prettier/eslint-config-prettier\">ESLint Config Prettier</a></li><li><a href=\"https://github.com/prettier/eslint-plugin-prettier\">ESLint Plugin Prettier</a></li><li><a href=\"https://github.com/JoshuaKGoldberg/create-typescript-app\">\"Create TypeScript Apps\" project (Josh's tooling package)</a></li><li><a href=\"https://github.com/dustinspecker/awesome-eslint\">Awesome ESLint repo</a> (collection of ESLint plugins)</li><li><a href=\"https://gitnation.com/contents/manual-to-magical-ai-in-developer-tooling\">Manual to Magical: AI in Developer Tooling</a>: Tobbe's talk on using AI to write code mods</li><li><a href=\"https://syntax.fm/show/604/supper-club-eslint-with-nicholas-zakas\">Nicholas Zakas discussing the ESLint config system on Syntax podcast</a></li></ul><h3>Tools Mentioned</h3><ul><li><a href=\"https://typicode.github.io/husky/get-started.html\">Husky</a></li><li><a href=\"https://github.com/lint-staged/lint-staged\">Lint-staged</a></li><li><a href=\"https://cursor.com\">Cursor</a></li><li><a href=\"https://biomejs.dev/\">Biome</a> and <a href=\"https://oxc.rs/\">OXLint</a> (Rust-based linters)</li><li><a href=\"https://github.com/features/actions\">GitHub Actions</a></li></ul>\n",
+                    "enclosure": {
+                        "@length": "51301965",
+                        "@type": "audio/mpeg",
+                        "@url": "https://cdn.simplecast.com/audio/cae8b0eb-d9a9-480d-a652-0defcbe047f4/episodes/602fd246-0a4f-49eb-83e5-41dc1f15ed50/audio/9fc78e12-f322-41d9-8a1b-05cfb40b3c69/default_tc.mp3?aid=rss_feed&feed=hq7M2S7s"
+                    },
+                    "guid": {
+                        "#text": "70a7cb17-d674-4455-8d70-51e74346a60a",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Josh Goldberg",
+                    "itunes:duration": "00:51:23",
+                    "itunes:episode": "198",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/6da0eb34-b1fa-4059-bc17-c3069ec770cb/0d85be71-6e6d-4a7a-b800-cef1ea838119/3000x3000/cover-episode-1981.jpg?aid=rss_feed"
+                    },
+                    "itunes:keywords": "typescript parser, code quality, developer experience, typescript eslint, software maintenance, linting, open source, cicd pipeline, developer tooling, eslint, web dev, eslint v9, typescript, open source funding, web development, dx, prettier, code formatting, javascript development, developer workflow, code standards, config migration, squiggleconf",
+                    "itunes:subtitle": "Josh Goldberg joins Amy and Brad to unpack the recent ESLint V9 release and its impact on the TypeScript ecosystem. From explaining the nuances of flat config migration to debating the proper separation between Prettier and ESLint, Josh offers practical advice for improving developer workflows. The conversation covers Josh's journey as a full-time open source maintainer, the Open Source Pledge initiative, and best practices for implementing linting in CI/CD pipelines. Plus, Josh shares behind-the-scenes details from the inaugural SquiggleConf event. ",
+                    "itunes:summary": "Josh Goldberg joins Amy and Brad to unpack the recent ESLint V9 release and its impact on the TypeScript ecosystem. From explaining the nuances of flat config migration to debating the proper separation between Prettier and ESLint, Josh offers practical advice for improving developer workflows. The conversation covers Josh's journey as a full-time open source maintainer, the Open Source Pledge initiative, and best practices for implementing linting in CI/CD pipelines. Plus, Josh shares behind-the-scenes details from the inaugural SquiggleConf event. ",
+                    "itunes:title": "198 | The Great Formatting Debate: ESLint, Prettier, and TypeScript",
+                    "link": "http://compressed.fm",
+                    "pubDate": "Tue, 25 Feb 2025 06:00:00 +0000",
+                    "title": "198 | The Great Formatting Debate: ESLint, Prettier, and TypeScript"
+                },
                 {
                     "author": "amy@selfteach.me (Dani Grant)",
                     "content:encoded": "<p>Join us for an insightful conversation with Dani Grant, co-founder of Jam.dev, as she shares her journey from Cloudflare PM to startup founder. Learn how Jam.dev persevered through eight failed attempts before finding product-market fit and growing to 85,000 users. Dani reveals valuable lessons about product-led growth, building in public, and raising venture capital. From tactical fundraising tips to creative community building strategies like jam.pizza, this episode is packed with practical insights for founders and anyone interested in the startup journey.</p><p>\u00a0</p><h2>Sponsor</h2><p><a href=\"https://www.convex.dev/\" target=\"_blank\">Convex</a> is the backend for founders. Convex is the backend application platform for product-obsessed founders.<br />\u00a0</p><h2>Show Notes</h2><p>0:00 - Intro</p><p>0:29 - Sponsor: <a href=\"https://www.convex.dev/\" target=\"_blank\">Convex</a></p><p>1:08 - Meeting Dani Grant</p><p>1:41 - Early Career at Cloudflare</p><p>3:09 - Finding Internships & Career Growth</p><p>5:25 - Starting Jam.dev</p><p>11:56 - Product Evolution & User Growth</p><p>16:57 - Product Features & Implementation</p><p>21:22 - Monetization Strategy</p><p>23:37 - Technical Deep Dive: How Jam Works</p><p>27:49 - Future Plans & Mobile Development</p><p>29:12 - Fundraising Tips & Strategies</p><p>34:00 - Supporting Developer Communities</p><p>36:18 - Picks and Plugs</p><p>\u00a0</p><h2>Links</h2><p>Companies/Products:</p><ul><li><a href=\"https://jam.dev/\">Jam.dev</a></li><li><a href=\"https://www.cloudflare.com/\">Cloudflare</a></li><li><a href=\"https://www.convex.dev/\">Convex (sponsor)</a></li><li><a href=\"https://sentry.io/welcome/\">Sentry</a></li><li><a href=\"https://www.datadoghq.com/\">Data Dog</a></li><li><a href=\"https://www.hotjar.com/\">Hotjar</a></li><li><a href=\"https://www.fullstory.com/\">FullStory</a></li><li><a href=\"https://www.atlassian.com/software/jira\">JIRA</a></li><li><a href=\"https://www.metabase.com/\">Metabase</a></li><li><a href=\"https://www.notion.com/\">Notion</a></li></ul><p>Social/Personal:</p><ul><li><a href=\"https://x.com/thedanigrant\">Dani Grant's Twitter</a></li><li>Dani Grant's email (<a href=\"mailto:dani@jam.dev\">dani@jam.dev</a>)</li><li>Brad Garropy's Twitter (<a href=\"https://x.com/bradgarropy\">@bradgarropy</a>)</li><li><a href=\"https://learnbuildteach.com/\">Learn Build Teach Discord</a></li><li><a href=\"https://www.dealsfordevs.com/\">Deals for Devs project</a></li></ul><p>Books/Media:</p><ul><li><a href=\"https://amzn.to/3QfMt77\">\"Tomorrow and Tomorrow and Tomorrow\"</a> (book mentioned by Dani)</li><li><a href=\"https://www.youtube.com/@mreflow\">Matt Wolf's YouTube channel</a> (AI recaps)</li></ul><p>Career Resources:</p><ul><li><a href=\"https://jam.dev/careers\">jam.dev/careers</a> (mentioned they're hiring)</li><li><a href=\"https://8wvzuv0oszm.typeform.com/to/mb3l7QmK\">jam.pizza</a> (community meetup sponsorship form)</li></ul><p>Technical Tools Mentioned:</p><ul><li><a href=\"https://vite.dev/\">Vite</a></li><li><a href=\"https://remix.run/\">Remix</a></li><li><a href=\"https://esbuild.github.io/\">ES Build</a></li></ul><p>Products Similar to Jam:</p><ul><li><a href=\"https://www.fullstory.com/\">FullStory</a></li><li><a href=\"https://www.hotjar.com/\">Hotjar</a></li><li><a href=\"https://sentry.io/welcome/\">Sentry</a></li><li><a href=\"https://www.datadoghq.com/\">Datadog</a></li></ul><p>Development Tools:</p><ul><li><a href=\"https://chromewebstore.google.com/detail/jam/iohjgamcilhbgmhbnllfolmkmmekfmci?_gl=1*l7p1k*_gcl_au*MTQxNDA5ODkwMy4xNzM5MjM3MDUw\">Chrome Extension Store</a> (where Jam is available)</li></ul><p>Community:</p><ul><li><a href=\"https://learnbuildteach.com/\">LearnBuildTeach.com</a></li><li><a href=\"https://www.dealsfordevs.com/\">Deals for Devs</a></li></ul>\n",
@@ -847,7 +876,7 @@
                     "title": "170 | Exploring the Future of React with Remix: A Deep Dive"
                 },
                 {
-                    "author": "amy@selfteach.me (Cory Miller, Brad Garropy, James Q Quick, Amy Dutton)",
+                    "author": "amy@selfteach.me (Cory Miller, James Q Quick, Brad Garropy, Amy Dutton)",
                     "content:encoded": "<p>Cory joins all the co hosts to share about his personal projects and how he prioritizes what new tech to learn about.  </p><h2>Show Notes</h2><p><strong>00:00</strong> Welcome Cory and Framework Jumping<br /><strong>23:29</strong> Music Talk and Non Screen Hobbies<br /><strong>32:58</strong> Coreys Podcast<br /><strong>38:08</strong> Picks and Plugs</p>\n",
                     "description": "<p>Cory joins all the co hosts to share about his personal projects and how he prioritizes what new tech to learn about.  </p><h2>Show Notes</h2><p><strong>00:00</strong> Welcome Cory and Framework Jumping<br /><strong>23:29</strong> Music Talk and Non Screen Hobbies<br /><strong>32:58</strong> Coreys Podcast<br /><strong>38:08</strong> Picks and Plugs</p>\n",
                     "enclosure": {
@@ -859,7 +888,7 @@
                         "#text": "1c35175e-4f31-42f6-b1e4-49b9571b0add",
                         "@isPermaLink": "false"
                     },
-                    "itunes:author": "Cory Miller, Brad Garropy, James Q Quick, Amy Dutton",
+                    "itunes:author": "Cory Miller, James Q Quick, Brad Garropy, Amy Dutton",
                     "itunes:duration": "00:57:40",
                     "itunes:episode": "169",
                     "itunes:episodeType": "full",
@@ -905,7 +934,7 @@
                     "title": "168 | How Developers Write Less Code with AI and No Code in 2024"
                 },
                 {
-                    "author": "amy@selfteach.me (Ivan Burazin, James Q. Quick, Bekah Hawrot Weigel)",
+                    "author": "amy@selfteach.me (Ivan Burazin, Bekah Hawrot Weigel, James Q. Quick)",
                     "content:encoded": "<p>Ivan joins James and Bekah to tell his journey to Daytona and where they\u2019re hoping to go as they grow.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Welcome Ivan</li><li><strong>03:30</strong> Tying Development to Personal Interests</li><li><strong>08:05</strong> Finding the Product Gap</li><li><strong>12:19</strong> Acquisition, Money, Starting From Scratch</li><li><strong>17:31</strong> Daytona</li><li><strong>20:22</strong> What\u2019s Under the Hood</li><li><strong>22:41</strong> Primary Users</li><li><strong>29:09</strong> The Team</li><li><strong>30:31</strong> Engineering </li><li><strong>35:46</strong> Trying Daytona </li><li><strong>41:31</strong> Picks and Plugs</li></ul>\n",
                     "description": "<p>Ivan joins James and Bekah to tell his journey to Daytona and where they\u2019re hoping to go as they grow.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Welcome Ivan</li><li><strong>03:30</strong> Tying Development to Personal Interests</li><li><strong>08:05</strong> Finding the Product Gap</li><li><strong>12:19</strong> Acquisition, Money, Starting From Scratch</li><li><strong>17:31</strong> Daytona</li><li><strong>20:22</strong> What\u2019s Under the Hood</li><li><strong>22:41</strong> Primary Users</li><li><strong>29:09</strong> The Team</li><li><strong>30:31</strong> Engineering </li><li><strong>35:46</strong> Trying Daytona </li><li><strong>41:31</strong> Picks and Plugs</li></ul>\n",
                     "enclosure": {
@@ -917,7 +946,7 @@
                         "#text": "57509992-4b0b-4997-bd7d-50c672ffd28f",
                         "@isPermaLink": "false"
                     },
-                    "itunes:author": "Ivan Burazin, James Q. Quick, Bekah Hawrot Weigel",
+                    "itunes:author": "Ivan Burazin, Bekah Hawrot Weigel, James Q. Quick",
                     "itunes:duration": "00:49:18",
                     "itunes:episode": "167",
                     "itunes:episodeType": "full",
@@ -963,7 +992,7 @@
                     "title": "166 | Bridging the Editor and Developer Experience Gap"
                 },
                 {
-                    "author": "amy@selfteach.me (Bekah Hawrot Weigel, James Q Quick, Brad Garropy, Amy Dutton)",
+                    "author": "amy@selfteach.me (Bekah Hawrot Weigel, Amy Dutton, Brad Garropy, James Q Quick)",
                     "content:encoded": "<p>We have a great episode where all 4 cohosts look back on 2023 and look forward to whats coming in 2024.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Intro and Welcome</li><li><strong>00:53</strong> Meet Ups and Conferences</li><li><strong>03:27</strong> What is Virtual Coffee</li><li><strong>04:22</strong> Bekah at OpenSauced</li><li><strong>09:52</strong> Job Search</li><li><strong>17:44</strong> 2023 Reflections</li><li><strong>33:22</strong> Migrating ro Remix</li><li><strong>47:49</strong> 2024 Looking Forward</li></ul>\n",
                     "description": "<p>We have a great episode where all 4 cohosts look back on 2023 and look forward to whats coming in 2024.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Intro and Welcome</li><li><strong>00:53</strong> Meet Ups and Conferences</li><li><strong>03:27</strong> What is Virtual Coffee</li><li><strong>04:22</strong> Bekah at OpenSauced</li><li><strong>09:52</strong> Job Search</li><li><strong>17:44</strong> 2023 Reflections</li><li><strong>33:22</strong> Migrating ro Remix</li><li><strong>47:49</strong> 2024 Looking Forward</li></ul>\n",
                     "enclosure": {
@@ -975,7 +1004,7 @@
                         "#text": "050b74b4-c5b1-4781-b6ad-7ed11e39c4d5",
                         "@isPermaLink": "false"
                     },
-                    "itunes:author": "Bekah Hawrot Weigel, James Q Quick, Brad Garropy, Amy Dutton",
+                    "itunes:author": "Bekah Hawrot Weigel, Amy Dutton, Brad Garropy, James Q Quick",
                     "itunes:duration": "00:55:22",
                     "itunes:episode": "165",
                     "itunes:episodeType": "full",
@@ -1021,7 +1050,7 @@
                     "title": "164 | The Fear of Moving Forward"
                 },
                 {
-                    "author": "amy@selfteach.me (Sam Selikoff, Brad Garropy, Amy Dutton)",
+                    "author": "amy@selfteach.me (Sam Selikoff, Amy Dutton, Brad Garropy)",
                     "content:encoded": "<p>Sam joins Brad and Amy to discuss server components, loadting states and getting into UI development.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction</li><li><strong>01:15</strong> Reusable Components</li><li><strong>07:49</strong> Server Components</li><li><strong>31:06</strong> Loading States</li><li><strong>45:46</strong> Getting into UI</li><li><strong>50:32</strong> Picks and Plugs</li></ul>\n",
                     "description": "<p>Sam joins Brad and Amy to discuss server components, loadting states and getting into UI development.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction</li><li><strong>01:15</strong> Reusable Components</li><li><strong>07:49</strong> Server Components</li><li><strong>31:06</strong> Loading States</li><li><strong>45:46</strong> Getting into UI</li><li><strong>50:32</strong> Picks and Plugs</li></ul>\n",
                     "enclosure": {
@@ -1033,7 +1062,7 @@
                         "#text": "ae4a73e9-6f0c-494e-b4a4-e220082d7f4d",
                         "@isPermaLink": "false"
                     },
-                    "itunes:author": "Sam Selikoff, Brad Garropy, Amy Dutton",
+                    "itunes:author": "Sam Selikoff, Amy Dutton, Brad Garropy",
                     "itunes:duration": "00:54:50",
                     "itunes:episode": "163",
                     "itunes:episodeType": "full",
@@ -1050,7 +1079,7 @@
                     "title": "163 | UI Development in 2024"
                 },
                 {
-                    "author": "amy@selfteach.me (Ryan Burgess, Jem, Amy Dutton, James Q Quick, Brad Garropy)",
+                    "author": "amy@selfteach.me (Ryan Burgess, Jem, Brad Garropy, James Q Quick, Amy Dutton)",
                     "content:encoded": "<p>We have ALL the guests on today as Ryan and Jem join Brad, Amy, and James for a crossover episode.  They discuss the tech theyre looking forward to in 2024 as well as AI topics and the impact that conferences have on a developers journey.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction </li><li><strong>00:26</strong> Let\u2019s Kick Off</li><li><strong>01:14</strong> Tech Coming in 2024</li><li><strong>15:40</strong> Jevons Paradox and AI</li><li><strong>24:13</strong> AI Pen</li><li><strong>26:07</strong> Custom GPT</li><li><strong>30:01</strong> Browsers</li><li><strong>34:18</strong> Pass Keys</li><li><strong>38:32</strong> Conference Meet Ups</li><li><strong>51:58</strong> Picks and Plugs</li></ul>\n",
                     "description": "<p>We have ALL the guests on today as Ryan and Jem join Brad, Amy, and James for a crossover episode.  They discuss the tech theyre looking forward to in 2024 as well as AI topics and the impact that conferences have on a developers journey.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction </li><li><strong>00:26</strong> Let\u2019s Kick Off</li><li><strong>01:14</strong> Tech Coming in 2024</li><li><strong>15:40</strong> Jevons Paradox and AI</li><li><strong>24:13</strong> AI Pen</li><li><strong>26:07</strong> Custom GPT</li><li><strong>30:01</strong> Browsers</li><li><strong>34:18</strong> Pass Keys</li><li><strong>38:32</strong> Conference Meet Ups</li><li><strong>51:58</strong> Picks and Plugs</li></ul>\n",
                     "enclosure": {
@@ -1062,7 +1091,7 @@
                         "#text": "5e8792ab-b31f-45c4-9449-6f7ca3d6f621",
                         "@isPermaLink": "false"
                     },
-                    "itunes:author": "Ryan Burgess, Jem, Amy Dutton, James Q Quick, Brad Garropy",
+                    "itunes:author": "Ryan Burgess, Jem, Brad Garropy, James Q Quick, Amy Dutton",
                     "itunes:duration": "00:59:31",
                     "itunes:episode": "162",
                     "itunes:episodeType": "full",
@@ -1079,7 +1108,7 @@
                     "title": "162 | Crossover Episode: Frontend Happy Hour"
                 },
                 {
-                    "author": "amy@selfteach.me (Evyatar Alush, Amy Dutton, James Q Quick)",
+                    "author": "amy@selfteach.me (Evyatar Alush, James Q Quick, Amy Dutton)",
                     "content:encoded": "<p>Evyatar joins Compressed to talk of his love for open source, most importantly his project Vest.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction </li><li><strong>01:40</strong> Work vs Open Source Balance</li><li><strong>04:35</strong> Struggles of Being a Maintainer</li><li><strong>05:24</strong> Community Involvement</li><li><strong>07:34</strong> Need in Form Validation to Vest</li><li><strong>11:24</strong> Core Features of Vest</li><li><strong>13:22</strong> Formulation Libraries</li><li><strong>17:14</strong> Connection </li><li><strong>19:52</strong> Usage</li><li>*<i>21:29</i> Full Time Open Source</li><li><strong>26:28</strong> Emoji Picker</li><li><strong>30:54</strong> New Projects</li><li><strong>32:29</strong> Picks and Plugs</li></ul>\n",
                     "description": "<p>Evyatar joins Compressed to talk of his love for open source, most importantly his project Vest.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction </li><li><strong>01:40</strong> Work vs Open Source Balance</li><li><strong>04:35</strong> Struggles of Being a Maintainer</li><li><strong>05:24</strong> Community Involvement</li><li><strong>07:34</strong> Need in Form Validation to Vest</li><li><strong>11:24</strong> Core Features of Vest</li><li><strong>13:22</strong> Formulation Libraries</li><li><strong>17:14</strong> Connection </li><li><strong>19:52</strong> Usage</li><li>*<i>21:29</i> Full Time Open Source</li><li><strong>26:28</strong> Emoji Picker</li><li><strong>30:54</strong> New Projects</li><li><strong>32:29</strong> Picks and Plugs</li></ul>\n",
                     "enclosure": {
@@ -1091,7 +1120,7 @@
                         "#text": "423977a0-cbe3-48fb-8483-efbcb0e66d46",
                         "@isPermaLink": "false"
                     },
-                    "itunes:author": "Evyatar Alush, Amy Dutton, James Q Quick",
+                    "itunes:author": "Evyatar Alush, James Q Quick, Amy Dutton",
                     "itunes:duration": "00:42:21",
                     "itunes:episode": "161",
                     "itunes:episodeType": "full",
@@ -1108,7 +1137,7 @@
                     "title": "161 | Better Form Validation with Vest"
                 },
                 {
-                    "author": "amy@selfteach.me (James Q Quick, Amy Dutton)",
+                    "author": "amy@selfteach.me (Amy Dutton, James Q Quick)",
                     "content:encoded": "<p>James and Amy take audience questions and discuss their favorite hot topics talking about frameworks, AI, and jobs.</p><h2>Sponsor</h2><p>###Contenful </p><p>Contentful is the leading composable content platform that allows developers to build intelligent experiences to drive brand engagement. It gives content creators the tools they need to create, manage, and publish content seamlessly across every channel. Managing content has never been so easy or flexible.<br />Check out <a href=\"https://www.contentful.com\">Contentful</a></p><h3>Hashnode</h3><p>Creating a developer blog is crucial in creating an online presence for yourself. It\u2019s proof of work for your future employer. <a href=\"https://hashnode.com\">Hashnode</a> makes it easy to start a blog in seconds on your <strong>custom domain</strong> for free. It\u2019s fully optimized for developers and supports writing in Markdown, rich embeds, publishing from GitHub repository, syntax highlighting, and edge caching with Next.js blogs deployed on Vercel. On top of these, Hashnode is free from paywall, ads, and sign-up prompts.</p><p>Hashnode is a community of developers, engineers, and people in tech. Your article gets instant readership from their growing community.</p><p>Check out <a href=\"https://hashnode.com\">Hashnode</a>, and join the community.</p><h3>Daily.dev</h3><p>daily.dev is where developers grow together. It provides a community-based feed of the best developer news, helping you stay up-to-date. daily.dev aggregates hundreds of sources every few minutes and creates a personal feed for you according to your interests, whether it\u2019s web dev, data science, or Elixir. Anything you might be interested in, it has the content for you.</p><p>Check out <a href=\"https://daily.dev\">daily.dev</a></p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction</li><li><strong>01:33</strong> Use Cases for AI</li><li><strong>07:48</strong> Choosing Frameworks</li><li><strong>10:22</strong> Next and Remix</li><li><strong>26:31</strong> Money Talk for Frameworks</li><li><strong>34:45</strong> Knowing Multiple Frameworks</li><li><strong>39:19</strong> Landing a Job</li><li><strong>46:46</strong> Leaving Coding</li><li><strong>51:49</strong> Picks and Plugs</li></ul>\n",
                     "description": "<p>James and Amy take audience questions and discuss their favorite hot topics talking about frameworks, AI, and jobs.</p><h2>Sponsor</h2><p>###Contenful </p><p>Contentful is the leading composable content platform that allows developers to build intelligent experiences to drive brand engagement. It gives content creators the tools they need to create, manage, and publish content seamlessly across every channel. Managing content has never been so easy or flexible.<br />Check out <a href=\"https://www.contentful.com\">Contentful</a></p><h3>Hashnode</h3><p>Creating a developer blog is crucial in creating an online presence for yourself. It\u2019s proof of work for your future employer. <a href=\"https://hashnode.com\">Hashnode</a> makes it easy to start a blog in seconds on your <strong>custom domain</strong> for free. It\u2019s fully optimized for developers and supports writing in Markdown, rich embeds, publishing from GitHub repository, syntax highlighting, and edge caching with Next.js blogs deployed on Vercel. On top of these, Hashnode is free from paywall, ads, and sign-up prompts.</p><p>Hashnode is a community of developers, engineers, and people in tech. Your article gets instant readership from their growing community.</p><p>Check out <a href=\"https://hashnode.com\">Hashnode</a>, and join the community.</p><h3>Daily.dev</h3><p>daily.dev is where developers grow together. It provides a community-based feed of the best developer news, helping you stay up-to-date. daily.dev aggregates hundreds of sources every few minutes and creates a personal feed for you according to your interests, whether it\u2019s web dev, data science, or Elixir. Anything you might be interested in, it has the content for you.</p><p>Check out <a href=\"https://daily.dev\">daily.dev</a></p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction</li><li><strong>01:33</strong> Use Cases for AI</li><li><strong>07:48</strong> Choosing Frameworks</li><li><strong>10:22</strong> Next and Remix</li><li><strong>26:31</strong> Money Talk for Frameworks</li><li><strong>34:45</strong> Knowing Multiple Frameworks</li><li><strong>39:19</strong> Landing a Job</li><li><strong>46:46</strong> Leaving Coding</li><li><strong>51:49</strong> Picks and Plugs</li></ul>\n",
                     "enclosure": {
@@ -1120,7 +1149,7 @@
                         "#text": "4fac9b53-f788-4dd7-8658-b9c30db6508b",
                         "@isPermaLink": "false"
                     },
-                    "itunes:author": "James Q Quick, Amy Dutton",
+                    "itunes:author": "Amy Dutton, James Q Quick",
                     "itunes:duration": "00:57:40",
                     "itunes:episode": "160",
                     "itunes:episodeType": "full",
@@ -1166,7 +1195,7 @@
                     "title": "159 | Getting Started in Programming: An Origin Story"
                 },
                 {
-                    "author": "amy@selfteach.me (Maciek Palmowski, Brad Garropy, James Q Quick)",
+                    "author": "amy@selfteach.me (Maciek Palmowski, James Q Quick, Brad Garropy)",
                     "content:encoded": "<p>Maciek joins James and Brad to get deep into Astro and all the ways to go headless.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Welcome Maciek</li><li><strong>01:33</strong> Landscape of PHP</li><li><strong>05:41</strong> Wordpress</li><li><strong>11:15</strong> Gateway to Headless WordPress</li><li><strong>25:47</strong> Building on Astro</li><li><strong>27:57</strong> Collection Framework Authors</li><li><strong>34:36</strong> SSR and Astro</li><li><strong>37:07</strong> Components</li><li><strong>42:55</strong> Picks and Plugs</li></ul>\n",
                     "description": "<p>Maciek joins James and Brad to get deep into Astro and all the ways to go headless.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Welcome Maciek</li><li><strong>01:33</strong> Landscape of PHP</li><li><strong>05:41</strong> Wordpress</li><li><strong>11:15</strong> Gateway to Headless WordPress</li><li><strong>25:47</strong> Building on Astro</li><li><strong>27:57</strong> Collection Framework Authors</li><li><strong>34:36</strong> SSR and Astro</li><li><strong>37:07</strong> Components</li><li><strong>42:55</strong> Picks and Plugs</li></ul>\n",
                     "enclosure": {
@@ -1178,7 +1207,7 @@
                         "#text": "b47f3722-e0c4-4519-ad4b-ff487da15035",
                         "@isPermaLink": "false"
                     },
-                    "itunes:author": "Maciek Palmowski, Brad Garropy, James Q Quick",
+                    "itunes:author": "Maciek Palmowski, James Q Quick, Brad Garropy",
                     "itunes:duration": "00:53:32",
                     "itunes:episode": "158",
                     "itunes:episodeType": "full",
@@ -1340,7 +1369,7 @@
                     "title": "153 | Remote Work and Building Side Projects"
                 },
                 {
-                    "author": "amy@selfteach.me (Amy Dutton, Brad Garropy)",
+                    "author": "amy@selfteach.me (Brad Garropy, Amy Dutton)",
                     "content:encoded": "<p>Amy and Brad host a \u201ctime out\u201d chat about all the hot topics that are on their minds.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction</li><li><strong>00:36</strong> DHH and Typescript</li><li><strong>13:41</strong> TypeScript Documentary and Microsoft</li><li><strong>16:00</strong> Back to Warp</li><li><strong>17:40</strong> Figma Embed in Developer Tools</li><li><strong>19:18</strong> Monitor Talk</li><li><strong>21:33</strong> Workshop at GraphQL Conference</li><li><strong>26:24</strong> React Server Components at Baseline Level</li><li><strong>29:28</strong> Implementing React Server Components in Remix and Redwood</li><li><strong>41:25</strong> Getting a CFP Accepted</li><li><strong>45:47</strong> Bun</li><li><strong>48:51</strong> Raycast</li><li><strong>50:51</strong> Questions on CFPs</li><li><strong>53:14</strong> Picks and Plugs</li></ul>\n",
                     "description": "<p>Amy and Brad host a \u201ctime out\u201d chat about all the hot topics that are on their minds.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction</li><li><strong>00:36</strong> DHH and Typescript</li><li><strong>13:41</strong> TypeScript Documentary and Microsoft</li><li><strong>16:00</strong> Back to Warp</li><li><strong>17:40</strong> Figma Embed in Developer Tools</li><li><strong>19:18</strong> Monitor Talk</li><li><strong>21:33</strong> Workshop at GraphQL Conference</li><li><strong>26:24</strong> React Server Components at Baseline Level</li><li><strong>29:28</strong> Implementing React Server Components in Remix and Redwood</li><li><strong>41:25</strong> Getting a CFP Accepted</li><li><strong>45:47</strong> Bun</li><li><strong>48:51</strong> Raycast</li><li><strong>50:51</strong> Questions on CFPs</li><li><strong>53:14</strong> Picks and Plugs</li></ul>\n",
                     "enclosure": {
@@ -1352,7 +1381,7 @@
                         "#text": "b8ee894b-fd2c-47bc-998e-6102691a54f7",
                         "@isPermaLink": "false"
                     },
-                    "itunes:author": "Amy Dutton, Brad Garropy",
+                    "itunes:author": "Brad Garropy, Amy Dutton",
                     "itunes:duration": "00:59:40",
                     "itunes:episode": "152",
                     "itunes:episodeType": "full",
@@ -1398,7 +1427,7 @@
                     "title": "151 | Leaving a Job to Build a Company"
                 },
                 {
-                    "author": "amy@selfteach.me (Florin Pop, Brad Garropy, James Q Quick, Amy Dutton)",
+                    "author": "amy@selfteach.me (Florin Pop, James Q Quick, Brad Garropy, Amy Dutton)",
                     "content:encoded": "<p>In this episode Florin gives us a deep dive into iCodeThis.  How it works, how it\u2019s made and all the behind the scenes information.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Welcome and Florin</li><li><strong>01:59</strong> iCodeThis Inspiration</li><li><strong>07:08</strong> How it Works</li><li><strong>13:49</strong> Submitting and Enabled Technologies</li><li><strong>25:30</strong> Tech Stack</li><li><strong>30:55</strong> Technical Challenges </li><li><strong>37:12</strong> Talking Numbers</li><li><strong>40:01</strong> Filling the Gaps</li><li><strong>43:49</strong> Picks and Plugs</li></ul>\n",
                     "description": "<p>In this episode Florin gives us a deep dive into iCodeThis.  How it works, how it\u2019s made and all the behind the scenes information.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Welcome and Florin</li><li><strong>01:59</strong> iCodeThis Inspiration</li><li><strong>07:08</strong> How it Works</li><li><strong>13:49</strong> Submitting and Enabled Technologies</li><li><strong>25:30</strong> Tech Stack</li><li><strong>30:55</strong> Technical Challenges </li><li><strong>37:12</strong> Talking Numbers</li><li><strong>40:01</strong> Filling the Gaps</li><li><strong>43:49</strong> Picks and Plugs</li></ul>\n",
                     "enclosure": {
@@ -1410,7 +1439,7 @@
                         "#text": "ec7d3177-d6c6-4e18-9514-0704f9fb2fa1",
                         "@isPermaLink": "false"
                     },
-                    "itunes:author": "Florin Pop, Brad Garropy, James Q Quick, Amy Dutton",
+                    "itunes:author": "Florin Pop, James Q Quick, Brad Garropy, Amy Dutton",
                     "itunes:duration": "00:51:09",
                     "itunes:episode": "150",
                     "itunes:episodeType": "full",
@@ -1456,35 +1485,6 @@
                     "title": "149 | CSS Rocks!"
                 },
                 {
-                    "author": "amy@selfteach.me (Brian Morrison II, Brad Garropy, Amy Dutton)",
-                    "content:encoded": "<p>Brian, Brad, and Amy get into their preferred work flow and strategies for tackling their long lists of projects.  </p><h2>Sponsor</h2><p>###Contenful </p><p>Contentful is the leading composable content platform that allows developers to build intelligent experiences to drive brand engagement. It gives content creators the tools they need to create, manage, and publish content seamlessly across every channel. Managing content has never been so easy or flexible.<br />Check out <a href=\"https://www.contentful.com\">Contentful</a></p><h2>Show Notes</h2><ul><li><strong>00:29</strong> Sponsor: Contentful</li><li><strong>01:00</strong> Introduction</li><li><strong>02:58</strong> Recent Projects</li><li><strong>04:52</strong> Swapping Database Layers</li><li><strong>07:18</strong> Order of Build</li><li><strong>11:48</strong> The Project Queue</li><li><strong>16:22</strong> Diffing and Reapplication of New Code</li><li><strong>24:33</strong> Versioning with Headers</li><li><strong>29:45</strong> Backend Language Talk</li><li><strong>45:17</strong> Picks and Plugs</li></ul>\n",
-                    "description": "<p>Brian, Brad, and Amy get into their preferred work flow and strategies for tackling their long lists of projects.  </p><h2>Sponsor</h2><p>###Contenful </p><p>Contentful is the leading composable content platform that allows developers to build intelligent experiences to drive brand engagement. It gives content creators the tools they need to create, manage, and publish content seamlessly across every channel. Managing content has never been so easy or flexible.<br />Check out <a href=\"https://www.contentful.com\">Contentful</a></p><h2>Show Notes</h2><ul><li><strong>00:29</strong> Sponsor: Contentful</li><li><strong>01:00</strong> Introduction</li><li><strong>02:58</strong> Recent Projects</li><li><strong>04:52</strong> Swapping Database Layers</li><li><strong>07:18</strong> Order of Build</li><li><strong>11:48</strong> The Project Queue</li><li><strong>16:22</strong> Diffing and Reapplication of New Code</li><li><strong>24:33</strong> Versioning with Headers</li><li><strong>29:45</strong> Backend Language Talk</li><li><strong>45:17</strong> Picks and Plugs</li></ul>\n",
-                    "enclosure": {
-                        "@length": "36779408",
-                        "@type": "audio/mpeg",
-                        "@url": "https://cdn.simplecast.com/audio/cae8b0eb-d9a9-480d-a652-0defcbe047f4/episodes/14abd432-c762-4fb6-9272-fbdcdcf0a9cc/audio/85fabf35-797d-43e6-9adf-9b6af393f43c/default_tc.mp3?aid=rss_feed&feed=hq7M2S7s"
-                    },
-                    "guid": {
-                        "#text": "fc69d3b1-4ab7-4465-bc24-a959b8a8b17a",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Brian Morrison II, Brad Garropy, Amy Dutton",
-                    "itunes:duration": "00:50:46",
-                    "itunes:episode": "147",
-                    "itunes:episodeType": "full",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://image.simplecastcdn.com/images/6da0eb34-b1fa-4059-bc17-c3069ec770cb/2a815297-b1b2-4684-976f-bbd52049a48f/3000x3000/147-cover.jpg?aid=rss_feed"
-                    },
-                    "itunes:keywords": "web design, web dev, programming, web development, coding",
-                    "itunes:subtitle": "Brian, Brad, and Amy get into their preferred work flow and strategies for tackling their long lists of projects.\n",
-                    "itunes:summary": "Brian, Brad, and Amy get into their preferred work flow and strategies for tackling their long lists of projects.\n",
-                    "itunes:title": "147 | Building Projects to Learn",
-                    "link": "http://compressed.fm",
-                    "pubDate": "Thu, 24 Aug 2023 05:00:00 +0000",
-                    "title": "147 | Building Projects to Learn"
-                },
-                {
                     "author": "amy@selfteach.me (Elston Baretto, Amy Dutton, James Q Quick)",
                     "content:encoded": "<p>Elston joins James and Amy to talk about his side project turned full time job and how to make \u201cTiiny\u201d dreams big.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Welcome</li><li><strong>00:39</strong> Value of CS Degree</li><li><strong>05:09</strong> Elston\u2019s Work Journey to Side Projects</li><li><strong>09:41</strong> Domains and Dead-end Projects</li><li><strong>23:35</strong> Deciding What Features to Build</li><li><strong>27:13</strong> Finding Balance</li><li><strong>29:25</strong> Having Community </li><li><strong>30:36</strong> Company Stats of Tiiny</li><li><strong>32:13</strong> Tech Stack</li><li><strong>39:18</strong> Upcoming Features and Looking Ahead</li><li><strong>43:30</strong> Picks and Plugs</li></ul>\n",
                     "description": "<p>Elston joins James and Amy to talk about his side project turned full time job and how to make \u201cTiiny\u201d dreams big.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Welcome</li><li><strong>00:39</strong> Value of CS Degree</li><li><strong>05:09</strong> Elston\u2019s Work Journey to Side Projects</li><li><strong>09:41</strong> Domains and Dead-end Projects</li><li><strong>23:35</strong> Deciding What Features to Build</li><li><strong>27:13</strong> Finding Balance</li><li><strong>29:25</strong> Having Community </li><li><strong>30:36</strong> Company Stats of Tiiny</li><li><strong>32:13</strong> Tech Stack</li><li><strong>39:18</strong> Upcoming Features and Looking Ahead</li><li><strong>43:30</strong> Picks and Plugs</li></ul>\n",
@@ -1514,7 +1514,36 @@
                     "title": "148 | Side Project to Full-Time Dream"
                 },
                 {
-                    "author": "amy@selfteach.me (Amy Dutton, James Q. Quick, Brad Garropy, Jakub Andrzejewski)",
+                    "author": "amy@selfteach.me (Brian Morrison II, Amy Dutton, Brad Garropy)",
+                    "content:encoded": "<p>Brian, Brad, and Amy get into their preferred work flow and strategies for tackling their long lists of projects.  </p><h2>Sponsor</h2><p>###Contenful </p><p>Contentful is the leading composable content platform that allows developers to build intelligent experiences to drive brand engagement. It gives content creators the tools they need to create, manage, and publish content seamlessly across every channel. Managing content has never been so easy or flexible.<br />Check out <a href=\"https://www.contentful.com\">Contentful</a></p><h2>Show Notes</h2><ul><li><strong>00:29</strong> Sponsor: Contentful</li><li><strong>01:00</strong> Introduction</li><li><strong>02:58</strong> Recent Projects</li><li><strong>04:52</strong> Swapping Database Layers</li><li><strong>07:18</strong> Order of Build</li><li><strong>11:48</strong> The Project Queue</li><li><strong>16:22</strong> Diffing and Reapplication of New Code</li><li><strong>24:33</strong> Versioning with Headers</li><li><strong>29:45</strong> Backend Language Talk</li><li><strong>45:17</strong> Picks and Plugs</li></ul>\n",
+                    "description": "<p>Brian, Brad, and Amy get into their preferred work flow and strategies for tackling their long lists of projects.  </p><h2>Sponsor</h2><p>###Contenful </p><p>Contentful is the leading composable content platform that allows developers to build intelligent experiences to drive brand engagement. It gives content creators the tools they need to create, manage, and publish content seamlessly across every channel. Managing content has never been so easy or flexible.<br />Check out <a href=\"https://www.contentful.com\">Contentful</a></p><h2>Show Notes</h2><ul><li><strong>00:29</strong> Sponsor: Contentful</li><li><strong>01:00</strong> Introduction</li><li><strong>02:58</strong> Recent Projects</li><li><strong>04:52</strong> Swapping Database Layers</li><li><strong>07:18</strong> Order of Build</li><li><strong>11:48</strong> The Project Queue</li><li><strong>16:22</strong> Diffing and Reapplication of New Code</li><li><strong>24:33</strong> Versioning with Headers</li><li><strong>29:45</strong> Backend Language Talk</li><li><strong>45:17</strong> Picks and Plugs</li></ul>\n",
+                    "enclosure": {
+                        "@length": "36779408",
+                        "@type": "audio/mpeg",
+                        "@url": "https://cdn.simplecast.com/audio/cae8b0eb-d9a9-480d-a652-0defcbe047f4/episodes/14abd432-c762-4fb6-9272-fbdcdcf0a9cc/audio/85fabf35-797d-43e6-9adf-9b6af393f43c/default_tc.mp3?aid=rss_feed&feed=hq7M2S7s"
+                    },
+                    "guid": {
+                        "#text": "fc69d3b1-4ab7-4465-bc24-a959b8a8b17a",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Brian Morrison II, Amy Dutton, Brad Garropy",
+                    "itunes:duration": "00:50:46",
+                    "itunes:episode": "147",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/6da0eb34-b1fa-4059-bc17-c3069ec770cb/2a815297-b1b2-4684-976f-bbd52049a48f/3000x3000/147-cover.jpg?aid=rss_feed"
+                    },
+                    "itunes:keywords": "web design, web dev, programming, web development, coding",
+                    "itunes:subtitle": "Brian, Brad, and Amy get into their preferred work flow and strategies for tackling their long lists of projects.\n",
+                    "itunes:summary": "Brian, Brad, and Amy get into their preferred work flow and strategies for tackling their long lists of projects.\n",
+                    "itunes:title": "147 | Building Projects to Learn",
+                    "link": "http://compressed.fm",
+                    "pubDate": "Thu, 24 Aug 2023 05:00:00 +0000",
+                    "title": "147 | Building Projects to Learn"
+                },
+                {
+                    "author": "amy@selfteach.me (Jakub Andrzejewski, Brad Garropy, James Q. Quick, Amy Dutton)",
                     "description": "This is a snippit of a conversation that happened before episode 146 with Jakub.  James, Amy, Brad, and Jakub discuss keeping interviewing skills shart and what's important on a resume.\n",
                     "enclosure": {
                         "@length": "15996948",
@@ -1525,7 +1554,7 @@
                         "#text": "9b5ff6fa-c5ee-496a-9ceb-9ba90ff874a0",
                         "@isPermaLink": "false"
                     },
-                    "itunes:author": "Amy Dutton, James Q. Quick, Brad Garropy, Jakub Andrzejewski",
+                    "itunes:author": "Jakub Andrzejewski, Brad Garropy, James Q. Quick, Amy Dutton",
                     "itunes:duration": "00:21:30",
                     "itunes:episodeType": "bonus",
                     "itunes:explicit": "false",
@@ -1540,7 +1569,7 @@
                     "title": "BONUS: Having a CS Degree, Building a Resume, & Networking"
                 },
                 {
-                    "author": "amy@selfteach.me (Jakub Andrzejewski, James Q Quick, Brad Garropy, Amy Dutton)",
+                    "author": "amy@selfteach.me (Jakub Andrzejewski, Brad Garropy, James Q Quick, Amy Dutton)",
                     "content:encoded": "<p>Jakub joins Amy, James, and Brad to give a look into how he uses open source as well as the start of his YouTube channel.</p><h2>Sponsor</h2><p>###Contenful </p><p>Contentful is the leading composable content platform that allows developers to build intelligent experiences to drive brand engagement. It gives content creators the tools they need to create, manage, and publish content seamlessly across every channel. Managing content has never been so easy or flexible.<br />Check out <a href=\"https://www.contentful.com\">Contentful</a></p><h2>Show Notes</h2><ul><li><strong>00:44</strong> Sponsor: Contentful</li><li><strong>01:15</strong> Welcome Jakub</li><li><strong>02:38</strong> View Storefront with Existing E-Commerce Platforms</li><li><strong>10:39</strong> Component Libraries </li><li><strong>17:51</strong> Framework Talk</li><li><strong>24:03</strong> Content Creation</li><li><strong>28:22</strong> Teaching What You Know</li><li><strong>39:44</strong> Picks and Plugs</li></ul>\n",
                     "description": "<p>Jakub joins Amy, James, and Brad to give a look into how he uses open source as well as the start of his YouTube channel.</p><h2>Sponsor</h2><p>###Contenful </p><p>Contentful is the leading composable content platform that allows developers to build intelligent experiences to drive brand engagement. It gives content creators the tools they need to create, manage, and publish content seamlessly across every channel. Managing content has never been so easy or flexible.<br />Check out <a href=\"https://www.contentful.com\">Contentful</a></p><h2>Show Notes</h2><ul><li><strong>00:44</strong> Sponsor: Contentful</li><li><strong>01:15</strong> Welcome Jakub</li><li><strong>02:38</strong> View Storefront with Existing E-Commerce Platforms</li><li><strong>10:39</strong> Component Libraries </li><li><strong>17:51</strong> Framework Talk</li><li><strong>24:03</strong> Content Creation</li><li><strong>28:22</strong> Teaching What You Know</li><li><strong>39:44</strong> Picks and Plugs</li></ul>\n",
                     "enclosure": {
@@ -1552,7 +1581,7 @@
                         "#text": "2530dd5f-605f-4858-86b0-23d417bb661c",
                         "@isPermaLink": "false"
                     },
-                    "itunes:author": "Jakub Andrzejewski, James Q Quick, Brad Garropy, Amy Dutton",
+                    "itunes:author": "Jakub Andrzejewski, Brad Garropy, James Q Quick, Amy Dutton",
                     "itunes:duration": "00:50:05",
                     "itunes:episode": "146",
                     "itunes:episodeType": "full",
@@ -1800,7 +1829,7 @@
                     "title": "138 | Next Generation App Deployments"
                 },
                 {
-                    "author": "amy@selfteach.me (James Q Quick, Amy Dutton)",
+                    "author": "amy@selfteach.me (Amy Dutton, James Q Quick)",
                     "content:encoded": "<p>James and Amy answer questions from their livestream audience.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction </li><li><strong>00:46</strong> Choosing a JS Framework Does it Matter</li><li><strong>04:49</strong> Comfortability of Frameworks</li><li><strong>08:39</strong> SEO and Server Render</li><li><strong>12:43</strong> Promotions</li><li><strong>24:37</strong> Raw Sequel vs Prisma</li><li><strong>30:33</strong> Front End Frameworks</li><li><strong>34:12</strong> Java React Resources</li><li><strong>38:53</strong> Mentorship </li><li><strong>40:07</strong> AI Taking Developer Jobs</li><li><strong>43:42</strong> Hurdles for Beginners</li><li><strong>50:27</strong> AWS Under the Hood</li><li><strong>52:27</strong> Tracking Changes</li><li><strong>55:36</strong> React to Next JS</li><li><strong>01:00:11</strong> Declarative vs Imperative</li><li><strong>01:11:23</strong> Applying for Jobs</li><li><strong>01:15:37</strong> Development Projects</li></ul>\n",
                     "description": "<p>James and Amy answer questions from their livestream audience.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction </li><li><strong>00:46</strong> Choosing a JS Framework Does it Matter</li><li><strong>04:49</strong> Comfortability of Frameworks</li><li><strong>08:39</strong> SEO and Server Render</li><li><strong>12:43</strong> Promotions</li><li><strong>24:37</strong> Raw Sequel vs Prisma</li><li><strong>30:33</strong> Front End Frameworks</li><li><strong>34:12</strong> Java React Resources</li><li><strong>38:53</strong> Mentorship </li><li><strong>40:07</strong> AI Taking Developer Jobs</li><li><strong>43:42</strong> Hurdles for Beginners</li><li><strong>50:27</strong> AWS Under the Hood</li><li><strong>52:27</strong> Tracking Changes</li><li><strong>55:36</strong> React to Next JS</li><li><strong>01:00:11</strong> Declarative vs Imperative</li><li><strong>01:11:23</strong> Applying for Jobs</li><li><strong>01:15:37</strong> Development Projects</li></ul>\n",
                     "enclosure": {
@@ -1812,7 +1841,7 @@
                         "#text": "65d8fac2-f0c8-4331-a1b2-170e5a49d6e1",
                         "@isPermaLink": "false"
                     },
-                    "itunes:author": "James Q Quick, Amy Dutton",
+                    "itunes:author": "Amy Dutton, James Q Quick",
                     "itunes:duration": "01:17:59",
                     "itunes:episode": "137",
                     "itunes:episodeType": "full",
@@ -1916,7 +1945,7 @@
                     "title": "134 | Q & A"
                 },
                 {
-                    "author": "amy@selfteach.me (Ankita Kulkarni, Amy Dutton, James Q Quick)",
+                    "author": "amy@selfteach.me (Ankita Kulkarni, James Q Quick, Amy Dutton)",
                     "content:encoded": "<p>Ankita joins James and Amy to explain her steps into leadership as well her knowledge of React framework.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction</li><li><strong>00:38</strong> Welcome Ankita</li><li><strong>02:13</strong> Growth in React Ecosystem</li><li><strong>05:20</strong> Common Problems with React</li><li><strong>10:17</strong> Storybook</li><li><strong>11:39</strong> Using Other Libraries</li><li><strong>14:17</strong> React Native Accessibility</li><li><strong>19:16</strong> Baked In Framework Accessibility</li><li><strong>25:08</strong> Leadership in Engineering as a Goal</li><li><strong>32:42</strong> People Skills in Leadership</li><li><strong>43:39</strong> Picks and Plugs</li><li><strong>53:18</strong> React Conversation Callback</li></ul>\n",
                     "description": "<p>Ankita joins James and Amy to explain her steps into leadership as well her knowledge of React framework.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction</li><li><strong>00:38</strong> Welcome Ankita</li><li><strong>02:13</strong> Growth in React Ecosystem</li><li><strong>05:20</strong> Common Problems with React</li><li><strong>10:17</strong> Storybook</li><li><strong>11:39</strong> Using Other Libraries</li><li><strong>14:17</strong> React Native Accessibility</li><li><strong>19:16</strong> Baked In Framework Accessibility</li><li><strong>25:08</strong> Leadership in Engineering as a Goal</li><li><strong>32:42</strong> People Skills in Leadership</li><li><strong>43:39</strong> Picks and Plugs</li><li><strong>53:18</strong> React Conversation Callback</li></ul>\n",
                     "enclosure": {
@@ -1928,7 +1957,7 @@
                         "#text": "4f202dba-eeee-44fe-8c31-36f20646b777",
                         "@isPermaLink": "false"
                     },
-                    "itunes:author": "Ankita Kulkarni, Amy Dutton, James Q Quick",
+                    "itunes:author": "Ankita Kulkarni, James Q Quick, Amy Dutton",
                     "itunes:duration": "01:06:17",
                     "itunes:episode": "133",
                     "itunes:episodeType": "full",
@@ -1974,7 +2003,7 @@
                     "title": "132 | Composable Decoupled Frontends"
                 },
                 {
-                    "author": "amy@selfteach.me (Alan Shreve, James Q Quick, Amy Dutton)",
+                    "author": "amy@selfteach.me (Alan Shreve, Amy Dutton, James Q Quick)",
                     "content:encoded": "<p>Alan joins James and Amy to discuss the need that led to Ngrok and all of the features it has to offer.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction</li><li><strong>00:40</strong> Welcome Alan</li><li><strong>01:21</strong> Uses for Ngrok</li><li><strong>05:37</strong> Alan\u2019s Engineering Experience and Processes</li><li><strong>10:12</strong> Backstory of Ngrok</li><li><strong>12:47</strong> Building A Brand and Growing a Business </li><li><strong>16:27</strong> Funding </li><li><strong>19:58</strong> Barriers of Entry, Innovations of AI, and What Is To Come</li><li><strong>23:59</strong> Behind the Scenes of Ngrok</li><li><strong>34:03</strong> Demos and Cool Features</li></ul>\n",
                     "description": "<p>Alan joins James and Amy to discuss the need that led to Ngrok and all of the features it has to offer.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction</li><li><strong>00:40</strong> Welcome Alan</li><li><strong>01:21</strong> Uses for Ngrok</li><li><strong>05:37</strong> Alan\u2019s Engineering Experience and Processes</li><li><strong>10:12</strong> Backstory of Ngrok</li><li><strong>12:47</strong> Building A Brand and Growing a Business </li><li><strong>16:27</strong> Funding </li><li><strong>19:58</strong> Barriers of Entry, Innovations of AI, and What Is To Come</li><li><strong>23:59</strong> Behind the Scenes of Ngrok</li><li><strong>34:03</strong> Demos and Cool Features</li></ul>\n",
                     "enclosure": {
@@ -1986,7 +2015,7 @@
                         "#text": "f4af038d-4c4e-47c7-ada8-e4074ccb48e6",
                         "@isPermaLink": "false"
                     },
-                    "itunes:author": "Alan Shreve, James Q Quick, Amy Dutton",
+                    "itunes:author": "Alan Shreve, Amy Dutton, James Q Quick",
                     "itunes:duration": "00:49:20",
                     "itunes:episode": "131",
                     "itunes:episodeType": "full",
@@ -2061,7 +2090,7 @@
                     "title": "129 |  Developing With Content Should Be Easy"
                 },
                 {
-                    "author": "amy@selfteach.me (James Q Quick, Bard Garropy, Amy Dutton)",
+                    "author": "amy@selfteach.me (Bard Garropy, James Q Quick, Amy Dutton)",
                     "content:encoded": "<p>Brad, James, and Amy tell us about their favorite new technologies, gadgets, and softwares and how to decide when to adopt them into their workflow.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction</li><li><strong>02:42</strong> How to decide what new tools to use?</li><li><strong>07:27</strong> NUPHY Air75</li><li><strong>10:13</strong> Stream Deck Plus</li><li><strong>16:33</strong> AI Tools</li><li><strong>29:14</strong> Warp and Fig</li><li><strong>32:29</strong> Arc Browser</li><li><strong>37:23</strong> Polypane</li><li><strong>43:53</strong> Git Later App and Swish</li><li><strong>51:34</strong> Picks and Plugs</li></ul>\n",
                     "description": "<p>Brad, James, and Amy tell us about their favorite new technologies, gadgets, and softwares and how to decide when to adopt them into their workflow.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction</li><li><strong>02:42</strong> How to decide what new tools to use?</li><li><strong>07:27</strong> NUPHY Air75</li><li><strong>10:13</strong> Stream Deck Plus</li><li><strong>16:33</strong> AI Tools</li><li><strong>29:14</strong> Warp and Fig</li><li><strong>32:29</strong> Arc Browser</li><li><strong>37:23</strong> Polypane</li><li><strong>43:53</strong> Git Later App and Swish</li><li><strong>51:34</strong> Picks and Plugs</li></ul>\n",
                     "enclosure": {
@@ -2073,7 +2102,7 @@
                         "#text": "06fdd94b-3921-473e-9a92-5c230eff2f14",
                         "@isPermaLink": "false"
                     },
-                    "itunes:author": "James Q Quick, Bard Garropy, Amy Dutton",
+                    "itunes:author": "Bard Garropy, James Q Quick, Amy Dutton",
                     "itunes:duration": "00:58:31",
                     "itunes:episode": "128",
                     "itunes:episodeType": "full",
@@ -2148,7 +2177,7 @@
                     "title": "126 | Software Design Patterns for Human Relationships"
                 },
                 {
-                    "author": "amy@selfteach.me (Sami Jaber, James Q Quick, Amy Dutton)",
+                    "author": "amy@selfteach.me (Sami Jaber, Amy Dutton, James Q Quick)",
                     "content:encoded": "<p>Sami joins James and Amy to discuss Mitosis and talk all about frameworks.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction</li><li><strong>00:40</strong> Welcome Sami</li><li><strong>01:22</strong> What is Builder.io</li><li><strong>05:38</strong> More Mitosis</li><li><strong>13:09</strong> Cross Platform With Swift</li><li><strong>20:02</strong> Importance of Different Frameworks</li><li><strong>22:54</strong> Favorite Frameworks</li><li><strong>25:04</strong> Communities and Libraries </li><li><strong>29:27</strong> Opensource Roadmap</li><li><strong>31:34</strong> Testing</li><li><strong>33:04</strong> Chat GPT and AI</li><li><strong>35:43</strong> Behind The Scenes Dev Work</li><li><strong>40:26</strong> Quality vs Speed</li><li><strong>46:22</strong> Picks and Plugs</li></ul>\n",
                     "description": "<p>Sami joins James and Amy to discuss Mitosis and talk all about frameworks.</p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction</li><li><strong>00:40</strong> Welcome Sami</li><li><strong>01:22</strong> What is Builder.io</li><li><strong>05:38</strong> More Mitosis</li><li><strong>13:09</strong> Cross Platform With Swift</li><li><strong>20:02</strong> Importance of Different Frameworks</li><li><strong>22:54</strong> Favorite Frameworks</li><li><strong>25:04</strong> Communities and Libraries </li><li><strong>29:27</strong> Opensource Roadmap</li><li><strong>31:34</strong> Testing</li><li><strong>33:04</strong> Chat GPT and AI</li><li><strong>35:43</strong> Behind The Scenes Dev Work</li><li><strong>40:26</strong> Quality vs Speed</li><li><strong>46:22</strong> Picks and Plugs</li></ul>\n",
                     "enclosure": {
@@ -2160,7 +2189,7 @@
                         "#text": "5fb0d2e9-7c8f-4287-a28b-d2d3f1d87daa",
                         "@isPermaLink": "false"
                     },
-                    "itunes:author": "Sami Jaber, James Q Quick, Amy Dutton",
+                    "itunes:author": "Sami Jaber, Amy Dutton, James Q Quick",
                     "itunes:duration": "00:57:34",
                     "itunes:episode": "125",
                     "itunes:episodeType": "full",
@@ -2350,7 +2379,7 @@
                     "title": "119 | Shipping Less JavaScript"
                 },
                 {
-                    "author": "amy@selfteach.me (Amy Dutton, Brad Garropy)",
+                    "author": "amy@selfteach.me (Brad Garropy, Amy Dutton)",
                     "content:encoded": "<p>Brad and Amy discuss when to adapt to new technologies and the best systems and practices for migrating your sites over to them.</p><h2>Sponsor</h2><h3>Daily.dev</h3><p>daily.dev is where developers grow together. It provides a community-based feed of the best developer news, helping you stay up-to-date. daily.dev aggregates hundreds of sources every few minutes and creates a personal feed for you according to your interests, whether it\u2019s web dev, data science, or Elixir. Anything you might be interested in, it has the content for you.</p><p>Check out <a href=\"https://daily.dev\">daily.dev</a></p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction</li><li><strong>00:50</strong> Sponsor: Daily.de</li><li><strong>01:26</strong> Arc Browser and 1,000 Tabs</li><li><strong>07:26</strong> That Conference</li><li><strong>10:38</strong> Migrating Sites</li><li><strong>16:19</strong> Choosing New Tech</li><li><strong>23:17</strong> Migration</li><li><strong>29:02</strong> When to Update and Tech Debt</li><li><strong>34:28</strong> Getting it Done</li><li><strong>45:56</strong> Picks and Plugs</li></ul>\n",
                     "description": "<p>Brad and Amy discuss when to adapt to new technologies and the best systems and practices for migrating your sites over to them.</p><h2>Sponsor</h2><h3>Daily.dev</h3><p>daily.dev is where developers grow together. It provides a community-based feed of the best developer news, helping you stay up-to-date. daily.dev aggregates hundreds of sources every few minutes and creates a personal feed for you according to your interests, whether it\u2019s web dev, data science, or Elixir. Anything you might be interested in, it has the content for you.</p><p>Check out <a href=\"https://daily.dev\">daily.dev</a></p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction</li><li><strong>00:50</strong> Sponsor: Daily.de</li><li><strong>01:26</strong> Arc Browser and 1,000 Tabs</li><li><strong>07:26</strong> That Conference</li><li><strong>10:38</strong> Migrating Sites</li><li><strong>16:19</strong> Choosing New Tech</li><li><strong>23:17</strong> Migration</li><li><strong>29:02</strong> When to Update and Tech Debt</li><li><strong>34:28</strong> Getting it Done</li><li><strong>45:56</strong> Picks and Plugs</li></ul>\n",
                     "enclosure": {
@@ -2362,7 +2391,7 @@
                         "#text": "70e73eb0-68ce-4b99-b229-069ffb6ea8cb",
                         "@isPermaLink": "false"
                     },
-                    "itunes:author": "Amy Dutton, Brad Garropy",
+                    "itunes:author": "Brad Garropy, Amy Dutton",
                     "itunes:duration": "00:52:49",
                     "itunes:episode": "118",
                     "itunes:episodeType": "full",
@@ -2378,7 +2407,7 @@
                     "title": "118 | When and Why to Adopt New Technologies"
                 },
                 {
-                    "author": "amy@selfteach.me (Ely Lucas, Amy Dutton, James Q Quick)",
+                    "author": "amy@selfteach.me (Ely Lucas, James Q Quick, Amy Dutton)",
                     "content:encoded": "<p>Ely joins James and Amy to discuss testing and how to use Cypress for testing.</p><h2>Sponsor</h2><h3>Daily.dev</h3><p>daily.dev is where developers grow together. It provides a community-based feed of the best developer news, helping you stay up-to-date. daily.dev aggregates hundreds of sources every few minutes and creates a personal feed for you according to your interests, whether it\u2019s web dev, data science, or Elixir. Anything you might be interested in, it has the content for you.</p><p>Check out <a href=\"https://daily.dev\">daily.dev</a></p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction</li><li><strong>00:37</strong> Sponsor: Daily.de</li><li><strong>01:24</strong> Welcome Ely</li><li><strong>02:09</strong> Creating Online Connections</li><li><strong>03:40</strong> Using Cyprus for Testing</li><li><strong>06:47</strong> Testing Pyramid</li><li><strong>09:29</strong> Framework Specifics</li><li><strong>14:30</strong> Getting Into Cyprus</li><li><strong>19:17</strong> Using Mocha</li><li><strong>21:42</strong> Cyprus and Playwright</li><li><strong>26:40</strong> Head of Developer Relations</li><li><strong>31:56</strong> Role Transitions and Consuming Content</li><li><strong>37:32</strong> Future excitement and AI</li><li><strong>44:12</strong> Picks and Plugs</li></ul>\n",
                     "description": "<p>Ely joins James and Amy to discuss testing and how to use Cypress for testing.</p><h2>Sponsor</h2><h3>Daily.dev</h3><p>daily.dev is where developers grow together. It provides a community-based feed of the best developer news, helping you stay up-to-date. daily.dev aggregates hundreds of sources every few minutes and creates a personal feed for you according to your interests, whether it\u2019s web dev, data science, or Elixir. Anything you might be interested in, it has the content for you.</p><p>Check out <a href=\"https://daily.dev\">daily.dev</a></p><h2>Show Notes</h2><ul><li><strong>00:00</strong> Introduction</li><li><strong>00:37</strong> Sponsor: Daily.de</li><li><strong>01:24</strong> Welcome Ely</li><li><strong>02:09</strong> Creating Online Connections</li><li><strong>03:40</strong> Using Cyprus for Testing</li><li><strong>06:47</strong> Testing Pyramid</li><li><strong>09:29</strong> Framework Specifics</li><li><strong>14:30</strong> Getting Into Cyprus</li><li><strong>19:17</strong> Using Mocha</li><li><strong>21:42</strong> Cyprus and Playwright</li><li><strong>26:40</strong> Head of Developer Relations</li><li><strong>31:56</strong> Role Transitions and Consuming Content</li><li><strong>37:32</strong> Future excitement and AI</li><li><strong>44:12</strong> Picks and Plugs</li></ul>\n",
                     "enclosure": {
@@ -2390,7 +2419,7 @@
                         "#text": "e89702df-f14d-4026-bc3d-9546742054a3",
                         "@isPermaLink": "false"
                     },
-                    "itunes:author": "Ely Lucas, Amy Dutton, James Q Quick",
+                    "itunes:author": "Ely Lucas, James Q Quick, Amy Dutton",
                     "itunes:duration": "00:50:36",
                     "itunes:episode": "117",
                     "itunes:episodeType": "full",
@@ -4951,7 +4980,7 @@
                     "title": "29 | Freelancing IRL: Unveiling a Site Redesign"
                 },
                 {
-                    "author": "amy@selfteach.me (Bard Garropy, Richard Gottleber)",
+                    "author": "amy@selfteach.me (Richard Gottleber, Bard Garropy)",
                     "content:encoded": "<p>In this episode, we combine forces with Brad Garropy and Richard Gottleber from <a href=\"https://webdevweekly.captivate.fm/\">Web Dev Weekly</a> for a Crossover Episode. The four of us discuss our favorites: languages, frameworks, CSS methodologies, technologies, testing tools.</p><h2>Sponsors</h2><h3>Vercel</h3><p>Vercel combines the best developer experience with an obsessive focus on end-user performance. Their platform enables frontend teams to do their best work. It is the best place to deploy any frontend app. Start by deploying with zero configuration to their global edge network. Scale dynamically to millions of pages without breaking a sweat.</p><p>For more information, visit <a href=\"http://vercel.com\">Vercel.com</a></p><h3><strong>ZEAL</strong> is hiring!</h3><p>ZEAL is a computer software agency that delivers \u201cthe world\u2019s most zealous\u201d and custom solutions. The company plans and develops web and mobile applications that consistently help clients draw in customers, foster engagement, scale technologies, and ensure delivery.</p><p>ZEAL believes that a business is \u201conly as strong as\u201d its team and cares about culture, values, a transparent process, leveling up, giving back, and providing excellent equipment. The company has staffers distributed throughout the United States, and as it continues to grow, ZEAL looks for collaborative, object-oriented, and organized individuals to apply for open roles.</p><p>For more information visit <a href=\"https://www.softwareresidency.com/zeal-ui-ux\">softwareresidency.com/careers</a></p><h3>DatoCMS</h3><p>DatoCMS is a complete and performant headless CMS built to offer the best developer experience and user-friendliness in the market. It features a rich, CDN-powered GraphQL API (with realtime updates!), a super-flexible way to handle dynamic layouts and structured content, and best-in-class image/video support, with progressive/LQIP image loading out-of-the-box.\"</p><p>For more information, visit <a href=\"https://www.datocms.com/\">datocms.com</a></p><h2>Show Notes</h2><ul><li><strong>0:00</strong> Introduction</li><li><strong>1:41</strong> Favorite Frontend Framework</li><li><strong>7:53</strong> Favorite CSS Methodology</li><li><strong>12:15</strong> Sponsor: <a href=\"http://vercel.com\">Vercel</a></li><li><strong>13:23</strong> Favorite Language<ul><li><a href=\"https://jhey.dev/\">JHey</a></li><li><a href=\"https://www.cassie.codes/\">Cassie Evans</a></li><li><a href=\"https://twitter.com/coderdestin\">Destin Lee</a></li></ul></li><li><strong>25:34</strong> Favorite Side Projects<ul><li><a href=\"https://www.jqqmemes.com/\">JQQ Memes</a></li><li><a href=\"https://www.avneesh.tech/\">Avneesh Agarawl</a></li><li><a href=\"https://dailytexascountry.com/\">Daily Texas Country</a></li><li><a href=\"http://bradgarropy.com\">bradgarropy.com</a></li></ul></li><li><strong>30:26</strong> Sponsor - <a href=\"http://datocms.com\">DatoCMS</a></li><li><strong>31:19</strong> Favorite Frontend Framework<ul><li><a href=\"https://cassidoo.co/\">Cassidy Williams</a></li><li><a href=\"http://learnbuildteach.com\">Learn Build Teach Discord</a></li></ul></li><li><strong>38:02</strong> Favorite Testing Tools<ul><li><a href=\"https://applitools.com/\">Applitools</a></li><li><a href=\"https://twitter.com/techgirl1908\">Angie Jones</a></li></ul></li><li><strong>45:28</strong> Favorite Content Creator<ul><li><a href=\"https://www.learnwithjason.dev/\">Jason Lengstorf</a></li><li><a href=\"https://twitter.com/chris__sev\">Chris Sev on Twitter</a></li><li><a href=\"https://twitter.com/kapehe_ok\">Kapehe</a></li><li><a href=\"http://scotch.io\">Scotch.io</a></li><li><a href=\"http://better.dev\">Better.dev</a></li><li><a href=\"http://jamesqquick.com\">James Q Quick</a></li><li><a href=\"https://gottleber.net/\">Richard's Blog</a></li><li><a href=\"http://youtube.com/selfteachme\">Amy's YouTube Channel</a></li><li>Scott Tolinski - <a href=\"http://leveluptuts.com\">Level Up Tutorials</a></li><li>Programming YouTuber's Discord</li></ul></li><li><strong>51:36</strong> Sponsor: <a href=\"https://www.softwareresidency.com/zeal-ui-ux\">ZEAL</a></li><li><strong>53:07</strong> Picks and Plugs<ul><li>Brad's Pick: Rescue Helicopter</li><li>Brad's Plug: <a href=\"https://www.youtube.com/user/bradgarropy\">Brad Garropy on YouTube</a></li><li>Richard's Pick: <a href=\"https://www.learnwithjason.dev/store\">Rainbow Corgi from Learn with Jason</a></li><li>Richard's Plug: Dead Trees / Physical Books</li><li>Amy's Pick: <a href=\"https://amzn.to/2Y0qaKz\">Post-It Notes</a></li><li>Amy's Plug: <a href=\"http://twitch.tv/selfteachme\">SelfTeach.me on Twitch</a></li><li>James's Pick: TikTok Portable Rig</li><li>James's Plug: <a href=\"http://tiktok.com/jamesqquick\">James Q Quick on TikTok</a></li></ul></li></ul>\n",
                     "description": "<p>In this episode, we combine forces with Brad Garropy and Richard Gottleber from <a href=\"https://webdevweekly.captivate.fm/\">Web Dev Weekly</a> for a Crossover Episode. The four of us discuss our favorites: languages, frameworks, CSS methodologies, technologies, testing tools.</p><h2>Sponsors</h2><h3>Vercel</h3><p>Vercel combines the best developer experience with an obsessive focus on end-user performance. Their platform enables frontend teams to do their best work. It is the best place to deploy any frontend app. Start by deploying with zero configuration to their global edge network. Scale dynamically to millions of pages without breaking a sweat.</p><p>For more information, visit <a href=\"http://vercel.com\">Vercel.com</a></p><h3><strong>ZEAL</strong> is hiring!</h3><p>ZEAL is a computer software agency that delivers \u201cthe world\u2019s most zealous\u201d and custom solutions. The company plans and develops web and mobile applications that consistently help clients draw in customers, foster engagement, scale technologies, and ensure delivery.</p><p>ZEAL believes that a business is \u201conly as strong as\u201d its team and cares about culture, values, a transparent process, leveling up, giving back, and providing excellent equipment. The company has staffers distributed throughout the United States, and as it continues to grow, ZEAL looks for collaborative, object-oriented, and organized individuals to apply for open roles.</p><p>For more information visit <a href=\"https://www.softwareresidency.com/zeal-ui-ux\">softwareresidency.com/careers</a></p><h3>DatoCMS</h3><p>DatoCMS is a complete and performant headless CMS built to offer the best developer experience and user-friendliness in the market. It features a rich, CDN-powered GraphQL API (with realtime updates!), a super-flexible way to handle dynamic layouts and structured content, and best-in-class image/video support, with progressive/LQIP image loading out-of-the-box.\"</p><p>For more information, visit <a href=\"https://www.datocms.com/\">datocms.com</a></p><h2>Show Notes</h2><ul><li><strong>0:00</strong> Introduction</li><li><strong>1:41</strong> Favorite Frontend Framework</li><li><strong>7:53</strong> Favorite CSS Methodology</li><li><strong>12:15</strong> Sponsor: <a href=\"http://vercel.com\">Vercel</a></li><li><strong>13:23</strong> Favorite Language<ul><li><a href=\"https://jhey.dev/\">JHey</a></li><li><a href=\"https://www.cassie.codes/\">Cassie Evans</a></li><li><a href=\"https://twitter.com/coderdestin\">Destin Lee</a></li></ul></li><li><strong>25:34</strong> Favorite Side Projects<ul><li><a href=\"https://www.jqqmemes.com/\">JQQ Memes</a></li><li><a href=\"https://www.avneesh.tech/\">Avneesh Agarawl</a></li><li><a href=\"https://dailytexascountry.com/\">Daily Texas Country</a></li><li><a href=\"http://bradgarropy.com\">bradgarropy.com</a></li></ul></li><li><strong>30:26</strong> Sponsor - <a href=\"http://datocms.com\">DatoCMS</a></li><li><strong>31:19</strong> Favorite Frontend Framework<ul><li><a href=\"https://cassidoo.co/\">Cassidy Williams</a></li><li><a href=\"http://learnbuildteach.com\">Learn Build Teach Discord</a></li></ul></li><li><strong>38:02</strong> Favorite Testing Tools<ul><li><a href=\"https://applitools.com/\">Applitools</a></li><li><a href=\"https://twitter.com/techgirl1908\">Angie Jones</a></li></ul></li><li><strong>45:28</strong> Favorite Content Creator<ul><li><a href=\"https://www.learnwithjason.dev/\">Jason Lengstorf</a></li><li><a href=\"https://twitter.com/chris__sev\">Chris Sev on Twitter</a></li><li><a href=\"https://twitter.com/kapehe_ok\">Kapehe</a></li><li><a href=\"http://scotch.io\">Scotch.io</a></li><li><a href=\"http://better.dev\">Better.dev</a></li><li><a href=\"http://jamesqquick.com\">James Q Quick</a></li><li><a href=\"https://gottleber.net/\">Richard's Blog</a></li><li><a href=\"http://youtube.com/selfteachme\">Amy's YouTube Channel</a></li><li>Scott Tolinski - <a href=\"http://leveluptuts.com\">Level Up Tutorials</a></li><li>Programming YouTuber's Discord</li></ul></li><li><strong>51:36</strong> Sponsor: <a href=\"https://www.softwareresidency.com/zeal-ui-ux\">ZEAL</a></li><li><strong>53:07</strong> Picks and Plugs<ul><li>Brad's Pick: Rescue Helicopter</li><li>Brad's Plug: <a href=\"https://www.youtube.com/user/bradgarropy\">Brad Garropy on YouTube</a></li><li>Richard's Pick: <a href=\"https://www.learnwithjason.dev/store\">Rainbow Corgi from Learn with Jason</a></li><li>Richard's Plug: Dead Trees / Physical Books</li><li>Amy's Pick: <a href=\"https://amzn.to/2Y0qaKz\">Post-It Notes</a></li><li>Amy's Plug: <a href=\"http://twitch.tv/selfteachme\">SelfTeach.me on Twitch</a></li><li>James's Pick: TikTok Portable Rig</li><li>James's Plug: <a href=\"http://tiktok.com/jamesqquick\">James Q Quick on TikTok</a></li></ul></li></ul>\n",
                     "enclosure": {
@@ -4963,7 +4992,7 @@
                         "#text": "1eba3082-2b18-49df-8256-26610965bbba",
                         "@isPermaLink": "false"
                     },
-                    "itunes:author": "Bard Garropy, Richard Gottleber",
+                    "itunes:author": "Richard Gottleber, Bard Garropy",
                     "itunes:duration": "00:58:08",
                     "itunes:episode": "28",
                     "itunes:episodeType": "full",
@@ -5779,7 +5808,7 @@
                     "title": "Learn With Us"
                 }
             ],
-            "itunes:author": "James Q. Quick, Amy Dutton, Brad Garropy, Bekah HW",
+            "itunes:author": "Amy Dutton, Brad Garropy",
             "itunes:category": [
                 {
                     "@text": "Technology"
@@ -5807,12 +5836,12 @@
                 "itunes:email": "amy@selfteach.me",
                 "itunes:name": "Amy Dutton"
             },
-            "itunes:summary": "A weekly podcast about web design and development with a little zest from James Q Quick, Amy Dutton, Brad Garropy, and Bekah HW.",
+            "itunes:summary": "A weekly podcast about web design and development with a little zest from Amy Dutton and Brad Garropy",
             "itunes:type": "episodic",
             "language": "en",
-            "lastBuildDate": "Tue, 11 Feb 2025 06:00:15 +0000",
+            "lastBuildDate": "Wed, 26 Feb 2025 16:15:56 +0000",
             "link": "http://compressed.fm",
-            "pubDate": "Tue, 11 Feb 2025 06:00:00 +0000",
+            "pubDate": "Tue, 25 Feb 2025 06:00:00 +0000",
             "title": "COMPRESSEDfm"
         }
     }

@@ -27,6 +27,36 @@
                 {
                     "author": "podcast@radiofrance.com (Radio France)",
                     "category": "Society & Culture",
+                    "description": "dur\u00e9e : 00:58:40 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Fausses correspondances, fausses chartes, fausses reliques, fausses monnaies\u00a0! La tromperie semble r\u00e9gner au Moyen \u00c2ge. Paul Bertrand revient sur les usages du faux \u00e0 une \u00e9poque o\u00f9 le texte original n'avait pas ce sens sacr\u00e9 et intouchable qu'il aura plus tard.    - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Paul Bertrand ",
+                    "enclosure": {
+                        "@length": "56357999",
+                        "@type": "audio/mpeg",
+                        "@url": "https://rf.proxycast.org/c9cf9ef0-fa39-461b-87c5-3cd7a7990f4a/16278-01.03.2025-ITEMA_24044485-2025C6278E0008-NET_MFC_C14DB9A0-93A9-4533-9CD5-97CFECD05530-21.mp3"
+                    },
+                    "googleplay:block": "yes",
+                    "guid": {
+                        "#text": "ab4d695c-d3bf-4c98-b527-3aa0c182b643-NET_MFC_C14DB9A0-93A9-4533-9CD5-97CFECD05530",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "France Culture",
+                    "itunes:duration": "00:58:40",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg"
+                    },
+                    "itunes:keywords": "Au,Moyen,\u00c2ge,,l'empire,du,faux\u00a0?",
+                    "itunes:subtitle": "Au Moyen \u00c2ge, l'empire du faux\u00a0?",
+                    "itunes:summary": "dur\u00e9e : 00:58:40 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Fausses correspondances, fausses chartes, fausses reliques, fausses monnaies\u00a0! La tromperie semble r\u00e9gner au Moyen \u00c2ge. Paul Bertrand revient sur les usages du faux \u00e0 une \u00e9poque o\u00f9 le texte original n'avait pas ce sens sacr\u00e9 et intouchable qu'il aura plus tard.    - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Paul Bertrand ",
+                    "itunes:title": "Au Moyen \u00c2ge, l'empire du faux\u00a0?",
+                    "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/au-moyen-age-l-empire-du-faux-1524322",
+                    "podcastRF:businessReference": "6278",
+                    "podcastRF:magnetothequeID": "2025C6278E0008",
+                    "pubDate": "Sat, 01 Mar 2025 10:58:45 +0100",
+                    "title": "Au Moyen \u00c2ge, l'empire du faux\u00a0?"
+                },
+                {
+                    "author": "podcast@radiofrance.com (Radio France)",
+                    "category": "Society & Culture",
                     "description": "dur\u00e9e : 00:58:27 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Existe-t-il une sp\u00e9cificit\u00e9 des intellectuels dans une r\u00e9volte arm\u00e9e\u00a0? Alya Aglan revient sur la vie et le combat de Jean Cavaill\u00e8s, ce r\u00e9sistant de la premi\u00e8re heure, tomb\u00e9 injustement dans l'oubli.   - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Alya Aglan Historienne de la Seconde Guerre mondiale. Elle a codirig\u00e9 avec Jean-Pierre Az\u00e9ma \"Jean Cavaill\u00e8s r\u00e9sistant ou la Pens\u00e9e en actes\" (Flammarion, 2002) ",
                     "enclosure": {
                         "@length": "56153947",
@@ -386,36 +416,6 @@
                 },
                 {
                     "author": "podcast@radiofrance.com (Radio France)",
-                    "category": "Society & Culture",
-                    "description": "dur\u00e9e : 00:59:02 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Les ninjas et les samoura\u00efs ont envahi notre imaginaire litt\u00e9raire et cin\u00e9matographique. Pierre-Fran\u00e7ois Souyri revient sur ces deux figures du Japon f\u00e9odal. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Pierre-Fran\u00e7ois Souyri Historien, sp\u00e9cialiste du Japon ancien et contemporain, professeur honoraire de l'Universit\u00e9 de Gen\u00e8ve. ",
-                    "enclosure": {
-                        "@length": "56709725",
-                        "@type": "audio/mpeg",
-                        "@url": "https://rf.proxycast.org/a4f1a39a-3e6e-4a14-98f7-5a4724ccb16d/16278-30.11.2024-ITEMA_23941837-2024C6278E0049-21.mp3"
-                    },
-                    "googleplay:block": "yes",
-                    "guid": {
-                        "#text": "e71425b3-7818-4c8b-a180-2b2f0a8cdff1-ITE_00146005_RSCE",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Jean-No\u00ebl JEANNENEY",
-                    "itunes:duration": "00:59:02",
-                    "itunes:explicit": "no",
-                    "itunes:image": {
-                        "@href": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg"
-                    },
-                    "itunes:keywords": "Ninjas,et,samoura\u00efs\u00a0:,l'ombre,et,l'\u00e9clat",
-                    "itunes:subtitle": "Ninjas et samoura\u00efs\u00a0: l'ombre et l'\u00e9clat",
-                    "itunes:summary": "dur\u00e9e : 00:59:02 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Les ninjas et les samoura\u00efs ont envahi notre imaginaire litt\u00e9raire et cin\u00e9matographique. Pierre-Fran\u00e7ois Souyri revient sur ces deux figures du Japon f\u00e9odal. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Pierre-Fran\u00e7ois Souyri Historien, sp\u00e9cialiste du Japon ancien et contemporain, professeur honoraire de l'Universit\u00e9 de Gen\u00e8ve. ",
-                    "itunes:title": "Ninjas et samoura\u00efs\u00a0: l'ombre et l'\u00e9clat",
-                    "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/ninjas-et-samourais-l-ombre-et-l-eclat-9680608",
-                    "podcastRF:businessReference": "6278",
-                    "podcastRF:magnetothequeID": "2024C6278E0049",
-                    "pubDate": "Sat, 30 Nov 2024 10:58:45 +0100",
-                    "title": "Ninjas et samoura\u00efs\u00a0: l'ombre et l'\u00e9clat"
-                },
-                {
-                    "author": "podcast@radiofrance.com (Radio France)",
                     "description": "Retrouvez tous les \u00e9pisodes sur l\u2019appli Radio France",
                     "enclosure": {
                         "@length": "0",
@@ -455,7 +455,7 @@
             "itunes:subtitle": "Concordance des temps",
             "itunes:summary": "L'\u00e9clairage des pr\u00e9c\u00e9dents historiques sur l'actualit\u00e9 Rendez-vous sur l'application Radio France pour d\u00e9couvrir tous les autres \u00e9pisodes.",
             "language": "fr",
-            "lastBuildDate": "Sat, 22 Feb 2025 11:20:59 +0100",
+            "lastBuildDate": "Sat, 01 Mar 2025 13:47:31 +0100",
             "link": "http://www.radiofrance.fr/chaines/france-culture2/emissions/concordance/index.php?emission_id=8",
             "podcastRF:originStation": "5",
             "title": "Concordance des temps"

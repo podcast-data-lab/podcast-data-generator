@@ -34,6 +34,63 @@
                         "Arts",
                         "Books"
                     ],
+                    "content:encoded": "<p><span style=\"font-weight: 400;\">Kyriana Kratter (Star Wars: Skeleton Crew) and Mila Harris (Mary, World-Breaker) headline an out-of-this-world Filipino tale about how the sun and moon came to be.</span></p>",
+                    "dc:creator": {
+                        "#text": "WBUR",
+                        "@xmlns:dc": "http://purl.org/dc/elements/1.1/"
+                    },
+                    "description": "<p><span style=\"font-weight: 400;\">Kyriana Kratter (Star Wars: Skeleton Crew) and Mila Harris (Mary, World-Breaker) headline an out-of-this-world Filipino tale about how the sun and moon came to be.</span></p>",
+                    "enclosure": {
+                        "@length": "19422377",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR8327462979.mp3"
+                    },
+                    "guid": {
+                        "#text": "b7ebe755-e753-40c7-aa57-05fd33aabdec",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": " WBUR ",
+                    "itunes:duration": "00:20:14",
+                    "itunes:episode": "35",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://wordpress.wbur.org/wp-content/uploads/2025/02/diamondsskySQ.jpg"
+                    },
+                    "itunes:season": "8",
+                    "itunes:subtitle": "Kyriana Kratter (Star Wars: Skeleton Crew) and Mila Harris (Mary, World-Breaker) headline an out-of-this-world Filipino tale about how the sun and moon came to be.",
+                    "itunes:summary": "<span style=\"font-weight: 400;\">Kyriana Kratter (Star Wars: Skeleton Crew) and Mila Harris (Mary, World-Breaker) headline an out-of-this-world Filipino tale about how the sun and moon came to be.</span>",
+                    "itunes:title": " Diamonds in the Sky ",
+                    "link": "https://www.wbur.org/circleround/2025/02/25/diamonds-in-the-sky",
+                    "media:content": [
+                        {
+                            "@height": "3000",
+                            "@medium": "image",
+                            "@type": "image/jpeg",
+                            "@url": "https://wordpress.wbur.org/wp-content/uploads/2025/02/diamondsskySQ.jpg",
+                            "@width": "3000",
+                            "media:description": "(Sabina Hahn for WBUR)",
+                            "media:thumbnail": {
+                                "@height": "200",
+                                "@url": "https://wordpress.wbur.org/wp-content/uploads/2025/02/diamondsskySQ-200x200.jpg",
+                                "@width": "200"
+                            }
+                        },
+                        {
+                            "@fileSize": "19422377",
+                            "@medium": "audio",
+                            "@type": "audio/mpeg",
+                            "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR8327462979.mp3"
+                        }
+                    ],
+                    "pubDate": "Tue, 25 Feb 2025 15:00:00 -0500",
+                    "title": "Diamonds in the Sky"
+                },
+                {
+                    "category": [
+                        "Arts",
+                        "Books"
+                    ],
                     "content:encoded": "<p><span style=\"font-weight: 400;\">Recorded live at Symphony Hall with Boston Symphony Orchestra musicians and a star-studded cast, this indigenous Pacific Northwest tale follows a wily coyote on a daring rescue.</span></p>",
                     "dc:creator": {
                         "#text": "WBUR",
@@ -21616,7 +21673,7 @@
             "itunes:summary": "Created and produced by parents of young children, WBUR's Circle Round adapts carefully-selected folktales from around the world into sound- and music-rich radio plays for kids ages 3-103. Each 15 to 25-minute episode explores important issues like kindness, persistence and generosity. And each episode ends with an activity that inspires a deeper conversation between children and grown-ups.",
             "itunes:type": "serial",
             "language": "en-us",
-            "lastBuildDate": "Sat, 22 Feb 2025 19:30:10 -0500",
+            "lastBuildDate": "Sat, 01 Mar 2025 19:30:07 -0500",
             "link": "https://www.wbur.org/podcasts/circleround",
             "title": "Circle Round"
         }

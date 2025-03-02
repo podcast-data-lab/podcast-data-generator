@@ -44,6 +44,62 @@
             },
             "item": [
                 {
+                    "content:encoded": "<p>Ben Rapoport is the co-founder and CSO of Precision Neuroscience. Ben's problem is this: Can you build a device that allows a paralyzed person to use a computer with only their thoughts &ndash; without damaging their brain?</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>Ben Rapoport is the co-founder and CSO of Precision Neuroscience. Ben's problem is this: Can you build a device that allows a paralyzed person to use a computer with only their thoughts &ndash; without damaging their brain?</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "28062242",
+                        "@type": "audio/mpeg",
+                        "@url": "https://podtrac.com/pts/redirect.mp3/pdrl.fm/060f2a/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/32c25e85-1667-4acb-99fd-ae3c0021f33e/f32da0e4-324a-49a4-b29d-b28a0105421d/audio.mp3?utm_source=Podcast&in_playlist=beacef48-19d2-4f52-b9e8-ae3c0021f347"
+                    },
+                    "guid": {
+                        "#text": "f32da0e4-324a-49a4-b29d-b28a0105421d",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts and Pushkin Industries",
+                    "itunes:duration": "1751",
+                    "itunes:episode": "129",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/32c25e85-1667-4acb-99fd-ae3c0021f33e/f32da0e4-324a-49a4-b29d-b28a0105421d/image.jpg?t=1740668072&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "The Brain Implant That Could Change Medicine",
+                    "link": "https://omny.fm/shows/whats-your-problem/the-brain-implant-that-could-change-medicine",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://podtrac.com/pts/redirect.mp3/pdrl.fm/060f2a/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/32c25e85-1667-4acb-99fd-ae3c0021f33e/f32da0e4-324a-49a4-b29d-b28a0105421d/audio.mp3?utm_source=Podcast&in_playlist=beacef48-19d2-4f52-b9e8-ae3c0021f347",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/whats-your-problem/the-brain-implant-that-could-change-medicine/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/32c25e85-1667-4acb-99fd-ae3c0021f33e/f32da0e4-324a-49a4-b29d-b28a0105421d/image.jpg?t=1740668072&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "f32da0e4-324a-49a4-b29d-b28a0105421d",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f32da0e4-324a-49a4-b29d-b28a0105421d/transcript?format=SubRip&t=1740634993"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f32da0e4-324a-49a4-b29d-b28a0105421d/transcript?format=WebVTT&t=1740634993"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f32da0e4-324a-49a4-b29d-b28a0105421d/transcript?format=TextWithTimestamps&t=1740634993"
+                        }
+                    ],
+                    "pubDate": "Thu, 27 Feb 2025 05:30:00 +0000",
+                    "title": "The Brain Implant That Could Change Medicine"
+                },
+                {
                     "content:encoded": "<p>Jeff Cardenas is the co-founder and CEO of Apptronik. Jeff's problem is this: Can you make a safe, reliable humanoid robot &ndash; for less than $50,000?</p> <p>In the short term, Apptronik&rsquo;s robots will work in factories. But Jeff&rsquo;s long-term goal &ndash; based on the experience of his own grandparents &ndash; is to build robots that can help care for the elderly.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
                     "description": "<p>Jeff Cardenas is the co-founder and CEO of Apptronik. Jeff's problem is this: Can you make a safe, reliable humanoid robot &ndash; for less than $50,000?</p> <p>In the short term, Apptronik&rsquo;s robots will work in factories. But Jeff&rsquo;s long-term goal &ndash; based on the experience of his own grandparents &ndash; is to build robots that can help care for the elderly.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
                     "enclosure": {

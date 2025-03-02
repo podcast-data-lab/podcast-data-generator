@@ -45,6 +45,131 @@
             "item": [
                 {
                     "category": [
+                        "animals",
+                        "reptiles",
+                        "gliders",
+                        "flight",
+                        "biology"
+                    ],
+                    "content:encoded": "<p>Flying snakes don't really fly, but they can glide long distances from rainforst treetops. Learn what we know (and don't know!) about them in this episoe of BrainStuff, based on this article: https://animals.howstuffworks.com/snakes/flying-snakes.htm</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>Flying snakes don't really fly, but they can glide long distances from rainforst treetops. Learn what we know (and don't know!) about them in this episoe of BrainStuff, based on this article: https://animals.howstuffworks.com/snakes/flying-snakes.htm</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "6011799",
+                        "@type": "audio/mpeg",
+                        "@url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/91c26f87-aa4e-4e61-816b-ae320005be01/aa807a34-bf88-4050-856b-b28e017d16f6/audio.mp3?utm_source=Podcast&in_playlist=5ca66d21-7139-45ee-8d4e-ae320005be14"
+                    },
+                    "guid": {
+                        "#text": "aa807a34-bf88-4050-856b-b28e017d16f6",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts",
+                    "itunes:duration": "372",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/91c26f87-aa4e-4e61-816b-ae320005be01/image.jpg?t=1684782237&size=Large"
+                    },
+                    "itunes:keywords": "animals, reptiles, gliders, flight, biology",
+                    "itunes:title": "How Do Flying Snakes Work?",
+                    "link": "https://omny.fm/shows/brainstuff/how-do-flying-snakes-work",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/91c26f87-aa4e-4e61-816b-ae320005be01/aa807a34-bf88-4050-856b-b28e017d16f6/audio.mp3?utm_source=Podcast&in_playlist=5ca66d21-7139-45ee-8d4e-ae320005be14",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/brainstuff/how-do-flying-snakes-work/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/91c26f87-aa4e-4e61-816b-ae320005be01/image.jpg?t=1684782237&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "aa807a34-bf88-4050-856b-b28e017d16f6",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/aa807a34-bf88-4050-856b-b28e017d16f6/transcript?format=SubRip&t=1740438966"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/aa807a34-bf88-4050-856b-b28e017d16f6/transcript?format=WebVTT&t=1740438966"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/aa807a34-bf88-4050-856b-b28e017d16f6/transcript?format=TextWithTimestamps&t=1740438966"
+                        }
+                    ],
+                    "pubDate": "Wed, 26 Feb 2025 10:00:00 +0000",
+                    "title": "How Do Flying Snakes Work?"
+                },
+                {
+                    "category": [
+                        "people",
+                        "history",
+                        "art",
+                        "politics",
+                        "cartoons",
+                        "James Montgomery Flagg"
+                    ],
+                    "content:encoded": "<p>This stern, patriotic character goes back to the early 1800s, but became an icon thanks to American propaganda during WWI. Learn more about Uncle Sam in this episode of BrainStuff, based on this article: https://people.howstuffworks.com/uncle-sam-man-myth-legend.htm</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>This stern, patriotic character goes back to the early 1800s, but became an icon thanks to American propaganda during WWI. Learn more about Uncle Sam in this episode of BrainStuff, based on this article: https://people.howstuffworks.com/uncle-sam-man-myth-legend.htm</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "5508149",
+                        "@type": "audio/mpeg",
+                        "@url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/91c26f87-aa4e-4e61-816b-ae320005be01/eb673007-868e-4080-bd58-b28e017d16fb/audio.mp3?utm_source=Podcast&in_playlist=5ca66d21-7139-45ee-8d4e-ae320005be14"
+                    },
+                    "guid": {
+                        "#text": "eb673007-868e-4080-bd58-b28e017d16fb",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts",
+                    "itunes:duration": "340",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/91c26f87-aa4e-4e61-816b-ae320005be01/image.jpg?t=1684782237&size=Large"
+                    },
+                    "itunes:keywords": "people, history, art, politics, cartoons, James Montgomery Flagg",
+                    "itunes:title": "Who Is Uncle Sam?",
+                    "link": "https://omny.fm/shows/brainstuff/who-is-uncle-sam",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/91c26f87-aa4e-4e61-816b-ae320005be01/eb673007-868e-4080-bd58-b28e017d16fb/audio.mp3?utm_source=Podcast&in_playlist=5ca66d21-7139-45ee-8d4e-ae320005be14",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/brainstuff/who-is-uncle-sam/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/91c26f87-aa4e-4e61-816b-ae320005be01/image.jpg?t=1684782237&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "eb673007-868e-4080-bd58-b28e017d16fb",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/eb673007-868e-4080-bd58-b28e017d16fb/transcript?format=SubRip&t=1740438966"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/eb673007-868e-4080-bd58-b28e017d16fb/transcript?format=WebVTT&t=1740438966"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/eb673007-868e-4080-bd58-b28e017d16fb/transcript?format=TextWithTimestamps&t=1740438966"
+                        }
+                    ],
+                    "pubDate": "Tue, 25 Feb 2025 10:00:00 +0000",
+                    "title": "Who Is Uncle Sam?"
+                },
+                {
+                    "category": [
                         "our weird bodies",
                         "health"
                     ],

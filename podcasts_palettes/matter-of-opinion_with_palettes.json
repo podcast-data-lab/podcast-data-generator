@@ -40,6 +40,38 @@
             "item": [
                 {
                     "author": "matterofopinion@nytimes.com (New York Times Opinion)",
+                    "content:encoded": "<p>This week, your beloved hosts gather for the last time to respond to listener feedback, reflect on the state of American politics and look ahead to a new show. If you\u2019re curious about how Carlos prepares for an episode or how the history books will remember Trump or what\u2019s next for this feed, this is the episode for you.</p><p><i>(A full transcript of this episode will be available within 24 hours of publication on the Times website.)</i></p><p><strong>Thoughts about the show?</strong> Email us at <strong>matterofopinion@nytimes.com</strong> or leave a voicemail at <strong>(212) 556-7440</strong>.</p>\n<p><blockquote><p>Unlock full access to New York Times podcasts and explore everything from politics to pop culture. Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify.</p></blockquote></p>",
+                    "description": "<p>This week, your beloved hosts gather for the last time to respond to listener feedback, reflect on the state of American politics and look ahead to a new show. If you\u2019re curious about how Carlos prepares for an episode or how the history books will remember Trump or what\u2019s next for this feed, this is the episode for you.</p><p><i>(A full transcript of this episode will be available within 24 hours of publication on the Times website.)</i></p><p><strong>Thoughts about the show?</strong> Email us at <strong>matterofopinion@nytimes.com</strong> or leave a voicemail at <strong>(212) 556-7440</strong>.</p>\n<p><blockquote><p>Unlock full access to New York Times podcasts and explore everything from politics to pop culture. Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify.</p></blockquote></p>",
+                    "enclosure": {
+                        "@length": "43888813",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/1fe58c15-392f-4bd2-9c69-5e2935220d3c/episodes/f2ed2fbf-62e3-4620-a8e6-4d42d80c305b/audio/128/default.mp3?aid=rss_feed&awCollectionId=1fe58c15-392f-4bd2-9c69-5e2935220d3c&awEpisodeId=f2ed2fbf-62e3-4620-a8e6-4d42d80c305b&feed=bS1LZG8m"
+                    },
+                    "guid": {
+                        "#text": "ef063461-1108-4f8c-b353-ece1c533e6a8",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "New York Times Opinion",
+                    "itunes:duration": "00:45:43",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/8ccfbe05-c111-4598-84b6-86bf7ebbd7a3/c81de471-03f0-4a85-aa26-f544c2c59645/3000x3000/28moo-mailbag-audio-simplecast-test-20-1.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "This week, your beloved hosts gather for the last time to respond to listener feedback, reflect on the state of American politics and look ahead to a new show. If you\u2019re curious about how Carlos prepares for an episode or how the history books will remember Trump or what\u2019s next for this feed, this is the episode for you.",
+                    "itunes:summary": "This week, your beloved hosts gather for the last time to respond to listener feedback, reflect on the state of American politics and look ahead to a new show. If you\u2019re curious about how Carlos prepares for an episode or how the history books will remember Trump or what\u2019s next for this feed, this is the episode for you.",
+                    "itunes:title": "Your Questions Answered, and a Big Announcement",
+                    "link": "https://www.nytimes.com/2025/02/28/opinion/your-questions-answered-and-a-big-announcement.html",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/8ccfbe05-c111-4598-84b6-86bf7ebbd7a3/f98eea1a-7af7-4a68-9a4b-a44457ed0e7c/28moo-mailbag-audio-youtube.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Fri, 28 Feb 2025 10:00:00 +0000",
+                    "title": "Your Questions Answered, and a Big Announcement"
+                },
+                {
+                    "author": "matterofopinion@nytimes.com (New York Times Opinion)",
                     "content:encoded": "<p>How many times has your soul been saved? Probably not as many times as Michelle Cottle\u2019s.</p><p>In this episode, Michelle, Carlos and Ross discuss Ross\u2019s new book, \u201cBelieve: Why Everyone Should Be Religious,\u201d and explore the role religion should play in our lives and society.</p><p><i>(A full transcript of this episode will be available within 24 hours of publication on the Times website.)</i></p><p><strong>Thoughts about the show?</strong> Email us at <strong>matterofopinion@nytimes.com</strong> or leave a voicemail at <strong>(212) 556-7440</strong>.</p>\n<p><blockquote><p>Unlock full access to New York Times podcasts and explore everything from politics to pop culture. Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify.</p></blockquote></p>",
                     "description": "<p>How many times has your soul been saved? Probably not as many times as Michelle Cottle\u2019s.</p><p>In this episode, Michelle, Carlos and Ross discuss Ross\u2019s new book, \u201cBelieve: Why Everyone Should Be Religious,\u201d and explore the role religion should play in our lives and society.</p><p><i>(A full transcript of this episode will be available within 24 hours of publication on the Times website.)</i></p><p><strong>Thoughts about the show?</strong> Email us at <strong>matterofopinion@nytimes.com</strong> or leave a voicemail at <strong>(212) 556-7440</strong>.</p>\n<p><blockquote><p>Unlock full access to New York Times podcasts and explore everything from politics to pop culture. Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify.</p></blockquote></p>",
                     "enclosure": {
@@ -69,38 +101,6 @@
                     },
                     "pubDate": "Fri, 21 Feb 2025 10:00:00 +0000",
                     "title": "We\u2019re More Secular Than Ever. How\u2019s That Going?"
-                },
-                {
-                    "author": "matterofopinion@nytimes.com (New York Times Opinion)",
-                    "content:encoded": "<p>How much is President Trump testing the Constitution? And what are the other branches of government doing about it? This week, David French and Jamelle Bouie join Carlos and Michelle to discuss how the courts and Congress could respond to Trump\u2019s latest actions and whether the Constitution is strong enough to withstand the challenges.</p><p>Plus, the best-dressed Opinion columnist makes the case for his latest fashion obsession.</p><p><i>(A full transcript of this episode is available on the Times website.)\u00a0</i></p><p><strong>Thoughts about the show?</strong> Email us at <strong>matterofopinion@nytimes.com</strong> or leave a voicemail at <strong>(212) 556-7440.</strong></p>\n<p><blockquote><p>Unlock full access to New York Times podcasts and explore everything from politics to pop culture. Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify.</p></blockquote></p>",
-                    "description": "<p>How much is President Trump testing the Constitution? And what are the other branches of government doing about it? This week, David French and Jamelle Bouie join Carlos and Michelle to discuss how the courts and Congress could respond to Trump\u2019s latest actions and whether the Constitution is strong enough to withstand the challenges.</p><p>Plus, the best-dressed Opinion columnist makes the case for his latest fashion obsession.</p><p><i>(A full transcript of this episode is available on the Times website.)\u00a0</i></p><p><strong>Thoughts about the show?</strong> Email us at <strong>matterofopinion@nytimes.com</strong> or leave a voicemail at <strong>(212) 556-7440.</strong></p>\n<p><blockquote><p>Unlock full access to New York Times podcasts and explore everything from politics to pop culture. Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify.</p></blockquote></p>",
-                    "enclosure": {
-                        "@length": "43382664",
-                        "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/1fe58c15-392f-4bd2-9c69-5e2935220d3c/episodes/dae5fa89-564f-4032-ad60-4dbb2e1a4884/audio/128/default.mp3?aid=rss_feed&awCollectionId=1fe58c15-392f-4bd2-9c69-5e2935220d3c&awEpisodeId=dae5fa89-564f-4032-ad60-4dbb2e1a4884&feed=bS1LZG8m"
-                    },
-                    "guid": {
-                        "#text": "a87a7b19-2fee-4bf3-bf09-932e50ab921b",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "New York Times Opinion",
-                    "itunes:duration": "00:45:11",
-                    "itunes:episodeType": "full",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://image.simplecastcdn.com/images/8ccfbe05-c111-4598-84b6-86bf7ebbd7a3/cbf68af2-4b64-485a-8817-1d2dd4f862a5/3000x3000/moo-episodic.jpg?aid=rss_feed"
-                    },
-                    "itunes:subtitle": "How much is President Trump testing the Constitution? And what are the other branches of government doing about it? This week, David French and Jamelle Bouie join Carlos and Michelle to discuss how the courts and Congress could respond to Trump\u2019s latest actions and whether the Constitution is strong enough to withstand the challenges.\n\nPlus, the best-dressed Opinion columnist makes the case for his latest fashion obsession.\n",
-                    "itunes:summary": "How much is President Trump testing the Constitution? And what are the other branches of government doing about it? This week, David French and Jamelle Bouie join Carlos and Michelle to discuss how the courts and Congress could respond to Trump\u2019s latest actions and whether the Constitution is strong enough to withstand the challenges.\n\nPlus, the best-dressed Opinion columnist makes the case for his latest fashion obsession.\n",
-                    "itunes:title": "Don\u2019t Be Fooled, \u2018Trump Is a Weak President\u2019",
-                    "link": "https://www.nytimes.com/2025/02/14/opinion/dont-be-fooled-trump-is-a-weak-president.html",
-                    "media:thumbnail": {
-                        "@height": "720",
-                        "@url": "https://image.simplecastcdn.com/images/8ccfbe05-c111-4598-84b6-86bf7ebbd7a3/d023dfc3-b728-402b-9c63-05ecb3f715fa/14moo-constitution-audio-youtube.jpg",
-                        "@width": "1280"
-                    },
-                    "pubDate": "Fri, 14 Feb 2025 10:00:00 +0000",
-                    "title": "Don\u2019t Be Fooled, \u2018Trump Is a Weak President\u2019"
                 },
                 {
                     "author": "matterofopinion@nytimes.com (New York Times Opinion)",
@@ -152,9 +152,9 @@
             "itunes:summary": "Thoughts, aloud. Hosted by Michelle Cottle, Ross Douthat and Carlos Lozada. Every Friday, from New York Times Opinion.\n\nUnlock full access to New York Times podcasts and explore everything from politics to pop culture. Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify.",
             "itunes:type": "episodic",
             "language": "en",
-            "lastBuildDate": "Fri, 21 Feb 2025 12:51:20 +0000",
+            "lastBuildDate": "Fri, 28 Feb 2025 13:39:39 +0000",
             "link": "https://www.nytimes.com/column/matter-of-opinion",
-            "pubDate": "Fri, 21 Feb 2025 10:00:00 +0000",
+            "pubDate": "Fri, 28 Feb 2025 10:00:00 +0000",
             "title": "Matter of Opinion"
         }
     }

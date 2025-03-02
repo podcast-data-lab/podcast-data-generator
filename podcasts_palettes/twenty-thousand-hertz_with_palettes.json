@@ -12,9 +12,9 @@
                 "@rel": "self",
                 "@type": "application/rss+xml"
             },
-            "content:encoded": "<p>The stories behind the world's most recognizable and interesting sounds.</p>",
+            "content:encoded": "<p>Sound, Uncovered.\u00a0The secrets, stories, and science behind what you hear.</p>",
             "copyright": "",
-            "description": "The stories behind the world's most recognizable and interesting sounds.",
+            "description": "Sound, Uncovered.\u00a0The secrets, stories, and science behind what you hear.",
             "image": {
                 "link": "http://www.20k.org",
                 "palette": [
@@ -5507,8 +5507,8 @@
                 "itunes:email": "dallas@20k.org",
                 "itunes:name": ""
             },
-            "itunes:subtitle": "The stories behind the world's most recognizable and interesting sounds.",
-            "itunes:summary": "The stories behind the world's most recognizable and interesting sounds.",
+            "itunes:subtitle": "Sound, Uncovered. The secrets, stories, and science behind what you hear.",
+            "itunes:summary": "Sound, Uncovered.\u00a0The secrets, stories, and science behind what you hear.",
             "itunes:type": "episodic",
             "language": "en",
             "link": "http://www.20k.org",

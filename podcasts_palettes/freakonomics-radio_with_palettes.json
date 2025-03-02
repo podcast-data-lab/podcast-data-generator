@@ -40,6 +40,34 @@
             "item": [
                 {
                     "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
+                    "content:encoded": "<p>To most people, the rat is vile and villainous. But not to everyone! We hear from a scientist who befriended rats and another who worked with them in the lab \u2014 and from the animator who made one the hero of a Pixar blockbuster. (Part three of a\u00a0<a href=\"https://freakonomics.com/podcast-tag/sympathy-for-the-rat/\" target=\"_blank\">three-part series</a>, \u201cSympathy for the Rat.\u201d)</p><p>\u00a0</p><ul><li><strong>SOURCES:</strong><ul><li><a href=\"https://bethanybrookshire.com/\">Bethany Brookshire</a>, author of <i>Pests: How Humans Create Animal Villains</i></li><li><a href=\"https://www.linkedin.com/in/jan-pinkava-202aa82a/?originalSubdomain=de\">Jan Pinkava,</a> creator and co-writer of \"Ratatouille,\" and director of the Animation Institute at the Film Academy Baden-W\u00fcrttemberg.</li><li><a href=\"https://hunter.cuny.edu/people/julia-marie-zichello/\">Julia Zichello,</a> evolutionary biologist at Hunter College.</li></ul></li></ul><p>\u00a0</p><ul><li><strong>RESOURCES:</strong><ul><li>\"<a href=\"https://www.westsiderag.com/2024/10/05/weekend-column-rats-end-or-how-a-rat-dies\">Weekend Column: Rat\u2019s End, or, How a Rat Dies,</a>\" by Julia Zichello <i>(West Side Rag,</i> 2024).</li><li><a href=\"https://amzn.to/4hQ725I\"><i>Pests: How Humans Create Animal Villains</i></a><i> </i>by Bethany Brookshire (2022).</li><li>\"<a href=\"https://www.theguardian.com/artanddesign/shortcuts/2015/nov/18/rats-the-history-of-an-incendiary-cartoon-trope\">Rats: the history of an incendiary cartoon trope,</a>\" by Archie Bland <i>(The Guardian,</i> 2015).</li><li>\"<a href=\"https://brill.com/view/journals/soan/22/1/article-p8_2.xml\">Catching the Rat: Understanding Multiple and Contradictory Human-Rat Relations as Situated Practices,</a>\" by Koen Beumer <i>(Society & Animals,</i> 2014).</li><li>\"<a href=\"https://wakespace.lib.wfu.edu/bitstream/handle/10339/14812/brookshirebr_04_2010.pdf\">Effects of Chronic Methylphenidate on Dopamine/Serotonin Interactions in the Mesolimbic DA System of the Mouse,</a>\" by Bethany Brookshire <i>(Wake Forest University,</i> 2010).</li><li>\"<a href=\"https://www.scientificamerican.com/article/a-new-deal-for-mice/\">A New Deal For Mice,</a>\" by C.C. Little <i>(Scientific American,</i> 1935).</li></ul></li></ul>\n",
+                    "description": "<p>To most people, the rat is vile and villainous. But not to everyone! We hear from a scientist who befriended rats and another who worked with them in the lab \u2014 and from the animator who made one the hero of a Pixar blockbuster. (Part three of a\u00a0<a href=\"https://freakonomics.com/podcast-tag/sympathy-for-the-rat/\" target=\"_blank\">three-part series</a>, \u201cSympathy for the Rat.\u201d)</p><p>\u00a0</p><ul><li><strong>SOURCES:</strong><ul><li><a href=\"https://bethanybrookshire.com/\">Bethany Brookshire</a>, author of <i>Pests: How Humans Create Animal Villains</i></li><li><a href=\"https://www.linkedin.com/in/jan-pinkava-202aa82a/?originalSubdomain=de\">Jan Pinkava,</a> creator and co-writer of \"Ratatouille,\" and director of the Animation Institute at the Film Academy Baden-W\u00fcrttemberg.</li><li><a href=\"https://hunter.cuny.edu/people/julia-marie-zichello/\">Julia Zichello,</a> evolutionary biologist at Hunter College.</li></ul></li></ul><p>\u00a0</p><ul><li><strong>RESOURCES:</strong><ul><li>\"<a href=\"https://www.westsiderag.com/2024/10/05/weekend-column-rats-end-or-how-a-rat-dies\">Weekend Column: Rat\u2019s End, or, How a Rat Dies,</a>\" by Julia Zichello <i>(West Side Rag,</i> 2024).</li><li><a href=\"https://amzn.to/4hQ725I\"><i>Pests: How Humans Create Animal Villains</i></a><i> </i>by Bethany Brookshire (2022).</li><li>\"<a href=\"https://www.theguardian.com/artanddesign/shortcuts/2015/nov/18/rats-the-history-of-an-incendiary-cartoon-trope\">Rats: the history of an incendiary cartoon trope,</a>\" by Archie Bland <i>(The Guardian,</i> 2015).</li><li>\"<a href=\"https://brill.com/view/journals/soan/22/1/article-p8_2.xml\">Catching the Rat: Understanding Multiple and Contradictory Human-Rat Relations as Situated Practices,</a>\" by Koen Beumer <i>(Society & Animals,</i> 2014).</li><li>\"<a href=\"https://wakespace.lib.wfu.edu/bitstream/handle/10339/14812/brookshirebr_04_2010.pdf\">Effects of Chronic Methylphenidate on Dopamine/Serotonin Interactions in the Mesolimbic DA System of the Mouse,</a>\" by Bethany Brookshire <i>(Wake Forest University,</i> 2010).</li><li>\"<a href=\"https://www.scientificamerican.com/article/a-new-deal-for-mice/\">A New Deal For Mice,</a>\" by C.C. Little <i>(Scientific American,</i> 1935).</li></ul></li></ul>\n",
+                    "enclosure": {
+                        "@length": "43518996",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dc3bb5a8-8f94-43a6-90a6-02294517227d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dc3bb5a8-8f94-43a6-90a6-02294517227d&feed=Y8lFbOT4"
+                    },
+                    "guid": {
+                        "#text": "3bdb51cd-66b9-4704-8158-a7c9d58dfaab",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Freakonomics Radio + Stitcher",
+                    "itunes:duration": "00:45:19",
+                    "itunes:episode": "624",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/6768cdfe-7c91-4efc-a880-6da92d62ed75/c3e5454a-edf3-47e4-b9be-8cc631730e58/3000x3000/episode-artwork-sympathy-for-the-rat-e-1.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "To most people, the rat is vile and villainous. But not to everyone! We hear from a scientist who befriended rats and another who worked with them in the lab \u2014 and from the animator who made one the hero of a Pixar blockbuster. (Part three of a three-part series, \u201cSympathy for the Rat.\u201d)",
+                    "itunes:summary": "To most people, the rat is vile and villainous. But not to everyone! We hear from a scientist who befriended rats and another who worked with them in the lab \u2014 and from the animator who made one the hero of a Pixar blockbuster. (Part three of a three-part series, \u201cSympathy for the Rat.\u201d)",
+                    "itunes:title": "624. The Animal No One Loves, Until They Do",
+                    "link": "https://freakonomics.com",
+                    "pubDate": "Fri, 28 Feb 2025 11:00:00 +0000",
+                    "title": "624. The Animal No One Loves, Until They Do"
+                },
+                {
+                    "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
                     "content:encoded": "<p>Even with a new rat czar, an arsenal of poisons, and a fleet of new garbage trucks, it won\u2019t be easy \u2014 because, at root, the enemy is us. (Part two of <a href=\"https://freakonomics.com/podcast-tag/sympathy-for-the-rat/\">a three-part series</a>, \u201cSympathy for the Rat.\u201d)</p><p>\u00a0</p><ul><li><strong>SOURCES:</strong><ul><li><a href=\"https://www.linkedin.com/in/kathleen-corradi-0678514a/\">Kathy Corradi,</a> director of rodent mitigation for New York City.</li><li><a href=\"https://www.linkedin.com/in/bobby-corrigan-4aa02076/\">Robert Corrigan,</a> urban rodentologist and pest consultant for New York City.</li><li><a href=\"https://scholar.harvard.edu/glaeser/home\">Ed Glaeser,</a> professor of economics at Harvard University.</li><li><a href=\"https://us.macmillan.com/author/robertsullivanhttps://us.macmillan.com/author/robertsullivan\">Robert Sullivan,</a> author of <i>Rats: Observations on the History and Habitat of the City\u2019s Most Unwanted Inhabitant.</i></li><li><a href=\"https://www.nyc.gov/site/nypd/about/leadership/commissioner.page\">Jessica Tisch,</a> New York City police commissioner.</li></ul></li></ul><p>\u00a0</p><ul><li><strong>RESOURCES:</strong><ul><li>\"<a href=\"https://www.science.org/doi/10.1126/sciadv.ads6782\">Increasing rat numbers in cities are linked to climate warming, urbanization, and human population,</a>\" by Jonathan Richardson, Elizabeth McCoy, Nicholas Parlavecchio, Ryan Szykowny, Eli Beech-Brown, Jan Buijs, Jacqueline Buckley, Robert Corrigan, Federico Costa, Ray Delaney, Rachel Denny, Leah Helms, Wade Lee, Maureen Murray, Claudia Riegel, Fabio Souza, John Ulrich, Adena Why, and Yasushi Kiyokawa <i>(Science Advances,</i> 2025).</li><li>\"<a href=\"https://www.nytimes.com/2024/04/10/nyregion/nyc-rat-contraception-birth-control.html\">The Next Frontier in New York's War on Rats: Birth Control,</a>\" by Emma Fitzsimmons <i>(New York Times,</i> 2024).</li><li>\"<a href=\"https://www.nytimes.com/interactive/2024/03/02/upshot/nyc-trash-rules.html\">The Absurd Problem of New York City Trash,</a>\" by Emily Badger and Larry Buchanan <i>(New York Times,</i> 2024).</li><li>\"<a href=\"https://www.newyorker.com/news/our-local-correspondents/mourning-flaco-the-owl-who-escaped\">Mourning Flaco, the Owl Who Escaped,</a>\" by Naaman Zhou <i>(The New Yorker,</i> 2024).</li><li><a href=\"https://amzn.to/416Nvas\"><i>Rats: Observations on the History & Habitat of the City's Most Unwanted Inhabitants,</i></a><i> </i>by Robert Sullivan (2005).</li></ul></li></ul><p>\u00a0</p><ul><li><strong>EXTRAS:</strong><ul><li>\"<a href=\"https://freakonomics.com/podcast/the-downside-of-disgust-ep-448/\">The Downside of Disgust,</a>\" by <i>Freakonomics Radio </i>(2021)</li></ul></li></ul>\n",
                     "description": "<p>Even with a new rat czar, an arsenal of poisons, and a fleet of new garbage trucks, it won\u2019t be easy \u2014 because, at root, the enemy is us. (Part two of <a href=\"https://freakonomics.com/podcast-tag/sympathy-for-the-rat/\">a three-part series</a>, \u201cSympathy for the Rat.\u201d)</p><p>\u00a0</p><ul><li><strong>SOURCES:</strong><ul><li><a href=\"https://www.linkedin.com/in/kathleen-corradi-0678514a/\">Kathy Corradi,</a> director of rodent mitigation for New York City.</li><li><a href=\"https://www.linkedin.com/in/bobby-corrigan-4aa02076/\">Robert Corrigan,</a> urban rodentologist and pest consultant for New York City.</li><li><a href=\"https://scholar.harvard.edu/glaeser/home\">Ed Glaeser,</a> professor of economics at Harvard University.</li><li><a href=\"https://us.macmillan.com/author/robertsullivanhttps://us.macmillan.com/author/robertsullivan\">Robert Sullivan,</a> author of <i>Rats: Observations on the History and Habitat of the City\u2019s Most Unwanted Inhabitant.</i></li><li><a href=\"https://www.nyc.gov/site/nypd/about/leadership/commissioner.page\">Jessica Tisch,</a> New York City police commissioner.</li></ul></li></ul><p>\u00a0</p><ul><li><strong>RESOURCES:</strong><ul><li>\"<a href=\"https://www.science.org/doi/10.1126/sciadv.ads6782\">Increasing rat numbers in cities are linked to climate warming, urbanization, and human population,</a>\" by Jonathan Richardson, Elizabeth McCoy, Nicholas Parlavecchio, Ryan Szykowny, Eli Beech-Brown, Jan Buijs, Jacqueline Buckley, Robert Corrigan, Federico Costa, Ray Delaney, Rachel Denny, Leah Helms, Wade Lee, Maureen Murray, Claudia Riegel, Fabio Souza, John Ulrich, Adena Why, and Yasushi Kiyokawa <i>(Science Advances,</i> 2025).</li><li>\"<a href=\"https://www.nytimes.com/2024/04/10/nyregion/nyc-rat-contraception-birth-control.html\">The Next Frontier in New York's War on Rats: Birth Control,</a>\" by Emma Fitzsimmons <i>(New York Times,</i> 2024).</li><li>\"<a href=\"https://www.nytimes.com/interactive/2024/03/02/upshot/nyc-trash-rules.html\">The Absurd Problem of New York City Trash,</a>\" by Emily Badger and Larry Buchanan <i>(New York Times,</i> 2024).</li><li>\"<a href=\"https://www.newyorker.com/news/our-local-correspondents/mourning-flaco-the-owl-who-escaped\">Mourning Flaco, the Owl Who Escaped,</a>\" by Naaman Zhou <i>(The New Yorker,</i> 2024).</li><li><a href=\"https://amzn.to/416Nvas\"><i>Rats: Observations on the History & Habitat of the City's Most Unwanted Inhabitants,</i></a><i> </i>by Robert Sullivan (2005).</li></ul></li></ul><p>\u00a0</p><ul><li><strong>EXTRAS:</strong><ul><li>\"<a href=\"https://freakonomics.com/podcast/the-downside-of-disgust-ep-448/\">The Downside of Disgust,</a>\" by <i>Freakonomics Radio </i>(2021)</li></ul></li></ul>\n",
                     "enclosure": {
@@ -14208,6 +14236,33 @@
                 },
                 {
                     "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
+                    "content:encoded": "<p>Public bathrooms are noisy, poorly designed, and often nonexistent. What to do?</p>\n",
+                    "description": "<p>Public bathrooms are noisy, poorly designed, and often nonexistent. What to do?</p>\n",
+                    "enclosure": {
+                        "@length": "30695457",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/69c6a7eb-15ba-465b-9feb-c6999e65ed48/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=69c6a7eb-15ba-465b-9feb-c6999e65ed48&feed=Y8lFbOT4"
+                    },
+                    "guid": {
+                        "#text": "http://www.wnyc.org/story/time-take-back-toilet-rebroadcast/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Freakonomics Radio + Stitcher",
+                    "itunes:duration": "00:31:48",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/2be484/2be48404-a43c-4fa8-a32c-760a3216272e/69c6a7eb-15ba-465b-9feb-c6999e65ed48/3000x3000/image.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "Public bathrooms are noisy, poorly designed, and often nonexistent. What to do?",
+                    "itunes:summary": "Public bathrooms are noisy, poorly designed, and often nonexistent. What to do?",
+                    "itunes:title": "Time to Take Back the  Toilet",
+                    "link": "https://freakonomics.com",
+                    "pubDate": "Thu, 9 Jun 2016 03:00:00 +0000",
+                    "title": "Time to Take Back the  Toilet"
+                },
+                {
+                    "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
                     "content:encoded": "<p>You've seen them \u2014 everywhere! \u2014 and often clustered together, as if central planners across America decided that what every city really needs is a Mattress District. There are now dozens of online rivals too. Why are there so many stores selling something we buy so rarely?</p>\n",
                     "description": "<p>You've seen them \u2014 everywhere! \u2014 and often clustered together, as if central planners across America decided that what every city really needs is a Mattress District. There are now dozens of online rivals too. Why are there so many stores selling something we buy so rarely?</p>\n",
                     "enclosure": {
@@ -14233,33 +14288,6 @@
                     "link": "https://freakonomics.com",
                     "pubDate": "Thu, 9 Jun 2016 03:00:00 +0000",
                     "title": "251. Are We in a Mattress-Store Bubble?"
-                },
-                {
-                    "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
-                    "content:encoded": "<p>Public bathrooms are noisy, poorly designed, and often nonexistent. What to do?</p>\n",
-                    "description": "<p>Public bathrooms are noisy, poorly designed, and often nonexistent. What to do?</p>\n",
-                    "enclosure": {
-                        "@length": "30695457",
-                        "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/69c6a7eb-15ba-465b-9feb-c6999e65ed48/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=69c6a7eb-15ba-465b-9feb-c6999e65ed48&feed=Y8lFbOT4"
-                    },
-                    "guid": {
-                        "#text": "http://www.wnyc.org/story/time-take-back-toilet-rebroadcast/",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Freakonomics Radio + Stitcher",
-                    "itunes:duration": "00:31:48",
-                    "itunes:episodeType": "full",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://image.simplecastcdn.com/images/2be484/2be48404-a43c-4fa8-a32c-760a3216272e/69c6a7eb-15ba-465b-9feb-c6999e65ed48/3000x3000/image.jpg?aid=rss_feed"
-                    },
-                    "itunes:subtitle": "Public bathrooms are noisy, poorly designed, and often nonexistent. What to do?",
-                    "itunes:summary": "Public bathrooms are noisy, poorly designed, and often nonexistent. What to do?",
-                    "itunes:title": "Time to Take Back the  Toilet",
-                    "link": "https://freakonomics.com",
-                    "pubDate": "Thu, 9 Jun 2016 03:00:00 +0000",
-                    "title": "Time to Take Back the  Toilet"
                 },
                 {
                     "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
@@ -22285,9 +22313,9 @@
             "itunes:summary": "Freakonomics co-author Stephen J. Dubner uncovers the hidden side of everything. Why is it safer to fly in an airplane than drive a car? How do we decide whom to marry? Why is the media so full of bad news? Also: things you never knew you wanted to know about wolves, bananas, pollution, search engines, and the quirks of human behavior.\n\nTo get every show in the Freakonomics Radio Network without ads and a monthly bonus episode of Freakonomics Radio, start a free trial for SiriusXM Podcasts+ on Apple Podcasts or by visiting siriusxm.com/podcastsplus.",
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Fri, 21 Feb 2025 15:00:24 +0000",
+            "lastBuildDate": "Fri, 28 Feb 2025 11:00:25 +0000",
             "link": "https://freakonomics.com",
-            "pubDate": "Fri, 21 Feb 2025 15:00:00 +0000",
+            "pubDate": "Fri, 28 Feb 2025 11:00:00 +0000",
             "title": "Freakonomics Radio"
         }
     }

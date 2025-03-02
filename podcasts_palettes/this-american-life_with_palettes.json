@@ -16,6 +16,31 @@
             "description": "Each week we choose a theme. Then anything can happen. This American Life is true stories that unfold like little movies for radio. Personal stories with funny moments, big feelings, and surprising plot twists. Newsy stories that try to capture what it\u2019s like to be alive right now. It\u2019s the most popular weekly podcast in the world, and winner of the first ever Pulitzer Prize for a radio show or podcast. Hosted by Ira Glass and produced in collaboration with WBEZ Chicago.",
             "item": [
                 {
+                    "description": "<p>Zach Mack and his dad try to mend a rift between them in a very unusual way.\u00a0\n</p><p>Visit <a href=\"https://thisamericanlife.supercast.com?utm_source=rss&utm_medium=shownotes&utm_campaign=bonus-content-promo&utm_id=lifepartners&utm_content=02501-pilot\">thisamericanlife.org/lifepartners</a> to sign up for our premium subscription.</p><ul><li>Prologue: Ira Glass introduces Zach Mack\u2019s story. (1 minute)</li><li>Part One: Zach and his father enter into an agreement that could change their entire relationship.\u00a0(9 minutes)</li><li>Part Two: Zach\u2019s mother and sister weigh in on the agreement.\u00a0(28 minutes)</li><li>Part Three: With the year coming to an end, someone is going to have to say, \u201cYou were right, and I was wrong.\u201d Will it change anything?\u00a0(16 minutes)</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/854/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
+                    "enclosure": {
+                        "@type": "audio/mpeg",
+                        "@url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR4214593193.mp3"
+                    },
+                    "guid": {
+                        "#text": "45851 at https://www.thisamericanlife.org",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "This American Life",
+                    "itunes:duration": "00:59:20",
+                    "itunes:episode": "854",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://www.thisamericanlife.org/sites/default/files/styles/rss_image/public/images/rss/tal_584_rss_owen_freeman_500kb.jpg?itok=O3Q0MGFb"
+                    },
+                    "itunes:subtitle": "Zach Mack and his dad try to mend a rift between them in a very unusual way.\u00a0\n",
+                    "itunes:summary": "Zach Mack and his dad try to mend a rift between them in a very unusual way.\u00a0\n\n\nPrologue: Ira Glass introduces Zach Mack\u2019s story. (1 minute)\n\nPart One: Zach and his father enter into an agreement that could change their entire relationship.\u00a0(9 minutes)\n\nPart Two: Zach\u2019s mother and sister weigh in on the agreement.\u00a0(28 minutes)\n\nPart Three: With the year coming to an end, someone is going to have to say, \u201cYou were right, and I was wrong.\u201d Will it change anything?\u00a0(16 minutes)",
+                    "itunes:title": "Ten Things I Don't Want to Hate About You",
+                    "link": "https://www.thisamericanlife.org/854/ten-things-i-dont-want-to-hate-about-you",
+                    "pubDate": "Sun, 23 Feb 2025 18:00:00 -0500",
+                    "title": "854: Ten Things I Don't Want to Hate About You"
+                },
+                {
                     "description": "<p>President Trump is eradicating DEI from the federal government, and private companies are following his example. We return to a show we did two years ago about the turning point that led to this moment. Our Executive Producer Emanuele Berry guest-hosts\u00a0and shares stories about Black people who found themselves caught in the middle of this cultural fight when the country shifted decisively away from diversity, equity, inclusion, critical race theory, and affirmative action.\n</p><p>Visit <a href=\"https://thisamericanlife.supercast.com?utm_source=rss&utm_medium=shownotes&utm_campaign=bonus-content-promo&utm_id=lifepartners&utm_content=02501-pilot\">thisamericanlife.org/lifepartners</a> to sign up for our premium subscription.</p><ul><li>Prologue: As a new high school principal, Dr. Whitfield felt moved by the national renouncement of racism he saw all around him in the wake of George Floyd\u2019s murder. It prompted him to write a thoughtful email to parents and teachers in his district. He got lots of praise for it. Less than a year later, that same email would threaten his job. (12 minutes)</li><li>Act One: During her sophomore year in high school, Nevaeh was targeted in a secret text message chain by a handful of her peers. She\u2019d come to learn the text chat was a mock slave trade where her photo and photos of other Black classmates were uploaded, talked about as property, and bid on. Emanuele Berry talks to Nevaeh about what these messages mean to her now as well as how she\u2019s navigated her town\u2019s reaction and her close friendships with kids who mostly aren\u2019t Black.\u00a0(20 minutes)</li><li>Act Two: After the murder of George Floyd, sales of\u00a0books by Black authors skyrocketed. Now, there are efforts to ban many of the same books. Producer Chana Joffe-Walt talks to author Jerry Craft, who is caught up in this backlash with his graphic novel\u00a0New Kid.\u00a0(21\u00a0minutes)</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/758/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
                     "enclosure": {
                         "@type": "audio/mpeg",
@@ -89,31 +114,6 @@
                     "link": "https://www.thisamericanlife.org/853/groundhog-day",
                     "pubDate": "Sun, 02 Feb 2025 18:00:00 -0500",
                     "title": "853: Groundhog Day"
-                },
-                {
-                    "description": "<p>An investigation of when and why people ask loaded questions that are a proxy for something else.\n</p><p>Visit <a href=\"https://thisamericanlife.supercast.com\">thisamericanlife.org/lifepartners</a> to sign up for our premium subscription.</p><ul><li>Prologue: Host Ira Glass talks with producer Tobin Low about the question he got asked after he and his husband moved in together, and what he thinks people were really asking.\u00a0(4\u00a0minutes)</li><li>Act One: \u201cWhat do you think about Beyonc\u00e9?\u201d and other questions raised by people on first dates. (12\u00a0minutes)</li><li>Act Two: When a common, seemingly innocuous question goes wildly off the rails.\u00a0(13 minutes)</li><li>Act Three: Why are people asking me if my mother recognizes me, when it\u2019s totally beside the point?\u00a0(14 minutes)</li><li>Act Four: Schools ask their students the strangest essay questions sometimes. The experience of tutoring anxious teenagers through how to answer them requires a balladier, singing their lived experience to a crowd as though it were the Middle Ages.\u00a0(10 minutes)</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/823/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
-                    "enclosure": {
-                        "@type": "audio/mpeg",
-                        "@url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR4251190593.mp3"
-                    },
-                    "guid": {
-                        "#text": "45537 at https://www.thisamericanlife.org",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "This American Life",
-                    "itunes:duration": "00:57:29",
-                    "itunes:episode": "823",
-                    "itunes:episodeType": "full",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://www.thisamericanlife.org/sites/default/files/styles/rss_image/public/images/rss/tal-823-sq-2.jpeg?itok=1qxylsHw"
-                    },
-                    "itunes:subtitle": "An investigation of when and why people ask loaded questions that are a proxy for something else.\n",
-                    "itunes:summary": "An investigation of when and why people ask loaded questions that are a proxy for something else.\n\n\nPrologue: Host Ira Glass talks with producer Tobin Low about the question he got asked after he and his husband moved in together, and what he thinks people were really asking.\u00a0(4\u00a0minutes)\n\nAct One: \u201cWhat do you think about Beyonc\u00e9?\u201d and other questions raised by people on first dates. (12\u00a0minutes)\n\nAct Two: When a common, seemingly innocuous question goes wildly off the rails.\u00a0(13 minutes)\n\nAct Three: Why are people asking me if my mother recognizes me, when it\u2019s totally beside the point?\u00a0(14 minutes)\n\nAct Four: Schools ask their students the strangest essay questions sometimes. The experience of tutoring anxious teenagers through how to answer them requires a balladier, singing their lived experience to a crowd as though it were the Middle Ages.\u00a0(10 minutes)",
-                    "itunes:title": "The Question Trap",
-                    "link": "https://www.thisamericanlife.org/823/the-question-trap",
-                    "pubDate": "Sun, 26 Jan 2025 18:00:00 -0500",
-                    "title": "823: The Question Trap"
                 },
                 {
                     "description": "<p>People living in that in-between moment before everything changes.\n</p><p>Visit <a href=\"https://thisamericanlife.supercast.com?utm_id=lifepartners&utm_source=rss&utm_medium=shownotes\">thisamericanlife.org/lifepartners</a> to sign up for our premium subscription.</p><ul><li>Prologue: Kirk Johnson tells Ira about a strange choice he made during his family\u2019s evacuation from the Sunset Fire in Los Angeles.\u00a0(5 minutes)</li><li>Act One: Editor Nancy Updike tries to make sense of this current moment by talking to a master of dark comedy, Armando Ianucci.\u00a0(19 minutes)</li><li>Act Two: As President Trump prepares to return to the Oval Office, producer Valerie Kipnis talks to Ukrainian soldiers on the front line\u00a0who wonder about what his administration could mean for them.\u00a0(14 minutes)</li><li>Act Three: Editor Susan Burton reflects on the ramp-up to an era that comes for so many of us.\u00a0(9 minutes)</li><li>Act Four: In the wake of the Eaton Fire in Altadena, California, producer Miki Meek talks to a woman on a very particular mission.\u00a0(6 minutes)</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/852/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
@@ -285,7 +285,7 @@
                     "link": "https://www.thisamericanlife.org",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@url": "https://www.thisamericanlife.org/sites/default/files/default_images/social-blue.png",
+                        "@url": "https://www.thisamericanlife.org/sites/default/files/youtube/tal-life_partners-16x9.jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Wed, 16 Oct 2024 00:00:00 -0400",

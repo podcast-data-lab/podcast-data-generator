@@ -23,6 +23,36 @@
             },
             "item": [
                 {
+                    "content:encoded": "Millions of Americans depend on their jobs for health insurance. But that's not the case in many other wealthy countries. How did the U.S. end up with a system that's so expensive, yet leaves so many people vulnerable? On this episode, how a temporary solution created an everlasting problem.<em> This episode originally ran in 2020 as </em><a href=\"https://www.npr.org/2020/09/28/917747287/the-everlasting-problem\"><em>The Everlasting Problem</em></a><em>.</em><br><em><br></em>To access bonus episodes and listen to Throughline sponsor-free, subscribe to Throughline+ via Apple Podcasts or at <a href=\"http://plus.npr.org/throughline\">plus.npr.org/throughline</a>.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "description": "Millions of Americans depend on their jobs for health insurance. But that's not the case in many other wealthy countries. How did the U.S. end up with a system that's so expensive, yet leaves so many people vulnerable? On this episode, how a temporary solution created an everlasting problem.<em> This episode originally ran in 2020 as </em><a href=\"https://www.npr.org/2020/09/28/917747287/the-everlasting-problem\"><em>The Everlasting Problem</em></a><em>.</em><br><em><br></em>To access bonus episodes and listen to Throughline sponsor-free, subscribe to Throughline+ via Apple Podcasts or at <a href=\"http://plus.npr.org/throughline\">plus.npr.org/throughline</a>.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "enclosure": {
+                        "@length": "50852763",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510333/traffic.megaphone.fm/NPR1651655478.mp3?d=3178&size=50852763&e=1234145475&t=podcast&p=510333"
+                    },
+                    "guid": {
+                        "#text": "528a0225-d413-4785-b7f5-e9c6e68d8ba3",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:block": "no",
+                    "itunes:duration": "3178",
+                    "itunes:episode": "331",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://media.npr.org/assets/img/2025/02/26/square-ep-art-template-b_sq-34af27796934fdf841e44020bca9ea3643be77fc.jpg?s=3000&c=66&f=jpg"
+                    },
+                    "itunes:title": "Health Insurance in America",
+                    "link": "https://www.npr.org/2025/02/27/1234145475/health-insurance-in-america",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://media.npr.org/assets/img/2025/02/26/square-ep-art-template-b_wide-dbb05c77bf2999a407a087c593969e9eeffa7821.jpg?s=1280&c=66&f=jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Thu, 27 Feb 2025 08:00:59 +0000",
+                    "title": "Health Insurance in America"
+                },
+                {
                     "content:encoded": "What can and can't the president do \u2014 and how do we know? The framers of the U.S. Constitution left the powers of the executive branch powers deliberately vague, and in doing so opened the door for every president to decide how much power they could claim. Over time, that's become quite a lot. This episode originally ran in 2020 and has been updated with new material.<br/><br/>To access bonus episodes and listen to Throughline sponsor-free, subscribe to Throughline+ via Apple Podcasts or at plus.npr.org/throughline.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
                     "description": "What can and can't the president do \u2014 and how do we know? The framers of the U.S. Constitution left the powers of the executive branch powers deliberately vague, and in doing so opened the door for every president to decide how much power they could claim. Over time, that's become quite a lot. This episode originally ran in 2020 and has been updated with new material.<br/><br/>To access bonus episodes and listen to Throughline sponsor-free, subscribe to Throughline+ via Apple Podcasts or at plus.npr.org/throughline.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
                     "enclosure": {
@@ -9851,7 +9881,7 @@
             },
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Fri, 21 Feb 2025 15:05:03 +0000",
+            "lastBuildDate": "Thu, 27 Feb 2025 20:51:54 +0000",
             "link": "https://www.npr.org/podcasts/510333/throughline",
             "media:restriction": {
                 "#text": "es fi fr gb nl no se us dk at ch be au nz ca de it ie lu li ad mc pl pt is mx ee lv lt my gr ar hu cz mt bg sk cy br cl co uy sv py hn pa ni pe ec do gt cr bo id jp th ro il za",

@@ -11,6 +11,128 @@
             "item": [
                 {
                     "dc:creator": "The Washington Post",
+                    "description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Some House Republicans are getting </span><a href=\"https://www.washingtonpost.com/politics/2025/02/27/medicaid-cuts-republicans-democrats/?utm_source=podcasts&amp;utm_medium=referral&amp;utm_campaign=post-reports\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204);\">nervous</a><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">. They\u2019re worried that passing President Donald Trump\u2019s budget proposal could mean cuts to popular programs </span><a href=\"https://www.washingtonpost.com/politics/2025/02/26/republicans-could-be-touching-third-rail-medicaid/?utm_source=podcasts&amp;utm_medium=referral&amp;utm_campaign=post-reports\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204);\">like Medicaid</a><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">. They\u2019ve also gotten </span><a href=\"https://www.washingtonpost.com/politics/2025/02/21/doge-georgia-town-hall-gop/?utm_source=podcasts&amp;utm_medium=referral&amp;utm_campaign=post-reports\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204);\">an earful</a><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> from voters angry at Elon Musk who are packing congressional town halls.&nbsp;</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Senior politics reporter Aaron Blake unpacks the </span><a href=\"https://www.washingtonpost.com/politics/2025/02/27/medicaid-cuts-republicans-democrats/?utm_source=podcasts&amp;utm_medium=referral&amp;utm_campaign=post-reports\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204);\">drama</a><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> with congressional reporter Marianna Sotomayor and congressional economics correspondent Jacob Bogage.&nbsp;</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Today\u2019s show was produced by Laura Benshoff. It was edited by Lucy Perkins and mixed by Ted Muldoon.&nbsp;</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Subscribe to The Washington Post </span><a href=\"https://subscribe.washingtonpost.com/acquisition/?s_l=OFFSITE_PODCAST&amp;p=s_v&amp;s_dt=yearly&amp;utm%5B%E2%80%A6%5De-podcast&amp;utm_medium=acq-nat&amp;utm_campaign=podcast-subs\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204);\">here</a><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.</span></p>",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5bda0d64e4b02752889d6aaf/20250228/67c23bcbb879f24c2676551a/t_1740783337339_name_t_1740783198230_name_PostReports_25_02_28_Mix_2_output.mp3?awCollectionId=5bda0d64e4b02752889d6aaf&awEpisodeId=67c23bcbb879f24c2676551a"
+                    },
+                    "feedburner:origLink": "https://www.washingtonpost.com/podcasts/post-reports/a-trumpzelensky-blow-up-a-spending-bill-anger-at-musk/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=post-reports",
+                    "guid": {
+                        "#text": "1000696888522",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Washington Post",
+                    "itunes:duration": "2263",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": "A shocking meeting between President Donald Trump and Ukrainian President Volodymyr Zelensky. Plus, Trump and his ally Elon Musk hit new roadblocks this week as they continue to make cuts to the federal government.",
+                    "itunes:summary": "A shocking meeting between President Donald Trump and Ukrainian President Volodymyr Zelensky. Plus, Trump and his ally Elon Musk hit new roadblocks this week as they continue to make cuts to the federal government.",
+                    "link": "https://www.washingtonpost.com/podcasts/post-reports/a-trumpzelensky-blow-up-a-spending-bill-anger-at-musk/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=post-reports",
+                    "pubDate": "Fri, 28 Feb 2025 22:54:06 +0000",
+                    "title": "A Trump-Zelensky blow up, a spending bill, anger at Musk"
+                },
+                {
+                    "dc:creator": "The Washington Post",
+                    "description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">This year\u2019s Oscar contenders are all over the place, ranging from the adaptation of the popular musical \u201cWicked\u201d to the Brazilian historical drama \u201cI\u2019m Still Here.\u201d Film and TV reporter Sonia Rao and arts editor Janice Page sit down with host Martine Powers to share which films are rising to the top and explain why some actors may be favored more by the academy than others.&nbsp;</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Today\u2019s show was produced by Emma Talkoff, with help from Sabby Robinson and Ariel Plotnick. It was edited by Maggie Penman and mixed by Sam Bair.</span></p>",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5bda0d64e4b02752889d6aaf/20250227/67c0cea6b0e92120d4d7d792/t_1740689134151_name_t_1740688976679_name_PR_250227_RAO_PAGE___Oscars_v03_output.mp3?awCollectionId=5bda0d64e4b02752889d6aaf&awEpisodeId=67c0cea6b0e92120d4d7d792"
+                    },
+                    "feedburner:origLink": "https://www.washingtonpost.com/podcasts/post-reports/the-oscars-movies-worth-watching/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=post-reports",
+                    "guid": {
+                        "#text": "1000696631520",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Washington Post",
+                    "itunes:duration": "1439",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://podcast.posttv.com/series/20250227/t_1740688689839_name_JKBVWHFZK5CERE54MEQYJ67RAM.jpg"
+                    },
+                    "itunes:subtitle": "If you\u2019re cramming Oscars movies over the next few days, this show is for you. The Post\u2019s film and TV reporter and our arts editor join us to talk about what to watch, and why \u201cThe Brutalist\u201d is worth your time even at 3 hours and 35 minutes.",
+                    "itunes:summary": "If you\u2019re cramming Oscars movies over the next few days, this show is for you. The Post\u2019s film and TV reporter and our arts editor join us to talk about what to watch, and why \u201cThe Brutalist\u201d is worth your time even at 3 hours and 35 minutes.",
+                    "link": "https://www.washingtonpost.com/podcasts/post-reports/the-oscars-movies-worth-watching/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=post-reports",
+                    "pubDate": "Thu, 27 Feb 2025 20:44:22 +0000",
+                    "title": "The Oscars movies worth watching"
+                },
+                {
+                    "dc:creator": "The Washington Post",
+                    "description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Gregg Bafundo worked as a lead wilderness ranger in Washington state and used his basic firefighting training to help contain fires in the parks he worked in. Erin Williamson traveled to rural communities to help them get financing for essential services as part of her job with the U.S. Agriculture Department. Veteran Jared Blockus worked for a VA hospital in North Carolina ordering critical equipment. All of them were probationary workers fired a couple of weeks ago as part of the Trump administration\u2019s plan to reduce the size of the federal workforce, along with thousands of others.&nbsp;</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Host Martine Powers speaks with reporter Kyle Swenson about these former federal workers and what their job loss means personally and for the public.&nbsp;</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"><span class=\"ql-cursor\"></span>Correction: A previous version of this episode mispronounced a source\u2019s name. The error has been corrected.</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Today\u2019s show was produced by Sabby Robinson. It was edited by Reena Flores and mixed by Sam Bair.</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Subscribe to The Washington Post </span><a href=\"https://subscribe.washingtonpost.com/acquisition/?s_l=OFFSITE_PODCAST&amp;p=s_v&amp;s_dt=yearly&amp;utm%5B%E2%80%A6%5De-podcast&amp;utm_medium=acq-nat&amp;utm_campaign=podcast-subs\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: transparent; color: rgb(17, 85, 204);\">here</a><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">.</span></p>",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5bda0d64e4b02752889d6aaf/20250226/67bf85ec7d1f6a6eef1b1012/t_1740611074837_name_t_1740609845154_name_PR_250226_SWENSON__fed_workers_v05_output.mp3?awCollectionId=5bda0d64e4b02752889d6aaf&awEpisodeId=67bf85ec7d1f6a6eef1b1012"
+                    },
+                    "feedburner:origLink": "https://www.washingtonpost.com/podcasts/post-reports/the-gutting-of-the-federal-workforce/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=post-reports",
+                    "guid": {
+                        "#text": "1000696356929",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Washington Post",
+                    "itunes:duration": "1843",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://podcast.posttv.com/series/20250226/t_1740604492191_name_F554EPBM4NBEZG65KV244RNYAA.jpg"
+                    },
+                    "itunes:subtitle": "The cuts to the federal workforce and what they\u2019ll mean for the American people.",
+                    "itunes:summary": "The cuts to the federal workforce and what they\u2019ll mean for the American people.",
+                    "link": "https://www.washingtonpost.com/podcasts/post-reports/the-gutting-of-the-federal-workforce/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=post-reports",
+                    "pubDate": "Wed, 26 Feb 2025 21:21:48 +0000",
+                    "title": "The gutting of the federal workforce"
+                },
+                {
+                    "dc:creator": "The Washington Post",
+                    "description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Host Martine Powers speaks with Supreme Court reporter Justin Jouvenal about </span><em style=\"background-color: transparent; color: rgb(0, 0, 0);\">Ames v. Ohio Department of Youth Services</em><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">, which will be heard before the country\u2019s highest court on Wednesday.&nbsp;</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Ames and her attorneys say she was held back at her job because she is straight and White. Her case was rejected by lower courts, in part because reverse discrimination claims require a higher burden of proof than anti-minority discrimination in many parts of the country. But Ames\u2019s attorneys argue that this double standard is unconstitutional. And many legal experts say the Supreme Court is poised to agree. They expect that if the court sides with Ames, it could lead to an increase in the number of discrimination lawsuits filed by straight people, White people and men. The decision may also have a chilling effect on corporate diversity, equity and inclusion (DEI) programs.</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Today\u2019s show was produced by Laura Benshoff. It was edited by Peter Bresnan and mixed by Sam Bair.&nbsp;</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Subscribe to The Washington Post </span><a href=\"https://subscribe.washingtonpost.com/acquisition/?s_l=OFFSITE_PODCAST&amp;p=s_v&amp;s_dt=yearly&amp;utm%5B%E2%80%A6%5De-podcast&amp;utm_medium=acq-nat&amp;utm_campaign=podcast-subs\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204);\">here</a><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.</span></p>",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5bda0d64e4b02752889d6aaf/20250225/67be2937b879f24c2676534d/t_1740515715824_name_t_1740515500231_name_PR_250225_JOUVENAL___scotus_on_reverse_discrimination_v03_output.mp3?awCollectionId=5bda0d64e4b02752889d6aaf&awEpisodeId=67be2937b879f24c2676534d"
+                    },
+                    "feedburner:origLink": "https://www.washingtonpost.com/podcasts/post-reports/a-straight-white-person-sued-for-discrimination-her-case-is-before-the-supreme-court/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=post-reports",
+                    "guid": {
+                        "#text": "1000695989782",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Washington Post",
+                    "itunes:duration": "1369",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://podcast.posttv.com/series/20250225/t_1740515303307_name_UIMPH6DEZNFVTPKDD4MET544QU.jpg"
+                    },
+                    "itunes:subtitle": "In 2019, Marlean Ames was demoted. A younger gay man got her old job. Her claim of anti-straight bias could rewrite discrimination law in much of the country.",
+                    "itunes:summary": "In 2019, Marlean Ames was demoted. A younger gay man got her old job. Her claim of anti-straight bias could rewrite discrimination law in much of the country.",
+                    "link": "https://www.washingtonpost.com/podcasts/post-reports/a-straight-white-person-sued-for-discrimination-her-case-is-before-the-supreme-court/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=post-reports",
+                    "pubDate": "Tue, 25 Feb 2025 20:33:59 +0000",
+                    "title": "A straight, White person sued for discrimination. Her case is before the Supreme Court."
+                },
+                {
+                    "dc:creator": "The Washington Post",
+                    "description": "<p>Opioid overdoses don\u2019t have to be fatal if the person gets help in time.</p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">In recent years naloxone, a medication that reverses opioid overdoses, has become more widely available in the United States. Narcan, a nasal spray version of naloxone, became available without prescription in pharmacies in 2023. That means more people can help reverse overdoses. Despite showing signs of decline, the&nbsp;number of people dying nationwide from overdoses eclipsed 100,000 annually from 2020 to 2023, according to national health data.</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Host Elahe Izadi talks with producer Elana Gordon about the </span><a href=\"https://www.washingtonpost.com/wellness/interactive/2024/narcan-naloxone-overdose-opioid/?itid=ap_elanagordon_2&amp;utm_source=podcasts&amp;utm_medium=referral&amp;utm_campaign=post-reports\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204);\">lifesaving effects</a><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> of the medication. They walk through the steps of how to use Narcan and what it feels like to experience an opioid overdose reversal.&nbsp;</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Today\u2019s show was produced by Ariel Plotnick. It was edited by Lucy Perkins with help from Alison MacAdam and mixed by Sam Bair.&nbsp;</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Download The Post\u2019s step-by-step guide for how to administer the naloxone nasal spray </span><a href=\"https://www.washingtonpost.com/wellness/interactive/2024/narcan-naloxone-overdose-opioid/img/narcan-card.jpg?utm_source=podcasts&amp;utm_medium=referral&amp;utm_campaign=post-reports\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204);\">here</a><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Subscribe to The Washington Post </span><a href=\"https://subscribe.washingtonpost.com/acquisition/?s_l=OFFSITE_PODCAST&amp;p=s_v&amp;s_dt=yearly&amp;utm%5B%E2%80%A6%5De-podcast&amp;utm_medium=acq-nat&amp;utm_campaign=podcast-subs\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204);\">here</a><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.</span>&nbsp;</p>",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5bda0d64e4b02752889d6aaf/20250224/67bcd6d6b879f24c267652d1/t_1740429097553_name_t_1740428950703_name_PR_250224_GORDON_Narcan_v04_output.mp3?awCollectionId=5bda0d64e4b02752889d6aaf&awEpisodeId=67bcd6d6b879f24c267652d1"
+                    },
+                    "feedburner:origLink": "https://www.washingtonpost.com/podcasts/post-reports/how-to-reverse-an-opioid-overdose/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=post-reports",
+                    "guid": {
+                        "#text": "1000695621441",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Washington Post",
+                    "itunes:duration": "1732",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://podcast.posttv.com/series/20250224/t_1740428801589_name_J524QXLSNBAVJFNBONUKUCBEMA.jpg"
+                    },
+                    "itunes:subtitle": "Opioid overdoses don\u2019t have to be fatal if the person gets help in time. ",
+                    "itunes:summary": "Opioid overdoses don\u2019t have to be fatal if the person gets help in time. ",
+                    "link": "https://www.washingtonpost.com/podcasts/post-reports/how-to-reverse-an-opioid-overdose/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=post-reports",
+                    "pubDate": "Mon, 24 Feb 2025 20:30:13 +0000",
+                    "title": "How to reverse an opioid overdose"
+                },
+                {
+                    "dc:creator": "The Washington Post",
                     "description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">An analysis of news reports by The Washington Post found that at least 477 people \u2014 90 percent of them students \u2014 were arrested in the two weeks after the Apalachee High massacre in Georgia. That\u2019s nearly 100 more than in the aftermath of the three previous mass school shootings combined.</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">In Volusia County, Florida, the elected sheriff, Mike Chitwood, a registered Independent and brash Philadelphia native, decided he\u2019d had enough. In September 2024, he deployed dozens of deputies and spent an extra $21,000 in taxpayer money. On a single night, his office received 54 tips.</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Reporters </span><a href=\"https://www.washingtonpost.com/people/hannah-natanson/?utm_source=podcasts&amp;utm_medium=referral&amp;utm_campaign=post-reports\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: transparent; color: rgb(17, 85, 204);\">Hannah Natanson</a><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> and </span><a href=\"https://www.washingtonpost.com/people/john-woodrow-cox/?utm_source=podcasts&amp;utm_medium=referral&amp;utm_campaign=post-reports\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: transparent; color: rgb(17, 85, 204);\">John Woodrow Cox</a><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> </span><a href=\"https://www.washingtonpost.com/investigations/2025/02/03/children-joked-about-school-shootings-then-sheriff-sent-them-jail/?utm_source=podcasts&amp;utm_medium=referral&amp;utm_campaign=post-reports\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: transparent; color: rgb(17, 85, 204);\">document the real-life effects of Volusia\u2019s aggressive response on children, parents, teachers, administrators and police officers.</a></p><p><span style=\"color: rgb(17, 17, 17);\">This story is part of our Deep Reads series, which showcases narrative journalism at The Washington Post. </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">It was read by John Woodrow Cox. Audio production and original music by</span><a href=\"https://www.washingtonpost.com/people/bishop-sand/?utm_source=podcasts&amp;utm_medium=referral&amp;utm_campaign=post-reports\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204); background-color: transparent;\"> Bishop Sand</a><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.</span></p>",
                     "enclosure": {
                         "@length": "36205679",
@@ -36,7 +158,7 @@
                 },
                 {
                     "dc:creator": "The Washington Post",
-                    "description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Senior political reporter Aaron Blake talks with Post congressional reporter Liz Goodwin and Dan Lamothe, who covers the Pentagon and the U.S. military, about the week\u2019s political news. They dig into Trump\u2019s sharp turn against Ukraine and its president, Volodymyr Zelensky, and toward Russian President Vladimir Putin. They also talk about new polling that shows Trump\u2019s sweeping federal policy decisions are </span><a href=\"https://www.washingtonpost.com/politics/2025/02/20/trump-policies-opposed-by-americans/?utm_source=podcasts&amp;utm_medium=referral&amp;utm_campaign=post-reports\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204); background-color: transparent;\">largely unpopular</a><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">. Plus, why GOP lawmakers are quietly begging Trump to spare their districts from Trump and his ally Elon Musk\u2019s splashy government spending cuts.</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Today\u2019s show was produced by Laura Benshoff. It was edited by Lucy Perkins with help from Rachel Van Dongen. It was mixed by Justin Gerrish.</span></p>",
+                    "description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Senior political reporter Aaron Blake talks with Post congressional reporter Liz Goodwin and Dan Lamothe, who covers the Pentagon and the U.S. military, about the week\u2019s political news. They dig into Trump\u2019s sharp turn against Ukraine and its president, Volodymyr Zelensky, and toward Russian President Vladimir Putin. They also talk about new polling that shows Trump\u2019s sweeping federal policy decisions are </span><a href=\"https://www.washingtonpost.com/politics/2025/02/20/trump-policies-opposed-by-americans/?utm_source=podcasts&amp;utm_medium=referral&amp;utm_campaign=post-reports\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: transparent; color: rgb(17, 85, 204);\">largely unpopular</a><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">. Plus, why GOP lawmakers are quietly begging Trump to spare their districts from Trump and his ally Elon Musk\u2019s splashy government spending cuts.</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Today\u2019s show was produced by Laura Benshoff. It was edited by Lucy Perkins with help from Rachel Van Dongen. It was mixed by Justin Gerrish.</span></p>",
                     "enclosure": {
                         "@length": "0",
                         "@type": "audio/mpeg",
@@ -50,6 +172,9 @@
                     "itunes:author": "The Washington Post",
                     "itunes:duration": "1964",
                     "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://podcast.posttv.com/series/20250221/t_1740170886173_name_E5LQUBLGJNGLFA5OHGM55H6QLQ.jpg"
+                    },
                     "itunes:subtitle": "President Trump\u2019s honeymoon period is over, according to new polling from The Washington Post. ",
                     "itunes:summary": "President Trump\u2019s honeymoon period is over, according to new polling from The Washington Post. ",
                     "link": "https://www.washingtonpost.com/podcasts/post-reports/the-trump-honeymoon-is-ending/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=post-reports",
@@ -83,7 +208,7 @@
                 },
                 {
                     "dc:creator": "The Washington Post",
-                    "description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">The United States and Russia have begun talks to end the war in Ukraine. But Ukraine wasn\u2019t there.</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"><span class=\"ql-cursor\"></span>The United States and Russia just completed their first round of diplomatic talks to end the war in Ukraine since the start of Russian invasion in 2022. The exclusion of Ukraine representatives from the talks signals a new approach and new U.S. interests in the region.</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Host Martine Powers talks with White House correspondent Michael Birnbaum about Trump\u2019s conversation with Russian President Vladimir Putin, and why </span><a href=\"https://www.washingtonpost.com/world/2025/02/19/ukraine-russia-trump-elections-zelensky/?utm_source=podcasts&amp;utm_medium=referral&amp;utm_campaign=post-reports\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204);\">the United States\u2019 actions over the past week have alarmed its European allies.&nbsp;</a></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Today\u2019s show was produced by Bishop Sand. It was edited by Lucy Perkins and mixed by Sam Bair.&nbsp;</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Subscribe to The Washington Post </span><a href=\"https://subscribe.washingtonpost.com/acquisition/?s_l=OFFSITE_PODCAST&amp;p=s_v&amp;s_dt=yearly&amp;utm%5B%E2%80%A6%5De-podcast&amp;utm_medium=acq-nat&amp;utm_campaign=podcast-subs\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204);\">here</a><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.</span></p>",
+                    "description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">The United States and Russia have begun talks to end the war in Ukraine. But Ukraine wasn\u2019t there.</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">The United States and Russia just completed their first round of diplomatic talks to end the war in Ukraine since the start of Russian invasion in 2022. The exclusion of Ukraine representatives from the talks signals a new approach and new U.S. interests in the region.</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Host Martine Powers talks with White House correspondent Michael Birnbaum about Trump\u2019s conversation with Russian President Vladimir Putin, and why </span><a href=\"https://www.washingtonpost.com/world/2025/02/19/ukraine-russia-trump-elections-zelensky/?utm_source=podcasts&amp;utm_medium=referral&amp;utm_campaign=post-reports\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204);\">the United States\u2019 actions over the past week have alarmed its European allies.&nbsp;</a></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Today\u2019s show was produced by Bishop Sand. It was edited by Lucy Perkins and mixed by Sam Bair.&nbsp;</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Subscribe to The Washington Post </span><a href=\"https://subscribe.washingtonpost.com/acquisition/?s_l=OFFSITE_PODCAST&amp;p=s_v&amp;s_dt=yearly&amp;utm%5B%E2%80%A6%5De-podcast&amp;utm_medium=acq-nat&amp;utm_campaign=podcast-subs\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204);\">here</a><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.</span></p>",
                     "enclosure": {
                         "@length": "0",
                         "@type": "audio/mpeg",
@@ -97,6 +222,9 @@
                     "itunes:author": "The Washington Post",
                     "itunes:duration": "1301",
                     "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://podcast.posttv.com/series/20250219/t_1739996824588_name_AQELPQDKP5DDLOG4GXKP4ECA5A__1_.jpg"
+                    },
                     "itunes:subtitle": "The United States and Russia have begun talks to end the war in Ukraine. But Ukraine wasn\u2019t there.",
                     "itunes:summary": "The United States and Russia have begun talks to end the war in Ukraine. But Ukraine wasn\u2019t there.",
                     "link": "https://www.washingtonpost.com/podcasts/post-reports/trump-turns-on-ukraine/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=post-reports",

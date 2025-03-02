@@ -15,10 +15,52 @@
         "channel": {
             "copyright": "\u00a9 2025 soundbite.fm",
             "description": "Merge Conflict is a weekly discussion with Frank and James on all things development, technology, & more. After years of being friends, Frank and James finally decided to sit down and start a podcast about their lives as mobile developers using C#, Xamarin, and .NET MAUI. Much more than just another mobile development podcast, Merge Conflict, reaches all areas of development including desktop, server, and of course mobile. They also cover fun things happening in the world of technology and gaming and whatever else happens to be on Frank's and James' minds. \n",
-            "fireside:genDate": "Wed, 19 Feb 2025 08:35:19 -0600",
-            "fireside:hostname": "feed01.fireside.fm",
+            "fireside:genDate": "Sat, 01 Mar 2025 08:16:23 -0600",
+            "fireside:hostname": "feed02.fireside.fm",
             "generator": "Fireside (https://fireside.fm)",
             "item": [
+                {
+                    "author": "soundbite.fm",
+                    "content:encoded": "<p>AI, USB dongles, more AI, and more dongles? What is even going on this episode?</p>\n\n<h3>Follow Us</h3>\n\n<ul>\n<li>Frank: <a href=\"http://twitter.com/praeclarum\" target=\"_blank\">Twitter</a>,  <a href=\"http://praeclarum.org\" target=\"_blank\">Blog</a>, <a href=\"http://github.com/praeclarum\" target=\"_blank\">GitHub</a></li>\n<li>James: <a href=\"http://twitter.com/jamesmontemagno\" target=\"_blank\">Twitter</a>,  <a href=\"https://montemagno.com\" target=\"_blank\">Blog</a>, <a href=\"http://github.com/jamesmontemagno\" target=\"_blank\">GitHub</a></li>\n<li>Merge Conflict: <a href=\"http://twitter.com/mergeconflictfm\" target=\"_blank\">Twitter</a>,  <a href=\"https://www.facebook.com/mergeconflictfm\" target=\"_blank\">Facebook</a>, <a href=\"http://mergeconflict.fm\" target=\"_blank\">Website</a>, <a href=\"https://www.mergeconflict.fm/discord\" target=\"_blank\">Chat on Discord</a></li>\n<li>Music : Amethyst Seer - Citrine by <a href=\"https://soundcloud.com/adventureface\" target=\"_blank\">Adventureface</a></li>\n</ul>\n\n<p>\u2b50\u2b50 <a href=\"https://itunes.apple.com/us/podcast/merge-conflict/id1133064277?mt=2&ls=1\" rel=\"nofollow\">Review Us</a> \u2b50\u2b50</p>\n\n<p>Machine transcription available on <a href=\"http://mergeconflict.fm\" rel=\"nofollow\">http://mergeconflict.fm</a></p><p><a rel=\"payment\" href=\"https://www.patreon.com/mergeconflictfm\">Support Merge Conflict</a></p>",
+                    "description": "AI, USB dongles, more AI, and more dongles? What is even going on this episode?\nFollow Us\nFrank: <a href=\"http://twitter.com/praeclarum\" target=\"_blank\">Twitter</a>,  <a href=\"http://praeclarum.org\" target=\"_blank\">Blog</a>, <a href=\"http://github.com/praeclarum\" target=\"_blank\">GitHub</a>\nJames: <a href=\"http://twitter.com/jamesmontemagno\" target=\"_blank\">Twitter</a>,  <a href=\"https://montemagno.com\" target=\"_blank\">Blog</a>, <a href=\"http://github.com/jamesmontemagno\" target=\"_blank\">GitHub</a>\nMerge Conflict: <a href=\"http://twitter.com/mergeconflictfm\" target=\"_blank\">Twitter</a>,  <a href=\"https://www.facebook.com/mergeconflictfm\" target=\"_blank\">Facebook</a>, <a href=\"http://mergeconflict.fm\" target=\"_blank\">Website</a>, <a href=\"https://www.mergeconflict.fm/discord\" target=\"_blank\">Chat on Discord</a>\nMusic : Amethyst Seer - Citrine by <a href=\"https://soundcloud.com/adventureface\" target=\"_blank\">Adventureface</a>\n\u2b50\u2b50 Review Us (https://itunes.apple.com/us/podcast/merge-conflict/id1133064277?mt=2&ls=1) \u2b50\u2b50\nMachine transcription available on http://mergeconflict.fm \n",
+                    "enclosure": {
+                        "@length": "53086508",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/84EGD/aphid.fireside.fm/d/1437767933/02d84890-e58d-43eb-ab4c-26bcc8524289/296dc912-6cef-43ec-bd70-65dbe034e4b6.mp3"
+                    },
+                    "fireside:playerEmbedCode": "<iframe src=\"https://fireside.fm/player/v2/UDzB5o3V+76dDJ2Ri\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+                    "fireside:playerURL": "https://fireside.fm/player/v2/UDzB5o3V+76dDJ2Ri",
+                    "guid": {
+                        "#text": "296dc912-6cef-43ec-bd70-65dbe034e4b6",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "soundbite.fm",
+                    "itunes:duration": "36:51",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/0/02d84890-e58d-43eb-ab4c-26bcc8524289/cover.jpg?v=1"
+                    },
+                    "itunes:subtitle": "AI, USB dongles, more AI, and more dongles? What is even going on this episode?",
+                    "itunes:summary": "<p>AI, USB dongles, more AI, and more dongles? What is even going on this episode?</p>\n\n<h3>Follow Us</h3>\n\n<ul>\n<li>Frank: <a href=\"http://twitter.com/praeclarum\" target=\"_blank\">Twitter</a>,  <a href=\"http://praeclarum.org\" target=\"_blank\">Blog</a>, <a href=\"http://github.com/praeclarum\" target=\"_blank\">GitHub</a></li>\n<li>James: <a href=\"http://twitter.com/jamesmontemagno\" target=\"_blank\">Twitter</a>,  <a href=\"https://montemagno.com\" target=\"_blank\">Blog</a>, <a href=\"http://github.com/jamesmontemagno\" target=\"_blank\">GitHub</a></li>\n<li>Merge Conflict: <a href=\"http://twitter.com/mergeconflictfm\" target=\"_blank\">Twitter</a>,  <a href=\"https://www.facebook.com/mergeconflictfm\" target=\"_blank\">Facebook</a>, <a href=\"http://mergeconflict.fm\" target=\"_blank\">Website</a>, <a href=\"https://www.mergeconflict.fm/discord\" target=\"_blank\">Chat on Discord</a></li>\n<li>Music : Amethyst Seer - Citrine by <a href=\"https://soundcloud.com/adventureface\" target=\"_blank\">Adventureface</a></li>\n</ul>\n\n<p>\u2b50\u2b50 <a href=\"https://itunes.apple.com/us/podcast/merge-conflict/id1133064277?mt=2&ls=1\" rel=\"nofollow\">Review Us</a> \u2b50\u2b50</p>\n\n<p>Machine transcription available on <a href=\"http://mergeconflict.fm\" rel=\"nofollow\">http://mergeconflict.fm</a></p><p><a rel=\"payment\" href=\"https://www.patreon.com/mergeconflictfm\">Support Merge Conflict</a></p>",
+                    "link": "http://www.mergeconflict.fm/451",
+                    "podcast:person": [
+                        {
+                            "#text": "James Montemagno",
+                            "@email": "",
+                            "@href": "https://montemagno.com",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Frank Krueger",
+                            "@email": "",
+                            "@href": "http://praeclarum.org",
+                            "@role": "host"
+                        }
+                    ],
+                    "pubDate": "Mon, 24 Feb 2025 00:00:00 -0800",
+                    "title": "451: Mac mini dongles & AI?!?!"
+                },
                 {
                     "author": "soundbite.fm",
                     "content:encoded": "<p>GitHub Copilot Agent Mode is here! We talk new hot reloading capabilities, more AI in Apple Notes, and overheating our Mac minis!</p>\n\n<h3>Follow Us</h3>\n\n<ul>\n<li>Frank: <a href=\"http://twitter.com/praeclarum\" target=\"_blank\">Twitter</a>,  <a href=\"http://praeclarum.org\" target=\"_blank\">Blog</a>, <a href=\"http://github.com/praeclarum\" target=\"_blank\">GitHub</a></li>\n<li>James: <a href=\"http://twitter.com/jamesmontemagno\" target=\"_blank\">Twitter</a>,  <a href=\"https://montemagno.com\" target=\"_blank\">Blog</a>, <a href=\"http://github.com/jamesmontemagno\" target=\"_blank\">GitHub</a></li>\n<li>Merge Conflict: <a href=\"http://twitter.com/mergeconflictfm\" target=\"_blank\">Twitter</a>,  <a href=\"https://www.facebook.com/mergeconflictfm\" target=\"_blank\">Facebook</a>, <a href=\"http://mergeconflict.fm\" target=\"_blank\">Website</a>, <a href=\"https://www.mergeconflict.fm/discord\" target=\"_blank\">Chat on Discord</a></li>\n<li>Music : Amethyst Seer - Citrine by <a href=\"https://soundcloud.com/adventureface\" target=\"_blank\">Adventureface</a></li>\n</ul>\n\n<p>\u2b50\u2b50 <a href=\"https://itunes.apple.com/us/podcast/merge-conflict/id1133064277?mt=2&ls=1\" rel=\"nofollow\">Review Us</a> \u2b50\u2b50</p>\n\n<p>Machine transcription available on <a href=\"http://mergeconflict.fm\" rel=\"nofollow\">http://mergeconflict.fm</a></p><p><a rel=\"payment\" href=\"https://www.patreon.com/mergeconflictfm\">Support Merge Conflict</a></p>",
@@ -20678,7 +20720,7 @@
                 "#text": "yes",
                 "@email": "mergeconflictfm@gmail.com"
             },
-            "pubDate": "Wed, 19 Feb 2025 06:34:13 -0800",
+            "pubDate": "Sat, 01 Mar 2025 06:15:59 -0800",
             "title": "Merge Conflict"
         }
     }

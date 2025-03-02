@@ -45,6 +45,146 @@
             },
             "item": [
                 {
+                    "acast:episodeId": "67c21118e5091241f36dfe3d",
+                    "acast:episodeUrl": "openais-last-unreasonable-model-dtnsb-4966",
+                    "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCfA46s9Q02tgsaQEZygAQjO1WpgnCnygPcfetWZS6fdBWLHg0rVx5YSkrjEW8npdOjjuhqjQFai2IwqEcK4l3I5PwVVa4JrsybV0vKJCYEBE9m7TYMPYNOZsdY1PY8cJaT0TomLcEhCbKzoZbN+WvAPGNHZ3RcOuZDxpDopn5CPUdH1S/73A9BmMJLcqPLbGhhJsH65n92HxRZy1rQT+cBYVYF4psznKJBVl0jJ6KgBIdxMImg8DhAQz1jdhRscmHylOMbHtnlNOpHyKCni2Sa6KH6o2jcNQDGTQp/S6+MRD73msQ8tykMXzi0AjQX8nR7fvxVVu9hIdkOG8/FYrCiR",
+                    "acast:showId": "69874998-717b-4db3-9857-c07cf9597f55",
+                    "description": "<p>Plus, Skype will go down for good and Mozilla insist it does not want to sell your data to AI.&nbsp;</p><br><p>Starring <strong>Tom Merritt </strong>and <strong>Huyen Tue Dao</strong>.</p><br><p>Show notes can be found <a href=\"https://wp.me/pboN3q-aAo\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>. </p>",
+                    "enclosure": {
+                        "@length": "38401984",
+                        "@type": "audio/mpeg",
+                        "@url": "https://sphinx.acast.com/p/acast/s/dtns/e/67c21118e5091241f36dfe3d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=eNC_DdDdwYRz2reztlb3df2QESI1RNkVyBX45vrEW20"
+                    },
+                    "guid": {
+                        "#text": "67c21118e5091241f36dfe3d",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "26:39",
+                    "itunes:episode": "4966",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://assets.pippa.io/shows/61954547cb03c875f7617118/1740771454892-4041ea28-ef67-4ed8-bd0d-be4d91b5f704.jpeg"
+                    },
+                    "itunes:summary": "<p>Plus, Skype will go down for good and Mozilla insist it does not want to sell your data to AI.&nbsp;</p><br><p>Starring <strong>Tom Merritt </strong>and <strong>Huyen Tue Dao</strong>.</p><br><p>Show notes can be found <a href=\"https://wp.me/pboN3q-aAo\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>. </p>",
+                    "itunes:title": " OpenAI\u2019s Last Unreasonable Model - DTNSB - 4966",
+                    "link": "https://shows.acast.com/dtns/episodes/openais-last-unreasonable-model-dtnsb-4966",
+                    "pubDate": "Fri, 28 Feb 2025 19:40:07 GMT",
+                    "title": " OpenAI\u2019s Last Unreasonable Model - DTNSB - 4966"
+                },
+                {
+                    "acast:episodeId": "67c0bbaacabc05e91c67271b",
+                    "acast:episodeUrl": "nvidias-ai-business-takes-center-stage-dtnsb-4965",
+                    "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcOR6BlLGZYiSvZ1BhNG8bpW7v4UCsxN2vMC2Z6Dh+5njpz16jlbDfVldvIi/Md384MZplx9q637ExXPmGRugcQNe8fpGELJuwWQXK7prr+GqC7aTcLnZ3rnHlmR5i4T02eNrlh7bncrWW+TyTVEAvnl79VX5e2oUNc+nF45CwMIFVw2VC2CPKgAUB8RM44OKxt2Nk3Em+LFLB1No/mMDD9nYJMrTUmtOURuk/ah4KZ8GLHzP5AiLdFnI788tXE/81ZgFtoPakhO2s8C8eilI0yTt4QPy/B6UmFFdibqaHu0Cm3HSsT8Yl434hIKhMWH/RB55zCj1CCziMx1rvFn5F9",
+                    "acast:showId": "69874998-717b-4db3-9857-c07cf9597f55",
+                    "description": "<p>Sony cuts the price of the PlayStation VR 2 by $150, Amazon gets into the Quantum computing game with Ocelot, and Dr. Niki says that Spam is a problem for science as well as email.</p><br><p>Starring <strong>Jason Howell </strong>and <strong>Huyen Tue Dao</strong>.</p><br><p>Show notes can be found <a href=\"https://wp.me/pboN3q-azK\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p>",
+                    "enclosure": {
+                        "@length": "39674368",
+                        "@type": "audio/mpeg",
+                        "@url": "https://sphinx.acast.com/p/acast/s/dtns/e/67c0bbaacabc05e91c67271b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=c9IaatC2etonUcMdfN5LmVXTwR7IAqY_QLvad-fEtGc"
+                    },
+                    "guid": {
+                        "#text": "67c0bbaacabc05e91c67271b",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "27:32",
+                    "itunes:episode": "4965",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://assets.pippa.io/shows/61954547cb03c875f7617118/1740684080954-923e33f6-ba6d-4b77-9152-f17118bd5af3.jpeg"
+                    },
+                    "itunes:summary": "<p>Sony cuts the price of the PlayStation VR 2 by $150, Amazon gets into the Quantum computing game with Ocelot, and Dr. Niki says that Spam is a problem for science as well as email.</p><br><p>Starring <strong>Jason Howell </strong>and <strong>Huyen Tue Dao</strong>.</p><br><p>Show notes can be found <a href=\"https://wp.me/pboN3q-azK\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p>",
+                    "itunes:title": " Nvidia\u2019s AI business takes center stage - DTNSB 4965",
+                    "link": "https://shows.acast.com/dtns/episodes/nvidias-ai-business-takes-center-stage-dtnsb-4965",
+                    "pubDate": "Thu, 27 Feb 2025 19:23:21 GMT",
+                    "title": " Nvidia\u2019s AI business takes center stage - DTNSB 4965"
+                },
+                {
+                    "acast:episodeId": "67bf6a069f453431220811e3",
+                    "acast:episodeUrl": "alexa-plus-may-actually-be-a-plus-dtnsb-4964",
+                    "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fhqYdRqrvGtLVxH7dR094PAreTyQ5nCO7+lZuB0H+E+fBM9oD9fBVogTTN38HzkOazlmX3MrFzSe25sKrQpfgARIY1wNHrQxDhSMzy3eeDgqaubOufBijDFIjp+lWWsg8JLK7A6K1vZTbKsY3M8cnM45bQrp1h/II3GoTj7S9Jwxy2J1u37qmhAR8X/cYya5mZY7/LEY5RM9FdwI+E8LH/kvP37IV1wj3HwYq3zI/hI5QrLLehf52ScmGI3VObK1E7wP56ofjvN3vi11fOiH6yzj28xSyIlVAKyrwmshY1xWB3sX/t0Z7UYZzqF5GsiOqi",
+                    "acast:showId": "69874998-717b-4db3-9857-c07cf9597f55",
+                    "description": "<p>Amazon announces a new voice assistant, 5G comes to space and why that Casio Watch ring is worth wearing.</p><br><p>Starring <strong>Tom Merritt </strong>and <strong>Jenn Cutter</strong>.</p><br><p>Links to today's stories can be found <a href=\"https://dailytechnewsshow.com/2025/02/26/alexa-plus-may-actually-be-a-plus-dtnsb-4964/\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p>",
+                    "enclosure": {
+                        "@length": "19853972",
+                        "@type": "audio/mpeg",
+                        "@url": "https://sphinx.acast.com/p/acast/s/dtns/e/67bf6a069f453431220811e3/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=z-y6km3mO2DODYnDaUbRQlxr4m2e-YT9OBwVFwabbmM"
+                    },
+                    "guid": {
+                        "#text": "67bf6a069f453431220811e3",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "27:33",
+                    "itunes:episode": "4964",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://assets.pippa.io/shows/61954547cb03c875f7617118/1740597806112-5ce73ac7-ac5a-4f35-8cee-0358d9f5f89c.jpeg"
+                    },
+                    "itunes:summary": "<p>Amazon announces a new voice assistant, 5G comes to space and why that Casio Watch ring is worth wearing.</p><br><p>Starring <strong>Tom Merritt </strong>and <strong>Jenn Cutter</strong>.</p><br><p>Links to today's stories can be found <a href=\"https://dailytechnewsshow.com/2025/02/26/alexa-plus-may-actually-be-a-plus-dtnsb-4964/\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p>",
+                    "itunes:title": "Alexa Plus May Actually Be a Plus - DTNSB 4964",
+                    "link": "https://shows.acast.com/dtns/episodes/alexa-plus-may-actually-be-a-plus-dtnsb-4964",
+                    "pubDate": "Wed, 26 Feb 2025 19:27:44 GMT",
+                    "title": "Alexa Plus May Actually Be a Plus - DTNSB 4964"
+                },
+                {
+                    "acast:episodeId": "67be17dd408c42b28aa1fd1b",
+                    "acast:episodeUrl": "anthropic-releases-its-hybrid-reasoning-ai-model-dtnsb-4963",
+                    "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCeKXRH/Emt6/7bogAskTrIAghusaAHZJlrzoBivyOzWYyT7HZTsfBM3u2ckfzx554cWQS86CSKDyR6Xc5HWH2Mpc6rlSh7sSZNezwRzRjRLpuww7dh4aDeLhrOjbiqvh6EHyxkoBY3wy3ZtF4O+2wXJ66QlbE7F3bpIUReenA9PKpty6+jb/ZNsHeDT5d52qWY0Agok9fpjVdeOEcdvangoozFDDdiu/2wQAPb0/PogGXz9Ky8RvMFxjU5CYloJfp2yGlKaGr3hUamC4UXLED1y9V8oSkYD1zv0rZtXLenHLor0YALH/f5mvaHjJz6mF4SlCa757zHm8yW6KX6dVTix",
+                    "acast:showId": "69874998-717b-4db3-9857-c07cf9597f55",
+                    "description": "<p>Samsung's Secure Folder has a revealing privacy flaw, OnePlus Watch 3 is delayed, and Ron Richards and Tim Stevens talk about pinball virtualization.</p><br><p>Starring <strong>Jason Howell </strong>and <strong>Tom Merritt</strong>.</p><br><p>Links to stories can be found <a href=\"https://dailytechnewsshow.com/2025/02/25/anthropic-releases-its-hybrid-reasoning-ai-model-dtnsb-4963/\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p>",
+                    "enclosure": {
+                        "@length": "21380372",
+                        "@type": "audio/mpeg",
+                        "@url": "https://sphinx.acast.com/p/acast/s/dtns/e/67be17dd408c42b28aa1fd1b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=UxttjE1nSvSBvxZfOeUH8Tqb6tQP0nOqW5R8HOiyR_o"
+                    },
+                    "guid": {
+                        "#text": "67be17dd408c42b28aa1fd1b",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "29:41",
+                    "itunes:episode": "4963",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://assets.pippa.io/shows/61954547cb03c875f7617118/1739388329049-4cbc8f46-1db8-425e-9fa7-e39fd5e20205.jpeg"
+                    },
+                    "itunes:summary": "<p>Samsung's Secure Folder has a revealing privacy flaw, OnePlus Watch 3 is delayed, and Ron Richards and Tim Stevens talk about pinball virtualization.</p><br><p>Starring <strong>Jason Howell </strong>and <strong>Tom Merritt</strong>.</p><br><p>Links to stories can be found <a href=\"https://dailytechnewsshow.com/2025/02/25/anthropic-releases-its-hybrid-reasoning-ai-model-dtnsb-4963/\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p>",
+                    "itunes:title": "Anthropic Releases Its 'Hybrid Reasoning' AI Model - DTNSB 4963",
+                    "link": "https://shows.acast.com/dtns/episodes/anthropic-releases-its-hybrid-reasoning-ai-model-dtnsb-4963",
+                    "pubDate": "Tue, 25 Feb 2025 19:19:56 GMT",
+                    "title": "Anthropic Releases Its 'Hybrid Reasoning' AI Model - DTNSB 4963"
+                },
+                {
+                    "acast:episodeId": "67bccd3319249d0c1a84dc67",
+                    "acast:episodeUrl": "gmail-wants-to-verify-your-phone-number-with-a-qr-code-dtnsb",
+                    "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCeLE8IAFP8aLMJtPfH/xLP/azWycxwqwyvTTHihkZjSH+Lvq1vmBtrPyMHl4k1P7vMwLYAV0NP+yBPzfjQ3R6IQBMG7pchLBVNkJQU7PrOIY04jFFzT06RDviFnI3BiTSsdjSn5Ny/9xRQgffNUoKOLAzMPHXiAmPZgOlp8sHaTJHW378Y9e4aW+p1I/PCsT8qXHKvhzWNJfJyxIIbNT/EkGb2877pKhmcZp9bA74x9QruGk0eEOVaO2/P22KxT1ZdkuemchcDEqx3MvgjZLaxov5D/gO1PJ8IyHkbgpPh4tyduNUWrodoPyiUC8qX6+RCZ5c6PvYmybKn8K7MirZ95",
+                    "acast:showId": "69874998-717b-4db3-9857-c07cf9597f55",
+                    "description": "<p>Plus, why Microsoft and Google don\u2019t have to comply with the UK encryption issue that Apple does, and a computer mouse that smells nice.</p><br><p>Starring&nbsp;<strong>Tom Merritt&nbsp;</strong>and&nbsp;<strong>Rob Dunewood</strong>.</p><br><p>Show notes can be found <a href=\"https://dailytechnewsshow.com/2025/02/24/gmail-wants-to-verify-your-phone-number-with-a-qr-code-dtnsb-4962/\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p>",
+                    "enclosure": {
+                        "@length": "35515912",
+                        "@type": "audio/mpeg",
+                        "@url": "https://sphinx.acast.com/p/acast/s/dtns/e/67bccd3319249d0c1a84dc67/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=gQ6NeDT6Yi7hUHLEwN1jyTUu6QPYqCs4V7kFQwwRUdU"
+                    },
+                    "guid": {
+                        "#text": "67bccd3319249d0c1a84dc67",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "24:38",
+                    "itunes:episode": "4962",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://assets.pippa.io/shows/61954547cb03c875f7617118/1739388329049-4cbc8f46-1db8-425e-9fa7-e39fd5e20205.jpeg"
+                    },
+                    "itunes:summary": "<p>Plus, why Microsoft and Google don\u2019t have to comply with the UK encryption issue that Apple does, and a computer mouse that smells nice.</p><br><p>Starring&nbsp;<strong>Tom Merritt&nbsp;</strong>and&nbsp;<strong>Rob Dunewood</strong>.</p><br><p>Show notes can be found <a href=\"https://dailytechnewsshow.com/2025/02/24/gmail-wants-to-verify-your-phone-number-with-a-qr-code-dtnsb-4962/\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p>",
+                    "itunes:title": "Gmail Wants to Verify Your Phone Number with a QR Code - DTNSB 4962",
+                    "link": "https://shows.acast.com/dtns/episodes/gmail-wants-to-verify-your-phone-number-with-a-qr-code-dtnsb",
+                    "pubDate": "Mon, 24 Feb 2025 19:49:07 GMT",
+                    "title": "Gmail Wants to Verify Your Phone Number with a QR Code - DTNSB 4962"
+                },
+                {
                     "acast:episodeId": "67b8d30c86a56284d08243bb",
                     "acast:episodeUrl": "apple-pulls-encryption-from-the-uk-dtnsb-4961",
                     "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCet1xtSdMKrR6kHDCya+psdSwUcToL9XSCzfXIyBIsANQikw0RNv7TbBOjm85TtW+hJIQizR+kQJ+a/K+SXTbeAbMOD436sOKgVJnYxYB5V4FD6A7TAA7QMt8beyOzNLiucCMl2yozNVAX2rpwqu6bcOVoZoOTEr/avUv5CCdVL/hu55rC4OPC7ba1mkNQR2hi9BiW6YI1G8TRFn5HrP1/8q5fT2K5ayNA8F6EltvIv45ifu4G9IwdYaiBlNRVLQe7pZs7E+MWMR7lKBemnE+4L8bYsUPYN1k1tOBfIYnX2indEpmk3ltshlOvyIOsbiuJqZPNZAocEGselljA6OcsU",

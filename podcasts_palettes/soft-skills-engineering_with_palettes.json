@@ -26,6 +26,29 @@
             },
             "item": [
                 {
+                    "description": "<p>In this episode, Dave and Jamison answer these questions:</p>\n\n<ol>\n  <li>\n    <p>Hello, long time listener first time question asker. I work for a medium sized tech company and I recently moved teams. Right now my old team is attempting to refactor a bunch of code I wrote to use a library that\u2019ll make life easier. I don\u2019t blame them, I tried to do the same thing. It does not work. I asked the tech lead \u201cdid you run into the same framework bug I did when I tried this refactor\u201d\u2026 \u201cnope\u201d he said. So out of curiosity I pulled down the branch and guess what I saw, the same bug when I tried this refactor 3 months ago. Now I am in a weird position. Do I tell the tech lead again (he was the tech lead when I tried this same refactor) that this does not work or do I ignore it because I am no longer on that team? I don\u2019t want to overstep my bounds but I also know its a lot of work to refactor all this code, so much work they\u2019d need to stop delivering features and add this to their roadmap.</p>\n  </li>\n  <li>\n    <p>I have been interviewing for leadership roles and I keep getting asked \u201cWhat is your Leadership Style\u201d? I am honestly not quite sure how to answer this as I don\u2019t really understand what they are asking. I have searched the internet for a clean, 5th normal form database that lists the available styles to no avail with no definitive tables. It seems this is truly a soft skill. From your experience, what is the interviewer really asking in this case, how can I better identify common styles, and what can I do to grow my skills in this area?</p>\n  </li>\n</ol>\n",
+                    "enclosure": {
+                        "@length": "28148757",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-449.mp3?source=rss"
+                    },
+                    "guid": {
+                        "#text": "e26439c5-accc-472a-a17f-5fb83a66af6d",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "",
+                    "itunes:duration": "29:54",
+                    "itunes:explicit": "no",
+                    "itunes:subtitle": "",
+                    "link": "https://softskills.audio/2025/02/24/episode-449-my-tech-lead-ignored-my-warnings-and-i-don't-know-what-my-leadership-style-is/",
+                    "pubDate": "Mon, 24 Feb 2025 12:00:00 +0000",
+                    "source": {
+                        "#text": "Soft Skills Engineering",
+                        "@url": "https://softskills.audio"
+                    },
+                    "title": "Episode 449: My tech lead ignored my warnings and I don't know what my leadership style is"
+                },
+                {
                     "description": "<p>In this episode, Dave and Jamison answer these questions:</p>\n\n<ol>\n  <li>\n    <p>A listener named Steven says,</p>\n\n    <p>Long-time listener of the podcast here\u2014it always brings me so much joy!</p>\n\n    <p>Should I prioritize title over salary?</p>\n\n    <p>I\u2019m currently based in Europe, working as a Senior Engineer at a big company that pays really well. The problem is, there\u2019s almost no chance for promotion due to the economy and budget constraints. Plus, because of the organizational structure, I\u2019m stuck solving small problems that don\u2019t have a big impact. It\u2019s frustrating\u2014but again, the pay is great.</p>\n\n    <p>Recently, I got an offer for a Staff Engineer position at another company. The catch is, the pay isn\u2019t as good (30%+ cut), and I\u2019m not sure about their culture or structure yet. However, the title could potentially open more doors for me in the future.</p>\n\n    <p>Should I take the offer, accept the pay cut, and hope it\u2019s a step forward for my career?</p>\n  </li>\n  <li>\n    <p>Hello! Long time listener, first-time caller :-) I\u2019m on the final stretch of classes to finish my BS in computer science at WGU, most of which I\u2019ve done while working. I\u2019m now 40, and I have had 3 previous occupations and employers: aircraft mechanic for 5 years at a small shop, figure skater with Disney on Ice for 6 years, and most recently a partner at an environmental remediation/heavy construction firm for 10 years where my primary responsibilities were field crew management and technical writing for ecology reports. I would love your advice on how I could use these experiences to stand out on a resume or in a job interview. How can I indicate that I\u2019m a hard worker and that I know just enough to know that I know nothing and am ready to learn? Thank you for your time, keep up the good work!</p>\n  </li>\n</ol>\n",
                     "enclosure": {
                         "@length": "27393066",
@@ -10370,7 +10393,7 @@
             "itunes:subtitle": "It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly advice podcast for software developers about the non-technical stuff that goes into being a great software developer.",
             "itunes:summary": "It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly advice podcast for software developers about the non-technical stuff that goes into being a great software developer.",
             "language": "en",
-            "lastBuildDate": "2025-02-17 12:00:00 +0000",
+            "lastBuildDate": "2025-02-24 12:00:00 +0000",
             "link": "https://softskills.audio/",
             "managingEditor": "Jamison Dance and Dave Smith",
             "title": "Soft Skills Engineering",

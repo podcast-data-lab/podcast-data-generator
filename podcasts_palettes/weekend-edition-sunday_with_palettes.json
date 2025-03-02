@@ -27,6 +27,292 @@
             },
             "item": [
                 {
+                    "author": "Lauren Frayer",
+                    "description": "News of Amazon's takeover of the 007 franchise has shaken and stirred James Bond fans in the secret agent's homeland of Britain.",
+                    "enclosure": {
+                        "@length": "2862000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/02/20250223_wesun_amazon_s_james_bond_takeover_is_met_with_outrage_by_british_fans_of_the_spy_franchise.mp3?size=2548342&d=159220&e=nx-s1-5305102"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-108661",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Lauren Frayer",
+                    "itunes:duration": "00:02:39",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Amazon's James Bond takeover is met with outrage by British fans of the spy franchise",
+                    "itunes:summary": "News of Amazon's takeover of the 007 franchise has shaken and stirred James Bond fans in the secret agent's homeland of Britain.",
+                    "itunes:title": "Amazon's James Bond takeover is met with outrage by British fans of the spy franchise",
+                    "link": "https://www.kuow.org/stories/amazon-s-james-bond-takeover-is-met-with-outrage-by-british-fans-of-the-spy-franchise",
+                    "pubDate": "Sun, 23 Feb 2025 05:34:58 -0800",
+                    "title": "Amazon's James Bond takeover is met with outrage by British fans of the spy franchise"
+                },
+                {
+                    "author": [
+                        "Rob Schmitz",
+                        "Jim Kane",
+                        "Ayesha Rascoe"
+                    ],
+                    "description": "Germany goes to the polls in an election dominated by talk of the rise of the far right. Also on voters' minds are the economy, immigration, and relations with Donald Trump.",
+                    "enclosure": {
+                        "@length": "4302000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/02/20250223_wesun_germany_votes_for_a_new_government_with_the_alt-right_on_the_rise.mp3?size=3827297&d=239165&e=nx-s1-5301020"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-108658",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": [
+                        "Rob Schmitz",
+                        "Jim Kane",
+                        "Ayesha Rascoe"
+                    ],
+                    "itunes:duration": "00:03:59",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Germany votes for a new government with the alt-right on the rise",
+                    "itunes:summary": "Germany goes to the polls in an election dominated by talk of the rise of the far right. Also on voters' minds are the economy, immigration, and relations with Donald Trump.",
+                    "itunes:title": "Germany votes for a new government with the alt-right on the rise",
+                    "link": "https://www.kuow.org/stories/germany-votes-for-a-new-government-with-the-alt-right-on-the-rise",
+                    "pubDate": "Sun, 23 Feb 2025 05:34:55 -0800",
+                    "title": "Germany votes for a new government with the alt-right on the rise"
+                },
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "The Palisades and Eaton wildfires left a vast amount of toxic debris. NPR's Ayesha Rascoe speaks with Tony Briscoe, environmental reporter at The Los Angeles Times, about where the cleanup stands.",
+                    "enclosure": {
+                        "@length": "5490000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/02/20250223_wesun_la_s_wildfire_cleanup_efforts_struggle_to_meet_trump_s_deadline_amid_fema_setbacks.mp3?size=4893093&d=305778&e=nx-s1-5305077"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-108660",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:05:05",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "LA's wildfire cleanup efforts struggle to meet Trump's deadline amid FEMA setbacks",
+                    "itunes:summary": "The Palisades and Eaton wildfires left a vast amount of toxic debris. NPR's Ayesha Rascoe speaks with Tony Briscoe, environmental reporter at The Los Angeles Times, about where the cleanup stands.",
+                    "itunes:title": "LA's wildfire cleanup efforts struggle to meet Trump's deadline amid FEMA setbacks",
+                    "link": "https://www.kuow.org/stories/la-s-wildfire-cleanup-efforts-struggle-to-meet-trump-s-deadline-amid-fema-setbacks",
+                    "pubDate": "Sun, 23 Feb 2025 05:34:45 -0800",
+                    "title": "LA's wildfire cleanup efforts struggle to meet Trump's deadline amid FEMA setbacks"
+                },
+                {
+                    "author": "Rob Stein",
+                    "description": "Medical researchers say the Trump administration's plan to reduce payments for indirect research costs will hamper the search for new cures. A visit to University of Maryland lab studying how viruses spread to illustrates the impact.",
+                    "enclosure": {
+                        "@length": "4788000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/02/20250223_wesun_medical_researchers_brace_for_ripple_effects_from_cuts_in_nih_funding.mp3?size=4271169&d=266916&e=nx-s1-5290142"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-108656",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Rob Stein",
+                    "itunes:duration": "00:04:26",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Medical researchers brace for ripple effects from cuts in NIH funding",
+                    "itunes:summary": "Medical researchers say the Trump administration's plan to reduce payments for indirect research costs will hamper the search for new cures. A visit to University of Maryland lab studying how viruses spread to illustrates the impact.",
+                    "itunes:title": "Medical researchers brace for ripple effects from cuts in NIH funding",
+                    "link": "https://www.kuow.org/stories/medical-researchers-brace-for-ripple-effects-from-cuts-in-nih-funding",
+                    "pubDate": "Sun, 23 Feb 2025 05:34:39 -0800",
+                    "title": "Medical researchers brace for ripple effects from cuts in NIH funding"
+                },
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "Friday, February 21st marked the 60th anniversary of the death of civil rights leader Malcolm X. NPR's Ayesha Rascoe reflects on his legacy with his daughter, Ilyasah Shabazz.",
+                    "enclosure": {
+                        "@length": "8604000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/02/20250223_wesun_malcolm_x_s_daughter_ilyasah_shabazz_reflects_on_the_legacy_of_the_civil_rights_leader.mp3?size=7648698&d=478005&e=nx-s1-5304339"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-108662",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:07:58",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Malcolm X's daughter Ilyasah Shabazz reflects on the legacy of the civil rights leader",
+                    "itunes:summary": "Friday, February 21st marked the 60th anniversary of the death of civil rights leader Malcolm X. NPR's Ayesha Rascoe reflects on his legacy with his daughter, Ilyasah Shabazz.",
+                    "itunes:title": "Malcolm X's daughter Ilyasah Shabazz reflects on the legacy of the civil rights leader",
+                    "link": "https://www.kuow.org/stories/malcolm-x-s-daughter-ilyasah-shabazz-reflects-on-the-legacy-of-the-civil-rights-leader",
+                    "pubDate": "Sun, 23 Feb 2025 05:34:32 -0800",
+                    "title": "Malcolm X's daughter Ilyasah Shabazz reflects on the legacy of the civil rights leader"
+                },
+                {
+                    "author": "Rose Conlon",
+                    "description": "One suburban Kansas resident is pressing state lawmakers to legalize raccoons as pets. He says they're smarter and friendlier than people give them credit for.",
+                    "enclosure": {
+                        "@length": "3546000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/02/20250223_wesun_raccoon_ate_my_homework_kansas_man_wants_the_state_to_legalize_raccoons_as_pets.mp3?size=3167757&d=197942&e=nx-s1-5302663"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-108663",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Rose Conlon",
+                    "itunes:duration": "00:03:17",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Raccoon ate my homework: Kansas man wants the state to legalize raccoons as pets",
+                    "itunes:summary": "One suburban Kansas resident is pressing state lawmakers to legalize raccoons as pets. He says they're smarter and friendlier than people give them credit for.",
+                    "itunes:title": "Raccoon ate my homework: Kansas man wants the state to legalize raccoons as pets",
+                    "link": "https://www.kuow.org/stories/raccoon-ate-my-homework-kansas-man-wants-the-state-to-legalize-raccoons-as-pets",
+                    "pubDate": "Sun, 23 Feb 2025 05:34:26 -0800",
+                    "title": "Raccoon ate my homework: Kansas man wants the state to legalize raccoons as pets"
+                },
+                {
+                    "author": [
+                        "Jane Arraf",
+                        "Ayesha Rascoe"
+                    ],
+                    "description": "Hezbollah on Sunday holds a long-delayed funeral for leader Hassan Nasrallah, killed in an Israeli airstrike in Beirut in November. The event is expected to be akin to a state funeral, marking the end of an era for the Iran-backed group.",
+                    "enclosure": {
+                        "@length": "4968000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/02/20250223_wesun_hezbollah_to_hold_funeral_for_hassan_nasrallah_assassinated_by_israel_in_september.mp3?size=4420381&d=276244&e=nx-s1-5301698"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-108657",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": [
+                        "Jane Arraf",
+                        "Ayesha Rascoe"
+                    ],
+                    "itunes:duration": "00:04:36",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Hezbollah to hold funeral for Hassan Nasrallah, assassinated by Israel in September",
+                    "itunes:summary": "Hezbollah on Sunday holds a long-delayed funeral for leader Hassan Nasrallah, killed in an Israeli airstrike in Beirut in November. The event is expected to be akin to a state funeral, marking the end of an era for the Iran-backed group.",
+                    "itunes:title": "Hezbollah to hold funeral for Hassan Nasrallah, assassinated by Israel in September",
+                    "link": "https://www.kuow.org/stories/hezbollah-to-hold-funeral-for-hassan-nasrallah-assassinated-by-israel-in-september",
+                    "pubDate": "Sun, 23 Feb 2025 05:34:22 -0800",
+                    "title": "Hezbollah to hold funeral for Hassan Nasrallah, assassinated by Israel in September"
+                },
+                {
+                    "author": [
+                        "Ayesha Rascoe",
+                        "Sarah McCammon"
+                    ],
+                    "description": "Two gatherings of conservative activists, one supportive of President Trump and the other opposed, show how he has remade the Republican Party.",
+                    "enclosure": {
+                        "@length": "6894000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/02/20250223_wesun_two_conservative_events_show_how_trump_has_created_a_divide_in_the_republican_party.mp3?size=6134849&d=383384&e=nx-s1-5300044"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-108659",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": [
+                        "Ayesha Rascoe",
+                        "Sarah McCammon"
+                    ],
+                    "itunes:duration": "00:06:23",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Two conservative events show how Trump has created a divide in the Republican Party",
+                    "itunes:summary": "Two gatherings of conservative activists, one supportive of President Trump and the other opposed, show how he has remade the Republican Party.",
+                    "itunes:title": "Two conservative events show how Trump has created a divide in the Republican Party",
+                    "link": "https://www.kuow.org/stories/two-conservative-events-show-how-trump-has-created-a-divide-in-the-republican-party",
+                    "pubDate": "Sun, 23 Feb 2025 05:34:19 -0800",
+                    "title": "Two conservative events show how Trump has created a divide in the Republican Party"
+                },
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "It has been three years since Russia launched its full-scale invasion of Ukraine. NPR's Ayesha Rascoe speaks with Ukrainian journalist Nataliya Gumenyuk about how Ukrainians feel about the ceasefire discussions that don't include them.",
+                    "enclosure": {
+                        "@length": "6444000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/02/20250223_wesun_why_ukrainians_are_skeptical_of_a_ceasefire_deal_even_after_3_years_of_war.mp3?size=5733191&d=358280&e=nx-s1-5305783"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-108654",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:05:58",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Why Ukrainians are skeptical of a ceasefire deal even after 3 years of war",
+                    "itunes:summary": "It has been three years since Russia launched its full-scale invasion of Ukraine. NPR's Ayesha Rascoe speaks with Ukrainian journalist Nataliya Gumenyuk about how Ukrainians feel about the ceasefire discussions that don't include them.",
+                    "itunes:title": "Why Ukrainians are skeptical of a ceasefire deal even after 3 years of war",
+                    "link": "https://www.kuow.org/stories/why-ukrainians-are-skeptical-of-a-ceasefire-deal-even-after-3-years-of-war",
+                    "pubDate": "Sun, 23 Feb 2025 05:04:01 -0800",
+                    "title": "Why Ukrainians are skeptical of a ceasefire deal even after 3 years of war"
+                },
+                {
+                    "author": [
+                        "Scott Horsley",
+                        "Ayesha Rascoe"
+                    ],
+                    "description": "Fears of renewed inflation are weighing on people's economic mood. That could affect their spending and the broader economic outlook.",
+                    "enclosure": {
+                        "@length": "4248000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/02/20250223_wesun_why_consumers_are_not_feeling_optimistic_about_the_economy_and_what_the_data_says.mp3?size=3787173&d=236665&e=nx-s1-5305154"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-108655",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": [
+                        "Scott Horsley",
+                        "Ayesha Rascoe"
+                    ],
+                    "itunes:duration": "00:03:56",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Why consumers are not feeling optimistic about the economy, and what the data says",
+                    "itunes:summary": "Fears of renewed inflation are weighing on people's economic mood. That could affect their spending and the broader economic outlook.",
+                    "itunes:title": "Why consumers are not feeling optimistic about the economy, and what the data says",
+                    "link": "https://www.kuow.org/stories/why-consumers-are-not-feeling-optimistic-about-the-economy-and-what-the-data-says",
+                    "pubDate": "Sun, 23 Feb 2025 05:03:57 -0800",
+                    "title": "Why consumers are not feeling optimistic about the economy, and what the data says"
+                },
+                {
                     "author": [
                         "Hadeel Al-Shalchi",
                         "Ayesha Rascoe"
@@ -2585,298 +2871,6 @@
                     "link": "https://www.kuow.org/stories/2024-saw-one-of-the-slowest-housing-markets-in-30-years-what-will-2025-bring",
                     "pubDate": "Sun, 29 Dec 2024 05:14:07 -0800",
                     "title": "2024 saw one of the slowest housing markets in 30 years. What will 2025 bring?"
-                },
-                {
-                    "author": [
-                        "Daniel Estrin",
-                        "Tamara Keith"
-                    ],
-                    "description": "A new Congress starts this week, with questions about whether House Speaker Mike Johnson can stay in his job and if GOP in-fighting will be an obstacle as the new Trump administration kicks off.",
-                    "enclosure": {
-                        "@length": "3834000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/12/20241229_wesun_politics_chat_what_to_expect_from_the_119th_congress_ahead_of_kickoff.mp3?size=3417697&d=213554&e=nx-s1-5239836"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-106095",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Daniel Estrin",
-                        "Tamara Keith"
-                    ],
-                    "itunes:duration": "00:03:33",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Politics chat: What to expect from the 119th Congress ahead of kickoff",
-                    "itunes:summary": "A new Congress starts this week, with questions about whether House Speaker Mike Johnson can stay in his job and if GOP in-fighting will be an obstacle as the new Trump administration kicks off.",
-                    "itunes:title": "Politics chat: What to expect from the 119th Congress ahead of kickoff",
-                    "link": "https://www.kuow.org/stories/politics-chat-what-to-expect-from-the-119th-congress-ahead-of-kickoff",
-                    "pubDate": "Sun, 29 Dec 2024 05:14:04 -0800",
-                    "title": "Politics chat: What to expect from the 119th Congress ahead of kickoff"
-                },
-                {
-                    "author": [
-                        "Daniel Estrin",
-                        "Anas Baba"
-                    ],
-                    "description": "NPR's producer in Gaza, Anas Baba, reflects on his year of reporting on the war and living through it.",
-                    "enclosure": {
-                        "@length": "7830000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/12/20241229_wesun_a_snapshot_of_a_year_spent_reporting_and_living_through_war_from_npr_s_producer_in_gaza.mp3?size=6969932&d=435575&e=nx-s1-5230368"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-106094",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Daniel Estrin",
-                        "Anas Baba"
-                    ],
-                    "itunes:duration": "00:07:15",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "A snapshot of a year spent reporting and living through war, from NPR's producer in Gaza",
-                    "itunes:summary": "NPR's producer in Gaza, Anas Baba, reflects on his year of reporting on the war and living through it.",
-                    "itunes:title": "A snapshot of a year spent reporting and living through war, from NPR's producer in Gaza",
-                    "link": "https://www.kuow.org/stories/a-snapshot-of-a-year-spent-reporting-and-living-through-war-from-npr-s-producer-in-gaza",
-                    "pubDate": "Sun, 29 Dec 2024 05:13:54 -0800",
-                    "title": "A snapshot of a year spent reporting and living through war, from NPR's producer in Gaza"
-                },
-                {
-                    "author": [
-                        "Ayesha Rascoe",
-                        "REBECCA COLLARD"
-                    ],
-                    "description": "NPR's Ayesha Rascoe talks with reporter Rebecca Collard about the investigation into Friday's attack on a Christmas market in Magdeburg, Germany.",
-                    "enclosure": {
-                        "@length": "4554000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/12/20241222_wesun_magdeburg_attack_update.mp3?size=4058846&d=253632&e=nx-s1-5236820"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-105813",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Ayesha Rascoe",
-                        "REBECCA COLLARD"
-                    ],
-                    "itunes:duration": "00:04:13",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Suspect charged in connection with German Christmas market attack",
-                    "itunes:summary": "NPR's Ayesha Rascoe talks with reporter Rebecca Collard about the investigation into Friday's attack on a Christmas market in Magdeburg, Germany.",
-                    "itunes:title": "Suspect charged in connection with German Christmas market attack",
-                    "link": "https://www.kuow.org/stories/suspect-charged-in-connection-with-german-christmas-market-attack",
-                    "pubDate": "Sun, 22 Dec 2024 07:21:07 -0800",
-                    "title": "Suspect charged in connection with German Christmas market attack"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "NPR's Ayesha Rascoe speaks with Reuters reporter Thomas Escritt about the investigation into the attack on a Christmas market in Magdeburg, Germany.",
-                    "enclosure": {
-                        "@length": "4356000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/12/20241222_wesun_german_authorities_investigate_deadly_christmas_market_attack.mp3?size=3876198&d=242225&e=nx-s1-5236126"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-105805",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:04:02",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "German authorities investigate deadly Christmas market attack",
-                    "itunes:summary": "NPR's Ayesha Rascoe speaks with Reuters reporter Thomas Escritt about the investigation into the attack on a Christmas market in Magdeburg, Germany.",
-                    "itunes:title": "German authorities investigate deadly Christmas market attack",
-                    "link": "https://www.kuow.org/stories/german-authorities-investigate-deadly-christmas-market-attack",
-                    "pubDate": "Sun, 22 Dec 2024 05:02:35 -0800",
-                    "title": "German authorities investigate deadly Christmas market attack"
-                },
-                {
-                    "author": "Emily Feng",
-                    "description": "After signing a sweeping ceasefire with Israel, the Lebanon-based paramilitary organization and political party is falling out of favor with some of its most ardent supporters.",
-                    "enclosure": {
-                        "@length": "6030000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/12/20241222_wesun_hezbollah_contends_with_rising_resentment_in_lebanon.mp3?size=5363715&d=335190&e=nx-s1-5233830"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-105803",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Emily Feng",
-                    "itunes:duration": "00:05:35",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Hezbollah contends with rising resentment in Lebanon",
-                    "itunes:summary": "After signing a sweeping ceasefire with Israel, the Lebanon-based paramilitary organization and political party is falling out of favor with some of its most ardent supporters.",
-                    "itunes:title": "Hezbollah contends with rising resentment in Lebanon",
-                    "link": "https://www.kuow.org/stories/hezbollah-contends-with-rising-resentment-in-lebanon",
-                    "pubDate": "Sun, 22 Dec 2024 05:02:32 -0800",
-                    "title": "Hezbollah contends with rising resentment in Lebanon"
-                },
-                {
-                    "author": [
-                        "Ryan Benk",
-                        "Ayesha Rascoe",
-                        "Ed McNulty"
-                    ],
-                    "description": "Many folks enjoy a few days off for the end-of-the-year holidays, but there are some workers who don't take the time off or can't. We hear from a few of them.",
-                    "enclosure": {
-                        "@length": "2916000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/12/20241222_wesun_these_workers_don_t_take_the_holidays_off.mp3?size=2594317&d=162096&e=nx-s1-5235218"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-105807",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Ryan Benk",
-                        "Ayesha Rascoe",
-                        "Ed McNulty"
-                    ],
-                    "itunes:duration": "00:02:42",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "These workers don't take the holidays off",
-                    "itunes:summary": "Many folks enjoy a few days off for the end-of-the-year holidays, but there are some workers who don't take the time off or can't. We hear from a few of them.",
-                    "itunes:title": "These workers don't take the holidays off",
-                    "link": "https://www.kuow.org/stories/these-workers-don-t-take-the-holidays-off",
-                    "pubDate": "Sun, 22 Dec 2024 05:02:28 -0800",
-                    "title": "These workers don't take the holidays off"
-                },
-                {
-                    "author": "Isabella Gomez Sarmiento",
-                    "description": "More women are posting online about why they quit the \"tradwife\" lifestyle to instead build a community of working moms on social media. (Story originally aired on Morning Edition on Dec. 19, 2024.)",
-                    "enclosure": {
-                        "@length": "4104000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/12/20241222_wesun_why_some_tradwives_are_abandoning_the_tiktok_lifestyle_trend.mp3?size=3656351&d=228469&e=nx-s1-5206673-e1"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-105811",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Isabella Gomez Sarmiento",
-                    "itunes:duration": "00:03:48",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Why some tradwives are abandoning the TikTok lifestyle trend",
-                    "itunes:summary": "More women are posting online about why they quit the \"tradwife\" lifestyle to instead build a community of working moms on social media. (Story originally aired on Morning Edition on Dec. 19, 2024.)",
-                    "itunes:title": "Why some tradwives are abandoning the TikTok lifestyle trend",
-                    "link": "https://www.kuow.org/stories/why-some-tradwives-are-abandoning-the-tiktok-lifestyle-trend",
-                    "pubDate": "Sun, 22 Dec 2024 05:02:25 -0800",
-                    "title": "Why some tradwives are abandoning the TikTok lifestyle trend"
-                },
-                {
-                    "author": "Hadeel Al-Shalchi",
-                    "description": "Syria has a new interim government, but there is concern about how it will govern following contradictory remarks. Some groups, including women's rights advocates, are already testing the terrain.",
-                    "enclosure": {
-                        "@length": "4104000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/12/20241222_wesun_inside_the_first_mass_protest_in_damascus_since_bashar_al-assad_fled_syria.mp3?size=3663457&d=228929&e=nx-s1-5234690"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-105810",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Hadeel Al-Shalchi",
-                    "itunes:duration": "00:03:48",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Inside the first mass protest in Damascus since Bashar al-Assad fled Syria",
-                    "itunes:summary": "Syria has a new interim government, but there is concern about how it will govern following contradictory remarks. Some groups, including women's rights advocates, are already testing the terrain.",
-                    "itunes:title": "Inside the first mass protest in Damascus since Bashar al-Assad fled Syria",
-                    "link": "https://www.kuow.org/stories/inside-the-first-mass-protest-in-damascus-since-bashar-al-assad-fled-syria",
-                    "pubDate": "Sun, 22 Dec 2024 05:02:21 -0800",
-                    "title": "Inside the first mass protest in Damascus since Bashar al-Assad fled Syria"
-                },
-                {
-                    "author": [
-                        "Joanna Kakissis",
-                        "Iryna Matviyishyn"
-                    ],
-                    "description": "As Russian troops near the city of Pokrovsk, where a beloved Ukrainian composer wrote his most famous song \u2014 now known worldwide as \"Carol of the Bells\" \u2014 Ukrainians seek to safeguard his legacy.",
-                    "enclosure": {
-                        "@length": "4698000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/12/20241222_wesun_russian_troops_close_in_on_ukrainian_city_where_classic_christmas_carol_was_born.mp3?size=4182562&d=261362&e=nx-s1-5234575"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-105812",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Joanna Kakissis",
-                        "Iryna Matviyishyn"
-                    ],
-                    "itunes:duration": "00:04:21",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Russian troops close in on Ukrainian city where classic Christmas carol was born",
-                    "itunes:summary": "As Russian troops near the city of Pokrovsk, where a beloved Ukrainian composer wrote his most famous song \u2014 now known worldwide as \"Carol of the Bells\" \u2014 Ukrainians seek to safeguard his legacy.",
-                    "itunes:title": "Russian troops close in on Ukrainian city where classic Christmas carol was born",
-                    "link": "https://www.kuow.org/stories/russian-troops-close-in-on-ukrainian-city-where-classic-christmas-carol-was-born",
-                    "pubDate": "Sun, 22 Dec 2024 05:02:18 -0800",
-                    "title": "Russian troops close in on Ukrainian city where classic Christmas carol was born"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "The Chattanooga sister trio talks about mixing music and motherhood, and shares the story behind their song \"Feet Are Dirty.\" (Story originally aired on Weekend Edition on April 21, 2024.)",
-                    "enclosure": {
-                        "@length": "7740000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/12/20241222_wesun_how_new_identities_as_parents_and_partners_shape_call_me_spinster_s_music.mp3?size=6880907&d=430020&e=nx-s1-4835575"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-105808",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:07:10",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "How new identities as parents and partners shape Call Me Spinster's music",
-                    "itunes:summary": "The Chattanooga sister trio talks about mixing music and motherhood, and shares the story behind their song \"Feet Are Dirty.\" (Story originally aired on Weekend Edition on April 21, 2024.)",
-                    "itunes:title": "How new identities as parents and partners shape Call Me Spinster's music",
-                    "link": "https://www.kuow.org/stories/how-new-identities-as-parents-and-partners-shape-call-me-spinster-s-music",
-                    "pubDate": "Sun, 22 Dec 2024 05:02:15 -0800",
-                    "title": "How new identities as parents and partners shape Call Me Spinster's music"
                 }
             ],
             "itunes:author": "NPR",
@@ -2893,7 +2887,7 @@
                 "itunes:name": "Weekend Edition Sunday"
             },
             "language": "en",
-            "lastBuildDate": "Sun, 23 Feb 2025 00:41:32 +0000",
+            "lastBuildDate": "Sat, 01 Mar 2025 23:57:39 +0000",
             "link": "https://www.kuow.org/podcasts/weekendedition-sunday",
             "podcast:locked": "no",
             "title": "Weekend Edition Sunday"

@@ -7,7 +7,7 @@
         "channel": {
             "copyright": "Copyright 2014-2021 NPR - For Personal Use Only",
             "description": "Unseeable forces control human behavior and shape our ideas, beliefs, and assumptions. Invisibilia\u2014Latin for invisible things\u2014fuses narrative storytelling with science that will make you see your own life differently.",
-            "generator": "NPR Feed Publish Service v1.18.0",
+            "generator": "NPR Feed Publish Service v1.19.11",
             "image": {
                 "link": "https://www.npr.org/podcasts/510307/invisibilia",
                 "palette": [
@@ -22,6 +22,35 @@
                 "url": "https://media.npr.org/assets/img/2022/09/23/invisibilia_tile_npr-network-01_sq-2382fccb673e33b6a484c55ddf092554dc1dd2fe.jpg?s=1400&c=66&f=jpg"
             },
             "item": [
+                {
+                    "content:encoded": "New from NPR's <em>Embedded</em>: Reporter Zach Mack thinks his dad has gone all in on conspiracy theories, while his father thinks that Zach is the one being brainwashed. In 2024, after the latest round of circular arguments, they decided to try something new, an attempt to pull each other out of the spell each of them thinks the other is under. Can one family live in two realities?<br/><br/>This is episode 1 of a three-part series. To hear the rest, head to <a href=\"https://www.npr.org/podcasts/510311/embedded\">NPR's <em>Embedded</em> podcast.</a><br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "description": "New from NPR's <em>Embedded</em>: Reporter Zach Mack thinks his dad has gone all in on conspiracy theories, while his father thinks that Zach is the one being brainwashed. In 2024, after the latest round of circular arguments, they decided to try something new, an attempt to pull each other out of the spell each of them thinks the other is under. Can one family live in two realities?<br/><br/>This is episode 1 of a three-part series. To hear the rest, head to <a href=\"https://www.npr.org/podcasts/510311/embedded\">NPR's <em>Embedded</em> podcast.</a><br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "enclosure": {
+                        "@length": "24862390",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510307/traffic.megaphone.fm/NPR5502242039.mp3?d=1553&size=24862390&e=1256998295&t=podcast&p=510307"
+                    },
+                    "guid": {
+                        "#text": "a8754bbc-ec9a-4cb8-bb90-d18763de07e2",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:block": "no",
+                    "itunes:duration": "1553",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://media.npr.org/assets/img/2025/02/24/apple-podcast-square-6-_sq-629b8084cd82d9ae2ecb6f912cba2f8d2f2739ca.jpg?s=3000&c=66&f=jpg"
+                    },
+                    "itunes:title": "Alternate Realities from NPR's Embedded",
+                    "link": "https://www.npr.org/2026/01/01/1256998295/embedded-alternate-realities-bonus",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://media.npr.org/assets/img/2025/02/24/embd_alternate-realities_scala-1920x1080_wide-79cd19fc3dc221966eab6caa00c208fc32ed1b90.jpg?s=1280&c=66&f=jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Mon, 24 Feb 2025 16:05:09 +0000",
+                    "title": "Alternate Realities from NPR's Embedded"
+                },
                 {
                     "content:encoded": "We go back almost 100 years, to the beginning of women's inclusion in elite sports. It turns out that men had an odd variety of concerns about women athletes. Some doubted these athletes were even women at all. And their skepticism resulted in the first policies requiring sex testing. <em>Tested</em> is a six-part series, you can binge all the episodes now in the <a href=\"https://www.npr.org/podcasts/510311/embedded\">Embedded podcast </a>and the <a href=\"https://www.cbc.ca/listen/cbc-podcasts/1733-tested\">CBC feed</a>.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
                     "description": "We go back almost 100 years, to the beginning of women's inclusion in elite sports. It turns out that men had an odd variety of concerns about women athletes. Some doubted these athletes were even women at all. And their skepticism resulted in the first policies requiring sex testing. <em>Tested</em> is a six-part series, you can binge all the episodes now in the <a href=\"https://www.npr.org/podcasts/510311/embedded\">Embedded podcast </a>and the <a href=\"https://www.cbc.ca/listen/cbc-podcasts/1733-tested\">CBC feed</a>.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
@@ -2623,7 +2652,7 @@
             },
             "itunes:type": "episodic",
             "language": "en",
-            "lastBuildDate": "Tue, 28 Jan 2025 19:47:06 +0000",
+            "lastBuildDate": "Mon, 24 Feb 2025 18:12:43 +0000",
             "link": "https://www.npr.org/podcasts/510307/invisibilia",
             "media:restriction": {
                 "#text": "es fi fr gb nl no se us dk at ch be au nz ca de it ie lu li ad mc pl pt is mx ee lv lt hk sg my tr gr ar tw hu cz mt bg sk cy br cl co uy sv py hn pa ni pe ec do gt cr bo ph id jp th vn ro il za in",

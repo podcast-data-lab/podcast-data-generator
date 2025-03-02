@@ -30,6 +30,28 @@
             },
             "item": [
                 {
+                    "content:encoded": "<p>\u201cElectroceuticals\u201d promised the post-pharma future for medicine. But the exclusive focus on the nervous system is seeming less and less warranted.</p><p><br></p><p>This story was written by Sally Adee and narrated by Noa - newsoveraudio.com.</p>",
+                    "description": "\u201cElectroceuticals\u201d promised the post-pharma future for medicine. But the exclusive focus on the nervous system is seeming less and less warranted.\n\nThis story was written by Sally Adee and narrated by Noa - newsoveraudio.com.",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://traffic.megaphone.fm/MIT3755379132.mp3?updated=1740509855"
+                    },
+                    "guid": {
+                        "#text": "acade798-f3a9-11ef-bba8-b7413a64b95a",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "MIT Technology Review",
+                    "itunes:duration": "2346",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": "",
+                    "itunes:summary": "\u201cElectroceuticals\u201d promised the post-pharma future for medicine. But the exclusive focus on the nervous system is seeming less and less warranted.\n\nThis story was written by Sally Adee and narrated by Noa - newsoveraudio.com.",
+                    "itunes:title": "The messy quest to replace drugs with electricity",
+                    "link": "https://www.technologyreview.com/2024/05/30/1092937/the-messy-quest-to-replace-drugs-with-electricity/",
+                    "pubDate": "Wed, 26 Feb 2025 06:00:00 -0000",
+                    "title": "The messy quest to replace drugs with electricity"
+                },
+                {
                     "content:encoded": "<p>As the climate changes, genetic engineering will be essential for growing food. But is it creating a race of superweeds?</p><p><br></p><p>This story was written by Douglas Main and narrated by Noa - newsoveraudio.com.</p>",
                     "description": "As the climate changes, genetic engineering will be essential for growing food. But is it creating a race of superweeds?\n\nThis story was written by Douglas Main and narrated by Noa - newsoveraudio.com.",
                     "enclosure": {

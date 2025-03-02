@@ -40,6 +40,38 @@
             "item": [
                 {
                     "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "The Massachusetts leader, whose influence goes well beyond her state, discusses how the Democratic Party can pick its battles and rebuild its brand.\n",
+                    "enclosure": {
+                        "@length": "42553846",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/8071e7aa-7bec-4bf8-97aa-d3a79a523d28/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=8071e7aa-7bec-4bf8-97aa-d3a79a523d28&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "b6f064f6-4904-4108-a673-565ce0ee7780",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:44:19",
+                    "itunes:episode": "45",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/915add02-5fa9-4ad0-8d52-44113e934187/3000x3000/01theinterview-applespotify-small.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "The Massachusetts leader, whose influence goes well beyond her state, discusses how the Democratic Party can pick its battles and rebuild its brand.",
+                    "itunes:summary": "The Massachusetts leader, whose influence goes well beyond her state, discusses how the Democratic Party can pick its battles and rebuild its brand.",
+                    "itunes:title": "Governor Maura Healey Wants Democrats to Put Up a Fight",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/7285393a-2db4-4e28-a60d-09fd0b92b2e9/01theinterview-youtube.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 1 Mar 2025 10:00:00 +0000",
+                    "title": "Governor Maura Healey Wants Democrats to Put Up a Fight"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
                     "description": "The Pulitzer Prize-winning science writer talks about burnout from covering the pandemic and how bird-watching gave him a new sense of hope.\n",
                     "enclosure": {
                         "@length": "38836514",
@@ -1534,9 +1566,9 @@
             "itunes:summary": "Conversations with the world\u2019s most fascinating people. Each week, hosts David Marchese and Lulu Garcia-Navarro talk to compelling, influential figures in culture, politics, business, sports and beyond \u2014 illuminating who they are, why they do what they do and how they impact the rest of us. New episodes every Saturday.",
             "itunes:type": "episodic",
             "language": "en",
-            "lastBuildDate": "Sat, 22 Feb 2025 10:00:13 +0000",
+            "lastBuildDate": "Sat, 1 Mar 2025 10:00:13 +0000",
             "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 22 Feb 2025 10:00:00 +0000",
+            "pubDate": "Sat, 1 Mar 2025 10:00:00 +0000",
             "title": "The Interview"
         }
     }

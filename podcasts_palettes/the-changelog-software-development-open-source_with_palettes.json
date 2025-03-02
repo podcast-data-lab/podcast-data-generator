@@ -23,6 +23,480 @@
             "description": "Software's best weekly news brief, deep technical interviews & talk show.",
             "item": [
                 {
+                    "content:encoded": "<p>It\u2019s <a href=\"https://github.com/thechangelog/changelog.com/discussions/538\">Kaizen 18</a>! Can you believe it? We discuss the recent Fly.io outage, some little features we\u2019ve added since our last Kaizen, our new video-first production, and of course, catch up on all things Pipely! Oh, and Gerhard surprises us (once again). BAM!</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/455613-friends\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 7 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://retool.com/changelog\">Retool</a> \u2013 <strong>The low-code platform for developers to build internal tools</strong> \u2014 Some of the best teams out there trust Retool\u2026Brex, Coinbase, Plaid, Doordash, LegalGenius, Amazon, Allbirds, Peloton, and so many more \u2013 the developers at these teams trust Retool as the platform to build their internal tools. Try it free at <a href=\"https://retool.com/changelog\">retool.com/changelog</a>\n</li>\n<li><a href=\"https://sentry.io/\">Sentry</a> \u2013 Use the code <code>CHANGELOG</code> when you sign up to <strong>get $100 off the team plan</strong>.\n</li>\n<li><a href=\"https://temporal.io\">Temporal</a> \u2013 Build invincible applications. Manage failures, network outages, flaky endpoints, long-running processes and more, ensuring your workflows never fail. Register for <a href=\"https://replay.temporal.io\">Replay in London, March 3-5</a> to break free from the status quo.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Gerhard Lazu &ndash; <a href=\"https://gerhard.io\" rel=\"external ugc\">Website</a>, <a href=\"https://github.com/gerhard\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/gerhardlazu\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://x.com/gerhardlazu\" rel=\"external ugc\">X</a></li><li>Jerod Santo &ndash; <a href=\"https://github.com/jerodsanto\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/jerodsanto\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://changelog.social/@jerod\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://x.com/jerodsanto\" rel=\"external ugc\">X</a></li><li>Adam Stacoviak &ndash; <a href=\"https://adamstacoviak.com/\" rel=\"external ugc\">Website</a>, <a href=\"https://github.com/adamstac\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/adamstacoviak\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://changelog.social/@adam\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://x.com/adamstac\" rel=\"external ugc\">X</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://github.com/thechangelog/changelog.com/discussions/538\">Discussion #538: \ud83c\udfa7 Kaizen 18</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=pc-KKJUf3q4\">\u201cBackslashes Are Trash\u201d</a></li>\n<li><a href=\"https://pop.system76.com/\">Pop!_OS by System76</a></li>\n<li><a href=\"https://pipely.tech/\">Pipely</a></li>\n<li><a href=\"https://www.samsung.com/us/televisions-home-theater/tvs/oled-tvs/65-class-oled-s95d-qn65s95dafxza/\">Samsung S95D</a></li>\n<li><a href=\"https://makeitwork.tv/\">Make it Work</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/friends/changelog--friends-82.md\">PRs welcome!</a></p>",
+                    "description": "It's Kaizen 18! Can you believe it? We discuss the recent Fly.io outage, some little features we've added since our last Kaizen, our new video-first production, and of course, catch up on all things Pipely! Oh, and Gerhard surprises us (once again). BAM!",
+                    "enclosure": {
+                        "@length": "114437880",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/friends/82/changelog--friends-82.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/17/2672",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:58:41",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/changelog--friends-original.png?v=63848361609"
+                    },
+                    "link": "https://changelog.com/friends/82",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/friends/82/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Jerod Santo",
+                            "@href": "https://changelog.com/person/jerodsanto",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/z4/avatar_large.jpeg?v=63760071650",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Adam Stacoviak",
+                            "@href": "https://changelog.com/person/adamstac",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/Qo/avatar_large.jpg?v=63760280419",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Gerhard Lazu",
+                            "@href": "https://changelog.com/person/gerhard",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/py/avatar_large.png?v=63898311270",
+                            "@role": "guest"
+                        }
+                    ],
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "Let's Kaizen!"
+                            },
+                            {
+                                "@href": "https://retool.com/changelog",
+                                "@start": "38",
+                                "@title": "Sponsor: Retool"
+                            },
+                            {
+                                "@start": "203",
+                                "@title": "Pager duty & Friends"
+                            },
+                            {
+                                "@start": "351",
+                                "@title": "Gerhard's watch"
+                            },
+                            {
+                                "@start": "537",
+                                "@title": "SELECT count(*) FROM appearances"
+                            },
+                            {
+                                "@start": "719",
+                                "@title": "Changelog was down"
+                            },
+                            {
+                                "@start": "1131",
+                                "@title": "Linkify chapters in Zulip"
+                            },
+                            {
+                                "@image": "https://cdn.changelog.com/friends/82-crow.png",
+                                "@start": "1288",
+                                "@title": "Adam eats (thicc) crow"
+                            },
+                            {
+                                "@start": "1387",
+                                "@title": "Pronouncing things is hard"
+                            },
+                            {
+                                "@href": "https://sentry.io/",
+                                "@start": "1541",
+                                "@title": "Sponsor: Sentry"
+                            },
+                            {
+                                "@start": "1665",
+                                "@title": "Video-first feedback"
+                            },
+                            {
+                                "@start": "1755",
+                                "@title": "Adam's new machine"
+                            },
+                            {
+                                "@start": "2133",
+                                "@title": "Gerhard's GPU adventure"
+                            },
+                            {
+                                "@start": "2244",
+                                "@title": "Windows v Linux talk"
+                            },
+                            {
+                                "@start": "2402",
+                                "@title": "WSL 2"
+                            },
+                            {
+                                "@start": "2473",
+                                "@title": "Builder's remorse"
+                            },
+                            {
+                                "@start": "2584",
+                                "@title": "Adam's why"
+                            },
+                            {
+                                "@start": "2706",
+                                "@title": "Video pods launch retro"
+                            },
+                            {
+                                "@start": "3095",
+                                "@title": "YouTube integrations"
+                            },
+                            {
+                                "@start": "3155",
+                                "@title": "Commit-driven co"
+                            },
+                            {
+                                "@href": "https://temporal.io",
+                                "@start": "3176",
+                                "@title": "Sponsor: Temporal"
+                            },
+                            {
+                                "@start": "3300",
+                                "@title": "CPU.fm talk"
+                            },
+                            {
+                                "@start": "3453",
+                                "@title": "rails new cpu"
+                            },
+                            {
+                                "@start": "3551",
+                                "@title": "Pipely!"
+                            },
+                            {
+                                "@start": "3629",
+                                "@title": "Matt Johnson!"
+                            },
+                            {
+                                "@start": "3756",
+                                "@title": "Nabeel Sulieman!"
+                            },
+                            {
+                                "@start": "4063",
+                                "@title": "Pipely demo"
+                            },
+                            {
+                                "@start": "4599",
+                                "@title": "Scale up?"
+                            },
+                            {
+                                "@image": "https://cdn.changelog.com/friends/82-gerhards-bam.jpg",
+                                "@start": "4920",
+                                "@title": "One more thing!"
+                            },
+                            {
+                                "@start": "5133",
+                                "@title": "Adam wants his toy"
+                            },
+                            {
+                                "@start": "5221",
+                                "@title": "Jerod wants Gerhard's toy"
+                            },
+                            {
+                                "@start": "5265",
+                                "@title": "Fly scale fail"
+                            },
+                            {
+                                "@start": "5378",
+                                "@title": "Scale costs"
+                            },
+                            {
+                                "@start": "5605",
+                                "@title": "Throttling"
+                            },
+                            {
+                                "@start": "5789",
+                                "@title": "System memory design"
+                            },
+                            {
+                                "@start": "6010",
+                                "@title": "The roadmap"
+                            },
+                            {
+                                "@start": "6223",
+                                "@title": "Birthday presents"
+                            },
+                            {
+                                "@start": "6274",
+                                "@title": "Zooming out"
+                            },
+                            {
+                                "@start": "6465",
+                                "@title": "Two more thing"
+                            },
+                            {
+                                "@start": "6670",
+                                "@title": "A guided tour?"
+                            },
+                            {
+                                "@href": "https://makeitwork.tv",
+                                "@start": "6749",
+                                "@title": "makeitwork.tv"
+                            },
+                            {
+                                "@start": "6937",
+                                "@title": "Bye, friends"
+                            },
+                            {
+                                "@start": "6962",
+                                "@title": "Coming up next"
+                            }
+                        ]
+                    },
+                    "pubDate": "Fri, 28 Feb 2025 23:15:00 +0000",
+                    "title": "Kaizen! Pipely goes BAM (Friends)"
+                },
+                {
+                    "content:encoded": "<p>Anurag Goel, Founder/CEO of Render, joins Adam to discuss what they\u2019re doing to solve cloud problems for application developers. They just raised $80M they don\u2019t even need and they\u2019re poised to solve boring problems like object storage, and less boring things like building for the AI era.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456187-interviews\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members get a bonus 4 minutes at the end of this episode and zero ads. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://retool.com/changelog\">Retool</a> \u2013 <strong>The low-code platform for developers to build internal tools</strong> \u2014 Some of the best teams out there trust Retool\u2026Brex, Coinbase, Plaid, Doordash, LegalGenius, Amazon, Allbirds, Peloton, and so many more \u2013 the developers at these teams trust Retool as the platform to build their internal tools. Try it free at <a href=\"https://retool.com/changelog\">retool.com/changelog</a>\n</li>\n<li><a href=\"https://sentry.io/\">Sentry</a> \u2013 Use the code <code>CHANGELOG</code> when you sign up to <strong>get $100 off the team plan</strong>.\n</li>\n<li><a href=\"https://temporal.io\">Temporal</a> \u2013 Build invincible applications. Manage failures, network outages, flaky endpoints, long-running processes and more, ensuring your workflows never fail. Register for <a href=\"https://replay.temporal.io\">Replay in London, March 3-5</a> to break free from the status quo.\n</li>\n<li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Anurag Goel &ndash; <a href=\"https://www.linkedin.com/in/anuragoel\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://x.com/anuraggoel\" rel=\"external ugc\">X</a></li><li>Adam Stacoviak &ndash; <a href=\"https://adamstacoviak.com/\" rel=\"external ugc\">Website</a>, <a href=\"https://github.com/adamstac\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/adamstacoviak\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://changelog.social/@adam\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://x.com/adamstac\" rel=\"external ugc\">X</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://render.com/blog/series-c\">$80M to reimagine the cloud for the AI era</a></li>\n<li><a href=\"https://changelog.com/podcast/621\">Changelog Interviews #621: Building the developer cloud with Kurt Mackey (CEO of Fly)</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/podcast/the-changelog-630.md\">PRs welcome!</a></p>",
+                    "description": "Anurag Goel, Founder/CEO of Render, joins Adam to discuss what they're doing to solve cloud problems for application developers. They just raised $80M they don't even need and they're poised to solve boring problems like object storage, and less boring things like building for the AI era.",
+                    "enclosure": {
+                        "@length": "162224855",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/podcast/630/the-changelog-630.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/1/2669",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:52:33",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/changelog-interviews-original.png?v=63848368174"
+                    },
+                    "link": "https://changelog.com/podcast/630",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/podcast/630/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Adam Stacoviak",
+                            "@href": "https://changelog.com/person/adamstac",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/Qo/avatar_large.jpg?v=63760280419",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Anurag Goel",
+                            "@href": "https://changelog.com/person/anurag",
+                            "@img": "https://secure.gravatar.com/avatar/2177dfc90125a992504d30434b04bca3.jpg?s=600&d=mm",
+                            "@role": "guest"
+                        }
+                    ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@changelog/114077486747891178"
+                    },
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "This week on The Changelog"
+                            },
+                            {
+                                "@href": "https://retool.com/changelog",
+                                "@start": "72",
+                                "@title": "Sponsor: Retool"
+                            },
+                            {
+                                "@start": "238",
+                                "@title": "Start the show!"
+                            },
+                            {
+                                "@start": "675",
+                                "@title": "Imminent threat, but not facing Goliath"
+                            },
+                            {
+                                "@start": "1116",
+                                "@title": "Two pizza teams"
+                            },
+                            {
+                                "@start": "1388",
+                                "@title": "Legacy cloud vs complex cloud"
+                            },
+                            {
+                                "@start": "1638",
+                                "@title": "Being in it together"
+                            },
+                            {
+                                "@start": "1820",
+                                "@title": "Focused on solving problems and growing revenue"
+                            },
+                            {
+                                "@href": "https://sentry.io/",
+                                "@start": "1955",
+                                "@title": "Sponsor: Sentry"
+                            },
+                            {
+                                "@start": "2079",
+                                "@title": "Reinventing your job over and over"
+                            },
+                            {
+                                "@start": "2672",
+                                "@title": "Playing with AI via a gaming PC"
+                            },
+                            {
+                                "@start": "3196",
+                                "@title": "Spending $20M on GPUs"
+                            },
+                            {
+                                "@start": "3276",
+                                "@title": "Building a retry world"
+                            },
+                            {
+                                "@start": "3538",
+                                "@title": "Friendly neighborhood CEO"
+                            },
+                            {
+                                "@start": "3619",
+                                "@title": "Did you need the $80M?"
+                            },
+                            {
+                                "@href": "https://temporal.io",
+                                "@start": "4554",
+                                "@title": "Sponsor: Temporal"
+                            },
+                            {
+                                "@start": "4678",
+                                "@title": "Where do you go from here?"
+                            },
+                            {
+                                "@start": "4981",
+                                "@title": "Examining the Render org chart"
+                            },
+                            {
+                                "@start": "5519",
+                                "@title": "How deep shoudl we go?"
+                            },
+                            {
+                                "@start": "5880",
+                                "@title": "Enjoying that series C legitimacy"
+                            },
+                            {
+                                "@start": "6121",
+                                "@title": "The better new heroku?"
+                            },
+                            {
+                                "@start": "6272",
+                                "@title": "The cloud is BIG and there's lots of room"
+                            },
+                            {
+                                "@start": "6429",
+                                "@title": "Giving application developers what they want"
+                            },
+                            {
+                                "@start": "6524",
+                                "@title": "Wrapping up"
+                            },
+                            {
+                                "@start": "6575",
+                                "@title": "Closing thoughts and stuff"
+                            },
+                            {
+                                "@start": "6700",
+                                "@title": "++ Teaser"
+                            }
+                        ]
+                    },
+                    "pubDate": "Thu, 27 Feb 2025 18:00:00 +0000",
+                    "title": "Building for application developers (Interview)"
+                },
+                {
+                    "content:encoded": "<p>Kane Narraway thinks through the radical change AI tools have brought to the technical interview process, Rhys Kentish built an app that makes him touch grass, Microsoft announced their progress on quantum computing, Chris Horsley learns about software estimations by yak shaving a washing machine install &amp; Andreas Gohr built StumbleUpon for the IndieWeb.</p>\n<p><a href=\"https://changelog.com/news/133/email\">View the newsletter</a></p><p><a href=\"https://changelog.zulipchat.com/#narrow/stream/455469-news\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members support our work, get closer to the metal, and make the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://retool.com/changelog\">Retool</a> \u2013 <strong>The low-code platform for developers to build internal tools</strong> \u2014 Some of the best teams out there trust Retool\u2026Brex, Coinbase, Plaid, Doordash, LegalGenius, Amazon, Allbirds, Peloton, and so many more \u2013 the developers at these teams trust Retool as the platform to build their internal tools. Try it free at <a href=\"https://retool.com/changelog\">retool.com/changelog</a>\n</li>\n</ul></p><p>Featuring:</p><ul><li>Jerod Santo &ndash; <a href=\"https://github.com/jerodsanto\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/jerodsanto\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://changelog.social/@jerod\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://x.com/jerodsanto\" rel=\"external ugc\">X</a></li></ul></p>",
+                    "description": "Kane Narraway thinks through the radical change AI tools have brought to the technical interview process, Rhys Kentish built an app that makes him touch grass, Microsoft announced their progress on quantum computing, Chris Horsley learns about software estimations by yak shaving a washing machine install & Andreas Gohr built StumbleUpon for the IndieWeb.",
+                    "enclosure": {
+                        "@length": "6361064",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/news/133/changelog-news-133.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/16/2671",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "06:23",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/changelog-news-original.png?v=63848365621"
+                    },
+                    "link": "https://changelog.com/news/133",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/news/133/chapters"
+                    },
+                    "podcast:person": {
+                        "#text": "Jerod Santo",
+                        "@href": "https://changelog.com/person/jerodsanto",
+                        "@img": "https://cdn.changelog.com/uploads/avatars/people/z4/avatar_large.jpeg?v=63760071650",
+                        "@role": "host"
+                    },
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@changelog/114061187874396306"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/news/133/transcript"
+                    },
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@href": "https://www.youtube.com/watch?utm_source=changelog-news&v=JRnDYB28bL8",
+                                "@start": "0",
+                                "@title": "What up, Severance nerds?"
+                            },
+                            {
+                                "@href": "https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/?utm_source=changelog-news",
+                                "@start": "30",
+                                "@title": "AI killed the tech interview. Now what?"
+                            },
+                            {
+                                "@href": "https://touchgrass.now/?utm_source=changelog-news",
+                                "@start": "107",
+                                "@title": "An app to lock your apps until you touch grass"
+                            },
+                            {
+                                "@href": "https://login.retool.com/guided-tour?utm_source=changelog-news",
+                                "@start": "138",
+                                "@title": "Sponsor: Retool"
+                            },
+                            {
+                                "@href": "https://news.microsoft.com/azure-quantum/?utm_source=changelog-news",
+                                "@image": "https://cdn.changelog.com/news/133-majorana-1.jpg",
+                                "@start": "190",
+                                "@title": "Microsoft's Majorana 1 chip"
+                            },
+                            {
+                                "@href": "https://www.cosive.com/blog/my-washing-machine-refreshed-my-thinking-on-software-effort-estimation?utm_source=changelog-news",
+                                "@start": "248",
+                                "@title": "On washine machines & estimations"
+                            },
+                            {
+                                "@href": "https://indieblog.page/?utm_source=changelog-news",
+                                "@start": "286",
+                                "@title": "Discover the IndieWeb, one blog post at a time"
+                            },
+                            {
+                                "@href": "https://changelog.com/news",
+                                "@start": "323",
+                                "@title": "That's the news for now"
+                            }
+                        ]
+                    },
+                    "pubDate": "Mon, 24 Feb 2025 22:20:00 +0000",
+                    "title": "AI killed the tech interview. Now what? (News)"
+                },
+                {
                     "content:encoded": "<p>Jerod and Adam use Chris Kiehl\u2019s post on development topics he\u2019s changed his mind on (over the last 10 years) as a proxy for discussion on dev things they HAVE and HAVE NOT changed their minds on.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/455613-friends\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 9 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://retool.com/changelog\">Retool</a> \u2013 <strong>The low-code platform for developers to build internal tools</strong> \u2014 Some of the best teams out there trust Retool\u2026Brex, Coinbase, Plaid, Doordash, LegalGenius, Amazon, Allbirds, Peloton, and so many more \u2013 the developers at these teams trust Retool as the platform to build their internal tools. Try it free at <a href=\"https://retool.com/changelog\">retool.com/changelog</a>\n</li>\n<li><a href=\"https://www.augmentcode.com\">Augment Code</a> \u2013 Developer AI that uses deep understanding of your large codebase and how you build software to deliver personalized code suggestions and insights. Augment provides relevant, contextualized code right in your IDE or Slack. It transforms scattered knowledge into code or answers, eliminating time spent searching docs or interrupting teammates.\n</li>\n<li><a href=\"https://temporal.io\">Temporal</a> \u2013 Build invincible applications. Manage failures, network outages, flaky endpoints, long-running processes and more, ensuring your workflows never fail. Register for <a href=\"https://replay.temporal.io\">Replay in London, March 3-5</a> to break free from the status quo.\n</li>\n<li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Jerod Santo &ndash; <a href=\"https://github.com/jerodsanto\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/jerodsanto\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://changelog.social/@jerod\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://x.com/jerodsanto\" rel=\"external ugc\">X</a></li><li>Adam Stacoviak &ndash; <a href=\"https://adamstacoviak.com/\" rel=\"external ugc\">Website</a>, <a href=\"https://github.com/adamstac\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/adamstacoviak\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://changelog.social/@adam\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://x.com/adamstac\" rel=\"external ugc\">X</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://chriskiehl.com/article/thoughts-after-10-years\">Software development topics I\u2019ve changed my mind on after 10 years in the industry</a></li>\n<li><a href=\"https://stephango.com/file-over-app\">File over app \u2014 Steph Ango</a></li>\n<li><a href=\"https://unix.stackexchange.com/questions/147885/how-can-i-set-customise-settings-for-htop\">ssh - How can I set customise settings for htop? - Unix &amp; Linux Stack Exchange</a></li>\n<li><a href=\"https://amyhoy.com/\">Amy Hoy</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/friends/changelog--friends-81.md\">PRs welcome!</a></p>",
                     "description": "Jerod and Adam use Chris Kiehl's post on development topics he's changed his mind on (over the last 10 years) as a proxy for discussion on dev things they HAVE and HAVE NOT changed their minds on.",
                     "enclosure": {
@@ -59,6 +533,10 @@
                             "@role": "host"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@changelog/114043972890952169"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",
@@ -56731,52 +57209,6 @@
                     "title": "Go is eating the world of software (Interview)"
                 },
                 {
-                    "content:encoded": "<p>Adam Jacob (co-founder and board member of Chef) joins the show to talk about the keynote he\u2019s giving at OSCON this week. The keynote is titled \u201cThe war for the soul of open source.\u201d We talked about what made open source great in the first place, what went wrong, the pitfalls of open core models, licensing, and more.</p>\n<p>By the way, we\u2019re at OSCON this week so if you make your way to the expo hall, make sure you come by our booth and say hi.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456187-interviews\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members support our work, get closer to the metal, and make the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://linode.com/changelog\">Linode</a> \u2013 <strong>Our cloud server of choice.</strong> Deploy a fast, efficient, native SSD cloud server for only $5/month. Get 4 months free using the code <code>changelog2019</code>. Start your server - head to <a href=\"https://linode.com/changelog\">linode.com/changelog</a>\n</li>\n<li><a href=\"https://www.gocd.org/kubernetes\">GoCD + Kubernetes</a> \u2013 With GoCD running on Kubernetes, you define your build workflow and let GoCD provision and scale build infrastructure on the fly. GoCD installs as a Kubernetes native application. Scale your build infrastructure elastically. Learn more at <a href=\"https://www.gocd.org/kubernetes\">gocd.org/kubernetes</a>\n</li>\n<li><a href=\"https://www.pluralsight.com/product/flow\">GitPrime</a> \u2013 <a href=\"https://resources.gitprime.com/books/20-patterns/?utm_source=changelog&amp;utm_medium=podcast&amp;utm_campaign=changelog(q1)\">Download GitPrime\u2019s 20 Patterns book</a>, a field guide to help engineering managers recognize achievement, spot bottlenecks, and debug development processes with data.\n</li>\n<li><a href=\"https://www.fastly.com/?utm_source=changelog&utm_medium=podcast&utm_campaign=changelog-sponsorship\">Fastly</a> \u2013 <strong>Our bandwidth partner.</strong> Fastly powers fast, secure, and scalable digital experiences. Move beyond your content delivery network to their powerful edge cloud platform. Learn more at <a href=\"https://www.fastly.com/?utm_source=changelog&amp;utm_medium=podcast&amp;utm_campaign=changelog-sponsorship\">fastly.com</a>.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Adam Jacob &ndash; <a href=\"https://www.systeminit.com\" rel=\"external ugc\">Website</a>, <a href=\"https://github.com/adamhjk\" rel=\"external ugc\">GitHub</a>, <a href=\"https://x.com/adamhjk\" rel=\"external ugc\">X</a></li><li>Adam Stacoviak &ndash; <a href=\"https://adamstacoviak.com/\" rel=\"external ugc\">Website</a>, <a href=\"https://github.com/adamstac\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/adamstacoviak\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://changelog.social/@adam\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://x.com/adamstac\" rel=\"external ugc\">X</a></li><li>Jerod Santo &ndash; <a href=\"https://github.com/jerodsanto\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/jerodsanto\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://changelog.social/@jerod\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://x.com/jerodsanto\" rel=\"external ugc\">X</a></li></ul></p><p>Show Notes:</p><p><p>You can now watch Adam\u2019s OSCON keynote <a href=\"https://www.youtube.com/watch?v=8q5o-4pnxDQ\">on his YouTube channel</a>.</p>\n<ul>\n<li><a href=\"https://conferences.oreilly.com/oscon/oscon-or/public/schedule/detail/76657\">\u201cThe war for the soul of open source\u201d</a></li>\n<li><a href=\"https://www.chef.io\">Chef</a></li>\n<li><a href=\"https://medium.com/@adamhjk/goodbye-open-core-good-riddance-to-bad-rubbish-ae3355316494\">Goodbye Open Core \u2014 Good Riddance to Bad Rubbish</a></li>\n<li><a href=\"https://twitter.com/adamhjk/status/1113054901133873155\">\u201cSo happy that @chef is now a 100% open source company. They are done being open core, and I have to say, I\u2019m stoked about it. It aligns the company with its core values in a way that is so much more elegant and understandable.\u201d</a></li>\n<li><a href=\"https://boingboing.net/2019/04/04/bytedance-alibaba.html\">996 License</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Utility_monster\">Utility monster</a> on Wikipedia</li>\n<li><a href=\"https://changelog.com/news/why-were-relicensing-cockroachdb-EOaR\">Why we\u2019re relicensing CockroachDB</a></li>\n<li><a href=\"https://changelog.com/news/redis-will-remain-bsd-licensed-Womo\">Redis will remain BSD licensed</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/podcast/the-changelog-353.md\">PRs welcome!</a></p>",
-                    "description": "Adam Jacob (co-founder and board member of Chef) joins the show to talk about the keynote he\u2019s giving at OSCON this week. The keynote is titled \"The war for the soul of open source.\" We talked about what made open source great in the first place, what went wrong, the pitfalls of open core models, licensing, and more.\n\nBy the way, we\u2019re at OSCON this week so if you make your way to the expo hall, make sure you come by our booth and say hi.",
-                    "enclosure": {
-                        "@length": "131040173",
-                        "@type": "audio/mpeg",
-                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/podcast/353/the-changelog-353.mp3"
-                    },
-                    "guid": {
-                        "#text": "changelog.com/1/747",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:duration": "1:30:59",
-                    "itunes:episodeType": "full",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://cdn.changelog.com/uploads/covers/changelog-interviews-original.png?v=63848368174"
-                    },
-                    "link": "https://changelog.com/podcast/353",
-                    "podcast:person": [
-                        {
-                            "#text": "Adam Stacoviak",
-                            "@href": "https://changelog.com/person/adamstac",
-                            "@img": "https://cdn.changelog.com/uploads/avatars/people/Qo/avatar_large.jpg?v=63760280419",
-                            "@role": "host"
-                        },
-                        {
-                            "#text": "Jerod Santo",
-                            "@href": "https://changelog.com/person/jerodsanto",
-                            "@img": "https://cdn.changelog.com/uploads/avatars/people/z4/avatar_large.jpeg?v=63760071650",
-                            "@role": "host"
-                        },
-                        {
-                            "#text": "Adam Jacob",
-                            "@href": "https://changelog.com/person/adamhjk",
-                            "@img": "https://cdn.changelog.com/uploads/avatars/people/njJ2/avatar_large.jpg?v=63780797950",
-                            "@role": "guest"
-                        }
-                    ],
-                    "podcast:transcript": {
-                        "@type": "text/html",
-                        "@url": "https://changelog.com/podcast/353/transcript"
-                    },
-                    "pubDate": "Tue, 16 Jul 2019 11:05:00 +0000",
-                    "title": "The war for the soul of open source (Interview)"
-                },
-                {
                     "content:encoded": "<p>We partnered with Red Hat to promote Season 3 of Command Line Heroes \u2014 an original podcast from Red Hat, hosted by Saron Yitbarek, about the people who transform technology from the command line up. It\u2019s an awesome show and we\u2019re huge fans of Saron and the team behind the podcast, so we wanted to share it with you.</p>\n<p>Learn more and subscribe at <a href=\"https://www.redhat.com/en/command-line-heroes\">redhat.com/commandlineheroes</a>.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456187-interviews\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members support our work, get closer to the metal, and make the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://redhat.com/commandlineheroes\">Command Line Heroes</a> \u2013 A podcast from Red Hat about the people who transform technology from the command line up. Head to <a href=\"https://www.redhat.com/en/command-line-heroes\">redhat.com/commandlineheroes</a> to learn more and subscribe.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Tom Cormen &ndash; <a href=\"https://www.cs.dartmouth.edu/~thc/\" rel=\"external ugc\">Website</a>, <a href=\"https://x.com/thcormen\" rel=\"external ugc\">X</a></li><li>Denise Dumas &ndash; <a href=\"https://www.linkedin.com/in/denise-dumas-591931\" rel=\"external ugc\">LinkedIn</a></li><li>Avi Flombaum &ndash; <a href=\"https://github.com/aviflombaum\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/aviflombaum\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://x.com/aviflombaum\" rel=\"external ugc\">X</a></li><li>Femi Owolade-Coombes &ndash; <a href=\"https://hackerfemo.com/\" rel=\"external ugc\">Website</a>, <a href=\"https://x.com/hackerfemo\" rel=\"external ugc\">X</a></li><li>Saron Yitbarek &ndash; <a href=\"https://saron.io/\" rel=\"external ugc\">Website</a>, <a href=\"https://github.com/sarony\" rel=\"external ugc\">GitHub</a>, <a href=\"https://x.com/saronyitbarek\" rel=\"external ugc\">X</a></li></ul></p><p>Show Notes:</p><p><p>Check the <a href=\"https://www.redhat.com/en/command-line-heroes/season-3/learning-the-basics#show-notes\">show notes</a> and <a href=\"https://www.redhat.com/en/command-line-heroes/season-3/learning-the-basics#transcript\">transcript</a> for more details.</p>\n<p>Becoming a programmer used to require a PhD and having access to some serious hardware. Then, in 1965, a couple of engineers had a radical idea: make it easier for people to get started.</p>\n<p>Beginner languages, like BASIC, burst the doors to coding wide open. Tom Cormen and Denise Dumas recall how BASIC changed everything. Avi Flombaum and Saron share tips on picking a first language in this new era of software development. And we hear from Femi Owolade-Coombes and Robyn Bergeron about how the next generation of coders are getting their start with video games.</p>\n<p>Beginner languages give everyone an opportunity to get their foot in the door. And that helps the industry as a whole.</p>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/podcast/the-changelog-takeover-clh-s3e2.md\">PRs welcome!</a></p>",
                     "description": "We partnered with Red Hat to promote Season 3 of Command Line Heroes \u2014 an original podcast from Red Hat, hosted by Saron Yitbarek, about the people who transform technology from the command line up. It's an awesome show and we\u2019re huge fans of Saron and the team behind the podcast, so we wanted to share it with you.\n\nLearn more and subscribe at redhat.com/commandlineheroes.",
                     "enclosure": {
@@ -56829,6 +57261,52 @@
                     ],
                     "pubDate": "Tue, 16 Jul 2019 11:05:00 +0000",
                     "title": "Learning the BASICs (Interview)"
+                },
+                {
+                    "content:encoded": "<p>Adam Jacob (co-founder and board member of Chef) joins the show to talk about the keynote he\u2019s giving at OSCON this week. The keynote is titled \u201cThe war for the soul of open source.\u201d We talked about what made open source great in the first place, what went wrong, the pitfalls of open core models, licensing, and more.</p>\n<p>By the way, we\u2019re at OSCON this week so if you make your way to the expo hall, make sure you come by our booth and say hi.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456187-interviews\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members support our work, get closer to the metal, and make the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://linode.com/changelog\">Linode</a> \u2013 <strong>Our cloud server of choice.</strong> Deploy a fast, efficient, native SSD cloud server for only $5/month. Get 4 months free using the code <code>changelog2019</code>. Start your server - head to <a href=\"https://linode.com/changelog\">linode.com/changelog</a>\n</li>\n<li><a href=\"https://www.gocd.org/kubernetes\">GoCD + Kubernetes</a> \u2013 With GoCD running on Kubernetes, you define your build workflow and let GoCD provision and scale build infrastructure on the fly. GoCD installs as a Kubernetes native application. Scale your build infrastructure elastically. Learn more at <a href=\"https://www.gocd.org/kubernetes\">gocd.org/kubernetes</a>\n</li>\n<li><a href=\"https://www.pluralsight.com/product/flow\">GitPrime</a> \u2013 <a href=\"https://resources.gitprime.com/books/20-patterns/?utm_source=changelog&amp;utm_medium=podcast&amp;utm_campaign=changelog(q1)\">Download GitPrime\u2019s 20 Patterns book</a>, a field guide to help engineering managers recognize achievement, spot bottlenecks, and debug development processes with data.\n</li>\n<li><a href=\"https://www.fastly.com/?utm_source=changelog&utm_medium=podcast&utm_campaign=changelog-sponsorship\">Fastly</a> \u2013 <strong>Our bandwidth partner.</strong> Fastly powers fast, secure, and scalable digital experiences. Move beyond your content delivery network to their powerful edge cloud platform. Learn more at <a href=\"https://www.fastly.com/?utm_source=changelog&amp;utm_medium=podcast&amp;utm_campaign=changelog-sponsorship\">fastly.com</a>.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Adam Jacob &ndash; <a href=\"https://www.systeminit.com\" rel=\"external ugc\">Website</a>, <a href=\"https://github.com/adamhjk\" rel=\"external ugc\">GitHub</a>, <a href=\"https://x.com/adamhjk\" rel=\"external ugc\">X</a></li><li>Adam Stacoviak &ndash; <a href=\"https://adamstacoviak.com/\" rel=\"external ugc\">Website</a>, <a href=\"https://github.com/adamstac\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/adamstacoviak\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://changelog.social/@adam\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://x.com/adamstac\" rel=\"external ugc\">X</a></li><li>Jerod Santo &ndash; <a href=\"https://github.com/jerodsanto\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/jerodsanto\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://changelog.social/@jerod\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://x.com/jerodsanto\" rel=\"external ugc\">X</a></li></ul></p><p>Show Notes:</p><p><p>You can now watch Adam\u2019s OSCON keynote <a href=\"https://www.youtube.com/watch?v=8q5o-4pnxDQ\">on his YouTube channel</a>.</p>\n<ul>\n<li><a href=\"https://conferences.oreilly.com/oscon/oscon-or/public/schedule/detail/76657\">\u201cThe war for the soul of open source\u201d</a></li>\n<li><a href=\"https://www.chef.io\">Chef</a></li>\n<li><a href=\"https://medium.com/@adamhjk/goodbye-open-core-good-riddance-to-bad-rubbish-ae3355316494\">Goodbye Open Core \u2014 Good Riddance to Bad Rubbish</a></li>\n<li><a href=\"https://twitter.com/adamhjk/status/1113054901133873155\">\u201cSo happy that @chef is now a 100% open source company. They are done being open core, and I have to say, I\u2019m stoked about it. It aligns the company with its core values in a way that is so much more elegant and understandable.\u201d</a></li>\n<li><a href=\"https://boingboing.net/2019/04/04/bytedance-alibaba.html\">996 License</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Utility_monster\">Utility monster</a> on Wikipedia</li>\n<li><a href=\"https://changelog.com/news/why-were-relicensing-cockroachdb-EOaR\">Why we\u2019re relicensing CockroachDB</a></li>\n<li><a href=\"https://changelog.com/news/redis-will-remain-bsd-licensed-Womo\">Redis will remain BSD licensed</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/podcast/the-changelog-353.md\">PRs welcome!</a></p>",
+                    "description": "Adam Jacob (co-founder and board member of Chef) joins the show to talk about the keynote he\u2019s giving at OSCON this week. The keynote is titled \"The war for the soul of open source.\" We talked about what made open source great in the first place, what went wrong, the pitfalls of open core models, licensing, and more.\n\nBy the way, we\u2019re at OSCON this week so if you make your way to the expo hall, make sure you come by our booth and say hi.",
+                    "enclosure": {
+                        "@length": "131040173",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/podcast/353/the-changelog-353.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/1/747",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:30:59",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/changelog-interviews-original.png?v=63848368174"
+                    },
+                    "link": "https://changelog.com/podcast/353",
+                    "podcast:person": [
+                        {
+                            "#text": "Adam Stacoviak",
+                            "@href": "https://changelog.com/person/adamstac",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/Qo/avatar_large.jpg?v=63760280419",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Jerod Santo",
+                            "@href": "https://changelog.com/person/jerodsanto",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/z4/avatar_large.jpeg?v=63760071650",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Adam Jacob",
+                            "@href": "https://changelog.com/person/adamhjk",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/njJ2/avatar_large.jpg?v=63780797950",
+                            "@role": "guest"
+                        }
+                    ],
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/podcast/353/transcript"
+                    },
+                    "pubDate": "Tue, 16 Jul 2019 11:05:00 +0000",
+                    "title": "The war for the soul of open source (Interview)"
                 },
                 {
                     "content:encoded": "<p>Dave Thomas and Andy Hunt, best known as the authors of The Pragmatic Programmer and founders of The Pragmatic Bookshelf, joined the show today to talk about the 20th anniversary edition of The Pragmatic Programmer. This is a beloved book to software developers all over the world, so we wanted to catch up with Andy and Dave to talk about how this book came to be, some of the wisdom shared in its contents, as well as the impact it\u2019s had on the world of software.</p>\n<p>Also, the beta book is now \u201cfully content complete\u201d and is going to production. If you decide to pick up the ebook, you\u2019ll get a coupon for 50% off the hardcover when it comes out this fall.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456187-interviews\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members support our work, get closer to the metal, and make the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://linode.com/changelog\">Linode</a> \u2013 <strong>Our cloud server of choice.</strong> Deploy a fast, efficient, native SSD cloud server for only $5/month. Get 4 months free using the code <code>changelog2019</code>. Start your server - head to <a href=\"https://linode.com/changelog\">linode.com/changelog</a>\n</li>\n<li><a href=\"https://www.gocd.org/kubernetes\">GoCD + Kubernetes</a> \u2013 With GoCD running on Kubernetes, you define your build workflow and let GoCD provision and scale build infrastructure on the fly. GoCD installs as a Kubernetes native application. Scale your build infrastructure elastically. Learn more at <a href=\"https://www.gocd.org/kubernetes\">gocd.org/kubernetes</a>\n</li>\n<li><a href=\"https://www.pluralsight.com/product/flow\">GitPrime</a> \u2013 <a href=\"https://resources.gitprime.com/books/20-patterns/?utm_source=changelog&amp;utm_medium=podcast&amp;utm_campaign=changelog(q1)\">Download GitPrime\u2019s 20 Patterns book</a>, a field guide to help engineering managers recognize achievement, spot bottlenecks, and debug development processes with data.\n</li>\n<li><a href=\"https://www.fastly.com/?utm_source=changelog&utm_medium=podcast&utm_campaign=changelog-sponsorship\">Fastly</a> \u2013 <strong>Our bandwidth partner.</strong> Fastly powers fast, secure, and scalable digital experiences. Move beyond your content delivery network to their powerful edge cloud platform. Learn more at <a href=\"https://www.fastly.com/?utm_source=changelog&amp;utm_medium=podcast&amp;utm_campaign=changelog-sponsorship\">fastly.com</a>.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Andy Hunt &ndash; <a href=\"https://toolshed.com\" rel=\"external ugc\">Website</a>, <a href=\"https://github.com/andyhunt\" rel=\"external ugc\">GitHub</a>, <a href=\"https://x.com/PragmaticAndy\" rel=\"external ugc\">X</a></li><li>Dave Thomas &ndash; <a href=\"https://pragdave.me\" rel=\"external ugc\">Website</a>, <a href=\"https://github.com/pragdave\" rel=\"external ugc\">GitHub</a>, <a href=\"https://x.com/pragdave\" rel=\"external ugc\">X</a></li><li>Adam Stacoviak &ndash; <a href=\"https://adamstacoviak.com/\" rel=\"external ugc\">Website</a>, <a href=\"https://github.com/adamstac\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/adamstacoviak\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://changelog.social/@adam\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://x.com/adamstac\" rel=\"external ugc\">X</a></li><li>Jerod Santo &ndash; <a href=\"https://github.com/jerodsanto\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/jerodsanto\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://changelog.social/@jerod\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://x.com/jerodsanto\" rel=\"external ugc\">X</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition\">The Pragmatic Programmer - 20th Anniversary Edition</a></li>\n<li><a href=\"https://agilemanifesto.org\">Agile Manifesto</a></li>\n<li><a href=\"https://changelog.com/news/the-humble-programmer-EOqY\">The humble programmer</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Considered_harmful\">Considered harmful</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Edsger_W._Dijkstra\">Edsger Dijkstra</a></li>\n<li><a href=\"https://www.pcjs.org/blog/2016/10/06/\">PDPjs, a PDP-11 Emulator</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/podcast/the-changelog-352.md\">PRs welcome!</a></p>",

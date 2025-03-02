@@ -16,7 +16,7 @@
                 "@type": "application/rss+xml"
             },
             "category": "The Podcast about African History, Culture, and Politics",
-            "copyright": "2024 ",
+            "copyright": "2025 ",
             "description": "The Podcast about African History, Culture, and Politics",
             "generator": "https://wordpress.org/?v=5.8.1",
             "image": {
@@ -35,6 +35,36 @@
                 "width": "144"
             },
             "item": [
+                {
+                    "category": [
+                        "Podcast",
+                        "African Americans",
+                        "African diaspora",
+                        "pan-Africanism",
+                        "history"
+                    ],
+                    "content:encoded": "<p>Dr. Benjamin Talton (Director, Moorland-Spingarn Research Center, Howard University) on his eclectic intellectual journey as an historian of Africa and the Diaspora. The interview begins with a discussion of his early work on ethnicity and politics in northern Ghana and then turns to his award-winning book, In This Land of Plenty: Mickey Leland and Africa in American Politics. In the final portion of the interview, Dr. Talton discusses his forthcoming book on Dr. Martin Luther King Jr.\u2019s engagement with African liberation politics.</p>",
+                    "dc:creator": "Alegi, Peter | Talton, Benjamin",
+                    "description": "Dr. Benjamin Talton (Director, Moorland-Spingarn Research Center, Howard University) on his eclectic intellectual journey as an historian of Africa and the Diaspora. The interview begins with a discussion of his early work on ethnicity and politics in northern Ghana and then turns to his award-winning book, In This Land of Plenty: Mickey Leland and Africa in American Politics.  In the fin[&#8230;]",
+                    "enclosure": {
+                        "@length": "52815114",
+                        "@type": "audio/mpeg",
+                        "@url": "https://afripod.aodl.org/recordFiles/10-29-224849/Afripod_Episode138_FINAL.mp3"
+                    },
+                    "guid": {
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Africa Past and Present",
+                    "itunes:block": "no",
+                    "itunes:duration": "0:36:40",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Podcast",
+                    "itunes:subtitle": "\n\n\n\nDr. Benjamin Talton (Director, Moorland-Spingarn Research Center, Howard University) on his eclectic intellectual journey as an historian of Africa and the Diaspora. The interview begins with a discussion of his early work on ethnicity and polit[...]",
+                    "itunes:summary": "\n\n\n\nDr. Benjamin Talton (Director, Moorland-Spingarn Research Center, Howard University) on his eclectic intellectual journey as an historian of Africa and the Diaspora. The interview begins with a discussion of his early work on ethnicity and politics in northern Ghana and then turns to his award-winning book, In This Land of Plenty: Mickey Leland and Africa in American Politics.  In the final portion of the interview, Dr. Talton discusses his forthcoming book on Dr. Martin Luther King Jr.\u2019s engagement with African liberation politics.\n",
+                    "link": "https://afripod.aodl.org/fullPodcast/episode=138/",
+                    "pubDate": "Fri, 28 Feb 2025 00:00:00 +0000",
+                    "title": "Episode 138: "
+                },
                 {
                     "category": [
                         "Podcast",
@@ -4129,7 +4159,7 @@
             "itunes:subtitle": "The Podcast about African History, Culture, and Politics",
             "itunes:summary": "The Podcast about African History, Culture, and Politics",
             "language": "en-US",
-            "lastBuildDate": "Mon, 25 Nov 2024 19:59:21 +0000",
+            "lastBuildDate": "Fri, 28 Feb 2025 21:18:39 +0000",
             "link": "https://afripod.aodl.org/",
             "managingEditor": "alegi@msu.edu (Africa Past and Present)",
             "sy:updateFrequency": "\n\t1\t",

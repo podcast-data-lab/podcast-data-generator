@@ -4,7 +4,6 @@
         "@xmlns:atom": "http://www.w3.org/2005/Atom",
         "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
         "channel": {
-            "#text": "\n\n\u00a0\n\n\u00a0\n\n",
             "atom:link": {
                 "@href": "https://www.abc.net.au/feeds/9443166/podcast.xml",
                 "@rel": "self",
@@ -16,17 +15,117 @@
                 "description": "ABC News Daily is the podcast that helps you understand the issues affecting your world. Every episode, host Samantha Hawley walks through one story with the help of an ABC colleague or expert in under 15 minutes. When you want coverage you can trust, listen to ABC News Daily.\n\nKey topics of recent episodes include the Donald Trump administration, anti-Semitism in Australia, TikTok\u2019s future, artificial intelligence, Israel-Hamas war and ceasefire, Australian dollar, bushfires, the Australians election, Peter Dutton, Anthony Albanese and incumbency.\n\nFrom interest rates, real estate and the housing crisis, to scams and US politics, ABC News Daily brings you facts and analysis you need to understand the biggest news stories.\n\nIn this election year expect regular updates on Australian politics, with key comments from Prime Minister Anthony Albanese, Treasurer Jim Chalmers and Opposition Leader Peter Dutton as they compete for votes in the 2025 Australian election. The podcast picks apart major policy areas, including energy policy, finance and the Federal Budget.\n\nThe podcast covers news from America, with analysis on the Donald Trump administration in the White House. His return to power has big implications for global politics and security and US journalists and experts will explain what's at stake.\n\nAs Australians battle a cost-of-living crisis, ABC News Daily looks at the causes of inflation, rising rental costs, house prices, insurance costs and the price of groceries. Key experts in business and finance join Samantha Hawley, explaining the state of the economy, the unemployment rate and the jobs market.\n\nWhether you rent, own an investment house or apartment, or are repaying a mortgage, ABC News Daily offers unique insights and analysis. When there are big moves from the Reserve Bank (RBA) on interest rates, or remarkable reactions in the ASX or the Australian dollar, guest experts, including economists, explain why.\n\nLook into ABC News Daily's archive to find episodes on electric vehicles (EVs), artificial intelligence (AI), the big banks, supermarkets, TikTok, Ozempic, Tesla, Elon Musk, Twitter, Facebook, Mark Zuckerberg, COVID, cyber security, spies, espionage, education, schools, teachers, crime and issues relating to Aboriginal and Torres Strait Islander (First Nations) Australians.\n\nABC News Daily follows developments in the Middle East and the war between Israel and Hamas, with insights into the mindset of Benjamin Netanyahu, Palestinians and the role of Iran.\n\nThe podcast looks at the latest from Ukraine as Volodymyr Zelensky fights to repel the Russian invaders led by Russia's President Vladimir Putin. As China's Xi Jinping contemplates the future of Taiwan, ABC News Daily will sort fact from fiction. When North Korea's Kim Jong Un fires ballistic missiles, we'll assess the danger his regime poses.\n\nWhen scammers target superannuation, your tax return and the ATO, you'll hear advice on what you can do to protect yourself.\n\nAs climate change fuelled by greenhouse gas emissions increases the risk of natural disasters, including fires and floods, ABC News Daily brings you fact-based analysis.\n\nThe future of electricity generation in Australia is being debated, and as claims are made about the merits of nuclear power, come to ABC News Daily for context around its potential role in replacing or augmenting coal and gas power plants and what it could mean for power bills. The podcast covers the future of renewable / green power generation, including the use of wind turbines, solar and hydro electric power.\n\nThe podcast looks at key businesses, including Coles and Woolworths, Qantas, the Commonwealth Bank and the construction, resources and manufacturing industries. When they report record profit, battle unions, or raise prices, the podcast pays attention.\n\nABC experts including Ian Verrender, Alan Kohler, Laura Tingle, Patricia Karvelas, John Lyons, and Annabel Crabb join Samantha Hawley to step through big issues and current affairs.",
                 "link": "https://www.abc.net.au/listen/programs/abc-news-daily/",
                 "palette": [
-                    "C3E3BC",
-                    "13346C",
-                    "5E7B94",
-                    "7FA1A1",
-                    "8293B4",
-                    "8C94B4"
+                    "F3E5EA",
+                    "304F64",
+                    "CE9E59",
+                    "97969D",
+                    "995828",
+                    "6BAFE6"
                 ],
-                "title": "ABC News Daily Program Image 2024",
-                "url": "https://live-production.wcms.abc-cdn.net.au/22b7f4622d6020f00d3c815d455e8edb.jpg?src"
+                "title": "ABC News Daily Housing Series",
+                "url": "https://live-production.wcms.abc-cdn.net.au/dc469bb6d488d773d28c81f20e768437.jpg?src"
             },
             "item": [
+                {
+                    "description": " <p>It was Donald Trump\u2019s first cabinet meeting of his second term, sitting at a table with his controversial picks, all dressed in suits and smiling for the cameras.</p><p>But it was a man dressed all in black, wearing a T-shirt, jeans and a black MAGA cap who dominated the room.\u00a0</p><p>Elon Musk is the man of the moment, as he goes about slashing government spending and jobs.\u00a0</p><p>Today, Tom Nichols, staff writer at The Atlantic, on what Musk and Trump are really trying to achieve.\u00a0</p><p>Featured:\u00a0</p><p>Tom Nichols, staff writer at The Atlantic</p> ",
+                    "enclosure": {
+                        "@length": "22618944",
+                        "@type": "audio/mpeg",
+                        "@url": "https://mediacore-live-production.akamaized.net/audio/02/73/Z/ut.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://www.abc.net.au/listen/programs/abc-news-daily/the-real-mission-of-musk-and-doge/104991872",
+                        "@isPermaLink": "true"
+                    },
+                    "itunes:author": "Australian Broadcasting Corporation",
+                    "itunes:duration": "0:15:25",
+                    "itunes:keywords": "abc news daily, elon musk, sam hawley, news, podcasts, donald trump, cabinet meeting, us politics, DOGE",
+                    "itunes:subtitle": "It was Donald Trump\u2019s first cabinet meeting of his second term, sitting at a table with his controversial picks, all dressed in suits and smiling for the cameras.\n\nBut it was a man dressed all in black, wearing a T-shirt, jeans and a black MAGA cap who dominated the room.\u00a0\n\nElon Musk is the man of the moment, as he goes about slashing government spending and jobs.\u00a0\n\nToday, Tom Nichols, staff writer at The Atlantic, on what Musk and Trump are really trying to achieve.\u00a0\n\nFeatured:\u00a0\n\nTom Nichols, staff writer at The Atlantic",
+                    "itunes:summary": "It was Donald Trump\u2019s first cabinet meeting of his second term, sitting at a table with his controversial picks, all dressed in suits and smiling for the cameras.\n\nBut it was a man dressed all in black, wearing a T-shirt, jeans and a black MAGA cap who dominated the room.\u00a0\n\nElon Musk is the man of the moment, as he goes about slashing government spending and jobs.\u00a0\n\nToday, Tom Nichols, staff writer at The Atlantic, on what Musk and Trump are really trying to achieve.\u00a0\n\nFeatured:\u00a0\n\nTom Nichols, staff writer at The Atlantic",
+                    "link": "https://www.abc.net.au/listen/programs/abc-news-daily/the-real-mission-of-musk-and-doge/104991872",
+                    "pubDate": "Fri, 28 Feb 2025 02:00:00 +1100",
+                    "title": "The real mission of Musk and DOGE"
+                },
+                {
+                    "description": " <p>At 4.1 percent, Australia has one of the lowest unemployment rates in the world.</p><p>That should mean that most people who want a job, have a job.\u00a0</p><p>But for anyone looking to switch jobs or climb up the ladder it\u2019s really hard.\u00a0</p><p>Experienced professionals who have decades of experience are being overlooked for cheaper, younger talent.\u00a0</p><p>Today, business reporter Nassim Khadem on why job hunting\u2019s become like online dating, where hirers \u2018ghost\u2019 applicants.\u00a0</p><p>Featured:\u00a0</p><p>Nassim Khadem, ABC business reporter</p> ",
+                    "enclosure": {
+                        "@length": "21030912",
+                        "@type": "audio/mpeg",
+                        "@url": "https://mediacore-live-production.akamaized.net/audio/02/72/Z/j1.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://www.abc.net.au/listen/programs/abc-news-daily/how-job-hunting-became-like-online-dating/104985968",
+                        "@isPermaLink": "true"
+                    },
+                    "itunes:author": "Australian Broadcasting Corporation",
+                    "itunes:duration": "0:14:21",
+                    "itunes:keywords": "abc news daily, employment, sam hawley, news, podcasts, unemployment, job seeker, job search",
+                    "itunes:subtitle": "At 4.1 percent, Australia has one of the lowest unemployment rates in the world.\n\nThat should mean that most people who want a job, have a job.\u00a0\n\nBut for anyone looking to switch jobs or climb up the ladder it\u2019s really hard.\u00a0\n\nExperienced professionals who have decades of experience are being overlooked for cheaper, younger talent.\u00a0\n\nToday, business reporter Nassim Khadem on why job hunting\u2019s become like online dating, where hirers \u2018ghost\u2019 applicants.\u00a0\n\nFeatured:\u00a0\n\nNassim Khadem, ABC business reporter",
+                    "itunes:summary": "At 4.1 percent, Australia has one of the lowest unemployment rates in the world.\n\nThat should mean that most people who want a job, have a job.\u00a0\n\nBut for anyone looking to switch jobs or climb up the ladder it\u2019s really hard.\u00a0\n\nExperienced professionals who have decades of experience are being overlooked for cheaper, younger talent.\u00a0\n\nToday, business reporter Nassim Khadem on why job hunting\u2019s become like online dating, where hirers \u2018ghost\u2019 applicants.\u00a0\n\nFeatured:\u00a0\n\nNassim Khadem, ABC business reporter",
+                    "link": "https://www.abc.net.au/listen/programs/abc-news-daily/how-job-hunting-became-like-online-dating/104985968",
+                    "pubDate": "Thu, 27 Feb 2025 02:00:00 +1100",
+                    "title": "How job hunting became like online dating"
+                },
+                {
+                    "description": " <p>US President Donald Trump insists that Russian leader Vladimir Putin would allow peacekeepers into Ukraine as part of a deal to end the war.</p><p>But how would that work and would it be risky having soldiers from European nations on Russia\u2019s doorstep?</p><p>Today, Russia expert Matthew Sussex on the three-year anniversary and what version of peace the US and Russian leaders are aiming for.\u00a0</p><p>Featured:\u00a0</p><p>Matthew Sussex, associate professor at the Centre for European Studies at the Australian National University</p> ",
+                    "enclosure": {
+                        "@length": "23097024",
+                        "@type": "audio/mpeg",
+                        "@url": "https://mediacore-live-production.akamaized.net/audio/02/71/Z/hn.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://www.abc.net.au/listen/programs/abc-news-daily/will-putin-really-allow-european-troops-in-ukraine/104981084",
+                        "@isPermaLink": "true"
+                    },
+                    "itunes:author": "Australian Broadcasting Corporation",
+                    "itunes:duration": "0:16:00",
+                    "itunes:keywords": "abc news daily, russian president, sam hawley, news, podcasts, vladimir putin, donald trump, russia, ukraine, peacekeepers, emmanuel macron, Volodymyr Zelenskyy",
+                    "itunes:subtitle": "US President Donald Trump insists that Russian leader Vladimir Putin would allow peacekeepers into Ukraine as part of a deal to end the war.\n\nBut how would that work and would it be risky having soldiers from European nations on Russia\u2019s doorstep?\n\nToday, Russia expert Matthew Sussex on the three-year anniversary and what version of peace the US and Russian leaders are aiming for.\u00a0\n\nFeatured:\u00a0\n\nMatthew Sussex, associate professor at the Centre for European Studies at the Australian National University",
+                    "itunes:summary": "US President Donald Trump insists that Russian leader Vladimir Putin would allow peacekeepers into Ukraine as part of a deal to end the war.\n\nBut how would that work and would it be risky having soldiers from European nations on Russia\u2019s doorstep?\n\nToday, Russia expert Matthew Sussex on the three-year anniversary and what version of peace the US and Russian leaders are aiming for.\u00a0\n\nFeatured:\u00a0\n\nMatthew Sussex, associate professor at the Centre for European Studies at the Australian National University",
+                    "link": "https://www.abc.net.au/listen/programs/abc-news-daily/will-putin-really-allow-european-troops-in-ukraine/104981084",
+                    "pubDate": "Wed, 26 Feb 2025 02:00:00 +1100",
+                    "title": "Will Putin really allow European troops in Ukraine?"
+                },
+                {
+                    "description": " <p>Labor and the opposition are in furious agreement, each committing to boost funding for Medicare to stop the decline in the number of GPs bulk billing.</p><p>But what was behind the fall in the first place and can $8.5 billion fix it?\u00a0</p><p>Today, health economist Stephen Duckett on how the bulk billing incentive policy could work and whether your GP is about to offer bulk billing.\u00a0</p><p>Featured:</p><p>Stephen Duckett,\u00a0Honorary Enterprise Professor in the School of Population and Global Health at the University of Melbourne</p> ",
+                    "enclosure": {
+                        "@length": "20486016",
+                        "@type": "audio/mpeg",
+                        "@url": "https://mediacore-live-production.akamaized.net/audio/02/70/Z/dl.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://www.abc.net.au/listen/programs/abc-news-daily/is-gp-bulk-billing-about-to-make-a-comeback/104976042",
+                        "@isPermaLink": "true"
+                    },
+                    "itunes:author": "Australian Broadcasting Corporation",
+                    "itunes:duration": "0:14:01",
+                    "itunes:keywords": "abc news daily, sam hawley, news, podcasts, health, medicare, bulk billing, GPs, doctors, medicine, albanese, dutton, funding",
+                    "itunes:subtitle": "Labor and the opposition are in furious agreement, each committing to boost funding for Medicare to stop the decline in the number of GPs bulk billing.\n\nBut what was behind the fall in the first place and can $8.5 billion fix it?\u00a0\n\nToday, health economist Stephen Duckett on how the bulk billing incentive policy could work and whether your GP is about to offer bulk billing.\u00a0\n\nFeatured:\n\nStephen Duckett,\u00a0Honorary Enterprise Professor in the School of Population and Global Health at the University of Melbourne",
+                    "itunes:summary": "Labor and the opposition are in furious agreement, each committing to boost funding for Medicare to stop the decline in the number of GPs bulk billing.\n\nBut what was behind the fall in the first place and can $8.5 billion fix it?\u00a0\n\nToday, health economist Stephen Duckett on how the bulk billing incentive policy could work and whether your GP is about to offer bulk billing.\u00a0\n\nFeatured:\n\nStephen Duckett,\u00a0Honorary Enterprise Professor in the School of Population and Global Health at the University of Melbourne",
+                    "link": "https://www.abc.net.au/listen/programs/abc-news-daily/is-gp-bulk-billing-about-to-make-a-comeback/104976042",
+                    "pubDate": "Tue, 25 Feb 2025 02:00:00 +1100",
+                    "title": "Is GP bulk billing about to make a comeback?"
+                },
+                {
+                    "description": " <p>You\u2019ve heard of IVF, now scientists are working on the next generation of reproductive technology, called IVG or in vitro gametogenesis.\u00a0</p><p>It\u2019s technology to produce eggs and sperm in a lab, possibly from just the skin cells of a prospective parent.\u00a0</p><p>It would, in theory, allow three people to create a baby or even just one person, alone.\u00a0</p><p>Today, Dr Alexandra Harvey, a senior research scientist with Melbourne IVF on the science behind it and the ethical dilemmas it will bring.</p><p>Featured:\u00a0</p><p>Dr Alexandra Harvey, senior research scientist at Melbourne IVF</p> ",
+                    "enclosure": {
+                        "@length": "22822272",
+                        "@type": "audio/mpeg",
+                        "@url": "https://mediacore-live-production.akamaized.net/audio/02/6t/Z/v0.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://www.abc.net.au/listen/programs/abc-news-daily/is-the-world-ready-for-what-comes-after-ivf/104965532",
+                        "@isPermaLink": "true"
+                    },
+                    "itunes:author": "Australian Broadcasting Corporation",
+                    "itunes:duration": "0:15:50",
+                    "itunes:keywords": "abc news daily, in vitro gametogenesis, sam hawley, news, podcasts, ivf, ivf research, reproductive technologies",
+                    "itunes:subtitle": "You\u2019ve heard of IVF, now scientists are working on the next generation of reproductive technology, called IVG or in vitro gametogenesis.\u00a0\n\nIt\u2019s technology to produce eggs and sperm in a lab, possibly from just the skin cells of a prospective parent.\u00a0\n\nIt would, in theory, allow three people to create a baby or even just one person, alone.\u00a0\n\nToday, Dr Alexandra Harvey, a senior research scientist with Melbourne IVF on the science behind it and the ethical dilemmas it will bring.\n\nFeatured:\u00a0\n\nDr Alexandra Harvey, senior research scientist at Melbourne IVF",
+                    "itunes:summary": "You\u2019ve heard of IVF, now scientists are working on the next generation of reproductive technology, called IVG or in vitro gametogenesis.\u00a0\n\nIt\u2019s technology to produce eggs and sperm in a lab, possibly from just the skin cells of a prospective parent.\u00a0\n\nIt would, in theory, allow three people to create a baby or even just one person, alone.\u00a0\n\nToday, Dr Alexandra Harvey, a senior research scientist with Melbourne IVF on the science behind it and the ethical dilemmas it will bring.\n\nFeatured:\u00a0\n\nDr Alexandra Harvey, senior research scientist at Melbourne IVF",
+                    "link": "https://www.abc.net.au/listen/programs/abc-news-daily/is-the-world-ready-for-what-comes-after-ivf/104965532",
+                    "pubDate": "Mon, 24 Feb 2025 02:00:00 +1100",
+                    "title": "Is the world ready for what comes after IVF?"
+                },
                 {
                     "description": " <p>Donald Trump declared Ukraine had started the war with Russia and labelled its leader Volodymyr Zelenskyy, a dictator.\u00a0</p><p>Trump\u2019s vice president JD Vance has thrown his support behind far-right parties in Germany.</p><p>At the same time, talks on ending the war in Ukraine began with only the US and Moscow at the table.\u00a0</p><p>It was a week where we saw an extraordinary shift in American foreign policy, which led to European leaders holding crisis talks.\u00a0</p><p>Today, Samir Puri, director of Chatham House\u2019s centre for global governance and security on how it all unfolded and the consequences that could follow.\u00a0\u00a0</p><p>Featured:\u00a0</p><p>Dr Samir Puri, Director of the Centre for Global Governance and Security at Chatham House and author of Westlessness: The Great Global Rebalancing</p> ",
                     "enclosure": {
@@ -4941,106 +5040,6 @@
                     "link": "https://www.abc.net.au/listen/programs/abc-news-daily/the-moscow-terror-attack-and-putins-future/103630568",
                     "pubDate": "Tue, 26 Mar 2024 02:00:00 +1100",
                     "title": "The Moscow terror attack and Putin\u2019s future"
-                },
-                {
-                    "description": " <p>When the tax office comes knocking, it\u2019s not usually good news.\u00a0</p><p>And right now the Australian Taxation Office is pursuing thousands of people over historical debts that it had previously put on hold.\u00a0</p><p>Today, business reporter Nassim Khadem, on why the ATO is trying to recover the funds now and why some people are comparing it to Robodebt.\u00a0</p><p>Featured:</p><p>Nassim Khadem, ABC Business reporter</p> ",
-                    "enclosure": {
-                        "@length": "14396928",
-                        "@type": "audio/mpeg",
-                        "@url": "https://mediacore-live-production.akamaized.net/audio/01/rv/Z/50.mp3"
-                    },
-                    "guid": {
-                        "#text": "https://www.abc.net.au/listen/programs/abc-news-daily/the-ato-s-clawback-of-old-debt/103625426",
-                        "@isPermaLink": "true"
-                    },
-                    "itunes:author": "Australian Broadcasting Corporation",
-                    "itunes:duration": "0:14:35",
-                    "itunes:keywords": "abc news daily, sam hawley, news, podcasts, tax, debt, ato, australian taxation office, personal debt, business debt, covid-19, economy, finance",
-                    "itunes:subtitle": "When the tax office comes knocking, it\u2019s not usually good news.\u00a0\n\nAnd right now the Australian Taxation Office is pursuing thousands of people over historical debts that it had previously put on hold.\u00a0\n\nToday, business reporter Nassim Khadem, on why the ATO is trying to recover the funds now and why some people are comparing it to Robodebt.\u00a0\n\nFeatured:\n\nNassim Khadem, ABC Business reporter",
-                    "itunes:summary": "When the tax office comes knocking, it\u2019s not usually good news.\u00a0\n\nAnd right now the Australian Taxation Office is pursuing thousands of people over historical debts that it had previously put on hold.\u00a0\n\nToday, business reporter Nassim Khadem, on why the ATO is trying to recover the funds now and why some people are comparing it to Robodebt.\u00a0\n\nFeatured:\n\nNassim Khadem, ABC Business reporter",
-                    "link": "https://www.abc.net.au/listen/programs/abc-news-daily/the-ato-s-clawback-of-old-debt/103625426",
-                    "pubDate": "Mon, 25 Mar 2024 02:00:00 +1100",
-                    "title": "\"Robotax\": The ATO\u2019s clawback of old debt"
-                },
-                {
-                    "description": " <p>When one of China\u2019s most senior figures came to Australia this week, it was one unofficial meeting that really stuck out.\u00a0</p><p>Foreign Minister Wang Yi was very keen to meet former prime minister Paul Keating. It\u2019s a move that would have frustrated Australian officials.</p><p>Today, foreign affairs reporter Stephen Dziedzic on what China\u2019s playing at.\u00a0</p><p>Featured:\u00a0</p><p>Stephen Dziedzic, ABC foreign affairs reporter</p> ",
-                    "enclosure": {
-                        "@length": "14518656",
-                        "@type": "audio/mpeg",
-                        "@url": "https://mediacore-live-production.akamaized.net/audio/01/rs/Z/md.mp3"
-                    },
-                    "guid": {
-                        "#text": "https://www.abc.net.au/listen/programs/abc-news-daily/why-chinas-so-keen-on-meeting-keating/103616322",
-                        "@isPermaLink": "true"
-                    },
-                    "itunes:author": "Australian Broadcasting Corporation",
-                    "itunes:duration": "0:15:04",
-                    "itunes:keywords": "abc news daily, sam hawley, news, podcasts, paul keating, wang yi, penny wong, china, trade",
-                    "itunes:subtitle": "When one of China\u2019s most senior figures came to Australia this week, it was one unofficial meeting that really stuck out.\u00a0\n\nForeign Minister Wang Yi was very keen to meet former prime minister Paul Keating. It\u2019s a move that would have frustrated Australian officials.\n\nToday, foreign affairs reporter Stephen Dziedzic on what China\u2019s playing at.\u00a0\n\nFeatured:\u00a0\n\nStephen Dziedzic, ABC foreign affairs reporter",
-                    "itunes:summary": "When one of China\u2019s most senior figures came to Australia this week, it was one unofficial meeting that really stuck out.\u00a0\n\nForeign Minister Wang Yi was very keen to meet former prime minister Paul Keating. It\u2019s a move that would have frustrated Australian officials.\n\nToday, foreign affairs reporter Stephen Dziedzic on what China\u2019s playing at.\u00a0\n\nFeatured:\u00a0\n\nStephen Dziedzic, ABC foreign affairs reporter",
-                    "link": "https://www.abc.net.au/listen/programs/abc-news-daily/why-chinas-so-keen-on-meeting-keating/103616322",
-                    "pubDate": "Fri, 22 Mar 2024 02:00:00 +1100",
-                    "title": "Why China\u2019s so keen on meeting Keating"
-                },
-                {
-                    "description": " <p>When former Prime Minister Kevin Rudd declared Donald Trump the most destructive US president in history, a lot of people agreed.\u00a0</p><p>But his scathing assessments of the former president don\u2019t sit so well now he\u2019s working as Australia\u2019s ambassador in Washington.\u00a0</p><p>Donald Trump could be elected president again in November and he isn\u2019t happy.\u00a0</p><p>So, what happens to Kevin Rudd and our alliance with America if Trump returns?</p><p>Featured:\u00a0</p><p>Dr Emma Shortis, senior researcher in international and security affairs at the Australia institute</p> ",
-                    "enclosure": {
-                        "@length": "14588160",
-                        "@type": "audio/mpeg",
-                        "@url": "https://mediacore-live-production.akamaized.net/audio/01/rr/Z/li.mp3"
-                    },
-                    "guid": {
-                        "#text": "https://www.abc.net.au/listen/programs/abc-news-daily/why-is-trump-sledging-nasty-kevin-rudd/103611778",
-                        "@isPermaLink": "true"
-                    },
-                    "itunes:author": "Australian Broadcasting Corporation",
-                    "itunes:duration": "0:15:11",
-                    "itunes:keywords": "abc news daily, sam hawley, news, podcasts, kevin rudd, donald trump, diplomacy, ambassador",
-                    "itunes:subtitle": "When former Prime Minister Kevin Rudd declared Donald Trump the most destructive US president in history, a lot of people agreed.\u00a0\n\nBut his scathing assessments of the former president don\u2019t sit so well now he\u2019s working as Australia\u2019s ambassador in Washington.\u00a0\n\nDonald Trump could be elected president again in November and he isn\u2019t happy.\u00a0\n\nSo, what happens to Kevin Rudd and our alliance with America if Trump returns?\n\nFeatured:\u00a0\n\nDr Emma Shortis, senior researcher in international and security affairs at the Australia institute",
-                    "itunes:summary": "When former Prime Minister Kevin Rudd declared Donald Trump the most destructive US president in history, a lot of people agreed.\u00a0\n\nBut his scathing assessments of the former president don\u2019t sit so well now he\u2019s working as Australia\u2019s ambassador in Washington.\u00a0\n\nDonald Trump could be elected president again in November and he isn\u2019t happy.\u00a0\n\nSo, what happens to Kevin Rudd and our alliance with America if Trump returns?\n\nFeatured:\u00a0\n\nDr Emma Shortis, senior researcher in international and security affairs at the Australia institute",
-                    "link": "https://www.abc.net.au/listen/programs/abc-news-daily/why-is-trump-sledging-nasty-kevin-rudd/103611778",
-                    "pubDate": "Thu, 21 Mar 2024 02:00:00 +1100",
-                    "title": "Why is Trump sledging 'nasty' Kevin Rudd?"
-                },
-                {
-                    "description": " <p>Last week, hundreds of US politicians got behind a bill that would ban TikTok unless its Chinese parent company sells it.\u00a0</p><p>They\u2019re worried the app could be used by the Chinese Communist Party to steal data and influence Americans.\u00a0</p><p>But is there really any evidence of that?\u00a0</p><p>Featured:\u00a0</p><p>Alex Barinka, tech reporter at Bloomberg</p> ",
-                    "enclosure": {
-                        "@length": "14657664",
-                        "@type": "audio/mpeg",
-                        "@url": "https://mediacore-live-production.akamaized.net/audio/01/rq/Z/hk.mp3"
-                    },
-                    "guid": {
-                        "#text": "https://www.abc.net.au/listen/programs/abc-news-daily/tiktok-to-ban-or-not-to-ban/103606940",
-                        "@isPermaLink": "true"
-                    },
-                    "itunes:author": "Australian Broadcasting Corporation",
-                    "itunes:duration": "0:15:16",
-                    "itunes:keywords": "abc news daily, sam hawley, news, podcasts, tiktok, social media, foreign interference, us congress, donald trump",
-                    "itunes:subtitle": "Last week, hundreds of US politicians got behind a bill that would ban TikTok unless its Chinese parent company sells it.\u00a0\n\nThey\u2019re worried the app could be used by the Chinese Communist Party to steal data and influence Americans.\u00a0\n\nBut is there really any evidence of that?\u00a0\n\nFeatured:\u00a0\n\nAlex Barinka, tech reporter at Bloomberg",
-                    "itunes:summary": "Last week, hundreds of US politicians got behind a bill that would ban TikTok unless its Chinese parent company sells it.\u00a0\n\nThey\u2019re worried the app could be used by the Chinese Communist Party to steal data and influence Americans.\u00a0\n\nBut is there really any evidence of that?\u00a0\n\nFeatured:\u00a0\n\nAlex Barinka, tech reporter at Bloomberg",
-                    "link": "https://www.abc.net.au/listen/programs/abc-news-daily/tiktok-to-ban-or-not-to-ban/103606940",
-                    "pubDate": "Wed, 20 Mar 2024 02:00:00 +1100",
-                    "title": "TikTok: to ban or not to ban?"
-                },
-                {
-                    "description": " <p>We can\u2019t avoid getting old, but when we do need care, after paying taxes and saving all our lives, should we really have to fork out more to pay for it?\u00a0</p><p>The government is looking to shake-up the aged care sector to make it much more user pays.</p><p>Today, investigative journalist Anne Connolly on what that means for the family inheritance.</p><p>Featured:\u00a0</p><p>Anne Connolly, ABC investigative reporter</p> ",
-                    "enclosure": {
-                        "@length": "14105472",
-                        "@type": "audio/mpeg",
-                        "@url": "https://mediacore-live-production.akamaized.net/audio/01/rp/Z/bi.mp3"
-                    },
-                    "guid": {
-                        "#text": "https://www.abc.net.au/listen/programs/abc-news-daily/should-your-inheritance-pay-for-aged-care/103601894",
-                        "@isPermaLink": "true"
-                    },
-                    "itunes:author": "Australian Broadcasting Corporation",
-                    "itunes:duration": "0:14:24",
-                    "itunes:keywords": "abc news daily, sam hawley, news, podcasts, aged care, royal commission, deposit, inheritance",
-                    "itunes:subtitle": "We can\u2019t avoid getting old, but when we do need care, after paying taxes and saving all our lives, should we really have to fork out more to pay for it?\u00a0\n\nThe government is looking to shake-up the aged care sector to make it much more user pays.\n\nToday, investigative journalist Anne Connolly on what that means for the family inheritance.\n\nFeatured:\u00a0\n\nAnne Connolly, ABC investigative reporter",
-                    "itunes:summary": "We can\u2019t avoid getting old, but when we do need care, after paying taxes and saving all our lives, should we really have to fork out more to pay for it?\u00a0\n\nThe government is looking to shake-up the aged care sector to make it much more user pays.\n\nToday, investigative journalist Anne Connolly on what that means for the family inheritance.\n\nFeatured:\u00a0\n\nAnne Connolly, ABC investigative reporter",
-                    "link": "https://www.abc.net.au/listen/programs/abc-news-daily/should-your-inheritance-pay-for-aged-care/103601894",
-                    "pubDate": "Tue, 19 Mar 2024 02:00:00 +1100",
-                    "title": "Should your inheritance pay for aged care?"
                 }
             ],
             "itunes:author": "ABC",
@@ -5053,10 +5052,10 @@
             "itunes:explicit": "no",
             "itunes:image": [
                 {
-                    "@href": "https://www.abc.net.au/radio/images/program/ABC-NEWS-DAILY-tile-2024.jpg"
+                    "@href": "https://www.abc.net.au/radio/images/podcasts/ABCNewsDaily-housingSeries_2000x1125.jpg"
                 },
                 {
-                    "@href": "https://live-production.wcms.abc-cdn.net.au/22b7f4622d6020f00d3c815d455e8edb.jpg?src"
+                    "@href": "https://live-production.wcms.abc-cdn.net.au/dc469bb6d488d773d28c81f20e768437.jpg?src"
                 }
             ],
             "itunes:owner": [
@@ -5072,10 +5071,10 @@
             "itunes:subtitle": "ABC News Daily is the podcast that helps you understand the issues affecting your world. Every episode, host Samantha Hawley walks through one story with the help of an ABC colleague or expert in under 15 minutes. When you want coverage you can trust, listen to ABC News Daily.\n\nKey topics of recent episodes include the Donald Trump administration, anti-Semitism in Australia, TikTok\u2019s future, artificial intelligence, Israel-Hamas war and ceasefire, Australian dollar, bushfires, the Australians election, Peter Dutton, Anthony Albanese and incumbency.\n\nFrom interest rates, real estate and the housing crisis, to scams and US politics, ABC News Daily brings you facts and analysis you need to understand the biggest news stories.\n\nIn this election year expect regular updates on Australian politics, with key comments from Prime Minister Anthony Albanese, Treasurer Jim Chalmers and Opposition Leader Peter Dutton as they compete for votes in the 2025 Australian election. The podcast picks apart major policy areas, including energy policy, finance and the Federal Budget.\n\nThe podcast covers news from America, with analysis on the Donald Trump administration in the White House. His return to power has big implications for global politics and security and US journalists and experts will explain what's at stake.\n\nAs Australians battle a cost-of-living crisis, ABC News Daily looks at the causes of inflation, rising rental costs, house prices, insurance costs and the price of groceries. Key experts in business and finance join Samantha Hawley, explaining the state of the economy, the unemployment rate and the jobs market.\n\nWhether you rent, own an investment house or apartment, or are repaying a mortgage, ABC News Daily offers unique insights and analysis. When there are big moves from the Reserve Bank (RBA) on interest rates, or remarkable reactions in the ASX or the Australian dollar, guest experts, including economists, explain why.\n\nLook into ABC News Daily's archive to find episodes on electric vehicles (EVs), artificial intelligence (AI), the big banks, supermarkets, TikTok, Ozempic, Tesla, Elon Musk, Twitter, Facebook, Mark Zuckerberg, COVID, cyber security, spies, espionage, education, schools, teachers, crime and issues relating to Aboriginal and Torres Strait Islander (First Nations) Australians.\n\nABC News Daily follows developments in the Middle East and the war between Israel and Hamas, with insights into the mindset of Benjamin Netanyahu, Palestinians and the role of Iran.\n\nThe podcast looks at the latest from Ukraine as Volodymyr Zelensky fights to repel the Russian invaders led by Russia's President Vladimir Putin. As China's Xi Jinping contemplates the future of Taiwan, ABC News Daily will sort fact from fiction. When North Korea's Kim Jong Un fires ballistic missiles, we'll assess the danger his regime poses.\n\nWhen scammers target superannuation, your tax return and the ATO, you'll hear advice on what you can do to protect yourself.\n\nAs climate change fuelled by greenhouse gas emissions increases the risk of natural disasters, including fires and floods, ABC News Daily brings you fact-based analysis.\n\nThe future of electricity generation in Australia is being debated, and as claims are made about the merits of nuclear power, come to ABC News Daily for context around its potential role in replacing or augmenting coal and gas power plants and what it could mean for power bills. The podcast covers the future of renewable / green power generation, including the use of wind turbines, solar and hydro electric power.\n\nThe podcast looks at key businesses, including Coles and Woolworths, Qantas, the Commonwealth Bank and the construction, resources and manufacturing industries. When they report record profit, battle unions, or raise prices, the podcast pays attention.\n\nABC experts including Ian Verrender, Alan Kohler, Laura Tingle, Patricia Karvelas, John Lyons, and Annabel Crabb join Samantha Hawley to step through big issues and current affairs.",
             "itunes:summary": "ABC News Daily is the podcast that helps you understand the issues affecting your world. Every episode, host Samantha Hawley walks through one story with the help of an ABC colleague or expert in under 15 minutes. When you want coverage you can trust, listen to ABC News Daily.\n\nKey topics of recent episodes include the Donald Trump administration, anti-Semitism in Australia, TikTok\u2019s future, artificial intelligence, Israel-Hamas war and ceasefire, Australian dollar, bushfires, the Australians election, Peter Dutton, Anthony Albanese and incumbency.\n\nFrom interest rates, real estate and the housing crisis, to scams and US politics, ABC News Daily brings you facts and analysis you need to understand the biggest news stories.\n\nIn this election year expect regular updates on Australian politics, with key comments from Prime Minister Anthony Albanese, Treasurer Jim Chalmers and Opposition Leader Peter Dutton as they compete for votes in the 2025 Australian election. The podcast picks apart major policy areas, including energy policy, finance and the Federal Budget.\n\nThe podcast covers news from America, with analysis on the Donald Trump administration in the White House. His return to power has big implications for global politics and security and US journalists and experts will explain what's at stake.\n\nAs Australians battle a cost-of-living crisis, ABC News Daily looks at the causes of inflation, rising rental costs, house prices, insurance costs and the price of groceries. Key experts in business and finance join Samantha Hawley, explaining the state of the economy, the unemployment rate and the jobs market.\n\nWhether you rent, own an investment house or apartment, or are repaying a mortgage, ABC News Daily offers unique insights and analysis. When there are big moves from the Reserve Bank (RBA) on interest rates, or remarkable reactions in the ASX or the Australian dollar, guest experts, including economists, explain why.\n\nLook into ABC News Daily's archive to find episodes on electric vehicles (EVs), artificial intelligence (AI), the big banks, supermarkets, TikTok, Ozempic, Tesla, Elon Musk, Twitter, Facebook, Mark Zuckerberg, COVID, cyber security, spies, espionage, education, schools, teachers, crime and issues relating to Aboriginal and Torres Strait Islander (First Nations) Australians.\n\nABC News Daily follows developments in the Middle East and the war between Israel and Hamas, with insights into the mindset of Benjamin Netanyahu, Palestinians and the role of Iran.\n\nThe podcast looks at the latest from Ukraine as Volodymyr Zelensky fights to repel the Russian invaders led by Russia's President Vladimir Putin. As China's Xi Jinping contemplates the future of Taiwan, ABC News Daily will sort fact from fiction. When North Korea's Kim Jong Un fires ballistic missiles, we'll assess the danger his regime poses.\n\nWhen scammers target superannuation, your tax return and the ATO, you'll hear advice on what you can do to protect yourself.\n\nAs climate change fuelled by greenhouse gas emissions increases the risk of natural disasters, including fires and floods, ABC News Daily brings you fact-based analysis.\n\nThe future of electricity generation in Australia is being debated, and as claims are made about the merits of nuclear power, come to ABC News Daily for context around its potential role in replacing or augmenting coal and gas power plants and what it could mean for power bills. The podcast covers the future of renewable / green power generation, including the use of wind turbines, solar and hydro electric power.\n\nThe podcast looks at key businesses, including Coles and Woolworths, Qantas, the Commonwealth Bank and the construction, resources and manufacturing industries. When they report record profit, battle unions, or raise prices, the podcast pays attention.\n\nABC experts including Ian Verrender, Alan Kohler, Laura Tingle, Patricia Karvelas, John Lyons, and Annabel Crabb join Samantha Hawley to step through big issues and current affairs.",
             "language": "en",
-            "lastBuildDate": "Fri, 21 Feb 2025 02:00:00 +1100",
+            "lastBuildDate": "Fri, 28 Feb 2025 02:00:00 +1100",
             "link": "https://www.abc.net.au/listen/programs/abc-news-daily/",
             "programarid": "ppmp2NQN7y",
-            "pubDate": "Fri, 21 Feb 2025 02:00:00 +1100",
+            "pubDate": "Fri, 28 Feb 2025 02:00:00 +1100",
             "title": "ABC News Daily",
             "ttl": "30"
         }

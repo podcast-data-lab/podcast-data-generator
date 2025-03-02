@@ -14,7 +14,7 @@
                 "@id": "62a77c370bbdf30013966ddc",
                 "@slug": "wtf-with-marc-maron-podcast"
             },
-            "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmblLqaMBMajpJXu7yp0mzceMUa8Wm6Y8p3SVOtS1XRsdgmw/pXyWW+ul729wGfUGJVh9Nb0xR6pMaE01kSUU4oa3hbybMsJmKe5j2uIkk6EXq7NAsR6CPg6WgvMU7qJBvIBcI0czRuBtKNStYXT8TwU4Yjqe39Pp+RcSIDsn4Ftu/gQK9OBtXRA68ZYjuIi/nSyZvJEyNf1nP5r6fDiJxZR5+mVs+L1QI5tPfZFjvTag",
+            "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmblLqaMBMajpJXu7yp0mzceMUa8Wm6Y8p3SVOtS1XRsdgmw/pXyWW+ul729wGfUGJVh9Nb0xR6pMaE01kSUU4oa3hbybMsJmKe5j2uIkk6EXq7NAsR6CPg6WgvMU7qJBvB7aX+oyZbAmT5qX9gj+WEYr1uM+bHlZXhIczu2hRu+r0ra+hXUjjOgenHnhEQBsCQLoqTLtxAA4EZ4UG65oxWrtuRUD0RCvLIi+i6IwlsNhrPSQM4VUEjg+L7pOLgX9fiUJTP2mfkXHdQ5GKIFcUTE/zNOWpcpx2Zs9sJE7A+XgbWQzHDRtt1ViLdVkpmbCqGjGQjaeHQbE882xbrR6JaB6Uz1nIo1scZu+xDOdqCsuaDyW6WbpDEVxNPc5FPnMcg==",
             "acast:showId": "62a222737c02140013aa4c03",
             "acast:showUrl": "wtf-with-marc-maron-podcast",
             "acast:signature": {
@@ -55,11 +55,73 @@
                     "@locked": "false",
                     "@spons": "true",
                     "@tier": "public_only",
+                    "acast:episodeId": "67c00854ddaea755a706bb8c",
+                    "acast:episodeUrl": "episode-1621-chris-hayes",
+                    "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCeWjQueYH7JS1igtsa1qgMfKM9207kD6F7gHe2fSc5eLlz4IZtOu828Pt41mA6THSH4Um2zwwjQSriwFd8TF8C54GxPwh65Kx3kMwBSBrsrr639ka2ys8C9kj+7ELggIS2uj/pPMHTC2DXUjlX78axWH/Lyd1PKhA8s4/KtvPqnoN2lSLPg063deYrwvLWbdCQc9tyjxYU/4td5jwhxJF1yOxfABWDnBc132k/Aspwkjd5oKKScA4Fj38P8HWT85z/2UDO6tPVPftFprtwKs+um",
+                    "acast:showId": "62a222737c02140013aa4c03",
+                    "description": "<p>When Chris Hayes was last on the show almost ten years ago, it was a much different world. Barack Obama had just recently been in the garage and Donald Trump had just declared his candidacy for President. Making sense of that changing world is what Chris does nightly on MSNBC, but he\u2019s also written a new book about our changing brains. Chris and Marc talk about that book, The Sirens\u2019 Call, and our rapidly evolving relationships with attention, information, media and our phones.</p><br><p><a href=\"https://forms.gle/TJrfMdzh5uiPzu8G7\" rel=\"noopener noreferrer\" target=\"_blank\">Click here to submit a question</a> for an upcoming Ask Marc Anything bonus episode on The Full Maron.</p><br><p>Learn more about our sponsor NOCD by going here - &nbsp;<a href=\"https://learn.nocd.com/wtf\" rel=\"noopener noreferrer\" target=\"_blank\">https://learn.nocd.com/wtf</a></p> <p>Sign up here for WTF+ to get the full show archives and weekly bonus material! <a target=\"_blank\" rel=\"payment\" href=\"https://plus.acast.com/s/wtf-with-marc-maron-podcast\">https://plus.acast.com/s/wtf-with-marc-maron-podcast</a>.</p>\n\n<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+                    "enclosure": {
+                        "@length": "78769625",
+                        "@type": "audio/mpeg",
+                        "@url": "https://sphinx.acast.com/p/open/s/62a222737c02140013aa4c03/e/67c00854ddaea755a706bb8c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwcml2YXRlIn0=&sig=V0R7TUALrCr04wsY_pf9Qc2sZiyt0dgOL_3CLfPYbVQ"
+                    },
+                    "guid": {
+                        "#text": "67c00854ddaea755a706bb8c",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:22:02",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://assets.pippa.io/shows/62a222737c02140013aa4c03/1656679440477-8e0e5db81e3f07c927b0032af2591499.jpeg"
+                    },
+                    "itunes:summary": "<p>When Chris Hayes was last on the show almost ten years ago, it was a much different world. Barack Obama had just recently been in the garage and Donald Trump had just declared his candidacy for President. Making sense of that changing world is what Chris does nightly on MSNBC, but he\u2019s also written a new book about our changing brains. Chris and Marc talk about that book, The Sirens\u2019 Call, and our rapidly evolving relationships with attention, information, media and our phones.</p><br><p><a href=\"https://forms.gle/TJrfMdzh5uiPzu8G7\" rel=\"noopener noreferrer\" target=\"_blank\">Click here to submit a question</a> for an upcoming Ask Marc Anything bonus episode on The Full Maron.</p><br><p>Learn more about our sponsor NOCD by going here - &nbsp;<a href=\"https://learn.nocd.com/wtf\" rel=\"noopener noreferrer\" target=\"_blank\">https://learn.nocd.com/wtf</a></p> <p>Sign up here for WTF+ to get the full show archives and weekly bonus material! <a target=\"_blank\" rel=\"payment\" href=\"https://plus.acast.com/s/wtf-with-marc-maron-podcast\">https://plus.acast.com/s/wtf-with-marc-maron-podcast</a>.</p>\n\n<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+                    "itunes:title": "Episode 1621 - Chris Hayes",
+                    "link": "https://shows.acast.com/wtf-with-marc-maron-podcast/episodes/episode-1621-chris-hayes",
+                    "pubDate": "Thu, 27 Feb 2025 08:00:00 GMT",
+                    "title": "Episode 1621 - Chris Hayes"
+                },
+                {
+                    "@ads": "false",
+                    "@locked": "false",
+                    "@spons": "true",
+                    "@tier": "public_only",
+                    "acast:episodeId": "67bc2103b628e470d3dfb85c",
+                    "acast:episodeUrl": "episode-1620-carrie-coon",
+                    "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCdkrPUy8OB+WK+qGtsiRgGBN6aNEH95chAx5JOpWw+w7726WjtXtwQhuD7pq5GXzMEmiqK9B1fhIPBoExPuZPFGJlBaVdOVA2mV6Jg3GKT/gzAqsUZ7nei4rg5YIiS4v+sb2x9irDEbQbqEAIwNyHLzFXWUYL6oqCcDMe5aEdayCzfPO/YfOvnTe7z0RNk2gsIYdvpX75UsSXe1qhi8J6I82N/2TSD8A7pCC9pSp5U5/Hzyhh9DAEMVMRrkf6v4fq8bC2piuKZAZ9qIBh8jYZUY",
+                    "acast:showId": "62a222737c02140013aa4c03",
+                    "description": "<p>As someone from a working class Ohio family, Carrie Coon didn\u2019t think much about acting as a plausible career path. But her post-college work in regional theater led her to Steppenwolf in Chicago, which in turn led her to Broadway, and ultimately to a Hollywood career. Carrie and Marc talk about her first movie being being a baptism by David Fincher\u2019s unique fire, meeting her husband Tracy Letts, learning that acting is not pretending, and spending six months in Thailand for the new season of The White Lotus.</p><br><p><a href=\"https://forms.gle/TJrfMdzh5uiPzu8G7\" rel=\"noopener noreferrer\" target=\"_blank\">Click here to submit a question</a> for an upcoming Ask Marc Anything bonus episode on The Full Maron.</p> <p>Sign up here for WTF+ to get the full show archives and weekly bonus material! <a target=\"_blank\" rel=\"payment\" href=\"https://plus.acast.com/s/wtf-with-marc-maron-podcast\">https://plus.acast.com/s/wtf-with-marc-maron-podcast</a>.</p>\n\n<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+                    "enclosure": {
+                        "@length": "94607012",
+                        "@type": "audio/mpeg",
+                        "@url": "https://sphinx.acast.com/p/open/s/62a222737c02140013aa4c03/e/67bc2103b628e470d3dfb85c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwcml2YXRlIn0=&sig=q3Ml5nr9vHSpT8Bp3kWaUiE8_uB6mU7KOrmdqz4TuTY"
+                    },
+                    "guid": {
+                        "#text": "67bc2103b628e470d3dfb85c",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:38:32",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://assets.pippa.io/shows/62a222737c02140013aa4c03/1656679440477-8e0e5db81e3f07c927b0032af2591499.jpeg"
+                    },
+                    "itunes:summary": "<p>As someone from a working class Ohio family, Carrie Coon didn\u2019t think much about acting as a plausible career path. But her post-college work in regional theater led her to Steppenwolf in Chicago, which in turn led her to Broadway, and ultimately to a Hollywood career. Carrie and Marc talk about her first movie being being a baptism by David Fincher\u2019s unique fire, meeting her husband Tracy Letts, learning that acting is not pretending, and spending six months in Thailand for the new season of The White Lotus.</p><br><p><a href=\"https://forms.gle/TJrfMdzh5uiPzu8G7\" rel=\"noopener noreferrer\" target=\"_blank\">Click here to submit a question</a> for an upcoming Ask Marc Anything bonus episode on The Full Maron.</p> <p>Sign up here for WTF+ to get the full show archives and weekly bonus material! <a target=\"_blank\" rel=\"payment\" href=\"https://plus.acast.com/s/wtf-with-marc-maron-podcast\">https://plus.acast.com/s/wtf-with-marc-maron-podcast</a>.</p>\n\n<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+                    "itunes:title": "Episode 1620 - Carrie Coon",
+                    "link": "https://shows.acast.com/wtf-with-marc-maron-podcast/episodes/episode-1620-carrie-coon",
+                    "pubDate": "Mon, 24 Feb 2025 08:00:00 GMT",
+                    "title": "Episode 1620 - Carrie Coon"
+                },
+                {
+                    "@ads": "false",
+                    "@locked": "false",
+                    "@spons": "true",
+                    "@tier": "public_only",
                     "acast:episodeId": "67b6d2cba95b41529ff42f19",
                     "acast:episodeUrl": "episode-1619-mo-amer",
                     "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcbeF280S/CED8FjAkD69+Foxl7DI+khncl22Ezn4TLhHSH2ZZgs7zy7i7YqsRapbYJPv6fjsTFSl152qkI4KXAM4zjS8FaxqiTTPDDTf0gMceOWZoc0Yu5HqqkZ++H1Z6A9s9TXq6K3KPy6juzmFOIqEilSskd1FgSD2R/nlCWrxZ5DPMIywaQ0f+HgPmzotoBYIETxdXxTYkPOy17BOb0q9Amlx5UAyOg5scrvnwIX8RQnr5lM9fsZqWXI+3s3+vOG8J8MW0IJ6y2+Z+QG7mS",
                     "acast:showId": "62a222737c02140013aa4c03",
-                    "description": "Mo Amer was new to America when he was nine years old and his brother took him to see his first standup show. From that point on, he knew what he wanted to do with his life. Then at age 17, he took advice that helped him map out his entire career. Mo talks with Marc about his love for Houston, its diversity, and its comedy scene. He also explains how he\u2019s honoring his family and his Palestinian heritage in his Netflix series Mo and why the show had to be told from his personal perspective. <p>Sign up here for WTF+ to get the full show archives and weekly bonus material! <a target=\"_blank\" rel=\"payment\" href=\"https://plus.acast.com/s/wtf-with-marc-maron-podcast\">https://plus.acast.com/s/wtf-with-marc-maron-podcast</a>.</p>\n\n<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+                    "description": "<p>Mo Amer was new to America when he was nine years old and his brother took him to see his first standup show. From that point on, he knew what he wanted to do with his life. Then at age 17, he took advice that helped him map out his entire career. Mo talks with Marc about his love for Houston, its diversity, and its comedy scene. He also explains how he\u2019s honoring his family and his Palestinian heritage in his Netflix series Mo and why the show had to be told from his personal perspective.</p><br><p><a href=\"https://forms.gle/7ycRFRL49zhqgTAA8\" rel=\"noopener noreferrer\" target=\"_blank\">Click here to submit a question</a> for an upcoming Ask Marc Anything bonus episode on The Full Maron.</p> <p>Sign up here for WTF+ to get the full show archives and weekly bonus material! <a target=\"_blank\" rel=\"payment\" href=\"https://plus.acast.com/s/wtf-with-marc-maron-podcast\">https://plus.acast.com/s/wtf-with-marc-maron-podcast</a>.</p>\n\n<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
                     "enclosure": {
                         "@length": "79685947",
                         "@type": "audio/mpeg",
@@ -75,7 +137,7 @@
                     "itunes:image": {
                         "@href": "https://assets.pippa.io/shows/62a222737c02140013aa4c03/1656679440477-8e0e5db81e3f07c927b0032af2591499.jpeg"
                     },
-                    "itunes:summary": "Mo Amer was new to America when he was nine years old and his brother took him to see his first standup show. From that point on, he knew what he wanted to do with his life. Then at age 17, he took advice that helped him map out his entire career. Mo talks with Marc about his love for Houston, its diversity, and its comedy scene. He also explains how he\u2019s honoring his family and his Palestinian heritage in his Netflix series Mo and why the show had to be told from his personal perspective. <p>Sign up here for WTF+ to get the full show archives and weekly bonus material! <a target=\"_blank\" rel=\"payment\" href=\"https://plus.acast.com/s/wtf-with-marc-maron-podcast\">https://plus.acast.com/s/wtf-with-marc-maron-podcast</a>.</p>\n\n<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+                    "itunes:summary": "<p>Mo Amer was new to America when he was nine years old and his brother took him to see his first standup show. From that point on, he knew what he wanted to do with his life. Then at age 17, he took advice that helped him map out his entire career. Mo talks with Marc about his love for Houston, its diversity, and its comedy scene. He also explains how he\u2019s honoring his family and his Palestinian heritage in his Netflix series Mo and why the show had to be told from his personal perspective.</p><br><p><a href=\"https://forms.gle/7ycRFRL49zhqgTAA8\" rel=\"noopener noreferrer\" target=\"_blank\">Click here to submit a question</a> for an upcoming Ask Marc Anything bonus episode on The Full Maron.</p> <p>Sign up here for WTF+ to get the full show archives and weekly bonus material! <a target=\"_blank\" rel=\"payment\" href=\"https://plus.acast.com/s/wtf-with-marc-maron-podcast\">https://plus.acast.com/s/wtf-with-marc-maron-podcast</a>.</p>\n\n<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
                     "itunes:title": "Episode 1619 - Mo Amer",
                     "link": "https://shows.acast.com/wtf-with-marc-maron-podcast/episodes/episode-1619-mo-amer",
                     "pubDate": "Thu, 20 Feb 2025 08:00:00 GMT",
@@ -429,11 +491,11 @@
                     "@tier": "public_only",
                     "acast:episodeId": "677f66d65d46b524b052ef80",
                     "acast:episodeUrl": "episode-1607-mike-leigh",
-                    "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCe+RHIRRL48I7PwvN2T0MMznTKF5YBbts3sg7ZQJk68KNsEB2nyE0r0xftj3/Ald/WadNxHbcdUJdVBQAx0CLhirKHIRykBrmP1Y1OmrpBEiptK56+Xs/mXTvn0mS3So44UKdH7DwaoIi4KbGeKaPDAL2w5p0DTtS9W4zH8aIQ9KjZTvYftbdSzyE7sVknKk8yHyZhO4r8phxDc/Qpge24XYEYWcPEJJCGdswbDTPDBq4uKhFa3ssV+ZnuYz+s49nSPU7MNhWRSvvshuBy2r++k",
+                    "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCd0/rRZSCVObhUsUc1u6lGf2reYO9WxgDl8JJhMYxRZVyR/08euJnhNXNZsyRb7fnMffWoS2G4VAOQgd6gxuM71Kzzme5f/rWAphqPzTn96ahdlxdZ7e5i3DWkwlOsSVxRKwOcXb6S4fFr7D1uELSC9V+wzm/JSyZmxqQ1onykF+GXGS3a5fqagwFhqD9myg9+DNZ1DwSNTJeiRIisk5XIpxbg8Qh/y3nfIskWo1XKoUc6/0ZbgBbhdHrAo4PSjY5isxGnnm8hcTb555yKbiRwZ",
                     "acast:showId": "62a222737c02140013aa4c03",
                     "description": "Mike Leigh\u2019s films are known for their observant depictions of the working class, their tragicomic tones, and their improvisational construction. But there are some misconceptions about his work that Mike would like to clear up. He does so while talking with Marc about his life-changing introduction to foreign films, his method of collaboration with his actors, the difference between realism and naturalism, and some details about the making of Secrets and Lies, Vera Drake, Topsy-Turvy, Naked and his new film Hard Truths. <p>Sign up here for WTF+ to get the full show archives and weekly bonus material! <a target=\"_blank\" rel=\"payment\" href=\"https://plus.acast.com/s/wtf-with-marc-maron-podcast\">https://plus.acast.com/s/wtf-with-marc-maron-podcast</a>.</p>\n\n<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
                     "enclosure": {
-                        "@length": "78028661",
+                        "@length": "75614695",
                         "@type": "audio/mpeg",
                         "@url": "https://sphinx.acast.com/p/open/s/62a222737c02140013aa4c03/e/677f66d65d46b524b052ef80/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwcml2YXRlIn0=&sig=K1dGH8ap3KJHtPIieujJTnGPZ9FRVW-nJjf-C7k0_GE"
                     },
@@ -441,7 +503,7 @@
                         "#text": "677f66d65d46b524b052ef80",
                         "@isPermaLink": "false"
                     },
-                    "itunes:duration": "1:21:16",
+                    "itunes:duration": "1:18:45",
                     "itunes:episodeType": "full",
                     "itunes:explicit": "true",
                     "itunes:image": {
@@ -460,11 +522,11 @@
                     "@tier": "public_only",
                     "acast:episodeId": "677b84039f3ac46db81b1651",
                     "acast:episodeUrl": "episode-1606-adrien-brody",
-                    "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCeI6IWyzbdUUUNaL8q/aqkV8smAJW2FpbvQy/Cu+natD4ADyvNziaR7IHPD/K3SQYi9UEYU0WUqNCyKfOX2ZTQ8Ei6fXMYw/p5xMgRSelSXMGXEQghBMN9rFWXxXu2t/zErWncuBfYNDjibpQOw1AmmrqPJ/bCKEAhXt1wvtUKhY+nZMbnp6WS7SRjRlMbNQJsY611mQmnJDxVkM3pELuqsjtzYO1iyQbDObrVNBR6qVJoZEmulJDghuYPS2XCuk2UGzTaH32DgbuWkj5/FYx3G",
+                    "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCfq3wwYNm8N4k9Meu/FiMOn5nphgkLqBf5p6hY1keQXe/nK9K49Ns5K+I7xaDt0Zp8emKP/vyqgno32QV78St3d15O2GHmzY6UoTiFJ5JxrgmQvKiiD3XtTjFD0FEysP1UI/xHmNNHHRuXEWsBfUPVHuk9CBgpJNY2Tl0C1LQFY1ddsPNqS0gvbRby+9MKORjw1f9v/XdFptoXdnFQ5xg9pysNO8LsmXsQzC+cPXoKg+DiijKy0I5gG+Um6SIhuz+PTIXUqo+EH8lJjH6Gqzig/",
                     "acast:showId": "62a222737c02140013aa4c03",
                     "description": "Adrien Brody does a lot of research for his roles, but his performance in the new movie The Brutalist was shaped largely by his family\u2019s immigrant experience and it aligned with his desire to play characters who are outsiders. Adrien also talks with Marc about becoming the youngest winner of the Best Actor Oscar for The Pianist and how it was a little too much to take. But on the flip side, he explains why he revels in the joy and camaraderie of making Wes Anderson\u2019s films. <p>Sign up here for WTF+ to get the full show archives and weekly bonus material! <a target=\"_blank\" rel=\"payment\" href=\"https://plus.acast.com/s/wtf-with-marc-maron-podcast\">https://plus.acast.com/s/wtf-with-marc-maron-podcast</a>.</p>\n\n<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
                     "enclosure": {
-                        "@length": "84445588",
+                        "@length": "82197970",
                         "@type": "audio/mpeg",
                         "@url": "https://sphinx.acast.com/p/open/s/62a222737c02140013aa4c03/e/677b84039f3ac46db81b1651/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwcml2YXRlIn0=&sig=e_dLwJxh335ZHgiDqOd0ARx0HKQWEmonoDzr8CByw7s"
                     },
@@ -472,7 +534,7 @@
                         "#text": "677b84039f3ac46db81b1651",
                         "@isPermaLink": "false"
                     },
-                    "itunes:duration": "1:27:57",
+                    "itunes:duration": "1:25:36",
                     "itunes:episodeType": "full",
                     "itunes:explicit": "true",
                     "itunes:image": {
@@ -31436,6 +31498,106 @@
                 }
             },
             "podaccess:item": [
+                {
+                    "@ads": "false",
+                    "@locked": "true",
+                    "@premium": "true",
+                    "@spons": "false",
+                    "@tier": "e314d1cb-796e-4867-bf22-8e0d7b57d343",
+                    "acast:episodeId": "67c13989ac2580a00c70a8f2",
+                    "acast:episodeUrl": "bonus-the-friday-show-oscars-wild",
+                    "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmfwL2jaMW9OfVjpl1A481t14TmPPNBt/QBdFV0cjQSq6O95gGg1G5VX1qUALnMwOy84DIRWdD816dQkEuoT9tdZcw4nzNpKy8paE/xxSv+Wno2nHPLxOmQS3m1107wgqT/3i1Jw7AG8hePpITcYM4L2ZciR06TWBgPXnx1O/pIe5NAK5SKuXp2D+Kzot5BIxV9KuGmXcEcJpjfQWXjzBE6p5pEVU0LRWy/GDzg860zFcGxahREoirNgyAz7JayuTfTuCNBRjSz4K+rA/jvXlfb+ZzE2R59gdFNWJYrAJpAi8",
+                    "acast:showId": "62a222737c02140013aa4c03",
+                    "guid": {
+                        "#text": "67c13989ac2580a00c70a8f2",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:05:56",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:summary": "<p>It's almost a wrap on Oscar Season. But before getting to their picks for overlooked 2024 Oscar Nominees, Brendan and Kris talk about I'm Not There, The Brutalist, Gene Hackman, and this week's WTF episodes with Carrie Coon and Chris Hayes.</p><br><p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLScpjTTlWIMHwiD_ductQP3-BQtPX5LMK0EaMT6n8-I3LY5KLA/viewform\" rel=\"noopener noreferrer\" target=\"_blank\">Click here</a> to send us your suggestions, comments and topics.</p><br><p><a href=\"https://forms.gle/TJrfMdzh5uiPzu8G7\" rel=\"noopener noreferrer\" target=\"_blank\">Click here to submit a question</a> for an upcoming Ask Marc Anything bonus episode on The Full Maron.</p>",
+                    "itunes:title": "BONUS The Friday Show - Oscars Wild",
+                    "link": "https://shows.acast.com/wtf-with-marc-maron-podcast/episodes/bonus-the-friday-show-oscars-wild",
+                    "podaccess:premium": {
+                        "@locked": "true"
+                    },
+                    "pubDate": "Fri, 28 Feb 2025 08:00:00 GMT"
+                },
+                {
+                    "@ads": "false",
+                    "@locked": "true",
+                    "@premium": "true",
+                    "@spons": "false",
+                    "@tier": "e314d1cb-796e-4867-bf22-8e0d7b57d343,2c09277a-d835-40e4-a70b-98cd83c983d7",
+                    "acast:episodeId": "67c00858ddaea755a706ccae",
+                    "acast:episodeUrl": "episode-1621-chris-hayes1",
+                    "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmfwL2jaMW9OfVjpl1A481t14TmPPNBt/QBdFV0cjQSq6O95gGg1G5VX1qUALnMwOy84DIRWdD816dQkEuoT9tdZcw4nzNpKy8paE/xxSv+Wno2nHPLxOmQS3m1107wgqT/3i1Jw7AG8hePpITcYM4L2ZciR06TWBgPXnx1O/pIe5NAK5SKuXp2D+Kzot5BIxV9KuGmXcEcJpjfQWXjzBE6pLYuJnwt/4JteYW7D94kYZXfTr5c6/CC1FeQ2e6XcIO4iQaLo/t7ONolabgG+wSAF8NWrOhAjGCmWsGayiBMxg",
+                    "acast:showId": "62a222737c02140013aa4c03",
+                    "guid": {
+                        "#text": "67c00858ddaea755a706ccae",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:20:21",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:summary": "<p>When Chris Hayes was last on the show almost ten years ago, it was a much different world. Barack Obama had just recently been in the garage and Donald Trump had just declared his candidacy for President. Making sense of that changing world is what Chris does nightly on MSNBC, but he\u2019s also written a new book about our changing brains. Chris and Marc talk about that book, The Sirens\u2019 Call, and our rapidly evolving relationships with attention, information, media and our phones.</p><br><p><a href=\"https://forms.gle/TJrfMdzh5uiPzu8G7\" rel=\"noopener noreferrer\" target=\"_blank\">Click here to submit a question</a> for an upcoming Ask Marc Anything bonus episode on The Full Maron.</p>",
+                    "itunes:title": "Episode 1621 - Chris Hayes",
+                    "link": "https://shows.acast.com/wtf-with-marc-maron-podcast/episodes/episode-1621-chris-hayes1",
+                    "podaccess:premium": {
+                        "@locked": "true"
+                    },
+                    "pubDate": "Thu, 27 Feb 2025 08:00:00 GMT"
+                },
+                {
+                    "@ads": "false",
+                    "@locked": "true",
+                    "@premium": "true",
+                    "@spons": "false",
+                    "@tier": "e314d1cb-796e-4867-bf22-8e0d7b57d343",
+                    "acast:episodeId": "67bd494b8ee8c32c7ff96790",
+                    "acast:episodeUrl": "bonus-marc-on-movies-the-2025-oscars",
+                    "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmfwL2jaMW9OfVjpl1A481t14TmPPNBt/QBdFV0cjQSq6O95gGg1G5VX1qUALnMwOy84DIRWdD816dQkEuoT9tdZcw4nzNpKy8paE/xxSv+Wno2nHPLxOmQS3m1107wgqT/3i1Jw7AG8hePpITcYM4L2ZciR06TWBgPXnx1O/pIe5NAK5SKuXp2D+Kzot5BIxV9KuGmXcEcJpjfQWXjzBE6oRNuCCuNqKZjrY9WYdiWd4iyws9X2dchYelFFDEPBFVlTutCGT2ehKTdO3BVjHB0z0nFeAzAVZroE4B39IfszA",
+                    "acast:showId": "62a222737c02140013aa4c03",
+                    "guid": {
+                        "#text": "67bd494b8ee8c32c7ff96790",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "47:53",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:summary": "<p>Marc joins Brendan to run down his picks for the winners of the 2025 Academy Awards and also to discuss the past year in film, as well as some overlooked high points.</p><br><p><a href=\"https://forms.gle/TJrfMdzh5uiPzu8G7\" rel=\"noopener noreferrer\" target=\"_blank\">Click here to submit a question</a> for an upcoming Ask Marc Anything bonus episode on The Full Maron.</p>",
+                    "itunes:title": "BONUS Marc on Movies - The 2025 Oscars",
+                    "link": "https://shows.acast.com/wtf-with-marc-maron-podcast/episodes/bonus-marc-on-movies-the-2025-oscars",
+                    "podaccess:premium": {
+                        "@locked": "true"
+                    },
+                    "pubDate": "Tue, 25 Feb 2025 08:00:00 GMT"
+                },
+                {
+                    "@ads": "false",
+                    "@locked": "true",
+                    "@premium": "true",
+                    "@spons": "false",
+                    "@tier": "e314d1cb-796e-4867-bf22-8e0d7b57d343,2c09277a-d835-40e4-a70b-98cd83c983d7",
+                    "acast:episodeId": "67bc210886a56284d016b34e",
+                    "acast:episodeUrl": "episode-1620-carrie-coon1",
+                    "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmfwL2jaMW9OfVjpl1A481t14TmPPNBt/QBdFV0cjQSq6O95gGg1G5VX1qUALnMwOy84DIRWdD816dQkEuoT9tdZcw4nzNpKy8paE/xxSv+Wno2nHPLxOmQS3m1107wgqT/3i1Jw7AG8hePpITcYM4L2ZciR06TWBgPXnx1O/pIe5NAK5SKuXp2D+Kzot5BIxV9KuGmXcEcJpjfQWXjzBE6oAIOhF44rfWoyF8Y9UpVZSNbORCIej1eTPXv/KYcqAlFRulRxRkIFfgOKffVdEK+r7A5lgUHXBVm0fOjXge6ty",
+                    "acast:showId": "62a222737c02140013aa4c03",
+                    "guid": {
+                        "#text": "67bc210886a56284d016b34e",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:36:40",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:summary": "<p>As someone from a working class Ohio family, Carrie Coon didn\u2019t think much about acting as a plausible career path. But her post-college work in regional theater led her to Steppenwolf in Chicago, which in turn led her to Broadway, and ultimately to a Hollywood career. Carrie and Marc talk about her first movie being being a baptism by David Fincher\u2019s unique fire, meeting her husband Tracy Letts, learning that acting is not pretending, and spending six months in Thailand for the new season of The White Lotus.</p><br><p><a href=\"https://forms.gle/TJrfMdzh5uiPzu8G7\" rel=\"noopener noreferrer\" target=\"_blank\">Click here to submit a question</a> for an upcoming Ask Marc Anything bonus episode on The Full Maron.</p>",
+                    "itunes:title": "Episode 1620 - Carrie Coon",
+                    "link": "https://shows.acast.com/wtf-with-marc-maron-podcast/episodes/episode-1620-carrie-coon1",
+                    "podaccess:premium": {
+                        "@locked": "true"
+                    },
+                    "pubDate": "Mon, 24 Feb 2025 08:00:00 GMT"
+                },
                 {
                     "@ads": "false",
                     "@locked": "true",

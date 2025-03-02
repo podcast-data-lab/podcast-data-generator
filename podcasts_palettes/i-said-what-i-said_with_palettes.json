@@ -40,6 +40,36 @@
             },
             "item": [
                 {
+                    "acast:episodeId": "67bccc1186a56284d045f219",
+                    "acast:episodeUrl": "the-family-fixer-episode",
+                    "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsE1m2nLaqMbLnflBevMvcee1QKfoneWxQBRNvNIPezsCp/J70qeEAbKjHakvO9WBWjN9z2+NfkquSo64HxbzFmiWITjaIXqZVd2GVDUy4ogsXaFjLIzT5KhCjgJUrTEDc",
+                    "acast:showId": "62e95c1847c51300128261c0",
+                    "description": "<p>No guests today so to know what that means, Jola and FK ramble and meander from one topic to another! They fill you in on their weekends and try to help with some dilemmas!</p><p>This week's topics include</p><ul><li>being the third wheel (apparently you are the crowd)</li><li>the importance of Nigerian history </li><li>attending your ex-wife's wedding </li><li>being the family fixer</li></ul><p><br></p><p>Don\u2019t forget to use #ISWIS or #ISWISPodcast to share your thoughts while listening to the podcast on Twitter! Rate the show 5 stars on whatever app you listen to and leave a review, share with everyone you know and if you also watch on YouTube, subscribe, like and leave a comment!&nbsp;</p><br><p><br></p><p>Make sure to follow us on&nbsp;</p><p>Twitter: @ISWISPodcast</p><p>Instagram: @isaidwhatisaidpod</p><p>Youtube: @isaidwhatisaidpod</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+                    "enclosure": {
+                        "@length": "243950687",
+                        "@type": "audio/mpeg",
+                        "@url": "https://sphinx.acast.com/p/open/s/62e95c1847c51300128261c0/e/67bccc1186a56284d045f219/media.mp3"
+                    },
+                    "guid": {
+                        "#text": "67bccc1186a56284d045f219",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "2:07:03",
+                    "itunes:episode": "4",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://assets.pippa.io/shows/62e95c1847c51300128261c0/1738689712593-40985abc-10dc-453a-8d2d-22f166df138e.jpeg"
+                    },
+                    "itunes:season": "7",
+                    "itunes:subtitle": "The importance of history, attending your ex wife's wedding, & being the family money pot",
+                    "itunes:summary": "<p>No guests today so to know what that means, Jola and FK ramble and meander from one topic to another! They fill you in on their weekends and try to help with some dilemmas!</p><p>This week's topics include</p><ul><li>being the third wheel (apparently you are the crowd)</li><li>the importance of Nigerian history </li><li>attending your ex-wife's wedding </li><li>being the family fixer</li></ul><p><br></p><p>Don\u2019t forget to use #ISWIS or #ISWISPodcast to share your thoughts while listening to the podcast on Twitter! Rate the show 5 stars on whatever app you listen to and leave a review, share with everyone you know and if you also watch on YouTube, subscribe, like and leave a comment!&nbsp;</p><br><p><br></p><p>Make sure to follow us on&nbsp;</p><p>Twitter: @ISWISPodcast</p><p>Instagram: @isaidwhatisaidpod</p><p>Youtube: @isaidwhatisaidpod</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+                    "itunes:title": "The \"Family Fixer\" Episode ",
+                    "link": "https://shows.acast.com/isaidwhatisaidpodcast/episodes/the-family-fixer-episode",
+                    "pubDate": "Wed, 26 Feb 2025 03:00:00 GMT",
+                    "title": "The \"Family Fixer\" Episode "
+                },
+                {
                     "acast:episodeId": "67b3b35ea16c1d2aa5aebe78",
                     "acast:episodeUrl": "the-starrrrrrrrr-girl-episode-ft-ayra-starr",
                     "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsE1m2nLaqMbLnflBevMvcee1QKfoneWxQBRNvNIPezsB7MX0Mv8cuE6nFpUqOa+UJS+23UHJgJRK7MsGuWh4+yK4CauyY+wzyI3lW8IZaRf/1jNn1x/GJFzeo8/9X975H",

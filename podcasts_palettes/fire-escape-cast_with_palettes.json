@@ -29,6 +29,31 @@
             },
             "item": [
                 {
+                    "description": "On this episode of Fire Escape, Mike and Mary talk about a new rat game and Dan waxes poetic about Avowed.",
+                    "enclosure": {
+                        "@length": "263610829",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/clrtpod.com/m/api.spreaker.com/download/episode/64513407/fe_episode101_audio.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://api.spreaker.com/episode/64513407",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Fire Escape Cast",
+                    "itunes:duration": "10960",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8ffaecd9208c087be4907353444aef1c.jpg"
+                    },
+                    "itunes:keywords": "fireescape,gamepodcast,gaming,videogames",
+                    "itunes:subtitle": "On this episode of Fire Escape, Mike and Mary talk about a new rat game and Dan waxes poetic about Avowed.",
+                    "itunes:summary": "On this episode of Fire Escape, Mike and Mary talk about a new rat game and Dan waxes poetic about Avowed.",
+                    "link": "https://www.spreaker.com/episode/fire-escape-cast-101--64513407",
+                    "pubDate": "Mon, 24 Feb 2025 08:00:08 +0000",
+                    "title": "Fire Escape Cast #101"
+                },
+                {
                     "description": "On the 100th episode of Fire Escape, the gang determines the greatest video game of all time.",
                     "enclosure": {
                         "@length": "275647143",
@@ -2563,7 +2588,7 @@
             "itunes:summary": "Dan Ryckert, Mary Kish, and Mike Mahardy can\u2019t shut down bars while talking about video games like they used to, so they created Fire Escape to keep those chats going from across the country. Support them at fireescapecast.com",
             "itunes:type": "episodic",
             "language": "en",
-            "lastBuildDate": "Mon, 10 Feb 2025 11:02:35 +0000",
+            "lastBuildDate": "Mon, 24 Feb 2025 08:04:04 +0000",
             "link": "https://www.spreaker.com/show/fire-escape-cast",
             "title": "Fire Escape Cast"
         }

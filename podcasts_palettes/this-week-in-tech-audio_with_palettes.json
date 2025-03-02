@@ -42,9 +42,125 @@
                         "News",
                         "Tech News"
                     ],
+                    "comments": "https://twit.tv/shows/this-week-in-tech/episodes/1020",
+                    "content:encoded": "\n<ul> \n<li>Over $1.4 billion taken from Bybit crypto exchange</li> \n<li>Apple Removes Cloud Encryption Feature From UK After Backdoor Order</li> \n<li>iOS18.4 Beta adds priority notifications, support for robot vacs in Apple Home, but no smarter siri</li> \n<li>Amazon's revamped Alexa might launch over a month after its announcement event</li> \n<li>OpenAI now serves 400M users every week</li> \n<li>The New York Times adopts AI tools in the newsroom</li> \n<li>Amazon Appstore for Android is shutting down in August</li> \n<li>Spotify is making it easier to release audiobooks narrated by AI</li> \n<li>California privacy regulator seeks to fine Florida data broker after huge breach of Social Security numbers</li> \n<li>Donald Trump Is Turning CISA Into The Embodiment Of His Election Conspiracy Theories</li> \n<li>Asus Continues Fragrant Device Trend With an Aromatic Mouse - Slashdot</li> \n<li>iPhone 16E: all the news on Apple's new $599 phone</li> \n<li>Smart ring tracks health, fitness data with long battery life</li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://twit.tv/people/jennifer-pattison-tuohy\">Jennifer Pattison Tuohy</a>, <a href=\"https://twit.tv/people/abrar-al-heeti\">Abrar Al-Heeti</a>, and <a href=\"http://www.larrysworld.com/\" target=\"_blank\">Larry Magid</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> \nSupport what you love and get ad-free shows, a members-only Discord, and behind-the-scenes access. Join today: <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://expressvpn.com/twit\" target=\"_blank\" rel=\"sponsored\">expressvpn.com/twit</a></li>\n<li><a href=\"http://www.ziprecruiter.com/twit\" target=\"_blank\" rel=\"sponsored\">ziprecruiter.com/twit</a></li>\n<li><a href=\"http://uscloud.com\" target=\"_blank\" rel=\"sponsored\">uscloud.com</a></li>\n<li><a href=\"https://www.threatlocker.com/?utm_source=twit&utm_medium=sponsor&utm_campaign=week_in_tech_q4&utm_content=week_in_tech&utm_term=podcast\" target=\"_blank\" rel=\"sponsored\">threatlocker.com for This Week in Tech</a></li>\n<li><a href=\"http://Melissa.com/twit\" target=\"_blank\" rel=\"sponsored\">Melissa.com/twit</a></li>\n</ul></p>\n",
+                    "description": "\n<ul> \n<li>Over $1.4 billion taken from Bybit crypto exchange</li> \n<li>Apple Removes Cloud Encryption Feature From UK After Backdoor Order</li> \n<li>iOS18.4 Beta adds priority notifications, support for robot vacs in Apple Home, but no smarter siri</li> \n<li>Amazon's revamped Alexa might launch over a month after its announcement event</li> \n<li>OpenAI now serves 400M users every week</li> \n<li>The New York Times adopts AI tools in the newsroom</li> \n<li>Amazon Appstore for Android is shutting down in August</li> \n<li>Spotify is making it easier to release audiobooks narrated by AI</li> \n<li>California privacy regulator seeks to fine Florida data broker after huge breach of Social Security numbers</li> \n<li>Donald Trump Is Turning CISA Into The Embodiment Of His Election Conspiracy Theories</li> \n<li>Asus Continues Fragrant Device Trend With an Aromatic Mouse - Slashdot</li> \n<li>iPhone 16E: all the news on Apple's new $599 phone</li> \n<li>Smart ring tracks health, fitness data with long battery life</li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://twit.tv/people/jennifer-pattison-tuohy\">Jennifer Pattison Tuohy</a>, <a href=\"https://twit.tv/people/abrar-al-heeti\">Abrar Al-Heeti</a>, and <a href=\"http://www.larrysworld.com/\" target=\"_blank\">Larry Magid</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> \nSupport what you love and get ad-free shows, a members-only Discord, and behind-the-scenes access. Join today: <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://expressvpn.com/twit\" target=\"_blank\" rel=\"sponsored\">expressvpn.com/twit</a></li>\n<li><a href=\"http://www.ziprecruiter.com/twit\" target=\"_blank\" rel=\"sponsored\">ziprecruiter.com/twit</a></li>\n<li><a href=\"http://uscloud.com\" target=\"_blank\" rel=\"sponsored\">uscloud.com</a></li>\n<li><a href=\"https://www.threatlocker.com/?utm_source=twit&utm_medium=sponsor&utm_campaign=week_in_tech_q4&utm_content=week_in_tech&utm_term=podcast\" target=\"_blank\" rel=\"sponsored\">threatlocker.com for This Week in Tech</a></li>\n<li><a href=\"http://Melissa.com/twit\" target=\"_blank\" rel=\"sponsored\">Melissa.com/twit</a></li>\n</ul></p>\n",
+                    "enclosure": {
+                        "@length": "159721856",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/libsyn/twit_1020/b26992aa-b1b1-4f90-a2b7-efc6a7d4b42a/R1_twit1020.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/audio/twit/twit1020/twit1020.mp3",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "TWiT",
+                    "itunes:duration": "2:45:31",
+                    "itunes:episode": "1020",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2025/02/855364/hero/TWIT1020_thumbnail.jpg"
+                    },
+                    "itunes:keywords": "TWiT, This Week in Tech, Leo Laporte, bvbit, Apple, UK, ios 18.4, amazon, alexa, echo, openAI, Android, california, florida, national public data, asus, aromatic mouse, iPhone 16E, smart ring",
+                    "itunes:subtitle": "Biggest Crypto Heist, iPhone 16e, Alexa Revamp",
+                    "itunes:summary": "\n<ul> \n<li>Over $1.4 billion taken from Bybit crypto exchange</li> \n<li>Apple Removes Cloud Encryption Feature From UK After Backdoor Order</li> \n<li>iOS18.4 Beta adds priority notifications, support for robot vacs in Apple Home, but no smarter siri</li> \n<li>Amazon's revamped Alexa might launch over a month after its announcement event</li> \n<li>OpenAI now serves 400M users every week</li> \n<li>The New York Times adopts AI tools in the newsroom</li> \n<li>Amazon Appstore for Android is shutting down in August</li> \n<li>Spotify is making it easier to release audiobooks narrated by AI</li> \n<li>California privacy regulator seeks to fine Florida data broker after huge breach of Social Security numbers</li> \n<li>Donald Trump Is Turning CISA Into The Embodiment Of His Election Conspiracy Theories</li> \n<li>Asus Continues Fragrant Device Trend With an Aromatic Mouse - Slashdot</li> \n<li>iPhone 16E: all the news on Apple's new $599 phone</li> \n<li>Smart ring tracks health, fitness data with long battery life</li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://twit.tv/people/jennifer-pattison-tuohy\">Jennifer Pattison Tuohy</a>, <a href=\"https://twit.tv/people/abrar-al-heeti\">Abrar Al-Heeti</a>, and <a href=\"http://www.larrysworld.com/\" target=\"_blank\">Larry Magid</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> \nSupport what you love and get ad-free shows, a members-only Discord, and behind-the-scenes access. Join today: <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://expressvpn.com/twit\" target=\"_blank\" rel=\"sponsored\">expressvpn.com/twit</a></li>\n<li><a href=\"http://www.ziprecruiter.com/twit\" target=\"_blank\" rel=\"sponsored\">ziprecruiter.com/twit</a></li>\n<li><a href=\"http://uscloud.com\" target=\"_blank\" rel=\"sponsored\">uscloud.com</a></li>\n<li><a href=\"https://www.threatlocker.com/?utm_source=twit&utm_medium=sponsor&utm_campaign=week_in_tech_q4&utm_content=week_in_tech&utm_term=podcast\" target=\"_blank\" rel=\"sponsored\">threatlocker.com for This Week in Tech</a></li>\n<li><a href=\"http://Melissa.com/twit\" target=\"_blank\" rel=\"sponsored\">Melissa.com/twit</a></li>\n</ul></p>\n",
+                    "itunes:title": "Smell My Mouse - Biggest Crypto Heist, iPhone 16e, Alexa Revamp",
+                    "link": "https://twit.tv/shows/this-week-in-tech/episodes/1020",
+                    "media:content": {
+                        "@fileSize": "159721856",
+                        "@medium": "audio",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/libsyn/twit_1020/b26992aa-b1b1-4f90-a2b7-efc6a7d4b42a/R1_twit1020.mp3",
+                        "media:category": {
+                            "#text": "IAB19",
+                            "@label": "Technology & Computing",
+                            "@scheme": "urn:iab:categories"
+                        },
+                        "media:credit": [
+                            {
+                                "#text": "Leo Laporte",
+                                "@role": "host"
+                            },
+                            {
+                                "#text": "Jennifer Pattison Tuohy",
+                                "@role": "guest"
+                            },
+                            {
+                                "#text": "Abrar Al-Heeti",
+                                "@role": "guest"
+                            },
+                            {
+                                "#text": "Larry Magid",
+                                "@role": "guest"
+                            }
+                        ],
+                        "media:description": {
+                            "#text": "Biggest Crypto Heist, iPhone 16e, Alexa Revamp",
+                            "@type": "plain"
+                        },
+                        "media:keywords": "TWiT, This Week in Tech, Leo Laporte, bvbit, Apple, UK, ios 18.4, amazon, alexa, echo, openAI, Android, california, florida, national public data, asus, aromatic mouse, iPhone 16E, smart ring",
+                        "media:rating": [
+                            {
+                                "#text": "nonadult",
+                                "@scheme": "urn:simple"
+                            },
+                            {
+                                "#text": "tv-g",
+                                "@scheme": "urn:v-chip"
+                            }
+                        ],
+                        "media:thumbnail": {
+                            "@height": "225",
+                            "@url": "https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/2025/02/855364/hero/TWIT1020_thumbnail.jpg",
+                            "@width": "400"
+                        },
+                        "media:title": {
+                            "#text": "TWiT 1020: Smell My Mouse - Biggest Crypto Heist, iPhone 16e, Alexa Revamp",
+                            "@type": "plain"
+                        }
+                    },
+                    "podcast:episode": "1020",
+                    "podcast:person": [
+                        {
+                            "#text": "Leo Laporte",
+                            "@href": "https://twit.tv/people/leo-laporte",
+                            "@img": "https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/21/pictures/leo_1.jpg",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Jennifer Pattison Tuohy",
+                            "@href": "https://twit.tv/people/jennifer-pattison-tuohy",
+                            "@img": "https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/846865/pictures/akrales_220906_5191_3741.jpg",
+                            "@role": "guest"
+                        },
+                        {
+                            "#text": "Abrar Al-Heeti",
+                            "@href": "https://twit.tv/people/abrar-al-heeti",
+                            "@img": "https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/820960/pictures/abrar-al-heeti-headshot.jpg",
+                            "@role": "guest"
+                        },
+                        {
+                            "#text": "Larry Magid",
+                            "@href": "http://www.larrysworld.com/",
+                            "@role": "guest"
+                        }
+                    ],
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "http://twit.tv/posts/transcripts/week-tech-1020-transcript"
+                    },
+                    "pubDate": "Sun, 23 Feb 2025 18:30:51 PST",
+                    "title": "TWiT 1020: Smell My Mouse - Biggest Crypto Heist, iPhone 16e, Alexa Revamp"
+                },
+                {
+                    "category": [
+                        "News",
+                        "Tech News"
+                    ],
                     "comments": "https://twit.tv/shows/this-week-in-tech/episodes/1019",
-                    "content:encoded": "\n<ul> \n<li>TikTok is back on the App Store and the Play Store in the U.S.</li> \n<li>Elon Musk's DOGE Website Is Already Getting Hacked</li> \n<li>IRS Acquiring Nvidia Supercomputer</li> \n<li>Elon's bid for OpenAI is about making the for-profit transition as painful as possible for Altman,</li> \n<li>Intel has spoken with the Trump administration and TSMC over the past few months about a deal for TSMC to take control of Intel's foundry business</li> \n<li>Broadcom Joins TSMC In Considering Deals For Parts of Intel</li> \n<li>Arm to start making server CPUs in-house</li> \n<li>Thomson Reuters wins the first major US AI copyright ruling against fair use, in a case filed in May 2020 against legal research AI startup Ross Intelligence </li> \n<li>Perplexity just made AI research crazy cheap\u2014what that means for the industry</li> \n<li>YouTube Surprise: CEO Says TV Overtakes Mobile as \"Primary Device\" for Viewing</li> \n<li>Google Maps now shows the 'Gulf of America'</li> \n<li>Scarlett Johansson Urges Government to Limit A.I. After Faked Video of Her Opposing Kanye West Goes Viral</li> \n<li>Google CEO Sees 'Useful' Quantum Computers 5 to 10 Years Away</li> \n<li>Trump says he has directed US Treasury to stop minting new pennies, citing rising cost</li> \n<li>Nearly 10 years after Data and Goliath, Bruce Schneier says: Privacy's still screwed</li> \n<li>Amazon's revamped Alexa might launch over a month after its announcement event</li> \n<li>Meta's Brain-to-Text AI</li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://wesley83.com/\" target=\"_blank\">Wesley Faulkner</a>, <a href=\"https://bsky.app/profile/iainthomson.bsky.social\" target=\"_blank\">Iain Thomson</a>, and <a href=\"https://twitter.com/brianmcc\" target=\"_blank\">Brian McCullough</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> \nSupport what you love and get ad-free shows, a members-only Discord, and behind-the-scenes access. Join today: <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://shopify.com/twit\" target=\"_blank\" rel=\"sponsored\">shopify.com/twit</a></li>\n<li><a href=\"http://oracle.com/twit\" target=\"_blank\" rel=\"sponsored\">oracle.com/twit</a></li>\n<li><a href=\"http://zscaler.com/security\" target=\"_blank\" rel=\"sponsored\">zscaler.com/security</a></li>\n<li><a href=\"http://www.ziprecruiter.com/twit\" target=\"_blank\" rel=\"sponsored\">ziprecruiter.com/twit</a></li>\n<li><a href=\"http://joindeleteme.com/twit\" target=\"_blank\" rel=\"sponsored\">joindeleteme.com/twit promo code TWIT</a></li>\n</ul></p>\n",
-                    "description": "\n<ul> \n<li>TikTok is back on the App Store and the Play Store in the U.S.</li> \n<li>Elon Musk's DOGE Website Is Already Getting Hacked</li> \n<li>IRS Acquiring Nvidia Supercomputer</li> \n<li>Elon's bid for OpenAI is about making the for-profit transition as painful as possible for Altman,</li> \n<li>Intel has spoken with the Trump administration and TSMC over the past few months about a deal for TSMC to take control of Intel's foundry business</li> \n<li>Broadcom Joins TSMC In Considering Deals For Parts of Intel</li> \n<li>Arm to start making server CPUs in-house</li> \n<li>Thomson Reuters wins the first major US AI copyright ruling against fair use, in a case filed in May 2020 against legal research AI startup Ross Intelligence </li> \n<li>Perplexity just made AI research crazy cheap\u2014what that means for the industry</li> \n<li>YouTube Surprise: CEO Says TV Overtakes Mobile as \"Primary Device\" for Viewing</li> \n<li>Google Maps now shows the 'Gulf of America'</li> \n<li>Scarlett Johansson Urges Government to Limit A.I. After Faked Video of Her Opposing Kanye West Goes Viral</li> \n<li>Google CEO Sees 'Useful' Quantum Computers 5 to 10 Years Away</li> \n<li>Trump says he has directed US Treasury to stop minting new pennies, citing rising cost</li> \n<li>Nearly 10 years after Data and Goliath, Bruce Schneier says: Privacy's still screwed</li> \n<li>Amazon's revamped Alexa might launch over a month after its announcement event</li> \n<li>Meta's Brain-to-Text AI</li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://wesley83.com/\" target=\"_blank\">Wesley Faulkner</a>, <a href=\"https://bsky.app/profile/iainthomson.bsky.social\" target=\"_blank\">Iain Thomson</a>, and <a href=\"https://twitter.com/brianmcc\" target=\"_blank\">Brian McCullough</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> \nSupport what you love and get ad-free shows, a members-only Discord, and behind-the-scenes access. Join today: <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://shopify.com/twit\" target=\"_blank\" rel=\"sponsored\">shopify.com/twit</a></li>\n<li><a href=\"http://oracle.com/twit\" target=\"_blank\" rel=\"sponsored\">oracle.com/twit</a></li>\n<li><a href=\"http://zscaler.com/security\" target=\"_blank\" rel=\"sponsored\">zscaler.com/security</a></li>\n<li><a href=\"http://www.ziprecruiter.com/twit\" target=\"_blank\" rel=\"sponsored\">ziprecruiter.com/twit</a></li>\n<li><a href=\"http://joindeleteme.com/twit\" target=\"_blank\" rel=\"sponsored\">joindeleteme.com/twit promo code TWIT</a></li>\n</ul></p>\n",
+                    "content:encoded": "\n<ul> \n<li>TikTok is back on the App Store and the Play Store in the U.S.</li> \n<li>Elon Musk's DOGE Website Is Already Getting Hacked</li> \n<li>IRS Acquiring Nvidia Supercomputer</li> \n<li>Elon's bid for OpenAI is about making the for-profit transition as painful as possible for Altman,</li> \n<li>Intel has spoken with the Trump administration and TSMC over the past few months about a deal for TSMC to take control of Intel's foundry business</li> \n<li>Broadcom Joins TSMC In Considering Deals For Parts of Intel</li> \n<li>Arm to start making server CPUs in-house</li> \n<li>Thomson Reuters wins the first major US AI copyright ruling against fair use, in a case filed in May 2020 against legal research AI startup Ross Intelligence </li> \n<li>Perplexity just made AI research crazy cheap\u2014what that means for the industry</li> \n<li>YouTube Surprise: CEO Says TV Overtakes Mobile as \"Primary Device\" for Viewing</li> \n<li>Google Maps now shows the 'Gulf of America'</li> \n<li>Scarlett Johansson Urges Government to Limit A.I. After Faked Video of Her Opposing Kanye West Goes Viral</li> \n<li>Google CEO Sees 'Useful' Quantum Computers 5 to 10 Years Away</li> \n<li>Trump says he has directed US Treasury to stop minting new pennies, citing rising cost</li> \n<li>Nearly 10 years after Data and Goliath, Bruce Schneier says: Privacy's still screwed</li> \n<li>Amazon's revamped Alexa might launch over a month after its announcement event</li> \n<li>Meta's Brain-to-Text AI</li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://wesley83.com/\" target=\"_blank\">Wesley Faulkner</a>, <a href=\"https://bsky.app/profile/iainthomson.bsky.social\" target=\"_blank\">Iain Thomson</a>, and <a href=\"https://bsky.app/profile/brianmc.bsky.social\" target=\"_blank\">Brian McCullough</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> \nSupport what you love and get ad-free shows, a members-only Discord, and behind-the-scenes access. Join today: <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://shopify.com/twit\" target=\"_blank\" rel=\"sponsored\">shopify.com/twit</a></li>\n<li><a href=\"http://oracle.com/twit\" target=\"_blank\" rel=\"sponsored\">oracle.com/twit</a></li>\n<li><a href=\"http://zscaler.com/security\" target=\"_blank\" rel=\"sponsored\">zscaler.com/security</a></li>\n<li><a href=\"http://www.ziprecruiter.com/twit\" target=\"_blank\" rel=\"sponsored\">ziprecruiter.com/twit</a></li>\n<li><a href=\"http://joindeleteme.com/twit\" target=\"_blank\" rel=\"sponsored\">joindeleteme.com/twit promo code TWIT</a></li>\n</ul></p>\n",
+                    "description": "\n<ul> \n<li>TikTok is back on the App Store and the Play Store in the U.S.</li> \n<li>Elon Musk's DOGE Website Is Already Getting Hacked</li> \n<li>IRS Acquiring Nvidia Supercomputer</li> \n<li>Elon's bid for OpenAI is about making the for-profit transition as painful as possible for Altman,</li> \n<li>Intel has spoken with the Trump administration and TSMC over the past few months about a deal for TSMC to take control of Intel's foundry business</li> \n<li>Broadcom Joins TSMC In Considering Deals For Parts of Intel</li> \n<li>Arm to start making server CPUs in-house</li> \n<li>Thomson Reuters wins the first major US AI copyright ruling against fair use, in a case filed in May 2020 against legal research AI startup Ross Intelligence </li> \n<li>Perplexity just made AI research crazy cheap\u2014what that means for the industry</li> \n<li>YouTube Surprise: CEO Says TV Overtakes Mobile as \"Primary Device\" for Viewing</li> \n<li>Google Maps now shows the 'Gulf of America'</li> \n<li>Scarlett Johansson Urges Government to Limit A.I. After Faked Video of Her Opposing Kanye West Goes Viral</li> \n<li>Google CEO Sees 'Useful' Quantum Computers 5 to 10 Years Away</li> \n<li>Trump says he has directed US Treasury to stop minting new pennies, citing rising cost</li> \n<li>Nearly 10 years after Data and Goliath, Bruce Schneier says: Privacy's still screwed</li> \n<li>Amazon's revamped Alexa might launch over a month after its announcement event</li> \n<li>Meta's Brain-to-Text AI</li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://wesley83.com/\" target=\"_blank\">Wesley Faulkner</a>, <a href=\"https://bsky.app/profile/iainthomson.bsky.social\" target=\"_blank\">Iain Thomson</a>, and <a href=\"https://bsky.app/profile/brianmc.bsky.social\" target=\"_blank\">Brian McCullough</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> \nSupport what you love and get ad-free shows, a members-only Discord, and behind-the-scenes access. Join today: <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://shopify.com/twit\" target=\"_blank\" rel=\"sponsored\">shopify.com/twit</a></li>\n<li><a href=\"http://oracle.com/twit\" target=\"_blank\" rel=\"sponsored\">oracle.com/twit</a></li>\n<li><a href=\"http://zscaler.com/security\" target=\"_blank\" rel=\"sponsored\">zscaler.com/security</a></li>\n<li><a href=\"http://www.ziprecruiter.com/twit\" target=\"_blank\" rel=\"sponsored\">ziprecruiter.com/twit</a></li>\n<li><a href=\"http://joindeleteme.com/twit\" target=\"_blank\" rel=\"sponsored\">joindeleteme.com/twit promo code TWIT</a></li>\n</ul></p>\n",
                     "enclosure": {
                         "@length": "157835869",
                         "@type": "audio/mpeg",
@@ -64,7 +180,7 @@
                     },
                     "itunes:keywords": "TWiT, This Week in Tech, Leo Laporte, tiktok, Doge, Apple, Android, irs, nvidia, blackwell, elon musk, openAI, Grok, intel, TSMC, ARM, thomson reuters, ai, ross intelligence, Google Maps, gulf of america, gulf of mexico, Scarlett Johansson, Deepfakes",
                     "itunes:subtitle": "DOGE Hacked, IRS Supercomputer, Alexa Delayed",
-                    "itunes:summary": "\n<ul> \n<li>TikTok is back on the App Store and the Play Store in the U.S.</li> \n<li>Elon Musk's DOGE Website Is Already Getting Hacked</li> \n<li>IRS Acquiring Nvidia Supercomputer</li> \n<li>Elon's bid for OpenAI is about making the for-profit transition as painful as possible for Altman,</li> \n<li>Intel has spoken with the Trump administration and TSMC over the past few months about a deal for TSMC to take control of Intel's foundry business</li> \n<li>Broadcom Joins TSMC In Considering Deals For Parts of Intel</li> \n<li>Arm to start making server CPUs in-house</li> \n<li>Thomson Reuters wins the first major US AI copyright ruling against fair use, in a case filed in May 2020 against legal research AI startup Ross Intelligence </li> \n<li>Perplexity just made AI research crazy cheap\u2014what that means for the industry</li> \n<li>YouTube Surprise: CEO Says TV Overtakes Mobile as \"Primary Device\" for Viewing</li> \n<li>Google Maps now shows the 'Gulf of America'</li> \n<li>Scarlett Johansson Urges Government to Limit A.I. After Faked Video of Her Opposing Kanye West Goes Viral</li> \n<li>Google CEO Sees 'Useful' Quantum Computers 5 to 10 Years Away</li> \n<li>Trump says he has directed US Treasury to stop minting new pennies, citing rising cost</li> \n<li>Nearly 10 years after Data and Goliath, Bruce Schneier says: Privacy's still screwed</li> \n<li>Amazon's revamped Alexa might launch over a month after its announcement event</li> \n<li>Meta's Brain-to-Text AI</li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://wesley83.com/\" target=\"_blank\">Wesley Faulkner</a>, <a href=\"https://bsky.app/profile/iainthomson.bsky.social\" target=\"_blank\">Iain Thomson</a>, and <a href=\"https://twitter.com/brianmcc\" target=\"_blank\">Brian McCullough</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> \nSupport what you love and get ad-free shows, a members-only Discord, and behind-the-scenes access. Join today: <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://shopify.com/twit\" target=\"_blank\" rel=\"sponsored\">shopify.com/twit</a></li>\n<li><a href=\"http://oracle.com/twit\" target=\"_blank\" rel=\"sponsored\">oracle.com/twit</a></li>\n<li><a href=\"http://zscaler.com/security\" target=\"_blank\" rel=\"sponsored\">zscaler.com/security</a></li>\n<li><a href=\"http://www.ziprecruiter.com/twit\" target=\"_blank\" rel=\"sponsored\">ziprecruiter.com/twit</a></li>\n<li><a href=\"http://joindeleteme.com/twit\" target=\"_blank\" rel=\"sponsored\">joindeleteme.com/twit promo code TWIT</a></li>\n</ul></p>\n",
+                    "itunes:summary": "\n<ul> \n<li>TikTok is back on the App Store and the Play Store in the U.S.</li> \n<li>Elon Musk's DOGE Website Is Already Getting Hacked</li> \n<li>IRS Acquiring Nvidia Supercomputer</li> \n<li>Elon's bid for OpenAI is about making the for-profit transition as painful as possible for Altman,</li> \n<li>Intel has spoken with the Trump administration and TSMC over the past few months about a deal for TSMC to take control of Intel's foundry business</li> \n<li>Broadcom Joins TSMC In Considering Deals For Parts of Intel</li> \n<li>Arm to start making server CPUs in-house</li> \n<li>Thomson Reuters wins the first major US AI copyright ruling against fair use, in a case filed in May 2020 against legal research AI startup Ross Intelligence </li> \n<li>Perplexity just made AI research crazy cheap\u2014what that means for the industry</li> \n<li>YouTube Surprise: CEO Says TV Overtakes Mobile as \"Primary Device\" for Viewing</li> \n<li>Google Maps now shows the 'Gulf of America'</li> \n<li>Scarlett Johansson Urges Government to Limit A.I. After Faked Video of Her Opposing Kanye West Goes Viral</li> \n<li>Google CEO Sees 'Useful' Quantum Computers 5 to 10 Years Away</li> \n<li>Trump says he has directed US Treasury to stop minting new pennies, citing rising cost</li> \n<li>Nearly 10 years after Data and Goliath, Bruce Schneier says: Privacy's still screwed</li> \n<li>Amazon's revamped Alexa might launch over a month after its announcement event</li> \n<li>Meta's Brain-to-Text AI</li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://wesley83.com/\" target=\"_blank\">Wesley Faulkner</a>, <a href=\"https://bsky.app/profile/iainthomson.bsky.social\" target=\"_blank\">Iain Thomson</a>, and <a href=\"https://bsky.app/profile/brianmc.bsky.social\" target=\"_blank\">Brian McCullough</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> \nSupport what you love and get ad-free shows, a members-only Discord, and behind-the-scenes access. Join today: <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://shopify.com/twit\" target=\"_blank\" rel=\"sponsored\">shopify.com/twit</a></li>\n<li><a href=\"http://oracle.com/twit\" target=\"_blank\" rel=\"sponsored\">oracle.com/twit</a></li>\n<li><a href=\"http://zscaler.com/security\" target=\"_blank\" rel=\"sponsored\">zscaler.com/security</a></li>\n<li><a href=\"http://www.ziprecruiter.com/twit\" target=\"_blank\" rel=\"sponsored\">ziprecruiter.com/twit</a></li>\n<li><a href=\"http://joindeleteme.com/twit\" target=\"_blank\" rel=\"sponsored\">joindeleteme.com/twit promo code TWIT</a></li>\n</ul></p>\n",
                     "itunes:title": "Nickel for Your Thoughts - DOGE Hacked, IRS Supercomputer, Alexa Delayed",
                     "link": "https://twit.tv/shows/this-week-in-tech/episodes/1019",
                     "media:content": {
@@ -141,10 +257,14 @@
                         },
                         {
                             "#text": "Brian McCullough",
-                            "@href": "https://twitter.com/brianmcc",
+                            "@href": "https://bsky.app/profile/brianmc.bsky.social",
                             "@role": "guest"
                         }
                     ],
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "http://twit.tv/posts/tech/intels-potential-dismantling-what-went-wrong"
+                    },
                     "pubDate": "Sun, 16 Feb 2025 18:26:06 PST",
                     "title": "TWiT 1019: Nickel for Your Thoughts - DOGE Hacked, IRS Supercomputer, Alexa Delayed"
                 },
@@ -1039,122 +1159,6 @@
                     },
                     "pubDate": "Sun, 22 Dec 2024 20:19:19 PST",
                     "title": "TWiT 1011: The Year in Review - A Look at the Top Stories of 2024"
-                },
-                {
-                    "category": [
-                        "News",
-                        "Tech News"
-                    ],
-                    "comments": "https://twit.tv/shows/this-week-in-tech/episodes/1010",
-                    "content:encoded": "\n<ul> \n<li>So You Want to Solve the NJ Drone Mystery? Our Expert Has Some Ideas </li> \n<li>Infowars Sale to The Onion Rejected by Federal Bankruptcy Judge </li> \n<li>Federal appeals court declines to temporarily block ban on TikTok, teeing up showdown at SCOTUS over controversial law </li> \n<li>WordPress parent company must stop blocking WP Engine, judge rules </li> \n<li>Crypto's Legacy Is Finally Clear </li> \n<li>Tech Industry and CEOs Curry Favor With Trump Ahead of His Inauguration </li> \n<li>AI Is Detecting More Breast Cancer Cases, Study Suggests </li> \n<li>Huge randomized trial of AI boosts discovery \u2014 at least for good scientists </li> \n<li>GM Calls It Quits on Mary Barra's $50 Billion Robotaxi Dream </li> \n<li>You Can Buy a Car on Amazon Now</li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://mastodon.cloud/@cathygellis/\" target=\"_blank\">Cathy Gellis</a>, <a href=\"https://mikeelgan.substack.com/\" target=\"_blank\">Mike Elgan</a>, and <a href=\"https://twit.tv/people/emily-forlini\">Emily Forlini</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p>Get episodes ad-free with Club TWiT at <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://mintmobile.com/twit\" target=\"_blank\" rel=\"sponsored\">mintmobile.com/twit</a></li>\n<li><a href=\"http://shopify.com/twit\" target=\"_blank\" rel=\"sponsored\">shopify.com/twit</a></li>\n</ul></p>\n",
-                    "description": "\n<ul> \n<li>So You Want to Solve the NJ Drone Mystery? Our Expert Has Some Ideas </li> \n<li>Infowars Sale to The Onion Rejected by Federal Bankruptcy Judge </li> \n<li>Federal appeals court declines to temporarily block ban on TikTok, teeing up showdown at SCOTUS over controversial law </li> \n<li>WordPress parent company must stop blocking WP Engine, judge rules </li> \n<li>Crypto's Legacy Is Finally Clear </li> \n<li>Tech Industry and CEOs Curry Favor With Trump Ahead of His Inauguration </li> \n<li>AI Is Detecting More Breast Cancer Cases, Study Suggests </li> \n<li>Huge randomized trial of AI boosts discovery \u2014 at least for good scientists </li> \n<li>GM Calls It Quits on Mary Barra's $50 Billion Robotaxi Dream </li> \n<li>You Can Buy a Car on Amazon Now</li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://mastodon.cloud/@cathygellis/\" target=\"_blank\">Cathy Gellis</a>, <a href=\"https://mikeelgan.substack.com/\" target=\"_blank\">Mike Elgan</a>, and <a href=\"https://twit.tv/people/emily-forlini\">Emily Forlini</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p>Get episodes ad-free with Club TWiT at <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://mintmobile.com/twit\" target=\"_blank\" rel=\"sponsored\">mintmobile.com/twit</a></li>\n<li><a href=\"http://shopify.com/twit\" target=\"_blank\" rel=\"sponsored\">shopify.com/twit</a></li>\n</ul></p>\n",
-                    "enclosure": {
-                        "@length": "171350200",
-                        "@type": "audio/mpeg",
-                        "@url": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/libsyn/twit_1010/b26992aa-b1b1-4f90-a2b7-efc6a7d4b42a/R1_twit1010.mp3"
-                    },
-                    "guid": {
-                        "#text": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/audio/twit/twit1010/twit1010.mp3",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "TWiT",
-                    "itunes:duration": "2:58:22",
-                    "itunes:episode": "1010",
-                    "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
-                    "itunes:image": {
-                        "@href": "https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2024/12/854511/hero/TWIT1010_thumbnail.jpg"
-                    },
-                    "itunes:keywords": "TWiT, This Week in Tech, Leo Laporte, New Jersey, drones, infowars, The Onion, WordPress, WP Engine, bitcoin, ai, trump, GM, robotaxi, amazon",
-                    "itunes:subtitle": "TikTok Ban, Drones Over Jersey, GM Quits Robotaxis",
-                    "itunes:summary": "\n<ul> \n<li>So You Want to Solve the NJ Drone Mystery? Our Expert Has Some Ideas </li> \n<li>Infowars Sale to The Onion Rejected by Federal Bankruptcy Judge </li> \n<li>Federal appeals court declines to temporarily block ban on TikTok, teeing up showdown at SCOTUS over controversial law </li> \n<li>WordPress parent company must stop blocking WP Engine, judge rules </li> \n<li>Crypto's Legacy Is Finally Clear </li> \n<li>Tech Industry and CEOs Curry Favor With Trump Ahead of His Inauguration </li> \n<li>AI Is Detecting More Breast Cancer Cases, Study Suggests </li> \n<li>Huge randomized trial of AI boosts discovery \u2014 at least for good scientists </li> \n<li>GM Calls It Quits on Mary Barra's $50 Billion Robotaxi Dream </li> \n<li>You Can Buy a Car on Amazon Now</li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://mastodon.cloud/@cathygellis/\" target=\"_blank\">Cathy Gellis</a>, <a href=\"https://mikeelgan.substack.com/\" target=\"_blank\">Mike Elgan</a>, and <a href=\"https://twit.tv/people/emily-forlini\">Emily Forlini</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p>Get episodes ad-free with Club TWiT at <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://mintmobile.com/twit\" target=\"_blank\" rel=\"sponsored\">mintmobile.com/twit</a></li>\n<li><a href=\"http://shopify.com/twit\" target=\"_blank\" rel=\"sponsored\">shopify.com/twit</a></li>\n</ul></p>\n",
-                    "itunes:title": "The Densest State in the US - TikTok Ban, Drones Over Jersey, GM Quits Robotaxis",
-                    "link": "https://twit.tv/shows/this-week-in-tech/episodes/1010",
-                    "media:content": {
-                        "@fileSize": "171350200",
-                        "@medium": "audio",
-                        "@type": "audio/mpeg",
-                        "@url": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/libsyn/twit_1010/b26992aa-b1b1-4f90-a2b7-efc6a7d4b42a/R1_twit1010.mp3",
-                        "media:category": {
-                            "#text": "IAB19",
-                            "@label": "Technology & Computing",
-                            "@scheme": "urn:iab:categories"
-                        },
-                        "media:credit": [
-                            {
-                                "#text": "Leo Laporte",
-                                "@role": "host"
-                            },
-                            {
-                                "#text": "Cathy Gellis",
-                                "@role": "guest"
-                            },
-                            {
-                                "#text": "Mike Elgan",
-                                "@role": "guest"
-                            },
-                            {
-                                "#text": "Emily Forlini",
-                                "@role": "guest"
-                            }
-                        ],
-                        "media:description": {
-                            "#text": "TikTok Ban, Drones Over Jersey, GM Quits Robotaxis",
-                            "@type": "plain"
-                        },
-                        "media:keywords": "TWiT, This Week in Tech, Leo Laporte, New Jersey, drones, infowars, The Onion, WordPress, WP Engine, bitcoin, ai, trump, GM, robotaxi, amazon",
-                        "media:rating": [
-                            {
-                                "#text": "nonadult",
-                                "@scheme": "urn:simple"
-                            },
-                            {
-                                "#text": "tv-g",
-                                "@scheme": "urn:v-chip"
-                            }
-                        ],
-                        "media:thumbnail": {
-                            "@height": "225",
-                            "@url": "https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/2024/12/854511/hero/TWIT1010_thumbnail.jpg",
-                            "@width": "400"
-                        },
-                        "media:title": {
-                            "#text": "TWiT 1010: The Densest State in the US - TikTok Ban, Drones Over Jersey, GM Quits Robotaxis",
-                            "@type": "plain"
-                        }
-                    },
-                    "podcast:episode": "1010",
-                    "podcast:person": [
-                        {
-                            "#text": "Leo Laporte",
-                            "@href": "https://twit.tv/people/leo-laporte",
-                            "@img": "https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/21/pictures/leo_1.jpg",
-                            "@role": "host"
-                        },
-                        {
-                            "#text": "Cathy Gellis",
-                            "@href": "https://mastodon.cloud/@cathygellis/",
-                            "@role": "guest"
-                        },
-                        {
-                            "#text": "Mike Elgan",
-                            "@href": "https://mikeelgan.substack.com/",
-                            "@img": "https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/61/pictures/mike-elgan_0.png",
-                            "@role": "guest"
-                        },
-                        {
-                            "#text": "Emily Forlini",
-                            "@href": "https://twit.tv/people/emily-forlini",
-                            "@img": "https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/843193/pictures/EmilyDreibelbis-headshot.png",
-                            "@role": "guest"
-                        }
-                    ],
-                    "podcast:transcript": {
-                        "@type": "text/html",
-                        "@url": "http://twit.tv/posts/transcripts/week-tech-1010-transcript"
-                    },
-                    "pubDate": "Sun, 15 Dec 2024 20:31:19 PST",
-                    "title": "TWiT 1010: The Densest State in the US - TikTok Ban, Drones Over Jersey, GM Quits Robotaxis"
                 }
             ],
             "itunes:author": "TWiT",
@@ -1176,14 +1180,14 @@
             "itunes:summary": "This Week in Tech is the top-ranked flagship tech podcast from TWiT.tv. Every Sunday, Leo Laporte and a roundtable of insiders explore the week's hottest tech news from AI to robots, and PCs to privacy. When it comes to tech, TWiT is IT.\n\nRecords live every Sunday at 5:15pm Eastern / 2:15pm Pacific / 22:15 UTC.",
             "itunes:type": "episodic",
             "language": "en-US",
-            "lastBuildDate": "Sun, 16 Feb 2025 23:50:01 PST",
+            "lastBuildDate": "Thu, 27 Feb 2025 17:54:55 PST",
             "link": "https://twit.tv/shows/this-week-in-tech",
             "managingEditor": "distro@twit.tv (TWiT Editors)",
             "podcast:funding": {
                 "#text": "Become a Club TWiT member!",
                 "@url": "https://twit.tv/clubtwit"
             },
-            "pubDate": "Sun, 16 Feb 2025 23:50:01 PST",
+            "pubDate": "Thu, 27 Feb 2025 17:54:55 PST",
             "rawvoice:frequency": "weekly",
             "rawvoice:location": "Petaluma, CA",
             "rawvoice:rating": {

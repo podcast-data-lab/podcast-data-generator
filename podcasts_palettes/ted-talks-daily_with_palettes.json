@@ -39,7 +39,187 @@
             "item": [
                 {
                     "category": "Higher Education",
-                    "description": "Feeling stuck on the big issues? Neuroscientist Kris De Meyer has a surprising fix. Instead of waiting for information to get you motivated, he shows how taking small actions in your personal life can rewire your brain to get unstuck. Learn more about the science behind decision-making \u2014 and how simple moves can reengage you on big challenges like climate change.",
+                    "description": "Tired of \u201cprivilege walks\u201d and black squares on social media that feel hollow? Workplace inclusion expert Y-Vonne Hutchinson peels back the superficial layer of performative DEI to reveal a fresh approach that meets people\u2019s real-life anxieties \u2014 from climate chaos to political instability \u2014 and helps us connect with compassion and respect. It\u2019s a spark of optimism for anyone looking to replace empty gestures with thoughtful, practical solutions that actually make a difference.",
+                    "enclosure": {
+                        "@length": "",
+                        "@type": "audio/mpeg",
+                        "@url": "https://download.ted.com/talks/YVonneHutchinson_2024N.mp3?apikey=172BB350-0207"
+                    },
+                    "guid": {
+                        "#text": "en.audio.talk.ted.com:146333",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Y-Vonne Hutchinson",
+                    "itunes:duration": "00:05:38",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_146333/83748a4d-3b3d-4474-b0cd-8bae2ecebb7d/Y-VonneHutchinson_2024N-embed.jpg?"
+                    },
+                    "itunes:keywords": "TED",
+                    "itunes:subtitle": "Where DEI falls short \u2014 and how to rethink it | Y-Vonne Hutchinson",
+                    "itunes:summary": "Tired of \u201cprivilege walks\u201d and black squares on social media that feel hollow? Workplace inclusion expert Y-Vonne Hutchinson peels back the superficial layer of performative DEI to reveal a fresh approach that meets people\u2019s real-life anxieties \u2014 from climate chaos to political instability \u2014 and helps us connect with compassion and respect. It\u2019s a spark of optimism for anyone looking to replace empty gestures with thoughtful, practical solutions that actually make a difference.",
+                    "jwplayer:talkId": "146333",
+                    "link": "https://www.ted.com/talks/y_vonne_hutchinson_where_dei_falls_short_and_how_to_rethink_it?rss=172BB350-0207",
+                    "media:content": {
+                        "@fileSize": "",
+                        "@type": "audio/mpeg",
+                        "@url": "https://download.ted.com/talks/YVonneHutchinson_2024N.mp3?apikey=172BB350-0207"
+                    },
+                    "media:thumbnail": {
+                        "@height": "360",
+                        "@url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_146333/83748a4d-3b3d-4474-b0cd-8bae2ecebb7d/Y-VonneHutchinson_2024N-embed.jpg?h=360&origin=rss&w=480",
+                        "@width": "480"
+                    },
+                    "pubDate": "Fri, 28 Feb 2025 15:40:45 +0000",
+                    "title": "Where DEI falls short \u2014 and how to rethink it | Y-Vonne Hutchinson"
+                },
+                {
+                    "category": "Higher Education",
+                    "description": "Headlines have been swirling as President Trump enters his second month back in office and his policies come into focus. In this urgent, fast-paced conversation, political scientist Ian Bremmer defines what we should pay attention to, digging into a newly fractured US-Europe relationship, the potential future of Ukraine and moves in Gaza, China and within the United States itself. (This interview, hosted by TED\u2019s Helen Walters, was recorded on February 24, 2025.)",
+                    "enclosure": {
+                        "@length": "",
+                        "@type": "audio/mpeg",
+                        "@url": "https://download.ted.com/talks/TEDExplainstheWorldS001E010_Geopolitics_2025V.mp3?apikey=172BB350-0207"
+                    },
+                    "guid": {
+                        "#text": "en.audio.talk.ted.com:146928",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ian Bremmer",
+                    "itunes:duration": "00:59:16",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_146928/c94b768d-1815-46a9-bf7b-24ddd889e741/TEDExplains_Episode_Thumbnail_Trump-Europe-Ukraine.jpg?"
+                    },
+                    "itunes:keywords": "TED",
+                    "itunes:subtitle": "Trump, Europe, Ukraine and the uncertain world order | Ian Bremmer",
+                    "itunes:summary": "Headlines have been swirling as President Trump enters his second month back in office and his policies come into focus. In this urgent, fast-paced conversation, political scientist Ian Bremmer defines what we should pay attention to, digging into a newly fractured US-Europe relationship, the potential future of Ukraine and moves in Gaza, China and within the United States itself. (This interview, hosted by TED\u2019s Helen Walters, was recorded on February 24, 2025.)",
+                    "jwplayer:talkId": "146928",
+                    "link": "https://www.ted.com/talks/ian_bremmer_trump_europe_ukraine_and_the_uncertain_world_order?rss=172BB350-0207",
+                    "media:content": {
+                        "@fileSize": "",
+                        "@type": "audio/mpeg",
+                        "@url": "https://download.ted.com/talks/TEDExplainstheWorldS001E010_Geopolitics_2025V.mp3?apikey=172BB350-0207"
+                    },
+                    "media:thumbnail": {
+                        "@height": "360",
+                        "@url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_146928/c94b768d-1815-46a9-bf7b-24ddd889e741/TEDExplains_Episode_Thumbnail_Trump-Europe-Ukraine.jpg?h=360&origin=rss&w=480",
+                        "@width": "480"
+                    },
+                    "pubDate": "Thu, 27 Feb 2025 15:25:30 +0000",
+                    "title": "Trump, Europe, Ukraine and the uncertain world order | Ian Bremmer"
+                },
+                {
+                    "category": "Higher Education",
+                    "description": "How can the lessons of the past help us navigate the turbulence of the present and future? Social philosopher Roman Krznaric explores why history isn\u2019t just a record of what\u2019s gone wrong \u2014 it\u2019s also full of solutions, resilience and radical hope. From Edo Japan\u2019s circular economy to the peaceful coexistence of cultures in medieval Spain, he reveals why looking backward can actually help us move forward.",
+                    "enclosure": {
+                        "@length": "",
+                        "@type": "audio/mpeg",
+                        "@url": "https://download.ted.com/talks/RomanKrznaric_2024T.mp3?apikey=172BB350-0207"
+                    },
+                    "guid": {
+                        "#text": "en.audio.talk.ted.com:146101",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Roman Krznaric",
+                    "itunes:duration": "00:13:02",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_146101/0a8ce89e-a37b-4a0d-bfb8-031623358db6/RomanKrznaric_2024T-embed.jpg?"
+                    },
+                    "itunes:keywords": "TED",
+                    "itunes:subtitle": "Lessons from history for a better future | Roman Krznaric",
+                    "itunes:summary": "How can the lessons of the past help us navigate the turbulence of the present and future? Social philosopher Roman Krznaric explores why history isn\u2019t just a record of what\u2019s gone wrong \u2014 it\u2019s also full of solutions, resilience and radical hope. From Edo Japan\u2019s circular economy to the peaceful coexistence of cultures in medieval Spain, he reveals why looking backward can actually help us move forward.",
+                    "jwplayer:talkId": "146101",
+                    "link": "https://www.ted.com/talks/roman_krznaric_lessons_from_history_for_a_better_future?rss=172BB350-0207",
+                    "media:content": {
+                        "@fileSize": "",
+                        "@type": "audio/mpeg",
+                        "@url": "https://download.ted.com/talks/RomanKrznaric_2024T.mp3?apikey=172BB350-0207"
+                    },
+                    "media:thumbnail": {
+                        "@height": "360",
+                        "@url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_146101/0a8ce89e-a37b-4a0d-bfb8-031623358db6/RomanKrznaric_2024T-embed.jpg?h=360&origin=rss&w=480",
+                        "@width": "480"
+                    },
+                    "pubDate": "Wed, 26 Feb 2025 15:51:20 +0000",
+                    "title": "Lessons from history for a better future | Roman Krznaric"
+                },
+                {
+                    "category": "Higher Education",
+                    "description": "It lurks within, emerging in conversation to share ineffective, premature suggestions \u2026 it\u2019s your advice monster, and we all have one, says writer and teacher Michael Bungay Stanier. He shares how giving advice can easily go astray, from solving the wrong problem to disempowering the very person you\u2019re trying to help, and offers a simple question to help you stay curious, strengthen your relationships \u2014 and tame that monster.",
+                    "enclosure": {
+                        "@length": "",
+                        "@type": "audio/mpeg",
+                        "@url": "https://download.ted.com/talks/MichaelBungayStanier_2020X.mp3?apikey=172BB350-0207"
+                    },
+                    "guid": {
+                        "#text": "en.audio.talk.ted.com:145825",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Michael Bungay Stanier",
+                    "itunes:duration": "00:14:04",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_145825/9554484b-b477-4f69-8a4b-ec64c03c4d15/MichaelBungayStanier_2020X-embed.jpg?"
+                    },
+                    "itunes:keywords": "TED",
+                    "itunes:subtitle": "How to tame your advice monster | Michael Bungay Stanier",
+                    "itunes:summary": "It lurks within, emerging in conversation to share ineffective, premature suggestions \u2026 it\u2019s your advice monster, and we all have one, says writer and teacher Michael Bungay Stanier. He shares how giving advice can easily go astray, from solving the wrong problem to disempowering the very person you\u2019re trying to help, and offers a simple question to help you stay curious, strengthen your relationships \u2014 and tame that monster.",
+                    "jwplayer:talkId": "145825",
+                    "link": "https://www.ted.com/talks/michael_bungay_stanier_how_to_tame_your_advice_monster_feb_2025?rss=172BB350-0207",
+                    "media:content": {
+                        "@fileSize": "",
+                        "@type": "audio/mpeg",
+                        "@url": "https://download.ted.com/talks/MichaelBungayStanier_2020X.mp3?apikey=172BB350-0207"
+                    },
+                    "media:thumbnail": {
+                        "@height": "360",
+                        "@url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_145825/9554484b-b477-4f69-8a4b-ec64c03c4d15/MichaelBungayStanier_2020X-embed.jpg?h=360&origin=rss&w=480",
+                        "@width": "480"
+                    },
+                    "pubDate": "Tue, 25 Feb 2025 15:58:46 +0000",
+                    "title": "How to tame your advice monster | Michael Bungay Stanier"
+                },
+                {
+                    "category": "Higher Education",
+                    "description": "You know it's important to take care of your physical and mental health. But what about your social health? Social scientist Kasley Killam shows how feeling a sense of belonging and connection has concrete benefits to your overall health \u2014 and explains why it may be the missing key to living a longer and happier life.",
+                    "enclosure": {
+                        "@length": "",
+                        "@type": "audio/mpeg",
+                        "@url": "https://download.ted.com/talks/KasleyKillam_2024N.mp3?apikey=172BB350-0207"
+                    },
+                    "guid": {
+                        "#text": "en.audio.talk.ted.com:145676",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Kasley Killam",
+                    "itunes:duration": "00:09:31",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_145676/2b548dec-670c-415f-86f9-5fae5858afb9/KasleyKillam_2024N-embed.jpg?"
+                    },
+                    "itunes:keywords": "TED",
+                    "itunes:subtitle": "Why social health is key to happiness and longevity | Kasley Killam",
+                    "itunes:summary": "You know it's important to take care of your physical and mental health. But what about your social health? Social scientist Kasley Killam shows how feeling a sense of belonging and connection has concrete benefits to your overall health \u2014 and explains why it may be the missing key to living a longer and happier life.",
+                    "jwplayer:talkId": "145676",
+                    "link": "https://www.ted.com/talks/kasley_killam_why_social_health_is_key_to_happiness_and_longevity?rss=172BB350-0207",
+                    "media:content": {
+                        "@fileSize": "",
+                        "@type": "audio/mpeg",
+                        "@url": "https://download.ted.com/talks/KasleyKillam_2024N.mp3?apikey=172BB350-0207"
+                    },
+                    "media:thumbnail": {
+                        "@height": "360",
+                        "@url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_145676/2b548dec-670c-415f-86f9-5fae5858afb9/KasleyKillam_2024N-embed.jpg?h=360&origin=rss&w=480",
+                        "@width": "480"
+                    },
+                    "pubDate": "Mon, 24 Feb 2025 15:45:56 +0000",
+                    "title": "Why social health is key to happiness and longevity | Kasley Killam"
+                },
+                {
+                    "category": "Higher Education",
+                    "description": "To spark action on climate change, the conventional wisdom says that awareness must precede action \u2014 but neuroscientist Kris De Meyer suggests the opposite is true: actions drive beliefs. He digs into the science behind decision-making and shows how you can rewire your brain to get unstuck on big challenges.",
                     "enclosure": {
                         "@length": "",
                         "@type": "audio/mpeg",
@@ -56,10 +236,10 @@
                         "@href": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_145018/20d1a183-2dbd-4802-a98e-dfbc90b8719b/KrisDeMeyer_2024T-embed.jpg?"
                     },
                     "itunes:keywords": "TED",
-                    "itunes:subtitle": "The surprising way small actions shift beliefs | Kris De Meyer",
-                    "itunes:summary": "Feeling stuck on the big issues? Neuroscientist Kris De Meyer has a surprising fix. Instead of waiting for information to get you motivated, he shows how taking small actions in your personal life can rewire your brain to get unstuck. Learn more about the science behind decision-making \u2014 and how simple moves can reengage you on big challenges like climate change.",
+                    "itunes:subtitle": "Feeling stuck on climate change? Here\u2019s what to do | Kris De Meyer",
+                    "itunes:summary": "To spark action on climate change, the conventional wisdom says that awareness must precede action \u2014 but neuroscientist Kris De Meyer suggests the opposite is true: actions drive beliefs. He digs into the science behind decision-making and shows how you can rewire your brain to get unstuck on big challenges.",
                     "jwplayer:talkId": "145018",
-                    "link": "https://www.ted.com/talks/kris_de_meyer_the_surprising_way_small_actions_shift_beliefs?rss=172BB350-0207",
+                    "link": "https://www.ted.com/talks/kris_de_meyer_feeling_stuck_on_climate_change_here_s_what_to_do?rss=172BB350-0207",
                     "media:content": {
                         "@fileSize": "",
                         "@type": "audio/mpeg",
@@ -71,7 +251,43 @@
                         "@width": "480"
                     },
                     "pubDate": "Fri, 21 Feb 2025 15:48:50 +0000",
-                    "title": "The surprising way small actions shift beliefs | Kris De Meyer"
+                    "title": "Feeling stuck on climate change? Here\u2019s what to do | Kris De Meyer"
+                },
+                {
+                    "category": "Higher Education",
+                    "description": "Why do some countries have a seemingly endless supply of talent in certain fields? From Jamaica's sprinters to South Korea's golfers, public policy professor Anirudh Krishna explains why \"talent ladders\" \u2014 structured pathways to identify and nurture people's potential \u2014 are the best way to make sure everyone has the opportunity to thrive.",
+                    "enclosure": {
+                        "@length": "",
+                        "@type": "audio/mpeg",
+                        "@url": "https://download.ted.com/talks/AnirudhKrishna_2023X.mp3?apikey=172BB350-0207"
+                    },
+                    "guid": {
+                        "#text": "en.audio.talk.ted.com:146381",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Anirudh Krishna",
+                    "itunes:duration": "00:12:34",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_146381/c738f2a9-84ea-43a8-9c93-6d206fbcdb77/AnirudhKrishna_2023X-embed.jpg?"
+                    },
+                    "itunes:keywords": "TED",
+                    "itunes:subtitle": "The 7 pillars of unlocking potential | Anirudh Krishna",
+                    "itunes:summary": "Why do some countries have a seemingly endless supply of talent in certain fields? From Jamaica's sprinters to South Korea's golfers, public policy professor Anirudh Krishna explains why \"talent ladders\" \u2014 structured pathways to identify and nurture people's potential \u2014 are the best way to make sure everyone has the opportunity to thrive.",
+                    "jwplayer:talkId": "146381",
+                    "link": "https://www.ted.com/talks/anirudh_krishna_the_7_pillars_of_unlocking_potential?rss=172BB350-0207",
+                    "media:content": {
+                        "@fileSize": "",
+                        "@type": "audio/mpeg",
+                        "@url": "https://download.ted.com/talks/AnirudhKrishna_2023X.mp3?apikey=172BB350-0207"
+                    },
+                    "media:thumbnail": {
+                        "@height": "360",
+                        "@url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_146381/c738f2a9-84ea-43a8-9c93-6d206fbcdb77/AnirudhKrishna_2023X-embed.jpg?h=360&origin=rss&w=480",
+                        "@width": "480"
+                    },
+                    "pubDate": "Thu, 20 Feb 2025 16:11:06 +0000",
+                    "title": "The 7 pillars of unlocking potential | Anirudh Krishna"
                 },
                 {
                     "category": "Higher Education",
@@ -435,6 +651,42 @@
                 },
                 {
                     "category": "Higher Education",
+                    "description": "When anxiety rears its head, we often just want it to go away. Clinical psychologist David H. Rosmarin asks us to consider instead the positive role anxiety can play in our lives, sharing four practical steps to transform it from your enemy into your ally.",
+                    "enclosure": {
+                        "@length": "",
+                        "@type": "audio/mpeg",
+                        "@url": "https://download.ted.com/talks/DavidHRosmarin_2024X.mp3?apikey=172BB350-0207"
+                    },
+                    "guid": {
+                        "#text": "en.audio.talk.ted.com:145679",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David H. Rosmarin",
+                    "itunes:duration": "00:14:55",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_145679/87900853-b219-4c83-a149-a6d2c862f1de/DavidRosmarin_2024X-embed.jpg?"
+                    },
+                    "itunes:keywords": "TED",
+                    "itunes:subtitle": "How to make anxiety your friend | David H. Rosmarin",
+                    "itunes:summary": "When anxiety rears its head, we often just want it to go away. Clinical psychologist David H. Rosmarin asks us to consider instead the positive role anxiety can play in our lives, sharing four practical steps to transform it from your enemy into your ally.",
+                    "jwplayer:talkId": "145679",
+                    "link": "https://www.ted.com/talks/david_h_rosmarin_how_to_make_anxiety_your_friend?rss=172BB350-0207",
+                    "media:content": {
+                        "@fileSize": "",
+                        "@type": "audio/mpeg",
+                        "@url": "https://download.ted.com/talks/DavidHRosmarin_2024X.mp3?apikey=172BB350-0207"
+                    },
+                    "media:thumbnail": {
+                        "@height": "360",
+                        "@url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_145679/87900853-b219-4c83-a149-a6d2c862f1de/DavidRosmarin_2024X-embed.jpg?h=360&origin=rss&w=480",
+                        "@width": "480"
+                    },
+                    "pubDate": "Fri, 07 Feb 2025 15:20:57 +0000",
+                    "title": "How to make anxiety your friend | David H. Rosmarin"
+                },
+                {
+                    "category": "Higher Education",
                     "description": "As AI chatbots become more personal and proactive, the line between tool and companion is beginning to blur, with some users even professing love for their digital aides, says business consultant Amaryllis Liampoti. She presents three foundational principles for how brands can harness AI to build deeper emotional connections with consumers while prioritizing well-being, transparency and autonomy \u2014 ensuring AI enhances lives without undermining human agency.",
                     "enclosure": {
                         "@length": "",
@@ -576,6 +828,42 @@
                     },
                     "pubDate": "Wed, 05 Feb 2025 15:37:10 +0000",
                     "title": "Is perfectionism just procrastination in disguise? | Jon Youshaei"
+                },
+                {
+                    "category": "Higher Education",
+                    "description": "AI is evolving into a mysterious new form of intelligence \u2014 powerful yet flawed, capable of remarkable feats but still far from human-like reasoning and efficiency. To truly understand it and unlock its potential, we need a new science of intelligence that combines neuroscience, AI and physics, says neuroscientist and Stanford professor Surya Ganguli. He shares a vision for a future where this interdisciplinary approach helps us create AI that mimics human cognition, while at the same time offering new ways to understand and augment our own brains.",
+                    "enclosure": {
+                        "@length": "",
+                        "@type": "audio/mpeg",
+                        "@url": "https://download.ted.com/talks/SuryaGanguli_2024S.mp3?apikey=172BB350-0207"
+                    },
+                    "guid": {
+                        "#text": "en.audio.talk.ted.com:145110",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Surya Ganguli",
+                    "itunes:duration": "00:17:06",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_145110/9b1dbc4f-436c-4833-af8e-64d1e5e96145/SuryaGanguli_2024S-embed.jpg?"
+                    },
+                    "itunes:keywords": "TED",
+                    "itunes:subtitle": "Can AI match the human brain? | Surya Ganguli",
+                    "itunes:summary": "AI is evolving into a mysterious new form of intelligence \u2014 powerful yet flawed, capable of remarkable feats but still far from human-like reasoning and efficiency. To truly understand it and unlock its potential, we need a new science of intelligence that combines neuroscience, AI and physics, says neuroscientist and Stanford professor Surya Ganguli. He shares a vision for a future where this interdisciplinary approach helps us create AI that mimics human cognition, while at the same time offering new ways to understand and augment our own brains.",
+                    "jwplayer:talkId": "145110",
+                    "link": "https://www.ted.com/talks/surya_ganguli_can_ai_match_the_human_brain?rss=172BB350-0207",
+                    "media:content": {
+                        "@fileSize": "",
+                        "@type": "audio/mpeg",
+                        "@url": "https://download.ted.com/talks/SuryaGanguli_2024S.mp3?apikey=172BB350-0207"
+                    },
+                    "media:thumbnail": {
+                        "@height": "360",
+                        "@url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_145110/9b1dbc4f-436c-4833-af8e-64d1e5e96145/SuryaGanguli_2024S-embed.jpg?h=360&origin=rss&w=480",
+                        "@width": "480"
+                    },
+                    "pubDate": "Tue, 04 Feb 2025 15:56:11 +0000",
+                    "title": "Can AI match the human brain? | Surya Ganguli"
                 },
                 {
                     "category": "Higher Education",
@@ -3747,6 +4035,78 @@
                 },
                 {
                     "category": "Higher Education",
+                    "description": "TED Fellow and chemosensory researcher Paule Joseph unveils the hidden power of a sense that's too often overlooked: smell. She delves into the science behind smell \u2014 from how it evokes memory and emotion to its potential for early disease detection \u2014 and advocates for the creation of a baseline test for taste and smell that could open the door to more comprehensive health care.",
+                    "enclosure": {
+                        "@length": "",
+                        "@type": "audio/mpeg",
+                        "@url": "https://download.ted.com/talks/PauleJoseph_2024F.mp3?apikey=172BB350-0207"
+                    },
+                    "guid": {
+                        "#text": "en.audio.talk.ted.com:138328",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Paule Joseph",
+                    "itunes:duration": "00:05:09",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_138328/c398de22-c374-43c1-a4b7-ad210aafc099/2024_TED_Fellows_Films_Thumbs_Paule-Joseph-2880x1620.jpg?"
+                    },
+                    "itunes:keywords": "TED",
+                    "itunes:subtitle": "Why smell matters more than you think | Paule Joseph",
+                    "itunes:summary": "TED Fellow and chemosensory researcher Paule Joseph unveils the hidden power of a sense that's too often overlooked: smell. She delves into the science behind smell \u2014 from how it evokes memory and emotion to its potential for early disease detection \u2014 and advocates for the creation of a baseline test for taste and smell that could open the door to more comprehensive health care.",
+                    "jwplayer:talkId": "138328",
+                    "link": "https://www.ted.com/talks/paule_joseph_why_smell_matters_more_than_you_think?rss=172BB350-0207",
+                    "media:content": {
+                        "@fileSize": "",
+                        "@type": "audio/mpeg",
+                        "@url": "https://download.ted.com/talks/PauleJoseph_2024F.mp3?apikey=172BB350-0207"
+                    },
+                    "media:thumbnail": {
+                        "@height": "360",
+                        "@url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_138328/c398de22-c374-43c1-a4b7-ad210aafc099/2024_TED_Fellows_Films_Thumbs_Paule-Joseph-2880x1620.jpg?h=360&origin=rss&w=480",
+                        "@width": "480"
+                    },
+                    "pubDate": "Tue, 15 Oct 2024 19:51:47 +0000",
+                    "title": "Why smell matters more than you think | Paule Joseph"
+                },
+                {
+                    "category": "Higher Education",
+                    "description": "\u201cBeing on a voyage forces you to unplug,\u201d says TED Fellow and third-generation captain Lehua Kamalu. Sharing ancient knowledge from traditional Hawaiian ocean voyaging, she reflects on the transformational power of seafaring journeys \u2014 and what it means to travel mindfully, no matter where you are.",
+                    "enclosure": {
+                        "@length": "",
+                        "@type": "audio/mpeg",
+                        "@url": "https://download.ted.com/talks/LehuaKamalu_2024F.mp3?apikey=172BB350-0207"
+                    },
+                    "guid": {
+                        "#text": "en.audio.talk.ted.com:138329",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Lehua Kamalu",
+                    "itunes:duration": "00:05:03",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_138329/77f1383f-6935-4aec-a6b9-6cdc2db9704a/2024_TED_Fellows_Films_Thumbs_Lehua-Kamalu-2880x1620.jpg?"
+                    },
+                    "itunes:keywords": "TED",
+                    "itunes:subtitle": "What you can learn crossing the ocean in a canoe | Lehua Kamalu",
+                    "itunes:summary": "\u201cBeing on a voyage forces you to unplug,\u201d says TED Fellow and third-generation captain Lehua Kamalu. Sharing ancient knowledge from traditional Hawaiian ocean voyaging, she reflects on the transformational power of seafaring journeys \u2014 and what it means to travel mindfully, no matter where you are.",
+                    "jwplayer:talkId": "138329",
+                    "link": "https://www.ted.com/talks/lehua_kamalu_what_you_can_learn_crossing_the_ocean_in_a_canoe?rss=172BB350-0207",
+                    "media:content": {
+                        "@fileSize": "",
+                        "@type": "audio/mpeg",
+                        "@url": "https://download.ted.com/talks/LehuaKamalu_2024F.mp3?apikey=172BB350-0207"
+                    },
+                    "media:thumbnail": {
+                        "@height": "360",
+                        "@url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_138329/77f1383f-6935-4aec-a6b9-6cdc2db9704a/2024_TED_Fellows_Films_Thumbs_Lehua-Kamalu-2880x1620.jpg?h=360&origin=rss&w=480",
+                        "@width": "480"
+                    },
+                    "pubDate": "Tue, 15 Oct 2024 19:51:34 +0000",
+                    "title": "What you can learn crossing the ocean in a canoe | Lehua Kamalu"
+                },
+                {
+                    "category": "Higher Education",
                     "description": "Exploring the history and evolution of vampire lore, author Eric Nuzum traces the origins of these spooky stories, from misunderstandings of death to the sparkly pop culture icons we know today. Beyond the fangs and garlic, he digs into the deeper, everyday fears that vampires reflect.",
                     "enclosure": {
                         "@length": "",
@@ -5076,366 +5436,6 @@
                     },
                     "pubDate": "Thu, 05 Sep 2024 14:46:19 +0000",
                     "title": "How to turn the tables on food waste | Dana Gunders"
-                },
-                {
-                    "category": "Higher Education",
-                    "description": "How do you get what you want out of a negotiation? United Nations negotiation trainer Alex Carter says the best methods center on recruitment, not rivalry. Whether you're asking for a raise or resolving a family dispute, she offers five simple tips for a successful discussion \u2014 starting with one powerful question.",
-                    "enclosure": {
-                        "@length": "",
-                        "@type": "audio/mpeg",
-                        "@url": "https://download.ted.com/talks/AlexCarter_2024X.mp3?apikey=172BB350-0207"
-                    },
-                    "guid": {
-                        "#text": "en.audio.talk.ted.com:136892",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Alex Carter",
-                    "itunes:duration": "00:13:17",
-                    "itunes:explicit": "no",
-                    "itunes:image": {
-                        "@href": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_136892/2e86ae01-db01-47ad-b90d-c1e186f1b8d4/AlexCarter_2024X-embed.jpg?"
-                    },
-                    "itunes:keywords": "TED",
-                    "itunes:subtitle": "How to ask for more \u2014 and get it | Alex Carter",
-                    "itunes:summary": "How do you get what you want out of a negotiation? United Nations negotiation trainer Alex Carter says the best methods center on recruitment, not rivalry. Whether you're asking for a raise or resolving a family dispute, she offers five simple tips for a successful discussion \u2014 starting with one powerful question.",
-                    "jwplayer:talkId": "136892",
-                    "link": "https://www.ted.com/talks/alex_carter_how_to_ask_for_more_and_get_it_jan_2024?rss=172BB350-0207",
-                    "media:content": {
-                        "@fileSize": "",
-                        "@type": "audio/mpeg",
-                        "@url": "https://download.ted.com/talks/AlexCarter_2024X.mp3?apikey=172BB350-0207"
-                    },
-                    "media:thumbnail": {
-                        "@height": "360",
-                        "@url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_136892/2e86ae01-db01-47ad-b90d-c1e186f1b8d4/AlexCarter_2024X-embed.jpg?h=360&origin=rss&w=480",
-                        "@width": "480"
-                    },
-                    "pubDate": "Tue, 03 Sep 2024 14:51:49 +0000",
-                    "title": "How to ask for more \u2014 and get it | Alex Carter"
-                },
-                {
-                    "category": "Higher Education",
-                    "description": "What can acting reveal about the mystery of consciousness? Actor and producer Yara Shahidi and cognitive neuroscientist Anil Seth unpack the surprising ways that portraying different characters can reveal insights about our authentic selves \u2014 even if we're not actually performing onstage or onscreen. Explore the intersection of consciousness and identity and discover how our brains and bodies work in tandem to form our understanding of ourselves. (This conversation is part of \u201cTED Intersections,\u201d a series featuring thought-provoking conversations between experts navigating the ideas shaping our world.)",
-                    "enclosure": {
-                        "@length": "",
-                        "@type": "audio/mpeg",
-                        "@url": "https://download.ted.com/talks/Intersections_AnilSethandYaraShahidi_2024.mp3?apikey=172BB350-0207"
-                    },
-                    "guid": {
-                        "#text": "en.audio.talk.ted.com:136281",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Yara Shahidi and Anil Seth",
-                    "itunes:duration": "00:22:04",
-                    "itunes:explicit": "no",
-                    "itunes:image": {
-                        "@href": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_136281/8a889592-a5f8-47dd-930c-b6a8650e5293/e1.jpg?"
-                    },
-                    "itunes:keywords": "TED",
-                    "itunes:subtitle": "What makes you \u201cyou\u201d? An actor and a neuroscientist answer | Yara Shahidi and Anil Seth",
-                    "itunes:summary": "What can acting reveal about the mystery of consciousness? Actor and producer Yara Shahidi and cognitive neuroscientist Anil Seth unpack the surprising ways that portraying different characters can reveal insights about our authentic selves \u2014 even if we're not actually performing onstage or onscreen. Explore the intersection of consciousness and identity and discover how our brains and bodies work in tandem to form our understanding of ourselves. (This conversation is part of \u201cTED Intersections,\u201d a series featuring thought-provoking conversations between experts navigating the ideas shaping our world.)",
-                    "jwplayer:talkId": "136281",
-                    "link": "https://www.ted.com/talks/yara_shahidi_and_anil_seth_what_makes_you_you_an_actor_and_a_neuroscientist_answer?rss=172BB350-0207",
-                    "media:content": {
-                        "@fileSize": "",
-                        "@type": "audio/mpeg",
-                        "@url": "https://download.ted.com/talks/Intersections_AnilSethandYaraShahidi_2024.mp3?apikey=172BB350-0207"
-                    },
-                    "media:thumbnail": {
-                        "@height": "360",
-                        "@url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_136281/8a889592-a5f8-47dd-930c-b6a8650e5293/e1.jpg?h=360&origin=rss&w=480",
-                        "@width": "480"
-                    },
-                    "pubDate": "Fri, 30 Aug 2024 15:38:57 +0000",
-                    "title": "What makes you \u201cyou\u201d? An actor and a neuroscientist answer | Yara Shahidi and Anil Seth"
-                },
-                {
-                    "category": "Higher Education",
-                    "description": "Many of the jobs that keep the world running \u2014 like cleaning bathrooms, picking up trash, caring for the elderly \u2014 pay so poorly that workers can barely make ends meet. Nonprofit leader Zeynep Ton is intent on changing that, showing why everyone wins when companies pay their people livable wages and offer opportunities for growth.",
-                    "enclosure": {
-                        "@length": "",
-                        "@type": "audio/mpeg",
-                        "@url": "https://download.ted.com/talks/ZeynepTon_2024.mp3?apikey=172BB350-0207"
-                    },
-                    "guid": {
-                        "#text": "en.audio.talk.ted.com:135442",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Zeynep Ton",
-                    "itunes:duration": "00:13:38",
-                    "itunes:explicit": "no",
-                    "itunes:image": {
-                        "@href": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_135442/ce72910c-b485-4431-bd2c-b968c18ae2e9/ZeynepTon_2024-embed.jpg?"
-                    },
-                    "itunes:keywords": "TED",
-                    "itunes:subtitle": "The case for good jobs \u2014 and why they're good for business too | Zeynep Ton",
-                    "itunes:summary": "Many of the jobs that keep the world running \u2014 like cleaning bathrooms, picking up trash, caring for the elderly \u2014 pay so poorly that workers can barely make ends meet. Nonprofit leader Zeynep Ton is intent on changing that, showing why everyone wins when companies pay their people livable wages and offer opportunities for growth.",
-                    "jwplayer:talkId": "135442",
-                    "link": "https://www.ted.com/talks/zeynep_ton_the_case_for_good_jobs_and_why_they_re_good_for_business_too?rss=172BB350-0207",
-                    "media:content": {
-                        "@fileSize": "",
-                        "@type": "audio/mpeg",
-                        "@url": "https://download.ted.com/talks/ZeynepTon_2024.mp3?apikey=172BB350-0207"
-                    },
-                    "media:thumbnail": {
-                        "@height": "360",
-                        "@url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_135442/ce72910c-b485-4431-bd2c-b968c18ae2e9/ZeynepTon_2024-embed.jpg?h=360&origin=rss&w=480",
-                        "@width": "480"
-                    },
-                    "pubDate": "Fri, 30 Aug 2024 14:57:56 +0000",
-                    "title": "The case for good jobs \u2014 and why they're good for business too | Zeynep Ton"
-                },
-                {
-                    "category": "Higher Education",
-                    "description": "Drawing on her research into the science of play, evolutionary biologist Carole K. Hooven delves into how testosterone impacts the body and brain, interacting with culture to create differences in human behavior \u2014 starting with why boys tend to prefer rougher play than girls.",
-                    "enclosure": {
-                        "@length": "",
-                        "@type": "audio/mpeg",
-                        "@url": "https://download.ted.com/talks/CaroleKHooven_2024.mp3?apikey=172BB350-0207"
-                    },
-                    "guid": {
-                        "#text": "en.audio.talk.ted.com:134465",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Carole K. Hooven",
-                    "itunes:duration": "00:14:32",
-                    "itunes:explicit": "no",
-                    "itunes:image": {
-                        "@href": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_134465/6352d380-52a0-409a-9cd0-8d2d4cd53308/CaroleKHooven_2024-embed.jpg?"
-                    },
-                    "itunes:keywords": "TED",
-                    "itunes:subtitle": "How testosterone and culture shape behavior | Carole K. Hooven",
-                    "itunes:summary": "Drawing on her research into the science of play, evolutionary biologist Carole K. Hooven delves into how testosterone impacts the body and brain, interacting with culture to create differences in human behavior \u2014 starting with why boys tend to prefer rougher play than girls.",
-                    "jwplayer:talkId": "134465",
-                    "link": "https://www.ted.com/talks/carole_k_hooven_how_testosterone_and_culture_shape_behavior?rss=172BB350-0207",
-                    "media:content": {
-                        "@fileSize": "",
-                        "@type": "audio/mpeg",
-                        "@url": "https://download.ted.com/talks/CaroleKHooven_2024.mp3?apikey=172BB350-0207"
-                    },
-                    "media:thumbnail": {
-                        "@height": "360",
-                        "@url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_134465/6352d380-52a0-409a-9cd0-8d2d4cd53308/CaroleKHooven_2024-embed.jpg?h=360&origin=rss&w=480",
-                        "@width": "480"
-                    },
-                    "pubDate": "Thu, 29 Aug 2024 14:47:46 +0000",
-                    "title": "How testosterone and culture shape behavior | Carole K. Hooven"
-                },
-                {
-                    "category": "Higher Education",
-                    "description": "How do you find yourself when you belong to two seemingly opposing cultures? Embracing the paradoxes of dual identity, creative disruptor Farhad Mohit explores how being both Iranian and American allows him to navigate the tension between independence and interdependence, progress and presence \u2014 and to live fully in the here and now.",
-                    "enclosure": {
-                        "@length": "",
-                        "@type": "audio/mpeg",
-                        "@url": "https://download.ted.com/talks/FarhadMohit_2024.mp3?apikey=172BB350-0207"
-                    },
-                    "guid": {
-                        "#text": "en.audio.talk.ted.com:136218",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Farhad Mohit",
-                    "itunes:duration": "00:04:51",
-                    "itunes:explicit": "no",
-                    "itunes:image": {
-                        "@href": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_136218/24e2547e-6d8d-43bd-a33b-b919e0fd2680/FarhadMohit_2024-embed.jpg?"
-                    },
-                    "itunes:keywords": "TED",
-                    "itunes:subtitle": "The beautiful paradoxes of a multicultural identity | Farhad Mohit",
-                    "itunes:summary": "How do you find yourself when you belong to two seemingly opposing cultures? Embracing the paradoxes of dual identity, creative disruptor Farhad Mohit explores how being both Iranian and American allows him to navigate the tension between independence and interdependence, progress and presence \u2014 and to live fully in the here and now.",
-                    "jwplayer:talkId": "136218",
-                    "link": "https://www.ted.com/talks/farhad_mohit_the_beautiful_paradoxes_of_a_multicultural_identity?rss=172BB350-0207",
-                    "media:content": {
-                        "@fileSize": "",
-                        "@type": "audio/mpeg",
-                        "@url": "https://download.ted.com/talks/FarhadMohit_2024.mp3?apikey=172BB350-0207"
-                    },
-                    "media:thumbnail": {
-                        "@height": "360",
-                        "@url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_136218/24e2547e-6d8d-43bd-a33b-b919e0fd2680/FarhadMohit_2024-embed.jpg?h=360&origin=rss&w=480",
-                        "@width": "480"
-                    },
-                    "pubDate": "Wed, 28 Aug 2024 14:47:16 +0000",
-                    "title": "The beautiful paradoxes of a multicultural identity | Farhad Mohit"
-                },
-                {
-                    "category": "Higher Education",
-                    "description": "When we avoid feeling awkward, we often miss an opportunity for growth, says workplace performance expert Henna Pryor. She shares tips on embracing discomfort for the sake of self-betterment and shows how pushing past the \"cringe chasm\" \u2014 the gap between how we perceive ourselves and how others see us \u2014 can open up chances to get ahead at work and in life.",
-                    "enclosure": {
-                        "@length": "",
-                        "@type": "audio/mpeg",
-                        "@url": "https://download.ted.com/talks/HennaPryor_2022X.mp3?apikey=172BB350-0207"
-                    },
-                    "guid": {
-                        "#text": "en.audio.talk.ted.com:136523",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Henna Pryor",
-                    "itunes:duration": "00:15:33",
-                    "itunes:explicit": "no",
-                    "itunes:image": {
-                        "@href": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_136523/1f5d6464-5917-4236-8fcd-c984731b034d/HennaPryor_2022X-embed.jpg?"
-                    },
-                    "itunes:keywords": "TED",
-                    "itunes:subtitle": "Want to get ahead at work? Risk the awkward moments | Henna Pryor",
-                    "itunes:summary": "When we avoid feeling awkward, we often miss an opportunity for growth, says workplace performance expert Henna Pryor. She shares tips on embracing discomfort for the sake of self-betterment and shows how pushing past the \"cringe chasm\" \u2014 the gap between how we perceive ourselves and how others see us \u2014 can open up chances to get ahead at work and in life.",
-                    "jwplayer:talkId": "136523",
-                    "link": "https://www.ted.com/talks/henna_pryor_want_to_get_ahead_at_work_risk_the_awkward_moments?rss=172BB350-0207",
-                    "media:content": {
-                        "@fileSize": "",
-                        "@type": "audio/mpeg",
-                        "@url": "https://download.ted.com/talks/HennaPryor_2022X.mp3?apikey=172BB350-0207"
-                    },
-                    "media:thumbnail": {
-                        "@height": "360",
-                        "@url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_136523/1f5d6464-5917-4236-8fcd-c984731b034d/HennaPryor_2022X-embed.jpg?h=360&origin=rss&w=480",
-                        "@width": "480"
-                    },
-                    "pubDate": "Tue, 27 Aug 2024 14:50:04 +0000",
-                    "title": "Want to get ahead at work? Risk the awkward moments | Henna Pryor"
-                },
-                {
-                    "category": "Higher Education",
-                    "description": "The basic infrastructure that controls plumbing, electricity and more is vital to your individual agency, says engineering professor Deb Chachra. She offers a crash course on how these systems connect to shape our lives \u2014 and suggests some key improvements for providing long-term, sustainable energy to everyone.",
-                    "enclosure": {
-                        "@length": "",
-                        "@type": "audio/mpeg",
-                        "@url": "https://download.ted.com/talks/DebChachra_2024T.mp3?apikey=172BB350-0207"
-                    },
-                    "guid": {
-                        "#text": "en.audio.talk.ted.com:136654",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Deb Chachra",
-                    "itunes:duration": "00:13:18",
-                    "itunes:explicit": "no",
-                    "itunes:image": {
-                        "@href": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_136654/029aa058-9916-4076-9a21-bbe8e208e3f2/DebChachra_2024T-embed.jpg?"
-                    },
-                    "itunes:keywords": "TED",
-                    "itunes:subtitle": "The invisible networks shaping your everyday life | Deb Chachra",
-                    "itunes:summary": "The basic infrastructure that controls plumbing, electricity and more is vital to your individual agency, says engineering professor Deb Chachra. She offers a crash course on how these systems connect to shape our lives \u2014 and suggests some key improvements for providing long-term, sustainable energy to everyone.",
-                    "jwplayer:talkId": "136654",
-                    "link": "https://www.ted.com/talks/deb_chachra_the_invisible_networks_shaping_your_everyday_life?rss=172BB350-0207",
-                    "media:content": {
-                        "@fileSize": "",
-                        "@type": "audio/mpeg",
-                        "@url": "https://download.ted.com/talks/DebChachra_2024T.mp3?apikey=172BB350-0207"
-                    },
-                    "media:thumbnail": {
-                        "@height": "360",
-                        "@url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_136654/029aa058-9916-4076-9a21-bbe8e208e3f2/DebChachra_2024T-embed.jpg?h=360&origin=rss&w=480",
-                        "@width": "480"
-                    },
-                    "pubDate": "Mon, 26 Aug 2024 14:59:52 +0000",
-                    "title": "The invisible networks shaping your everyday life | Deb Chachra"
-                },
-                {
-                    "category": "Higher Education",
-                    "description": "Small Indigenous communities make up only five percent of the world's population, but they defend 80 percent of the biodiversity that remains on Earth, says war reporter Anjan Sundaram. He paints a picture of Mexico's embattled ecological frontlines, where invisible heroes are fighting corporations and cartels alike to save our planet's last natural ecosystems.",
-                    "enclosure": {
-                        "@length": "",
-                        "@type": "audio/mpeg",
-                        "@url": "https://download.ted.com/talks/AnjanSundaram_2024.mp3?apikey=172BB350-0207"
-                    },
-                    "guid": {
-                        "#text": "en.audio.talk.ted.com:136305",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Anjan Sundaram",
-                    "itunes:duration": "00:09:49",
-                    "itunes:explicit": "no",
-                    "itunes:image": {
-                        "@href": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_136305/3823000d-9d6b-4e1d-ae71-fad1acaa6b9a/AnjanSundaram_2024-embed.jpg?"
-                    },
-                    "itunes:keywords": "TED",
-                    "itunes:subtitle": "Meet our planet's hidden defenders | Anjan Sundaram",
-                    "itunes:summary": "Small Indigenous communities make up only five percent of the world's population, but they defend 80 percent of the biodiversity that remains on Earth, says war reporter Anjan Sundaram. He paints a picture of Mexico's embattled ecological frontlines, where invisible heroes are fighting corporations and cartels alike to save our planet's last natural ecosystems.",
-                    "jwplayer:talkId": "136305",
-                    "link": "https://www.ted.com/talks/anjan_sundaram_meet_our_planet_s_hidden_defenders?rss=172BB350-0207",
-                    "media:content": {
-                        "@fileSize": "",
-                        "@type": "audio/mpeg",
-                        "@url": "https://download.ted.com/talks/AnjanSundaram_2024.mp3?apikey=172BB350-0207"
-                    },
-                    "media:thumbnail": {
-                        "@height": "360",
-                        "@url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_136305/3823000d-9d6b-4e1d-ae71-fad1acaa6b9a/AnjanSundaram_2024-embed.jpg?h=360&origin=rss&w=480",
-                        "@width": "480"
-                    },
-                    "pubDate": "Fri, 23 Aug 2024 14:58:45 +0000",
-                    "title": "Meet our planet's hidden defenders | Anjan Sundaram"
-                },
-                {
-                    "category": "Higher Education",
-                    "description": "Africa's smallholder farmers feed millions of people and uplift economies, yet they often lack the basic resources needed to thrive, says agricultural scientist and policymaker Agnes Kalibata. She outlines how to empower these farmers with better tools, climate resilience strategies and market access \u2014 so they can continue to nourish humanity while caring for the planet.",
-                    "enclosure": {
-                        "@length": "",
-                        "@type": "audio/mpeg",
-                        "@url": "https://download.ted.com/talks/AgnesKalibata_2024T.mp3?apikey=172BB350-0207"
-                    },
-                    "guid": {
-                        "#text": "en.audio.talk.ted.com:136217",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Agnes Kalibata",
-                    "itunes:duration": "00:10:48",
-                    "itunes:explicit": "no",
-                    "itunes:image": {
-                        "@href": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_136217/e67f018b-5a14-48ff-9ad0-08e292e004fe/AgnesKalibata_2024T-embed.jpg?"
-                    },
-                    "itunes:keywords": "TED",
-                    "itunes:subtitle": "How to empower farmers \u2014 and nourish the planet | Agnes Kalibata",
-                    "itunes:summary": "Africa's smallholder farmers feed millions of people and uplift economies, yet they often lack the basic resources needed to thrive, says agricultural scientist and policymaker Agnes Kalibata. She outlines how to empower these farmers with better tools, climate resilience strategies and market access \u2014 so they can continue to nourish humanity while caring for the planet.",
-                    "jwplayer:talkId": "136217",
-                    "link": "https://www.ted.com/talks/agnes_kalibata_how_to_empower_farmers_and_nourish_the_planet?rss=172BB350-0207",
-                    "media:content": {
-                        "@fileSize": "",
-                        "@type": "audio/mpeg",
-                        "@url": "https://download.ted.com/talks/AgnesKalibata_2024T.mp3?apikey=172BB350-0207"
-                    },
-                    "media:thumbnail": {
-                        "@height": "360",
-                        "@url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_136217/e67f018b-5a14-48ff-9ad0-08e292e004fe/AgnesKalibata_2024T-embed.jpg?h=360&origin=rss&w=480",
-                        "@width": "480"
-                    },
-                    "pubDate": "Thu, 22 Aug 2024 14:42:15 +0000",
-                    "title": "How to empower farmers \u2014 and nourish the planet | Agnes Kalibata"
-                },
-                {
-                    "category": "Higher Education",
-                    "description": "\"I'm not a pacifist, but in the end, war is the greatest human rights abuse and does not make the world safer,\" says Gabrielle Rifkind, director of the Oxford Process, an organization dedicated to ending armed conflict. She shares how inclusive negotiating strategies can prevent war from breaking out or stop an ongoing conflict \u2014 and shows what we can do to make peace real for all.",
-                    "enclosure": {
-                        "@length": "",
-                        "@type": "audio/mpeg",
-                        "@url": "https://download.ted.com/talks/GabrielleRifkind_2024.mp3?apikey=172BB350-0207"
-                    },
-                    "guid": {
-                        "#text": "en.audio.talk.ted.com:136077",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Gabrielle Rifkind",
-                    "itunes:duration": "00:13:01",
-                    "itunes:explicit": "no",
-                    "itunes:image": {
-                        "@href": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_136077/2dc8faf5-027e-49ac-9c2d-a60815f71883/GabrielleRifkind_2024-embed.jpg?"
-                    },
-                    "itunes:keywords": "TED",
-                    "itunes:subtitle": "How to prevent \u2014 or stop \u2014 a war | Gabrielle Rifkind",
-                    "itunes:summary": "\"I'm not a pacifist, but in the end, war is the greatest human rights abuse and does not make the world safer,\" says Gabrielle Rifkind, director of the Oxford Process, an organization dedicated to ending armed conflict. She shares how inclusive negotiating strategies can prevent war from breaking out or stop an ongoing conflict \u2014 and shows what we can do to make peace real for all.",
-                    "jwplayer:talkId": "136077",
-                    "link": "https://www.ted.com/talks/gabrielle_rifkind_how_to_prevent_or_stop_a_war?rss=172BB350-0207",
-                    "media:content": {
-                        "@fileSize": "",
-                        "@type": "audio/mpeg",
-                        "@url": "https://download.ted.com/talks/GabrielleRifkind_2024.mp3?apikey=172BB350-0207"
-                    },
-                    "media:thumbnail": {
-                        "@height": "360",
-                        "@url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_136077/2dc8faf5-027e-49ac-9c2d-a60815f71883/GabrielleRifkind_2024-embed.jpg?h=360&origin=rss&w=480",
-                        "@width": "480"
-                    },
-                    "pubDate": "Wed, 21 Aug 2024 14:48:05 +0000",
-                    "title": "How to prevent \u2014 or stop \u2014 a war | Gabrielle Rifkind"
                 }
             ],
             "itunes:author": "TED",
@@ -5462,7 +5462,7 @@
             "itunes:subtitle": "Ideas worth spreading from the TED Conference",
             "itunes:summary": "Every weekday, TED Talks Daily brings you the latest talks in audio. Join host and journalist Elise Hu for thought-provoking ideas on every subject imaginable \u2014 from Artificial Intelligence to Zoology, and everything in between \u2014 given by the world's leading thinkers and creators. With TED Talks Daily, find some space in your day to change your perspectives, ignite your curiosity, and learn something new.  ",
             "language": "en",
-            "lastBuildDate": "Sun, 23 Feb 2025 00:33:42 +0000",
+            "lastBuildDate": "Sun, 02 Mar 2025 00:37:25 +0000",
             "link": "https://www.ted.com/talks",
             "media:rating": {
                 "#text": "nonadult",

@@ -32,6 +32,31 @@
             },
             "item": [
                 {
+                    "description": "In\u00a0an age of rapidly changing technology,\u00a0it\u2019s\u00a0more important than ever for organizations to effectively support employee learning.\u00a0Gianpiero Petriglieri, associate professor at INSEAD, has studied leaders who do this well and says they fall into\u00a0three\u00a0categories:\u00a0custodians, challengers,\u00a0or\u00a0connectors. He explains\u00a0which\u00a0type\u00a0of learning leader works best in which contexts and how all three approaches can help individuals and teams\u00a0reach the next level. Petriglieri is author of the HBR article \"Three Ways to Lead Learning.\"",
+                    "enclosure": {
+                        "@length": "29603612",
+                        "@type": "audio/mpeg",
+                        "@url": "https://audio.hbr.org/ideacast/20250224104323-1015_HowLeadersCanEncourageLearning.mp3"
+                    },
+                    "guid": {
+                        "#text": "tag:audio.hbr.org,2006-05-08:ideacast.1015",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1670",
+                    "itunes:episode": "1015",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "In\u00a0an age of rapidly changing technology,\u00a0it\u2019s\u00a0more important than ever for organizations to effectively support employee learning.\u00a0Gianpiero Petriglieri, associate professor at INSEAD, has studied leaders who do this well and says they fall into\u00a0three\u00a0categories:\u00a0custodians, challengers,\u00a0or\u00a0connectors. He explains\u00a0which\u00a0type\u00a0of learning leader works best in which contexts and how all three approaches can help individuals and teams\u00a0reach the next level. Petriglieri is author of the HBR article \"Three Ways to Lead Learning.\"",
+                    "itunes:title": "How Leaders Can Encourage Learning",
+                    "link": "https://hbr.org/podcast/2025/02/how-leaders-can-encourage-learning",
+                    "media:thumbnail": {
+                        "@url": "https://hbr.org/resources/images/podcasts/1400-hbr-ideacast-lg-3.jpg"
+                    },
+                    "pubDate": "Tue, 25 Feb 2025 08:00:50 -0500",
+                    "title": "How Leaders Can Encourage Learning"
+                },
+                {
                     "description": "Despite all the ways that artificial intelligence promises to improve our lives, many consumers feel anxious and are averse to AI-powered products and services. For marketers and product managers, it\u2019s vital to understand what is driving that resistance to adoption. Julian De Freitas is an assistant professor in the marketing unit at Harvard Business School. He has identified five main ways people see artificial intelligence negatively: that AI is opaque, emotionless, inflexible, autonomous, and not human enough. Through real-life cases and the latest research, he explains how companies can soothe anxieties and encourage consumer adoption. De Freitas the author of the HBR article\u00a0\"Why People Resist Embracing AI.\"",
                     "enclosure": {
                         "@length": "29177716",
@@ -16276,31 +16301,6 @@
                     },
                     "pubDate": "Thu, 19 Dec 2013 10:44:44 -0500",
                     "title": "The Management Myths Hurting Your Business"
-                },
-                {
-                    "description": "Paul Oyer,\u00a0Stanford economist and\u00a0the author of \"Everything I Ever Needed to Know About Economics I Learned from Online Dating,\" explains the marketplace of online love.",
-                    "enclosure": {
-                        "@length": "13574757",
-                        "@type": "audio/mpeg",
-                        "@url": "https://audio.hbr.org/ideacast/382__The_Economics_of_Online_Dating.mp3"
-                    },
-                    "guid": {
-                        "#text": "7710c499281b60df675707714f48b0a7",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:duration": "814",
-                    "itunes:episode": "382",
-                    "itunes:episodeType": "full",
-                    "itunes:explicit": "false",
-                    "itunes:subtitle": null,
-                    "itunes:summary": "Paul Oyer,\u00a0Stanford economist and\u00a0the author of \"Everything I Ever Needed to Know About Economics I Learned from Online Dating,\" explains the marketplace of online love.",
-                    "itunes:title": "The Economics of Online Dating",
-                    "link": "https://hbr.org/podcast/2013/12/the-economics-of-online-dating",
-                    "media:thumbnail": {
-                        "@url": "https://hbr.org/resources/images/podcasts/1400-hbr-ideacast-lg-3.jpg"
-                    },
-                    "pubDate": "Thu, 12 Dec 2013 11:25:13 -0500",
-                    "title": "The Economics of Online Dating"
                 }
             ],
             "itunes:author": "Harvard Business Review",
@@ -16337,7 +16337,7 @@
             "itunes:summary": "A weekly podcast featuring the leading thinkers in business and management.",
             "itunes:type": "episodic",
             "language": "en",
-            "lastBuildDate": "Tue, 18 Feb 2025 08:01:08 UT",
+            "lastBuildDate": "Fri, 28 Feb 2025 17:15:07 UT",
             "link": "https://hbr.org/podcasts/ideacast",
             "managingEditor": "ideacast@hbr.org (ideacast@hbr.org)",
             "media:category": [
@@ -16359,7 +16359,7 @@
             "media:thumbnail": {
                 "@url": "https://hbr.org/resources/images/podcasts/1400-hbr-ideacast-lg-3.jpg"
             },
-            "pubDate": "Tue, 18 Feb 2025 13:00:10 UT",
+            "pubDate": "Tue, 25 Feb 2025 13:20:00 UT",
             "title": "HBR IdeaCast"
         }
     }

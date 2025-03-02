@@ -39,6 +39,40 @@
             },
             "item": [
                 {
+                    "author": "originals@stitcher.com (Mark Lamster, Avery Trufelman)",
+                    "content:encoded": "<p>A film about a struggling architect, a style the world loves to hate\u2014<i>The Brutalist</i> and Brutalism itself share more than just a name. Is it bold vision or concrete failure?</p><p><a href=\"https://99percentinvisible.org/?p=43972\" target=\"_blank\">The Brutalists</a></p>\n<p><p>Subscribe to SiriusXM Podcasts+ to listen to new episodes of 99% Invisible ad-free and get exclusive access to bonus episodes.&nbsp;<br>Start a free trial now on Apple Podcasts or by visiting <a href=\"http://siriusxm.com/podcastsplus.\" target=\"_blank\">siriusxm.com/podcastsplus.</a></p></p>",
+                    "description": "<p>A film about a struggling architect, a style the world loves to hate\u2014<i>The Brutalist</i> and Brutalism itself share more than just a name. Is it bold vision or concrete failure?</p><p><a href=\"https://99percentinvisible.org/?p=43972\" target=\"_blank\">The Brutalists</a></p>\n<p><p>Subscribe to SiriusXM Podcasts+ to listen to new episodes of 99% Invisible ad-free and get exclusive access to bonus episodes.&nbsp;<br>Start a free trial now on Apple Podcasts or by visiting <a href=\"http://siriusxm.com/podcastsplus.\" target=\"_blank\">siriusxm.com/podcastsplus.</a></p></p>",
+                    "enclosure": {
+                        "@length": "37393079",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7777e6ec-a309-491d-b12a-bbb68b55eb98/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7777e6ec-a309-491d-b12a-bbb68b55eb98&feed=BqbsxVfO"
+                    },
+                    "guid": {
+                        "#text": "964be290-5a70-4efe-ad52-484ef5370935",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Mark Lamster, Avery Trufelman",
+                    "itunes:duration": "00:38:37",
+                    "itunes:episode": "617",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/00c81e60-45f9-4643-9fed-2184b2b6a3d3/a61daa3f-bb9b-4555-b180-18f505919c87/3000x3000/sxm-cover-99percentinvisible-3000x3000-r2021-final.jpg?aid=rss_feed"
+                    },
+                    "itunes:keywords": "design, architecture, concrete, controversy, the brutalist, brutalism",
+                    "itunes:subtitle": "A film about a struggling architect, a style the world loves to hate\u2014The Brutalist and Brutalism itself share more than just a name. Is it bold vision or concrete failure?",
+                    "itunes:summary": "A film about a struggling architect, a style the world loves to hate\u2014The Brutalist and Brutalism itself share more than just a name. Is it bold vision or concrete failure?",
+                    "itunes:title": "The Brutalists",
+                    "link": "https://99percentinvisible.org/?p=43972",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/96792a27-13c3-40ce-b933-36bdb43a299e/82d76f05-5b84-44ec-8c76-9e9cfc0768f7/stitcher-graphics-pack-99percentinvisible-r2021-1920x1080-a.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Tue, 25 Feb 2025 21:15:53 +0000",
+                    "title": "The Brutalists"
+                },
+                {
                     "author": "originals@stitcher.com (Vivian Le)",
                     "content:encoded": "<p>In the heart of Berlin\u2019s Tempelhof-Sch\u00f6neberg district sits a hulking, crumbling concrete cylinder\u2014an abandoned relic of a Nazi plan to rebuild the city as a grand imperial capital. But this eerie structure isn\u2019t just a forgotten engineering experiment; it\u2019s a lasting monument to one of the Third Reich\u2019s most colossal architectural failures.</p><p><a href=\"https://99percentinvisible.org/?p=43853\" target=\"_blank\">The Nazi Block</a></p>\n<p><p>Subscribe to SiriusXM Podcasts+ to listen to new episodes of 99% Invisible ad-free and get exclusive access to bonus episodes.&nbsp;<br>Start a free trial now on Apple Podcasts or by visiting <a href=\"http://siriusxm.com/podcastsplus.\" target=\"_blank\">siriusxm.com/podcastsplus.</a></p></p>",
                     "description": "<p>In the heart of Berlin\u2019s Tempelhof-Sch\u00f6neberg district sits a hulking, crumbling concrete cylinder\u2014an abandoned relic of a Nazi plan to rebuild the city as a grand imperial capital. But this eerie structure isn\u2019t just a forgotten engineering experiment; it\u2019s a lasting monument to one of the Third Reich\u2019s most colossal architectural failures.</p><p><a href=\"https://99percentinvisible.org/?p=43853\" target=\"_blank\">The Nazi Block</a></p>\n<p><p>Subscribe to SiriusXM Podcasts+ to listen to new episodes of 99% Invisible ad-free and get exclusive access to bonus episodes.&nbsp;<br>Start a free trial now on Apple Podcasts or by visiting <a href=\"http://siriusxm.com/podcastsplus.\" target=\"_blank\">siriusxm.com/podcastsplus.</a></p></p>",
@@ -23621,9 +23655,9 @@
             "itunes:summary": "Design is everywhere in our lives, perhaps most importantly in the places where we've just stopped noticing. 99% Invisible is a weekly exploration of the process and power of design and architecture. From award winning producer Roman Mars. Learn more at 99percentinvisible.org.",
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Wed, 19 Feb 2025 23:38:24 +0000",
+            "lastBuildDate": "Tue, 25 Feb 2025 21:16:15 +0000",
             "link": "https://www.stitcher.com",
-            "pubDate": "Tue, 18 Feb 2025 23:44:51 +0000",
+            "pubDate": "Tue, 25 Feb 2025 21:15:53 +0000",
             "title": "99% Invisible"
         }
     }

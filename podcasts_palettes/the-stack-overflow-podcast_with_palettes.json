@@ -39,6 +39,58 @@
             },
             "item": [
                 {
+                    "author": "steph@editaud.io (Ben Popper, Ryan Donovan, Olga Beregovaya)",
+                    "content:encoded": "<p><a href=\"https://www.smartling.com/\">Smartling</a> is an enterprise translation platform that includes AI-powered translation solutions.</p><p>Connect with Olga on <a href=\"https://www.linkedin.com/in/olga-beregovaya-04b5/\">LinkedIn</a>.\u00a0</p><p>Kudos to Stack Overflow user <a href=\"https://stackoverflow.com/users/7866526/suleka-28\">Suleka_28</a>, who earned a <a href=\"https://stackoverflow.com/help/badges/62/populist\">Populist badge</a> by explaining <a href=\"https://stackoverflow.com/questions/46416984/how-to-convert-logits-to-probability-in-binary-classification-in-tensorflow\">how to convert logits to probability in binary classification in tensorflow</a>.</p>\n",
+                    "description": "<p><a href=\"https://www.smartling.com/\">Smartling</a> is an enterprise translation platform that includes AI-powered translation solutions.</p><p>Connect with Olga on <a href=\"https://www.linkedin.com/in/olga-beregovaya-04b5/\">LinkedIn</a>.\u00a0</p><p>Kudos to Stack Overflow user <a href=\"https://stackoverflow.com/users/7866526/suleka-28\">Suleka_28</a>, who earned a <a href=\"https://stackoverflow.com/help/badges/62/populist\">Populist badge</a> by explaining <a href=\"https://stackoverflow.com/questions/46416984/how-to-convert-logits-to-probability-in-binary-classification-in-tensorflow\">how to convert logits to probability in binary classification in tensorflow</a>.</p>\n",
+                    "enclosure": {
+                        "@length": "30819844",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/df219568-239e-4f8f-8b38-c34e1753ea8b/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=df219568-239e-4f8f-8b38-c34e1753ea8b&feed=XA_851k3"
+                    },
+                    "guid": {
+                        "#text": "9c4e38e3-b860-41e6-afd2-e216104c538a",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ben Popper, Ryan Donovan, Olga Beregovaya",
+                    "itunes:duration": "00:31:28",
+                    "itunes:episode": "789",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:keywords": "translation management, enterprise software, ai workflows, ai, llm, ai translation",
+                    "itunes:subtitle": "Olga Beregovaya, VP of AI at Smartling, joins Ryan and Ben to explore the evolution and specialization of language models in AI. They discuss the shift from rule-based systems to transformer models, the importance of fine-tuning for translation tasks, and the role of human translators in ensuring reliable, high-quality output. They also touch on the implications of AI in language education and the challenges faced in implementing LLMs in enterprise workflows.",
+                    "itunes:summary": "Olga Beregovaya, VP of AI at Smartling, joins Ryan and Ben to explore the evolution and specialization of language models in AI. They discuss the shift from rule-based systems to transformer models, the importance of fine-tuning for translation tasks, and the role of human translators in ensuring reliable, high-quality output. They also touch on the implications of AI in language education and the challenges faced in implementing LLMs in enterprise workflows.",
+                    "itunes:title": "\u201cTranslation is the tip of the iceberg\u201d: A deep dive into specialty models",
+                    "link": "https://stackoverflow.blog/podcast/",
+                    "pubDate": "Fri, 28 Feb 2025 05:20:00 +0000",
+                    "title": "\u201cTranslation is the tip of the iceberg\u201d: A deep dive into specialty models"
+                },
+                {
+                    "author": "steph@editaud.io (Ben Popper, Ryan Donovan, Animesh Mishra)",
+                    "content:encoded": "<p><a href=\"https://www.diffblue.com/\">Diffblue Cover</a> is an AI agent for testing complex Java code at scale. Check out their <a href=\"https://docs.diffblue.com/\">docs</a> to get started automating unit tests today.</p><p><a href=\"https://www.diffblue.com/resources/diffblue-cover-vs-github-copilot-whats-the-difference/\">This article</a> will help you understand the difference between Diffblue Cover and Copilot.</p><p>Find Animesh on <a href=\"https://www.linkedin.com/in/siranimesh/?originalSubdomain=uk\">LinkedIn</a>.</p><p>Stack Overflow user <a href=\"https://stackoverflow.com/users/4388776/keet-sugathadasa\">Keet Sugathadasa</a> earned a <a href=\"https://stackoverflow.com/help/badges/62/populist\">Populist badge</a> by answering a question in the <a href=\"https://stackoverflow.com/collectives/ci-cd\">CI/CD Collective</a>: <a href=\"https://stackoverflow.com/questions/70067929/gitlab-ci-cd-variable-are-not-getting-injected-while-running-gitlab-pipeline\">Gitlab CI CD variable are not getting injected while running gitlab pipeline</a>.</p>\n",
+                    "description": "<p><a href=\"https://www.diffblue.com/\">Diffblue Cover</a> is an AI agent for testing complex Java code at scale. Check out their <a href=\"https://docs.diffblue.com/\">docs</a> to get started automating unit tests today.</p><p><a href=\"https://www.diffblue.com/resources/diffblue-cover-vs-github-copilot-whats-the-difference/\">This article</a> will help you understand the difference between Diffblue Cover and Copilot.</p><p>Find Animesh on <a href=\"https://www.linkedin.com/in/siranimesh/?originalSubdomain=uk\">LinkedIn</a>.</p><p>Stack Overflow user <a href=\"https://stackoverflow.com/users/4388776/keet-sugathadasa\">Keet Sugathadasa</a> earned a <a href=\"https://stackoverflow.com/help/badges/62/populist\">Populist badge</a> by answering a question in the <a href=\"https://stackoverflow.com/collectives/ci-cd\">CI/CD Collective</a>: <a href=\"https://stackoverflow.com/questions/70067929/gitlab-ci-cd-variable-are-not-getting-injected-while-running-gitlab-pipeline\">Gitlab CI CD variable are not getting injected while running gitlab pipeline</a>.</p>\n",
+                    "enclosure": {
+                        "@length": "40211739",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/49d34665-b54b-4ec0-b87a-3cfc89f6a6a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=49d34665-b54b-4ec0-b87a-3cfc89f6a6a6&feed=XA_851k3"
+                    },
+                    "guid": {
+                        "#text": "48176675-99be-4b8a-8f1f-790a834adb14",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ben Popper, Ryan Donovan, Animesh Mishra",
+                    "itunes:duration": "00:41:44",
+                    "itunes:episode": "788",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:keywords": "copilot, java, refactoring, developer tools, ai coding tools, gen ai, ai, automation, developer productivity, llm, software development, ai coding, unit testing, software development lifecycle",
+                    "itunes:subtitle": "Animesh Mishra, senior solutions engineer at Diffblue, joins Ryan and Ben to talk about how AI agents can help you get better test coverage. Animesh explains how agentic AI can expedite and enhance automation and refactoring processes, how Diffblue leverages machine learning techniques to write effective unit tests, and why clear use cases and trust are so important in developing AI tools. Plus: Why Diffblue sees Copilot as a complement, not a competitor.",
+                    "itunes:summary": "Animesh Mishra, senior solutions engineer at Diffblue, joins Ryan and Ben to talk about how AI agents can help you get better test coverage. Animesh explains how agentic AI can expedite and enhance automation and refactoring processes, how Diffblue leverages machine learning techniques to write effective unit tests, and why clear use cases and trust are so important in developing AI tools. Plus: Why Diffblue sees Copilot as a complement, not a competitor.",
+                    "itunes:title": "Writing tests with AI, but not LLMs",
+                    "link": "https://stackoverflow.blog/podcast/",
+                    "pubDate": "Tue, 25 Feb 2025 05:20:00 +0000",
+                    "title": "Writing tests with AI, but not LLMs"
+                },
+                {
                     "author": "steph@editaud.io (Ryan Donovan, Caitlin Weaver)",
                     "content:encoded": "<p><a href=\"https://www.clearme.com/\">CLEAR</a> is an identity company trying to take the friction out of air travel (such as with <a href=\"https://www.clearme.com/tsa-precheck\">TSA PreCheck</a>, available through CLEAR), stadium events, and other experiences that require security screening.\u00a0</p><p>Find Caitlin on <a href=\"https://www.linkedin.com/in/cquinteroweaver/\">LinkedIn</a>.\u00a0</p><p>Shoutout to Stack Overflow user <a href=\"https://stackoverflow.com/users/1096070/patrick-pijnappel\">Patrick Pijnappel</a>, who earned a <a href=\"https://stackoverflow.com/help/badges/62/populist\">Populist badge</a> with their answer to <a href=\"https://stackoverflow.com/questions/16842014/redirect-all-output-to-file-using-bash-on-linux\">Redirect all output to file using Bash on Linux?</a>. It\u2019s helped 230,000 people and counting.</p>\n",
                     "description": "<p><a href=\"https://www.clearme.com/\">CLEAR</a> is an identity company trying to take the friction out of air travel (such as with <a href=\"https://www.clearme.com/tsa-precheck\">TSA PreCheck</a>, available through CLEAR), stadium events, and other experiences that require security screening.\u00a0</p><p>Find Caitlin on <a href=\"https://www.linkedin.com/in/cquinteroweaver/\">LinkedIn</a>.\u00a0</p><p>Shoutout to Stack Overflow user <a href=\"https://stackoverflow.com/users/1096070/patrick-pijnappel\">Patrick Pijnappel</a>, who earned a <a href=\"https://stackoverflow.com/help/badges/62/populist\">Populist badge</a> with their answer to <a href=\"https://stackoverflow.com/questions/16842014/redirect-all-output-to-file-using-bash-on-linux\">Redirect all output to file using Bash on Linux?</a>. It\u2019s helped 230,000 people and counting.</p>\n",
@@ -20715,9 +20767,9 @@
             "itunes:summary": "For more than a dozen years, the Stack Overflow Podcast has been exploring what it means to be a software developer and how the art and practice of programming is changing our world. From Rails to React, from Java to Node.js, join the Stack home team for conversations with fascinating guests to help you understand how technology is made and where it\u2019s headed.",
             "itunes:type": "episodic",
             "language": "en",
-            "lastBuildDate": "Fri, 21 Feb 2025 05:20:18 +0000",
+            "lastBuildDate": "Fri, 28 Feb 2025 05:20:18 +0000",
             "link": "https://stackoverflow.blog/podcast/",
-            "pubDate": "Fri, 21 Feb 2025 05:20:00 +0000",
+            "pubDate": "Fri, 28 Feb 2025 05:20:00 +0000",
             "title": "The Stack Overflow Podcast"
         }
     }

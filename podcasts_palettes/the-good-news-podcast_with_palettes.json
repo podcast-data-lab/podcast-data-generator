@@ -39,6 +39,35 @@
             "item": [
                 {
                     "author": "The Good News Podcast",
+                    "content:encoded": "<p>From the archive, stories of ancient history under the streets. I thought of this story because there was recently a big Roman discovery in London. </p><p><a href=\"https://www.npr.org/2025/02/18/g-s1-49317/london-roman-basilica-archaeology-roman-empire-discovery\">Read more about that discovery here</a></p>\n<strong>\n  <a href=\"https://www.patreon.com/thegoodnewspodcast\" rel=\"payment\" title=\"\u2605 Support this podcast on Patreon \u2605\">\u2605 Support this podcast on Patreon \u2605</a>\n</strong>",
+                    "description": "<p>From the archive, stories of ancient history under the streets. I thought of this story because there was recently a big Roman discovery in London. </p><p><a href=\"https://www.npr.org/2025/02/18/g-s1-49317/london-roman-basilica-archaeology-roman-empire-discovery\">Read more about that discovery here</a></p>\n<strong>\n  <a href=\"https://www.patreon.com/thegoodnewspodcast\" rel=\"payment\" title=\"\u2605 Support this podcast on Patreon \u2605\">\u2605 Support this podcast on Patreon \u2605</a>\n</strong>",
+                    "enclosure": {
+                        "@length": "2373356",
+                        "@type": "audio/mpeg",
+                        "@url": "https://media.transistor.fm/442506e7/3b676fb9.mp3"
+                    },
+                    "guid": {
+                        "#text": "2d57fb07-4d17-43f5-82f2-408770d20abf",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Good News Podcast",
+                    "itunes:duration": "194",
+                    "itunes:episode": "1185",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://img.transistor.fm/Xh42zJTfHafyrAwpgBUFCbY8XDJIW1cqZjY2meK3NXk/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wYzFh/ZDNiZjM1OWRlNDJk/NmFhYjAzZDA5ZjNi/ODcxZS5qcGc.jpg"
+                    },
+                    "itunes:keywords": "Roman, treasure, archaeology ",
+                    "itunes:summary": "<p>From the archive, stories of ancient history under the streets. I thought of this story because there was recently a big Roman discovery in London. </p><p><a href=\"https://www.npr.org/2025/02/18/g-s1-49317/london-roman-basilica-archaeology-roman-empire-discovery\">Read more about that discovery here</a></p>\n<strong>\n  <a href=\"https://www.patreon.com/thegoodnewspodcast\" rel=\"payment\" title=\"\u2605 Support this podcast on Patreon \u2605\">\u2605 Support this podcast on Patreon \u2605</a>\n</strong>",
+                    "itunes:title": "Sewercules, Repeat",
+                    "link": "https://share.transistor.fm/s/442506e7",
+                    "podcast:episode": "1185",
+                    "pubDate": "Wed, 26 Feb 2025 23:35:47 -0600",
+                    "title": "Sewercules, Repeat"
+                },
+                {
+                    "author": "The Good News Podcast",
                     "content:encoded": "<p>An asteroid has gotten into the news recently and scientists are paying close attention.</p><p><a href=\"https://cneos.jpl.nasa.gov/news/news210.html\">Read more about the asteroid here\u00a0</a></p>\n<strong>\n  <a href=\"https://www.patreon.com/thegoodnewspodcast\" rel=\"payment\" title=\"\u2605 Support this podcast on Patreon \u2605\">\u2605 Support this podcast on Patreon \u2605</a>\n</strong>",
                     "description": "<p>An asteroid has gotten into the news recently and scientists are paying close attention.</p><p><a href=\"https://cneos.jpl.nasa.gov/news/news210.html\">Read more about the asteroid here\u00a0</a></p>\n<strong>\n  <a href=\"https://www.patreon.com/thegoodnewspodcast\" rel=\"payment\" title=\"\u2605 Support this podcast on Patreon \u2605\">\u2605 Support this podcast on Patreon \u2605</a>\n</strong>",
                     "enclosure": {
@@ -31919,7 +31948,7 @@
             "itunes:summary": "The Good News Podcast is your thrice weekly reminder that not all news is bad. ",
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Sat, 22 Feb 2025 05:36:03 -0600",
+            "lastBuildDate": "Sat, 01 Mar 2025 10:40:02 -0600",
             "link": "https://www.thegoodnewspodcast.fm",
             "podcast:funding": {
                 "#text": "Support this podcast on Patreon",
@@ -31940,7 +31969,7 @@
                 "@type": "audio/mpeg",
                 "@url": "https://media.transistor.fm/3422d3aa/3422d3aa.mp3"
             },
-            "pubDate": "Sat, 22 Feb 2025 05:35:35 -0600",
+            "pubDate": "Sat, 01 Mar 2025 10:39:40 -0600",
             "title": "The Good News Podcast"
         }
     }

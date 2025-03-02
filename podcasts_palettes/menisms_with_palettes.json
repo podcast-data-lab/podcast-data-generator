@@ -38,6 +38,31 @@
             "item": [
                 {
                     "dc:creator": "Madeaux Podcasts",
+                    "description": "The guys share their experiences on different cultural and societal ideologies that have shaped us as a people. Enjoy\nSubscribe to our YouTube channel and watch the video pod on Thursdays here \ud83d\udc49 https://youtube.com/@MenismsPodcast Feel free to drop us a comment. Got questions, feedback or want to share your experiences?&nbsp;\u2060\u2060\u2060\u2060\ud83d\udc49 https://forms.gle/5WkUNhx1fzPbubpy7&nbsp; Follow Menisms on social media @menismspod: Instagram:&nbsp;\u2060\u2060\u2060\u2060https://www.instagram.com/menismspod/\u2060\u2060\u2060\u2060&nbsp; Tiktok:&nbsp;\u2060\u2060\u2060\u2060https://www.tiktok.com/@menismspodcast\u2060\u2060\u2060\u2060/Twitter:&nbsp;\u2060\u2060\u2060\u2060https://x.com/menismspod\u2060\u2060\u2060\u2060Follow the guys:Michael: https://www.tiktok.com/@sonariwoondeck?_t=8hNAIwRgkNS&amp;_r=1Murewa: https://x.com/olumurewa?t=OYgAtjTrJQLWUWG5YmyvLA&amp;s=09\n",
+                    "enclosure": {
+                        "@length": "80769657",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/81693d28/podcast/play/99099220/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-27%2F21f54d4c-90c0-5621-f8c9-fce7cf4c27e5.mp3"
+                    },
+                    "guid": {
+                        "#text": "a4b12682-8daa-4862-aa52-9551855b52ed",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "01:24:02",
+                    "itunes:episode": "3",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/21611578/21611578-1698278287570-05d7748127699.jpg"
+                    },
+                    "itunes:season": "4",
+                    "itunes:summary": "The guys share their experiences on different cultural and societal ideologies that have shaped us as a people. Enjoy\nSubscribe to our YouTube channel and watch the video pod on Thursdays here \ud83d\udc49 https://youtube.com/@MenismsPodcast Feel free to drop us a comment. Got questions, feedback or want to share your experiences?&nbsp;\u2060\u2060\u2060\u2060\ud83d\udc49 https://forms.gle/5WkUNhx1fzPbubpy7&nbsp; Follow Menisms on social media @menismspod: Instagram:&nbsp;\u2060\u2060\u2060\u2060https://www.instagram.com/menismspod/\u2060\u2060\u2060\u2060&nbsp; Tiktok:&nbsp;\u2060\u2060\u2060\u2060https://www.tiktok.com/@menismspodcast\u2060\u2060\u2060\u2060/Twitter:&nbsp;\u2060\u2060\u2060\u2060https://x.com/menismspod\u2060\u2060\u2060\u2060Follow the guys:Michael: https://www.tiktok.com/@sonariwoondeck?_t=8hNAIwRgkNS&amp;_r=1Murewa: https://x.com/olumurewa?t=OYgAtjTrJQLWUWG5YmyvLA&amp;s=09\n",
+                    "link": "https://podcasters.spotify.com/pod/show/menisms-podcast/episodes/Challenging-Nigerian-parents--wrong-cultural-and-societal-norms--Ep--96-e2vep4k",
+                    "pubDate": "Thu, 27 Feb 2025 06:50:43 GMT",
+                    "title": "Challenging Nigerian parents, wrong cultural and societal norms | Ep. 96"
+                },
+                {
+                    "dc:creator": "Madeaux Podcasts",
                     "description": "Can money, ego, money or career impact friendships? We dive deep with Isyomar and Iremide from Showmax's \"Under the Influence,\" exploring real-life experiences on the topic. Enjoy.\n\n\nFeel free to drop a comment. We love to hear from you!Got questions, feedback or want to share your experiences? \u2060\u2060\u2060\u2060\ud83d\udc49 https://forms.gle/5WkUNhx1fzPbubpy7 One-Click YouTube Subscribe (Just a Click!)https://www.youtube.com/@madeauxafrica?sub_confirmation=1Follow Menisms on social media: Instagram: \u2060\u2060\u2060\u2060https://www.instagram.com/menismspod/ Tiktok: \u2060\u2060\u2060\u2060https://www.tiktok.com/@menismspodcastTwitter: \u2060\u2060\u2060\u2060https://twitter.com/menismspodFollow the guys:Michael: https://www.tiktok.com/@sonariwoondeck?_t=8hNAIwRgkNS&amp;_r=1Murewa: https://x.com/olumurewa?t=OYgAtjTrJQLWUWG5YmyvLA&amp;s=09\n",
                     "enclosure": {
                         "@length": "130793363",
@@ -2439,7 +2464,7 @@
             "itunes:summary": "Menisms is an Urban Popculture Podcast that deals with all things Men. African men in their most vulnerable and completely honest state. Conversations on masculinity, navigating women, emotions, behavioural characteristics and sex amongst other topics. The podcast that answers the age old question, What do men really want?!\n\nMenisms is a \"Madeaux Podcasts\" Original!\n\nYou can watch to our Visual Podcast on YouTube: https://youtu.be/bUt3Bq10e1U",
             "itunes:type": "episodic",
             "language": "en",
-            "lastBuildDate": "Thu, 20 Feb 2025 17:29:25 GMT",
+            "lastBuildDate": "Thu, 27 Feb 2025 16:28:24 GMT",
             "link": "https://podcasters.spotify.com/pod/show/menisms-podcast",
             "title": "Menisms"
         }

@@ -45,6 +45,88 @@
             "item": [
                 {
                     "dc:creator": "John Piper",
+                    "description": "Why does Pastor John believe Romans is the greatest letter ever written? And how would he encourage Christians to benefit from this monumental book?<img src=\"https://feed.desiringgod.org/link/10715/16972183.gif\" height=\"1\" width=\"1\"/>",
+                    "enclosure": {
+                        "@length": "16717675",
+                        "@type": "audio/mpeg",
+                        "@url": "https://media.blubrry.com/3817469/audio.desiringgod.org/20250227-en-advice-for-reading-romans-after-decades-of-experience.mp3?ts=1738713996"
+                    },
+                    "guid": {
+                        "#text": "desiringgod.org-resource-19403",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "John Piper",
+                    "itunes:duration": "00:12:44",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://dg.imgix.net/advice-for-reading-romans-after-decades-of-experience-svyha3mb-en/landscape/advice-for-reading-romans-after-decades-of-experience-svyha3mb-c38976fcb53b48710cc6050ca8f49c27.jpg?ts=1738713741&ixlib=rails-4.3.1&auto=format%2Ccompress&fit=min&w=800&h=450"
+                    },
+                    "itunes:keywords": "Desiring God, John Piper, Interview, Bible Reading",
+                    "itunes:subtitle": "Why does Pastor John believe Romans is the greatest letter ever written? And how would he encourage Christians to benefit from this monumental book?",
+                    "itunes:summary": "Why does Pastor John believe Romans is the greatest letter ever written? And how would he encourage Christians to benefit from this monumental book?",
+                    "link": "https://feed.desiringgod.org/link/10715/16972183/advice-for-reading-romans-after-decades-of-experience",
+                    "media:content": {
+                        "@expression": "full",
+                        "@medium": "audio",
+                        "@url": "https://media.blubrry.com/3817469/audio.desiringgod.org/20250227-en-advice-for-reading-romans-after-decades-of-experience.mp3?ts=1738713996",
+                        "media:description": {
+                            "#text": "Why does Pastor John believe Romans is the greatest letter ever written? And how would he encourage Christians to benefit from this monumental book?",
+                            "@type": "html"
+                        },
+                        "media:player": {
+                            "@url": "https://media.blubrry.com/3817469/audio.desiringgod.org/20250227-en-advice-for-reading-romans-after-decades-of-experience.mp3?ts=1738713996"
+                        },
+                        "media:thumbnail": {
+                            "@url": "https://dg.imgix.net/advice-for-reading-romans-after-decades-of-experience-svyha3mb-en/landscape/advice-for-reading-romans-after-decades-of-experience-svyha3mb-c38976fcb53b48710cc6050ca8f49c27.jpg?ts=1738713741&ixlib=rails-4.3.1&auto=format%2Ccompress&fit=min&w=800&h=450"
+                        },
+                        "media:title": "Advice for Reading Romans After Decades of Experience"
+                    },
+                    "pubDate": "Thu, 27 Feb 2025 11:00:00 +0000",
+                    "title": "Advice for Reading Romans After Decades of Experience"
+                },
+                {
+                    "dc:creator": "John Piper",
+                    "description": "Should pastors and ministry leaders use artificial intelligence as a tool to write their sermons and newsletters? If so, how? If not, why not?<img src=\"https://feed.desiringgod.org/link/10715/16969564.gif\" height=\"1\" width=\"1\"/>",
+                    "enclosure": {
+                        "@length": "18370703",
+                        "@type": "audio/mpeg",
+                        "@url": "https://media.blubrry.com/3817469/audio.desiringgod.org/20250224-en-should-i-use-ai-to-help-me-write-sermons.mp3?ts=1738713481"
+                    },
+                    "guid": {
+                        "#text": "desiringgod.org-resource-19402",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "John Piper",
+                    "itunes:duration": "00:14:06",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://dg.imgix.net/should-i-use-ai-to-help-me-write-sermons-mhn2awff-en/landscape/should-i-use-ai-to-help-me-write-sermons-mhn2awff-03fcbb81508d3b4aaa0476c30086c969.jpg?ts=1738713032&ixlib=rails-4.3.1&auto=format%2Ccompress&fit=min&w=800&h=450"
+                    },
+                    "itunes:keywords": "Desiring God, John Piper, Interview, Technology, Preaching & Teaching",
+                    "itunes:subtitle": "Should pastors and ministry leaders use artificial intelligence as a tool to write their sermons and newsletters? If so, how? If not, why not?",
+                    "itunes:summary": "Should pastors and ministry leaders use artificial intelligence as a tool to write their sermons and newsletters? If so, how? If not, why not?",
+                    "link": "https://feed.desiringgod.org/link/10715/16969564/should-i-use-ai-to-help-me-write-sermons",
+                    "media:content": {
+                        "@expression": "full",
+                        "@medium": "audio",
+                        "@url": "https://media.blubrry.com/3817469/audio.desiringgod.org/20250224-en-should-i-use-ai-to-help-me-write-sermons.mp3?ts=1738713481",
+                        "media:description": {
+                            "#text": "Should pastors and ministry leaders use artificial intelligence as a tool to write their sermons and newsletters? If so, how? If not, why not?",
+                            "@type": "html"
+                        },
+                        "media:player": {
+                            "@url": "https://media.blubrry.com/3817469/audio.desiringgod.org/20250224-en-should-i-use-ai-to-help-me-write-sermons.mp3?ts=1738713481"
+                        },
+                        "media:thumbnail": {
+                            "@url": "https://dg.imgix.net/should-i-use-ai-to-help-me-write-sermons-mhn2awff-en/landscape/should-i-use-ai-to-help-me-write-sermons-mhn2awff-03fcbb81508d3b4aaa0476c30086c969.jpg?ts=1738713032&ixlib=rails-4.3.1&auto=format%2Ccompress&fit=min&w=800&h=450"
+                        },
+                        "media:title": "Should I Use AI to Help Me Write Sermons?"
+                    },
+                    "pubDate": "Mon, 24 Feb 2025 11:00:00 +0000",
+                    "title": "Should I Use AI to Help Me Write Sermons?"
+                },
+                {
+                    "dc:creator": "John Piper",
                     "description": "How much life application should pastors offer in their sermons? Pastor John commends interweaving exposition and application throughout each sermon.<img src=\"https://feed.desiringgod.org/link/10715/16966905.gif\" height=\"1\" width=\"1\"/>",
                     "enclosure": {
                         "@length": "19421280",

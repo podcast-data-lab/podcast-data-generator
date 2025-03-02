@@ -4,22 +4,23 @@
         "@xmlns:atom": "http://www.w3.org/2005/Atom",
         "@xmlns:content": "https://www.w3.org/TR/REC-xml/#syntax",
         "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:podcast": "https://podcastindex.org/namespace/1.0",
         "channel": {
             "copyright": "Copyright 2016 Chicago Public Media",
-            "description": "WBEZ's critically-acclaimed bio-podcast series explores how an icon is made.",
+            "description": "Making: Stories Without End takes you on a journey to learn about daytime soap operas and their broad reach on television.",
             "generator": "StreamGuys Recast",
             "image": {
                 "link": "https://www.wbez.org/shows/making/71b8de57-b2be-4e03-8481-683258de3ec1",
                 "palette": [
-                    "243025",
-                    "F1BA19",
-                    "727834",
-                    "8B9431",
-                    "436A2F",
-                    "8C8C8C"
+                    "C1BECD",
+                    "202865",
+                    "764736",
+                    "7D624F",
+                    "7A8A97",
+                    "9F7A93"
                 ],
-                "title": "Making",
-                "url": "https://podcast-stream.wbez.org/recast/wbez/20230707163000-Podcast-Making-Tile-3000x3000-NPR.jpg"
+                "title": "Making: Stories Without End",
+                "url": "https://podcast-stream.wbez.org/recast/making/20250224114545-WBEZ-FY2025-Podcast-StoriesWithoutEnd-Tile-3000x3000.jpg"
             },
             "item": [
                 {
@@ -27,13 +28,12 @@
                     "enclosure": {
                         "@length": "38245671",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20240320141934-ToniMorrisonDraft4.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20240320141934-ToniMorrisonDraft4"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20240320141934-ToniMorrisonDraft4.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=c8cf5a70-e6ee-11ee-9528-1da8c8424e0f"
                     },
                     "guid": {
                         "#text": "c8cf5a70-e6ee-11ee-9528-1da8c8424e0f",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:39:50",
                     "itunes:episode": "13",
                     "itunes:episodeType": "full",
@@ -42,6 +42,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/wbez/20240320174745-3000x3000.png"
                     },
                     "itunes:season": "5",
+                    "podcast:episode": "13",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/wbez/20240320174745-3000x3000.png 3000w"
+                    },
+                    "podcast:season": "5",
                     "pubDate": "Thu, 21 Mar 2024 02:00:00 -0500",
                     "title": "Making Toni Morrison"
                 },
@@ -50,13 +55,12 @@
                     "enclosure": {
                         "@length": "41003784",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20240228171725-MakingFredHamptonDraft6.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20240228171725-MakingFredHamptonDraft6"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20240228171725-MakingFredHamptonDraft6.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=8852c620-d68f-11ee-a2b7-b71bbcc0dcd6"
                     },
                     "guid": {
                         "#text": "8852c620-d68f-11ee-a2b7-b71bbcc0dcd6",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:42:43",
                     "itunes:episode": "12",
                     "itunes:episodeType": "full",
@@ -65,6 +69,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/making/20240228171725-3000x3000.png"
                     },
                     "itunes:season": "5",
+                    "podcast:episode": "12",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/making/20240228171725-3000x3000.png 1080w"
+                    },
+                    "podcast:season": "5",
                     "pubDate": "Thu, 29 Feb 2024 02:00:00 -0600",
                     "title": "Making Fred Hampton"
                 },
@@ -73,13 +82,12 @@
                     "enclosure": {
                         "@length": "33266105",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20240117162957-MakingAngelourerunV3_HS.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20240117162957-MakingAngelourerunV3_HS"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20240117162957-MakingAngelourerunV3_HS.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=f1be30e0-b587-11ee-acde-1d2510f431c6"
                     },
                     "guid": {
                         "#text": "f1be30e0-b587-11ee-acde-1d2510f431c6",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:34:39",
                     "itunes:episode": "11",
                     "itunes:episodeType": "full",
@@ -88,6 +96,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/making/20240117162957-3000x3000.png"
                     },
                     "itunes:season": "5",
+                    "podcast:episode": "11",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/making/20240117162957-3000x3000.png 1080w"
+                    },
+                    "podcast:season": "5",
                     "pubDate": "Thu, 18 Jan 2024 02:00:00 -0600",
                     "title": "Maya Angelou: Going from Strength to Strength"
                 },
@@ -96,13 +109,12 @@
                     "enclosure": {
                         "@length": "41162608",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20231213170712-DerrickRoseDRAFT4.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20231213170712-DerrickRoseDRAFT4"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20231213170712-DerrickRoseDRAFT4.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=596646a0-9a0c-11ee-9994-87abaf46cb79"
                     },
                     "guid": {
                         "#text": "596646a0-9a0c-11ee-9994-87abaf46cb79",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:42:53",
                     "itunes:episode": "10",
                     "itunes:episodeType": "full",
@@ -111,6 +123,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/making/20231213170712-WBEZ-FY2024-Making-DerrickRose3000x3000.png"
                     },
                     "itunes:season": "5",
+                    "podcast:episode": "10",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/making/20231213170712-WBEZ-FY2024-Making-DerrickRose3000x3000.png 3000w"
+                    },
+                    "podcast:season": "5",
                     "pubDate": "Thu, 14 Dec 2023 02:00:00 -0600",
                     "title": "Making Derrick Rose"
                 },
@@ -119,13 +136,12 @@
                     "enclosure": {
                         "@length": "37534305",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20231115150812-Rihannarerundraft2.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20231115150812-Rihannarerundraft2"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20231115150812-Rihannarerundraft2.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=163278a0-83fb-11ee-9125-7b077a1a5a68"
                     },
                     "guid": {
                         "#text": "163278a0-83fb-11ee-9125-7b077a1a5a68",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:39:06",
                     "itunes:episode": "9",
                     "itunes:episodeType": "full",
@@ -134,6 +150,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png"
                     },
                     "itunes:season": "5",
+                    "podcast:episode": "9",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png 1400w"
+                    },
+                    "podcast:season": "5",
                     "pubDate": "Thu, 16 Nov 2023 02:00:00 -0600",
                     "title": "Rihanna: Mother and Mogul"
                 },
@@ -142,13 +163,12 @@
                     "enclosure": {
                         "@length": "35660594",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20231018170859-VirgilAblohDraft5.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20231018170859-VirgilAblohDraft5"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20231018170859-VirgilAblohDraft5.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=f0514fc0-6e02-11ee-8c4a-7f07049744e0"
                     },
                     "guid": {
                         "#text": "f0514fc0-6e02-11ee-8c4a-7f07049744e0",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:37:09",
                     "itunes:episode": "8",
                     "itunes:episodeType": "full",
@@ -157,6 +177,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/making/20231018170900-3000x3000v2.png"
                     },
                     "itunes:season": "5",
+                    "podcast:episode": "8",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/making/20231018170900-3000x3000v2.png 3000w"
+                    },
+                    "podcast:season": "5",
                     "pubDate": "Thu, 19 Oct 2023 02:00:00 -0500",
                     "title": "Making Virgil Abloh"
                 },
@@ -166,18 +191,20 @@
                     "enclosure": {
                         "@length": "2958631",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20230930091240-hyphytrailerdrop.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20230930091240-hyphytrailerdrop"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20230930091240-hyphytrailerdrop.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=6a5a0960-5f9b-11ee-98a7-bb0933e808d4"
                     },
                     "guid": {
                         "#text": "6a5a0960-5f9b-11ee-98a7-bb0933e808d4",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:03:05",
                     "itunes:episodeType": "bonus",
                     "itunes:explicit": "no",
                     "itunes:image": {
                         "@href": "https://podcast-stream.wbez.org/recast/wbez/20230707163000-Podcast-Making-Tile-3000x3000-NPR.jpg"
+                    },
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/wbez/20230707163000-Podcast-Making-Tile-3000x3000-NPR.jpg 3000w"
                     },
                     "pubDate": "Mon, 02 Oct 2023 07:10:00 -0500",
                     "title": "BONUS: Hyphy Kids Got Trauma"
@@ -187,13 +214,12 @@
                     "enclosure": {
                         "@length": "30549371",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20230920173755-Serenarerun2.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20230920173755-Serenarerun2"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20230920173755-Serenarerun2.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=57542d10-5806-11ee-95e8-ef96a5127986"
                     },
                     "guid": {
                         "#text": "57542d10-5806-11ee-95e8-ef96a5127986",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:31:49",
                     "itunes:episode": "7",
                     "itunes:episodeType": "full",
@@ -202,6 +228,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/making/20230920173755-IMG_6548.png"
                     },
                     "itunes:season": "5",
+                    "podcast:episode": "7",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/making/20230920173755-IMG_6548.png 748w"
+                    },
+                    "podcast:season": "5",
                     "pubDate": "Thu, 21 Sep 2023 02:00:00 -0500",
                     "title": "Serena Williams: The Blueprint"
                 },
@@ -210,13 +241,12 @@
                     "enclosure": {
                         "@length": "39407598",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20230809175449-WhoopiV4.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20230809175449-WhoopiV4"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20230809175449-WhoopiV4.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=be405650-3707-11ee-8f52-430720af62d8"
                     },
                     "guid": {
                         "#text": "be405650-3707-11ee-8f52-430720af62d8",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:41:03",
                     "itunes:episode": "6",
                     "itunes:episodeType": "full",
@@ -225,6 +255,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/making/20230809175449-WBEZ-FY2024-Making-WhoopiGoldberg-3000x3000.png"
                     },
                     "itunes:season": "5",
+                    "podcast:episode": "6",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/making/20230809175449-WBEZ-FY2024-Making-WhoopiGoldberg-3000x3000.png 3000w"
+                    },
+                    "podcast:season": "5",
                     "pubDate": "Thu, 10 Aug 2023 02:00:00 -0500",
                     "title": "Making Whoopi Goldberg"
                 },
@@ -233,13 +268,12 @@
                     "enclosure": {
                         "@length": "36924502",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20230705151705-RuPaulRerunV3.2.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20230705151705-RuPaulRerunV3.2"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20230705151705-RuPaulRerunV3.2.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=e8ee7940-1b70-11ee-b5fa-e97018c71a5d"
                     },
                     "guid": {
                         "#text": "e8ee7940-1b70-11ee-b5fa-e97018c71a5d",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:38:28",
                     "itunes:episode": "5",
                     "itunes:episodeType": "full",
@@ -248,6 +282,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/making/20230705151705-WBEZ-Making-RuPaul-Refresh-3000x3000.jpg"
                     },
                     "itunes:season": "5",
+                    "podcast:episode": "5",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/making/20230705151705-WBEZ-Making-RuPaul-Refresh-3000x3000.jpg 3000w"
+                    },
+                    "podcast:season": "5",
                     "pubDate": "Thu, 06 Jul 2023 02:00:00 -0500",
                     "title": "RuPaul: \u2018Empress of Drag\u2019"
                 },
@@ -256,13 +295,12 @@
                     "enclosure": {
                         "@length": "37481224",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20230531212557-shonda-v3.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20230531212557-shonda-v3"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20230531212557-shonda-v3.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=a42252e0-0023-11ee-b7b5-e710b7c511b7"
                     },
                     "guid": {
                         "#text": "a42252e0-0023-11ee-b7b5-e710b7c511b7",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:39:03",
                     "itunes:episode": "4",
                     "itunes:episodeType": "full",
@@ -271,6 +309,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/wbez/20230531212724-ShondaRhimes.png"
                     },
                     "itunes:season": "5",
+                    "podcast:episode": "4",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/wbez/20230531212724-ShondaRhimes.png 3000w"
+                    },
+                    "podcast:season": "5",
                     "pubDate": "Thu, 01 Jun 2023 03:00:00 -0500",
                     "title": "Making Shonda"
                 },
@@ -279,13 +322,12 @@
                     "enclosure": {
                         "@length": "37874941",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20230517172427-MakingPeele-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20230517172427-MakingPeele-FINAL"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20230517172427-MakingPeele-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=95b2ebc0-f501-11ed-a6df-ef4092730049"
                     },
                     "guid": {
                         "#text": "95b2ebc0-f501-11ed-a6df-ef4092730049",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:39:27",
                     "itunes:episode": "3",
                     "itunes:episodeType": "full",
@@ -294,6 +336,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/making/20230517172427-WBEZ_Making_Filmmakers-JordanPeele-3000x3000-Thumbnail.png"
                     },
                     "itunes:season": "5",
+                    "podcast:episode": "3",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/making/20230517172427-WBEZ_Making_Filmmakers-JordanPeele-3000x3000-Thumbnail.png 3000w"
+                    },
+                    "podcast:season": "5",
                     "pubDate": "Thu, 18 May 2023 03:00:00 -0500",
                     "title": "Making Jordan Peele"
                 },
@@ -302,13 +349,12 @@
                     "enclosure": {
                         "@length": "37312368",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20230503161719-Making-Kanye-Ep-1.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20230503161719-Making-Kanye-Ep-1"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20230503161719-Making-Kanye-Ep-1.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=e339f800-e9f7-11ed-b5e3-a1ca5b321b95"
                     },
                     "guid": {
                         "#text": "e339f800-e9f7-11ed-b5e3-a1ca5b321b95",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:38:52",
                     "itunes:episode": "1",
                     "itunes:episodeType": "full",
@@ -317,6 +363,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/wbez/20230503161805-Podcast-FY2023-Making-Kanye-11.png"
                     },
                     "itunes:season": "5",
+                    "podcast:episode": "1",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/wbez/20230503161805-Podcast-FY2023-Making-Kanye-11.png 6250w"
+                    },
+                    "podcast:season": "5",
                     "pubDate": "Thu, 04 May 2023 03:00:00 -0500",
                     "title": "Making Kanye"
                 },
@@ -325,13 +376,12 @@
                     "enclosure": {
                         "@length": "36533292",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20230503181444-Making-Kanye-EP-2.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20230503181444-Making-Kanye-EP-2"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20230503181444-Making-Kanye-EP-2.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=4a513320-ea08-11ed-ba1a-c1948063accf"
                     },
                     "guid": {
                         "#text": "4a513320-ea08-11ed-ba1a-c1948063accf",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:38:03",
                     "itunes:episode": "2",
                     "itunes:episodeType": "full",
@@ -340,6 +390,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/wbez/20230503161805-Podcast-FY2023-Making-Kanye-11.png"
                     },
                     "itunes:season": "5",
+                    "podcast:episode": "2",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/wbez/20230503161805-Podcast-FY2023-Making-Kanye-11.png 6250w"
+                    },
+                    "podcast:season": "5",
                     "pubDate": "Thu, 04 May 2023 03:00:00 -0500",
                     "title": "Unmaking Kanye"
                 },
@@ -348,13 +403,12 @@
                     "enclosure": {
                         "@length": "24395758",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20221214170417-Finale-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20221214170417-Finale-FINAL"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20221214170417-Finale-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=a2f87df0-7c03-11ed-816f-6ddbabde219a"
                     },
                     "guid": {
                         "#text": "a2f87df0-7c03-11ed-816f-6ddbabde219a",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:25:25",
                     "itunes:episode": "10",
                     "itunes:episodeType": "full",
@@ -363,6 +417,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png"
                     },
                     "itunes:season": "4",
+                    "podcast:episode": "10",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png 1400w"
+                    },
+                    "podcast:season": "4",
                     "pubDate": "Wed, 14 Dec 2022 23:00:00 -0600",
                     "title": "The life-changing moments that make an icon"
                 },
@@ -371,13 +430,12 @@
                     "enclosure": {
                         "@length": "31387797",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20221207190127-MakingIda-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20221207190127-MakingIda-FINAL"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20221207190127-MakingIda-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=d7eec060-7693-11ed-88e8-25a525a55ffa"
                     },
                     "guid": {
                         "#text": "d7eec060-7693-11ed-88e8-25a525a55ffa",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:32:42",
                     "itunes:episode": "9",
                     "itunes:episodeType": "full",
@@ -386,6 +444,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png"
                     },
                     "itunes:season": "4",
+                    "podcast:episode": "9",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png 1400w"
+                    },
+                    "podcast:season": "4",
                     "pubDate": "Wed, 07 Dec 2022 23:00:00 -0600",
                     "title": "Making Ida B. Wells"
                 },
@@ -394,13 +457,12 @@
                     "enclosure": {
                         "@length": "33677795",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20221130184100-MakingOwens-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20221130184100-MakingOwens-FINAL"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20221130184100-MakingOwens-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=d3c58460-7110-11ed-9d75-87e0e7401bb1"
                     },
                     "guid": {
                         "#text": "d3c58460-7110-11ed-9d75-87e0e7401bb1",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:35:05",
                     "itunes:episode": "8",
                     "itunes:episodeType": "full",
@@ -409,6 +471,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png"
                     },
                     "itunes:season": "4",
+                    "podcast:episode": "8",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png 1400w"
+                    },
+                    "podcast:season": "4",
                     "pubDate": "Wed, 30 Nov 2022 23:00:00 -0600",
                     "title": "Making Jesse Owens"
                 },
@@ -417,13 +484,12 @@
                     "enclosure": {
                         "@length": "41485691",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20221123101029-MakingDouglass-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20221123101029-MakingDouglass-FINAL"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20221123101029-MakingDouglass-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=59269160-6b49-11ed-a86e-fbbfb6f5aa31"
                     },
                     "guid": {
                         "#text": "59269160-6b49-11ed-a86e-fbbfb6f5aa31",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:43:13",
                     "itunes:episode": "7",
                     "itunes:episodeType": "full",
@@ -432,6 +498,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png"
                     },
                     "itunes:season": "4",
+                    "podcast:episode": "7",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png 1400w"
+                    },
+                    "podcast:season": "4",
                     "pubDate": "Wed, 23 Nov 2022 23:00:00 -0600",
                     "title": "Making Frederick Douglass"
                 },
@@ -440,13 +511,12 @@
                     "enclosure": {
                         "@length": "41850151",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20221116184550-MakingRuPaul-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20221116184550-MakingRuPaul-FINAL"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20221116184550-MakingRuPaul-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=2edded30-6611-11ed-a362-9571eaea9b70"
                     },
                     "guid": {
                         "#text": "2edded30-6611-11ed-a362-9571eaea9b70",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:43:36",
                     "itunes:episode": "6",
                     "itunes:episodeType": "full",
@@ -455,6 +525,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png"
                     },
                     "itunes:season": "4",
+                    "podcast:episode": "6",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png 1400w"
+                    },
+                    "podcast:season": "4",
                     "pubDate": "Wed, 16 Nov 2022 23:00:00 -0600",
                     "title": "Making RuPaul"
                 },
@@ -463,13 +538,12 @@
                     "enclosure": {
                         "@length": "41282145",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20221109180120-MakingMaya-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20221109180120-MakingMaya-FINAL"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20221109180120-MakingMaya-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=ceaa13e0-608a-11ed-9fd6-8f6af38f0375"
                     },
                     "guid": {
                         "#text": "ceaa13e0-608a-11ed-9fd6-8f6af38f0375",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:43:00",
                     "itunes:episode": "5",
                     "itunes:episodeType": "full",
@@ -478,6 +552,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png"
                     },
                     "itunes:season": "4",
+                    "podcast:episode": "5",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png 1400w"
+                    },
+                    "podcast:season": "4",
                     "pubDate": "Wed, 09 Nov 2022 23:00:00 -0600",
                     "title": "Making Maya Angelou"
                 },
@@ -486,13 +565,12 @@
                     "enclosure": {
                         "@length": "45748039",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20221102165119-MakingKobe-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20221102165119-MakingKobe-FINAL"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20221102165119-MakingKobe-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=7bb339c0-5af8-11ed-b7dc-1dec7b6deacc"
                     },
                     "guid": {
                         "#text": "7bb339c0-5af8-11ed-b7dc-1dec7b6deacc",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:47:39",
                     "itunes:episode": "4",
                     "itunes:episodeType": "full",
@@ -501,6 +579,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png"
                     },
                     "itunes:season": "4",
+                    "podcast:episode": "4",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png 1400w"
+                    },
+                    "podcast:season": "4",
                     "pubDate": "Wed, 02 Nov 2022 23:00:00 -0500",
                     "title": "Making Kobe"
                 },
@@ -509,13 +592,12 @@
                     "enclosure": {
                         "@length": "39686794",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20221026172529-MakingJesse-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20221026172529-MakingJesse-FINAL"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20221026172529-MakingJesse-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=190933a0-557d-11ed-a90c-39c3c90053b3"
                     },
                     "guid": {
                         "#text": "190933a0-557d-11ed-a90c-39c3c90053b3",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:41:20",
                     "itunes:episode": "3",
                     "itunes:episodeType": "full",
@@ -524,6 +606,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png"
                     },
                     "itunes:season": "4",
+                    "podcast:episode": "3",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png 1400w"
+                    },
+                    "podcast:season": "4",
                     "pubDate": "Wed, 26 Oct 2022 23:00:00 -0500",
                     "title": "Making Jesse Jackson"
                 },
@@ -532,13 +619,12 @@
                     "enclosure": {
                         "@length": "40235157",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20221019181058-MakingRihanna-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20221019181058-MakingRihanna-FINAL"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20221019181058-MakingRihanna-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=4a9958c0-5003-11ed-93be-c1f1c8a0ce99"
                     },
                     "guid": {
                         "#text": "4a9958c0-5003-11ed-93be-c1f1c8a0ce99",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:41:55",
                     "itunes:episode": "2",
                     "itunes:episodeType": "full",
@@ -547,6 +633,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png"
                     },
                     "itunes:season": "4",
+                    "podcast:episode": "2",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png 1400w"
+                    },
+                    "podcast:season": "4",
                     "pubDate": "Wed, 19 Oct 2022 23:00:00 -0500",
                     "title": "Making Rihanna"
                 },
@@ -555,13 +646,12 @@
                     "enclosure": {
                         "@length": "37300248",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20221012221543-MakingSerena-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20221012221543-MakingSerena-FINAL"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20221012221543-MakingSerena-FINAL.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=525dbd50-4aa5-11ed-b3f3-999f9518322f"
                     },
                     "guid": {
                         "#text": "525dbd50-4aa5-11ed-b3f3-999f9518322f",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:38:51",
                     "itunes:episode": "1",
                     "itunes:episodeType": "full",
@@ -570,6 +660,11 @@
                         "@href": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png"
                     },
                     "itunes:season": "4",
+                    "podcast:episode": "1",
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png 1400w"
+                    },
+                    "podcast:season": "4",
                     "pubDate": "Thu, 13 Oct 2022 02:00:00 -0500",
                     "title": "Making Serena"
                 },
@@ -578,18 +673,20 @@
                     "enclosure": {
                         "@length": "1683856",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20221006171453-MakingTrailer-Season4Final.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20221006171453-MakingTrailer-Season4Final"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20221006171453-MakingTrailer-Season4Final.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=4db46750-45c4-11ed-87a9-a9c828af6953"
                     },
                     "guid": {
                         "#text": "4db46750-45c4-11ed-87a9-a9c828af6953",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:01:45",
                     "itunes:episodeType": "trailer",
                     "itunes:explicit": "no",
                     "itunes:image": {
                         "@href": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png"
+                    },
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/wbez/20221008140857-making-2022-1400.png 1400w"
                     },
                     "pubDate": "Thu, 06 Oct 2022 17:09:00 -0500",
                     "title": "Trailer: WBEZ\u2019s Making podcast is back"
@@ -599,18 +696,20 @@
                     "enclosure": {
                         "@length": "47625511",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210514140302-AoP-Obama-Final-Making.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210514140302-AoP-Obama-Final-Making"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20210514140302-AoP-Obama-Final-Making.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=01821a70-b4e7-11eb-8cbe-9d069601fcf8"
                     },
                     "guid": {
                         "#text": "01821a70-b4e7-11eb-8cbe-9d069601fcf8",
                         "@isPermaLink": "false"
                     },
-                    "itunes:block": "no",
                     "itunes:duration": "00:49:37",
                     "itunes:episodeType": "full",
                     "itunes:explicit": "no",
                     "itunes:image": {
                         "@href": "https://podcast-stream.wbez.org/recast/making/20210125092844-20200708101933-MAKINGLOGO1400x1400-BodoniMT.jpg"
+                    },
+                    "podcast:images": {
+                        "@srcset": "https://podcast-stream.wbez.org/recast/making/20210125092844-20200708101933-MAKINGLOGO1400x1400-BodoniMT.jpg 1400w"
                     },
                     "pubDate": "Fri, 14 May 2021 14:20:00 -0500",
                     "title": "Obama BONUS: Redefining Masculinity"
@@ -620,7 +719,7 @@
                     "enclosure": {
                         "@length": "23467035",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092851-beyonc-bonus-fearlessly-herself_jill-hopkins.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092851-beyonc-bonus-fearlessly-herself_jill-hopkins"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20210125092851-beyonc-bonus-fearlessly-herself_jill-hopkins.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=1a19a761-83c9-4a6c-a72b-6c36cae56786"
                     },
                     "guid": {
                         "#text": "1a19a761-83c9-4a6c-a72b-6c36cae56786",
@@ -634,6 +733,8 @@
                     "itunes:season": "3",
                     "itunes:subtitle": " In the lead up to Beyonc\u00e9's solo album debut, Dangerously in Love, a lot was at stake. She was hoping to break out not only as a solo artist, but as a star on multiple levels \u2014 music, endorsements and film. Along the way she\u2019d find love, but she\u2019d also h",
                     "itunes:summary": " In the lead up to Beyonc\u00e9's solo album debut, Dangerously in Love, a lot was at stake. She was hoping to break out not only as a solo artist, but as a star on multiple levels \u2014 music, endorsements and film. Along the way she\u2019d find love, but she\u2019d also have to battle doubt, even within the record label. ",
+                    "podcast:episode": "4",
+                    "podcast:season": "3",
                     "pubDate": "Fri, 06 Mar 2020 00:01:00 -0600",
                     "title": "Beyonc\u00e9 BONUS: Fearlessly Herself"
                 },
@@ -642,7 +743,7 @@
                     "enclosure": {
                         "@length": "24256020",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092851-beyonc-3-destiny-begins_jill-hopkins.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092851-beyonc-3-destiny-begins_jill-hopkins"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20210125092851-beyonc-3-destiny-begins_jill-hopkins.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=e19e35bf-dfe0-46dd-91c9-aa4b552f1afc"
                     },
                     "guid": {
                         "#text": "e19e35bf-dfe0-46dd-91c9-aa4b552f1afc",
@@ -656,6 +757,8 @@
                     "itunes:season": "3",
                     "itunes:subtitle": " After Girls Tyme dissolves, Beyonc\u00e9 and the other girls begin building their new group, Destiny\u2019s Child. Finally, things start to click. ",
                     "itunes:summary": " After Girls Tyme dissolves, Beyonc\u00e9 and the other girls begin building their new group, Destiny\u2019s Child. Finally, things start to click. ",
+                    "podcast:episode": "3",
+                    "podcast:season": "3",
                     "pubDate": "Wed, 27 Nov 2019 12:01:00 -0600",
                     "title": "Beyonc\u00e9 3: Destiny Begins"
                 },
@@ -664,7 +767,7 @@
                     "enclosure": {
                         "@length": "26761599",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092854-beyonc-2-star-search_jill-hopkins.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092854-beyonc-2-star-search_jill-hopkins"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20210125092854-beyonc-2-star-search_jill-hopkins.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=f5726004-c463-4d08-8384-4123efdb8b0d"
                     },
                     "guid": {
                         "#text": "f5726004-c463-4d08-8384-4123efdb8b0d",
@@ -678,6 +781,8 @@
                     "itunes:season": "3",
                     "itunes:subtitle": " After failing to secure a record deal, Beyonc\u00e9 and the members of Girls Tyme try another avenue to success: a TV talent competition. The girls are poised and ready for the national spotlight, but tensions in the group are rising behind the scenes. ",
                     "itunes:summary": " After failing to secure a record deal, Beyonc\u00e9 and the members of Girls Tyme try another avenue to success: a TV talent competition. The girls are poised and ready for the national spotlight, but tensions in the group are rising behind the scenes. ",
+                    "podcast:episode": "2",
+                    "podcast:season": "3",
                     "pubDate": "Fri, 22 Nov 2019 00:01:00 -0600",
                     "title": "Beyonc\u00e9 2: Star Search"
                 },
@@ -686,7 +791,7 @@
                     "enclosure": {
                         "@length": "33914971",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092855-beyonce-1-girls-tyme_jill-hopkins.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092855-beyonce-1-girls-tyme_jill-hopkins"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20210125092855-beyonce-1-girls-tyme_jill-hopkins.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=6b84a311-6265-4493-a72d-c250e284b116"
                     },
                     "guid": {
                         "#text": "6b84a311-6265-4493-a72d-c250e284b116",
@@ -700,6 +805,8 @@
                     "itunes:season": "3",
                     "itunes:subtitle": " Before the Grammys, before the platinum records, before Destiny\u2019s Child, there was just a shy girl growing up in Houston. We follow Beyonc\u00e9 Knowles from the stages of local talent shows to her first crack at a record deal with the group Girls Tyme. ",
                     "itunes:summary": " Before the Grammys, before the platinum records, before Destiny\u2019s Child, there was just a shy girl growing up in Houston. We follow Beyonc\u00e9 Knowles from the stages of local talent shows to her first crack at a record deal with the group Girls Tyme. ",
+                    "podcast:episode": "1",
+                    "podcast:season": "3",
                     "pubDate": "Fri, 15 Nov 2019 00:01:00 -0600",
                     "title": "Beyonc\u00e9 1: Girls Tyme"
                 },
@@ -708,7 +815,7 @@
                     "enclosure": {
                         "@length": "1081235",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092856-beyonc-preview-of-making-beyonc.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092856-beyonc-preview-of-making-beyonc"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20210125092856-beyonc-preview-of-making-beyonc.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=33c5b038-72a7-460d-9f8c-4ea961e16c4e"
                     },
                     "guid": {
                         "#text": "33c5b038-72a7-460d-9f8c-4ea961e16c4e",
@@ -721,6 +828,7 @@
                     "itunes:season": "3",
                     "itunes:subtitle": " From the makers of&nbsp;Making Obama, WBEZ Chicago presents&nbsp;Making Beyonc\u00e9, a new three-part bio-podcast series that explores Beyonc\u00e9 Knowles\u2019 rise from local talent shows to global musical icon.&nbsp; Find episodes of&nbsp;Making Beyonc\u00e9 right here",
                     "itunes:summary": " From the makers of&nbsp;Making Obama, WBEZ Chicago presents&nbsp;Making Beyonc\u00e9, a new three-part bio-podcast series that explores Beyonc\u00e9 Knowles\u2019 rise from local talent shows to global musical icon.&nbsp; Find episodes of&nbsp;Making Beyonc\u00e9 right here beginning Friday, Nov. 15, 2019. ",
+                    "podcast:season": "3",
                     "pubDate": "Fri, 01 Nov 2019 01:00:00 -0500",
                     "title": "Trailer: Making Beyonc\u00e9"
                 },
@@ -729,7 +837,7 @@
                     "enclosure": {
                         "@length": "15621855",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092858-obama-bonus-the-decision.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092858-obama-bonus-the-decision"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20210125092858-obama-bonus-the-decision.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=f15250d1-fccb-44e4-b14e-368525b08bfc"
                     },
                     "guid": {
                         "#text": "f15250d1-fccb-44e4-b14e-368525b08bfc",
@@ -742,6 +850,7 @@
                     "itunes:season": "2",
                     "itunes:subtitle": " Just two and a half years after his 2004 Democratic National Convention speech, Barack Obama announced he was running for president. ",
                     "itunes:summary": " Just two and a half years after his 2004 Democratic National Convention speech, Barack Obama announced he was running for president. ",
+                    "podcast:season": "2",
                     "pubDate": "Tue, 10 Apr 2018 00:01:00 -0500",
                     "title": "Obama BONUS: The Decision"
                 },
@@ -750,7 +859,7 @@
                     "enclosure": {
                         "@length": "42363152",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092907-obama-6-yes-we-can_jennifer-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092907-obama-6-yes-we-can_jennifer-white"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20210125092907-obama-6-yes-we-can_jennifer-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=aed63eb2-c221-416a-96cd-497d956e65a1"
                     },
                     "guid": {
                         "#text": "aed63eb2-c221-416a-96cd-497d956e65a1",
@@ -764,6 +873,8 @@
                     "itunes:season": "2",
                     "itunes:subtitle": " Barack Obama burst onto the national stage during his U.S. Senate run. Hear how ambition and luck propelled him to Washington. wbez.org/making ",
                     "itunes:summary": " Barack Obama burst onto the national stage during his U.S. Senate run. Hear how ambition and luck propelled him to Washington. wbez.org/making ",
+                    "podcast:episode": "6",
+                    "podcast:season": "2",
                     "pubDate": "Thu, 15 Mar 2018 00:01:00 -0500",
                     "title": "Obama 6: Yes We Can!"
                 },
@@ -772,7 +883,7 @@
                     "enclosure": {
                         "@length": "40072004",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092907-obama-5-up-or-out_jennifer-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092907-obama-5-up-or-out_jennifer-white"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20210125092907-obama-5-up-or-out_jennifer-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=f2378d3c-de46-4165-87f6-2a91a5ebecac"
                     },
                     "guid": {
                         "#text": "f2378d3c-de46-4165-87f6-2a91a5ebecac",
@@ -786,6 +897,8 @@
                     "itunes:season": "2",
                     "itunes:subtitle": " Former president Barack Obama has only lost one election in his life. It was in 2000, and that defeat set him on the course for his eventual U.S. Senate run. Making Obama is a production of listener-supported WBEZ Chicago. Support WBEZ and the future of ",
                     "itunes:summary": " Former president Barack Obama has only lost one election in his life. It was in 2000, and that defeat set him on the course for his eventual U.S. Senate run. Making Obama is a production of listener-supported WBEZ Chicago. Support WBEZ and the future of podcasts like this at https://wbez.org/making ",
+                    "podcast:episode": "5",
+                    "podcast:season": "2",
                     "pubDate": "Thu, 08 Mar 2018 00:01:00 -0600",
                     "title": "Obama 5: Up Or Out"
                 },
@@ -794,7 +907,7 @@
                     "enclosure": {
                         "@length": "40496128",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092911-obama-4-wait-your-turn_jennifer-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092911-obama-4-wait-your-turn_jennifer-white"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20210125092911-obama-4-wait-your-turn_jennifer-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=34d62aec-cd06-49bc-86a6-4cdf33766055"
                     },
                     "guid": {
                         "#text": "34d62aec-cd06-49bc-86a6-4cdf33766055",
@@ -808,6 +921,8 @@
                     "itunes:season": "2",
                     "itunes:subtitle": " In 2000, Barack Obama ran for Congress against a Chicago political legend. It became a contest about race and identity.",
                     "itunes:summary": " In 2000, Barack Obama ran for Congress against a Chicago political legend. It became a contest about race and identity.",
+                    "podcast:episode": "4",
+                    "podcast:season": "2",
                     "pubDate": "Thu, 01 Mar 2018 00:01:00 -0600",
                     "title": "Obama 4: Wait Your Turn"
                 },
@@ -816,7 +931,7 @@
                     "enclosure": {
                         "@length": "40870411",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092911-obama-3-you-dont-say-no-to-barack_jennifer-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092911-obama-3-you-dont-say-no-to-barack_jennifer-white"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20210125092911-obama-3-you-dont-say-no-to-barack_jennifer-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=aeb3beab-f895-4843-80ef-d4ed89e325d2"
                     },
                     "guid": {
                         "#text": "aeb3beab-f895-4843-80ef-d4ed89e325d2",
@@ -830,6 +945,8 @@
                     "itunes:season": "2",
                     "itunes:subtitle": " Former President Barack Obama won his first political seat in 1996. Hear what he had to learn, and the conflicts he faced, to get there.&nbsp; wbez.org/making ",
                     "itunes:summary": " Former President Barack Obama won his first political seat in 1996. Hear what he had to learn, and the conflicts he faced, to get there.&nbsp; wbez.org/making ",
+                    "podcast:episode": "3",
+                    "podcast:season": "2",
                     "pubDate": "Wed, 21 Feb 2018 18:30:00 -0600",
                     "title": "Obama 3: You Don\u2019t Say No To Barack"
                 },
@@ -838,7 +955,7 @@
                     "enclosure": {
                         "@length": "30551883",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092915-obama-2-chicago-politics-aint-beanbag_jennifer-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092915-obama-2-chicago-politics-aint-beanbag_jennifer-white"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20210125092915-obama-2-chicago-politics-aint-beanbag_jennifer-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=92ffe0ce-cdfc-4650-baf7-3138b44d780a"
                     },
                     "guid": {
                         "#text": "92ffe0ce-cdfc-4650-baf7-3138b44d780a",
@@ -852,6 +969,8 @@
                     "itunes:season": "2",
                     "itunes:subtitle": " When Barack Obama first came to Chicago, a political transformation was happening in the city. Hear how that change inspired him. ",
                     "itunes:summary": " When Barack Obama first came to Chicago, a political transformation was happening in the city. Hear how that change inspired him. ",
+                    "podcast:episode": "2",
+                    "podcast:season": "2",
                     "pubDate": "Thu, 15 Feb 2018 00:01:00 -0600",
                     "title": "Obama 2: Chicago Politics Ain\u2019t Beanbag"
                 },
@@ -860,7 +979,7 @@
                     "enclosure": {
                         "@length": "32833002",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092915-obama-1-the-man-in-the-background_colin-mcnulty.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092915-obama-1-the-man-in-the-background_colin-mcnulty"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20210125092915-obama-1-the-man-in-the-background_colin-mcnulty.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=52566713-83d4-4875-8bb1-eba55937228e"
                     },
                     "guid": {
                         "#text": "52566713-83d4-4875-8bb1-eba55937228e",
@@ -874,6 +993,8 @@
                     "itunes:season": "2",
                     "itunes:subtitle": " Before he was the 44th President, Barack Obama worked as a community organizer on the South Side of Chicago. Hear how the city shaped his political ambitions.",
                     "itunes:summary": " Before he was the 44th President, Barack Obama worked as a community organizer on the South Side of Chicago. Hear how the city shaped his political ambitions.",
+                    "podcast:episode": "1",
+                    "podcast:season": "2",
                     "pubDate": "Thu, 08 Feb 2018 00:01:00 -0600",
                     "title": "Obama 1: The Man In The Background"
                 },
@@ -882,7 +1003,7 @@
                     "enclosure": {
                         "@length": "2733598",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092918-preview-making-obama_jennifer-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092918-preview-making-obama_jennifer-white"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20210125092918-preview-making-obama_jennifer-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=dcec62b6-bd93-4329-8b49-66888e941e3a"
                     },
                     "guid": {
                         "#text": "dcec62b6-bd93-4329-8b49-66888e941e3a",
@@ -895,6 +1016,7 @@
                     "itunes:season": "2",
                     "itunes:subtitle": " Former President Barack Obama \u2014 along with friends, mentors, and rivals \u2014 tells the story of his climb from Chicago to the national stage. Subscribe now and don\u2019t miss the first episode on February 8. ",
                     "itunes:summary": " Former President Barack Obama \u2014 along with friends, mentors, and rivals \u2014 tells the story of his climb from Chicago to the national stage. Subscribe now and don\u2019t miss the first episode on February 8. ",
+                    "podcast:season": "2",
                     "pubDate": "Fri, 19 Jan 2018 08:00:00 -0600",
                     "title": "Obama: Preview of Making Obama"
                 },
@@ -903,7 +1025,7 @@
                     "enclosure": {
                         "@length": "28800531",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092920-bonus-making-donahue_jenn-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092920-bonus-making-donahue_jenn-white"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20210125092920-bonus-making-donahue_jenn-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=1c05b864-7d0f-48f4-9b7e-e0f42c418277"
                     },
                     "guid": {
                         "#text": "1c05b864-7d0f-48f4-9b7e-e0f42c418277",
@@ -916,6 +1038,7 @@
                     "itunes:season": "1",
                     "itunes:subtitle": " In our final bonus installment, the Making Oprah production team revisits an extended interview with daytime talk show legend Phil Donahue. His pioneering show, Donahue, aired from 1967 to 1996 and laid the groundwork for Oprah\u2019s program. It tackled head",
                     "itunes:summary": " In our final bonus installment, the Making Oprah production team revisits an extended interview with daytime talk show legend Phil Donahue. His pioneering show, Donahue, aired from 1967 to 1996 and laid the groundwork for Oprah\u2019s program. It tackled heady, controversial issues - and landed frothy exclusives with A-list celebrities. Donahue also used his studio audience and callers in ways that were both innovative and intimate.&nbsp; Join host Jenn White, producer Colin McNulty, and executive producer Joel Meyer as they listen back to one of their favorite non-Oprah interview from the dozens of interviews conducted for Making Oprah.&nbsp;",
+                    "podcast:season": "1",
                     "pubDate": "Fri, 30 Dec 2016 11:39:24 -0600",
                     "title": "Oprah BONUS: Making Donahue"
                 },
@@ -924,7 +1047,7 @@
                     "enclosure": {
                         "@length": "15575232",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092920-bonus-oprah-gets-political_jenn-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092920-bonus-oprah-gets-political_jenn-white"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20210125092920-bonus-oprah-gets-political_jenn-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=6dcc266a-e109-4981-8469-99032156ce5a"
                     },
                     "guid": {
                         "#text": "6dcc266a-e109-4981-8469-99032156ce5a",
@@ -937,6 +1060,7 @@
                     "itunes:season": "1",
                     "itunes:subtitle": " For more than 10 years after the launch of the Oprah Winfrey Show, Oprah deliberately avoided having politicians on her show, particularly during election seasons. In this bonus episode of Making Oprah, host Jenn White talks to Oprah about the role polit",
                     "itunes:summary": " For more than 10 years after the launch of the Oprah Winfrey Show, Oprah deliberately avoided having politicians on her show, particularly during election seasons. In this bonus episode of Making Oprah, host Jenn White talks to Oprah about the role politics played - and didn\u2019t play - in the history of the Oprah Winfrey show. ",
+                    "podcast:season": "1",
                     "pubDate": "Fri, 23 Dec 2016 09:17:21 -0600",
                     "title": "Oprah BONUS: Oprah Gets Political"
                 },
@@ -945,7 +1069,7 @@
                     "enclosure": {
                         "@length": "9849353",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092922-lets-talk-about-oprahs-hair_jenn-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092922-lets-talk-about-oprahs-hair_jenn-white"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20210125092922-lets-talk-about-oprahs-hair_jenn-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=49f580a3-54c5-4685-b7f5-640f928b4aa1"
                     },
                     "guid": {
                         "#text": "49f580a3-54c5-4685-b7f5-640f928b4aa1",
@@ -958,6 +1082,7 @@
                     "itunes:season": "1",
                     "itunes:subtitle": " If you look at any image from the Oprah Winfrey Show, you can pretty much figure out what decade it\u2019s from by looking at Oprah\u2019s hairstyle.&nbsp; In this short bonus episode, host Jenn White talks to Oprah\u2019s longtime stylist Andre Walker about the high s",
                     "itunes:summary": " If you look at any image from the Oprah Winfrey Show, you can pretty much figure out what decade it\u2019s from by looking at Oprah\u2019s hairstyle.&nbsp; In this short bonus episode, host Jenn White talks to Oprah\u2019s longtime stylist Andre Walker about the high stakes of doing the hair of the most watched woman on television.",
+                    "podcast:season": "1",
                     "pubDate": "Thu, 15 Dec 2016 22:44:00 -0600",
                     "title": "Oprah BONUS: Let's Talk About Oprah's Hair"
                 },
@@ -966,14 +1091,13 @@
                     "enclosure": {
                         "@length": "44889914",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092926-ep-3-you-get-a-car_wbez.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092926-ep-3-you-get-a-car_wbez"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20210125092926-ep-3-you-get-a-car_wbez.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=a10ded30-5eac-49c9-bfaf-4db65df8e71a"
                     },
                     "guid": {
                         "#text": "a10ded30-5eac-49c9-bfaf-4db65df8e71a",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "WBEZ Chicago",
-                    "itunes:block": "no",
                     "itunes:duration": "01:02:21",
                     "itunes:episode": "3",
                     "itunes:episodeType": "full",
@@ -981,6 +1105,8 @@
                     "itunes:season": "1",
                     "itunes:subtitle": "In the show\u2019s final decade, Oprah and her team staged massive spectacles of increasing grandiosity, from the infamous car giveaway to a 21,000-person flash mob that shut down part of Chicago.&nbsp; \u201cIt had become increasingly more difficult to top what y",
                     "itunes:summary": "In the show\u2019s final decade, Oprah and her team staged massive spectacles of increasing grandiosity, from the infamous car giveaway to a 21,000-person flash mob that shut down part of Chicago.&nbsp; \u201cIt had become increasingly more difficult to top what you\u2019d done the year before,\u201d Oprah told WBEZ\u2019s Jenn White. \u201cI mean, to the point where we literally sat in a room saying \u2018What about outer space?\u2019 \u201d&nbsp; That\u2019s what we look at now: Oprah living her life at the top, pushing the boundaries of what could be done with the world\u2019s most powerful talk show, and why it all had to end after 25 years.",
+                    "podcast:episode": "3",
+                    "podcast:season": "1",
                     "pubDate": "Tue, 22 Nov 2016 00:05:00 -0600",
                     "title": "Oprah 3: YOU GET A CAR!"
                 },
@@ -989,7 +1115,7 @@
                     "enclosure": {
                         "@length": "43560490",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092926-ep-2-skinheads-and-scented-candles_wbez.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092926-ep-2-skinheads-and-scented-candles_wbez"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20210125092926-ep-2-skinheads-and-scented-candles_wbez.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=56cc04d7-c516-4c3b-b72e-3f1dc797f140"
                     },
                     "guid": {
                         "#text": "56cc04d7-c516-4c3b-b72e-3f1dc797f140",
@@ -1003,6 +1129,8 @@
                     "itunes:season": "1",
                     "itunes:subtitle": " In the second episode of Making Oprah, we explore how The Oprah Winfrey Show elevated itself out of the heap of trash TV and into a show that intentionally embraced spirituality and positivity.&nbsp; The early years of Oprah\u2019s show often relied on sensat",
                     "itunes:summary": " In the second episode of Making Oprah, we explore how The Oprah Winfrey Show elevated itself out of the heap of trash TV and into a show that intentionally embraced spirituality and positivity.&nbsp; The early years of Oprah\u2019s show often relied on sensational, tabloidy topics \u2013 cheating husbands, sexy clothes, and murderers. It was not yet the \u2018Live Your Best Life\u2019 Oprah we would come to know and love.&nbsp; &nbsp;\u201cIt was during those shows where I just thought, \u2018What are we doing?\u2019 \u201d Oprah tells WBEZ\u2019s Jenn White. \u201cThis is a platform that is speaking to people, and what are we saying?\u201d&nbsp; &nbsp;As the Oprah Winfrey Show reached maturity -- or at least, its college years -- the program conducted the on-air experiments that would allow this talk show to become something more than a talk show",
+                    "podcast:episode": "2",
+                    "podcast:season": "1",
                     "pubDate": "Thu, 17 Nov 2016 05:04:00 -0600",
                     "title": "Oprah 2: Skinheads And Scented Candles"
                 },
@@ -1011,7 +1139,7 @@
                     "enclosure": {
                         "@length": "41436422",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092930-ep-1-no-strategy-no-plan-no-formula_wbez.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092930-ep-1-no-strategy-no-plan-no-formula_wbez"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20210125092930-ep-1-no-strategy-no-plan-no-formula_wbez.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=4ae62e92-647c-42df-88f2-4c3cdb89e284"
                     },
                     "guid": {
                         "#text": "4ae62e92-647c-42df-88f2-4c3cdb89e284",
@@ -1025,6 +1153,8 @@
                     "itunes:season": "1",
                     "itunes:subtitle": " It was 30 years ago this fall that Oprah Winfrey first said \u201chellooooo\u201d to a national audience. By the show\u2019s finale in 2011, it was aired in 145 countries and watched by more than 40 million viewers a week in the U.S. alone. Today\u2019s daytime hosts like E",
                     "itunes:summary": " It was 30 years ago this fall that Oprah Winfrey first said \u201chellooooo\u201d to a national audience. By the show\u2019s finale in 2011, it was aired in 145 countries and watched by more than 40 million viewers a week in the U.S. alone. Today\u2019s daytime hosts like Ellen and Dr. Oz? They now average only about a tenth of that. If Oprah mentioned a book title, it became a best-seller. She landed the interviews that no one else could get. Her message of spirituality and empowerment influenced millions. With an hourlong daytime TV show, Oprah built a powerful brand. She made billions. And, as CNN, USA Today, Forbes and Time Magazine all proclaimed, she became the most powerful woman in America. In the first of a three-part podcast series, Oprah and former producers talk with WBEZ's Jenn White about the early, scrappy days of the program.&nbsp;Phil Donahue reflects on Oprah's entry into the daytime talk landscape that he once dominated.&nbsp;Plus, the podcast revisits milestones from the 1980s, like the show's national debut, and some mixed feelings over the show's highest-rated episode ever.",
+                    "podcast:episode": "1",
+                    "podcast:season": "1",
                     "pubDate": "Thu, 10 Nov 2016 10:53:00 -0600",
                     "title": "Oprah 1: No Strategy, No Plan, No Formula"
                 },
@@ -1033,7 +1163,7 @@
                     "enclosure": {
                         "@length": "3388122",
                         "@type": "audio/mpeg",
-                        "@url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092929-preview-wbezs-new-podcast-about-the-oprah-winfrey-show_wbez.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092929-preview-wbezs-new-podcast-about-the-oprah-winfrey-show_wbez"
+                        "@url": "https://podcast-stream.wbez.org/recast/making/20210125092929-preview-wbezs-new-podcast-about-the-oprah-winfrey-show_wbez.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=72032d42-c814-41a2-a1f3-df0d2471c996"
                     },
                     "guid": {
                         "#text": "72032d42-c814-41a2-a1f3-df0d2471c996",
@@ -1046,30 +1176,30 @@
                     "itunes:season": "1",
                     "itunes:subtitle": " Making Oprah: The Inside Story of a TV Revolution is a public radio podcast -- about a daytime talk show. This fall marks 30 years since the national debut of The Oprah Winfrey Show. Be the first to hear a sneak peek of WBEZ\u2019s three-part series featuring",
                     "itunes:summary": " Making Oprah: The Inside Story of a TV Revolution is a public radio podcast -- about a daytime talk show. This fall marks 30 years since the national debut of The Oprah Winfrey Show. Be the first to hear a sneak peek of WBEZ\u2019s three-part series featuring interviews with Winfrey, her onetime ratings rival Phil Donahue, former producers and staffers, and TV executives. ",
+                    "podcast:season": "1",
                     "pubDate": "Thu, 03 Nov 2016 13:04:21 -0500",
                     "title": "Oprah: Preview of Making Oprah"
                 }
             ],
             "itunes:author": "WBEZ Chicago",
-            "itunes:block": "no",
             "itunes:category": {
                 "@text": "Society & Culture"
             },
-            "itunes:explicit": "no",
+            "itunes:explicit": "false",
             "itunes:image": {
-                "@href": "https://podcast-stream.wbez.org/recast/wbez/20230707163000-Podcast-Making-Tile-3000x3000-NPR.jpg"
+                "@href": "https://podcast-stream.wbez.org/recast/making/20250224114545-WBEZ-FY2025-Podcast-StoriesWithoutEnd-Tile-3000x3000.jpg"
             },
             "itunes:new-feed-url": "https://wbez-rss.streamguys1.com/making/making.xml",
             "itunes:owner": {
                 "itunes:email": "podcasts@wbez.org",
                 "itunes:name": "WBEZ Chicago"
             },
-            "itunes:subtitle": "WBEZ's critically-acclaimed bio-podcast series explores how an icon is made. Providing an unmatched view from the beginning, all the way to the their rise to the top.",
-            "itunes:summary": "WBEZ's critically-acclaimed bio-podcast series explores how an icon is made. Providing an unmatched view from the beginning, all the way to the their rise to the top.",
+            "itunes:subtitle": "Making: Stories Without End takes you on a journey to learn about daytime soap operas and their broad reach on television.",
+            "itunes:summary": "Making: Stories Without End takes you on a journey to learn about daytime soap operas and their broad reach on television. From the early radio days in the 1930s through the invention of TV to streaming, this way of telling immersive stories has endured. There are intergenerational family stories, discussions about divorce and abortion, groundbreaking storylines dealing with queer representation. And all these threads go back to one Chicago woman, Irna Phillips. The queen of soaps originated, wrote or supervised more than a dozen daytime serials for more than 40 years\u2026 and left a lasting mark on the television industry. You\u2019ll hear the story behind the stories from scholars, actors, writers \u2013 from the past and now \u2013 as well as fans.",
             "itunes:type": "serial",
             "language": "en-us",
             "link": "https://www.wbez.org/shows/making/71b8de57-b2be-4e03-8481-683258de3ec1",
-            "title": "Making"
+            "title": "Making: Stories Without End"
         }
     }
 }

@@ -39,6 +39,31 @@
             },
             "item": [
                 {
+                    "author": "podcasts@thegospelcoalition.org (Sarah Kuswadi, Gail\u00a0Curry, Carol de\u00a0Rossi, Shamsia Borhani Rafee, Sarah Zylstra)",
+                    "content:encoded": "<p>In this breakout session at TGCW24, Sarah Zylstra hosts a roundtable discussion with Sarah Kuswadi, Gail Curry, Carol de Rossi, and Shamsia Borhani Rafee, highlighting the spiritual landscapes of Australia, Ireland, Latin America, and Afghanistan. Each panelist shares the challenges present in her context while reflecting on ministry highlights and the encouraging ways she sees God at work in the world.</p><p>They discuss the following:</p><ul><li>Australia's spiritual context</li><li>Gospel movement in Australia</li><li>The spiritual context of Ireland</li><li>Encouragements in Ireland</li><li>Challenges and opportunities in Ireland</li><li>Latin America's spiritual context</li><li>The revival of the gospel in Latin America</li><li>Practical ministry strategies in Latin America</li><li>The spiritual context of Afghanistan</li><li>Ministry to Afghan refugees in the U.S.</li></ul>\n",
+                    "description": "<p>In this breakout session at TGCW24, Sarah Zylstra hosts a roundtable discussion with Sarah Kuswadi, Gail Curry, Carol de Rossi, and Shamsia Borhani Rafee, highlighting the spiritual landscapes of Australia, Ireland, Latin America, and Afghanistan. Each panelist shares the challenges present in her context while reflecting on ministry highlights and the encouraging ways she sees God at work in the world.</p><p>They discuss the following:</p><ul><li>Australia's spiritual context</li><li>Gospel movement in Australia</li><li>The spiritual context of Ireland</li><li>Encouragements in Ireland</li><li>Challenges and opportunities in Ireland</li><li>Latin America's spiritual context</li><li>The revival of the gospel in Latin America</li><li>Practical ministry strategies in Latin America</li><li>The spiritual context of Afghanistan</li><li>Ministry to Afghan refugees in the U.S.</li></ul>\n",
+                    "enclosure": {
+                        "@length": "46687431",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/afp-903264-injected.calisto.simplecastaudio.com/aa845619-c385-4d1f-a65d-9563ccf3144a/episodes/8818732c-efa5-498c-a5fd-18b703140eec/audio/128/default.mp3?aid=rss_feed&awCollectionId=aa845619-c385-4d1f-a65d-9563ccf3144a&awEpisodeId=8818732c-efa5-498c-a5fd-18b703140eec&feed=96_xs9dX"
+                    },
+                    "guid": {
+                        "#text": "86f77967-6441-4a82-9751-65eacf456ef1",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Sarah Kuswadi, Gail\u00a0Curry, Carol de\u00a0Rossi, Shamsia Borhani Rafee, Sarah Zylstra",
+                    "itunes:duration": "00:48:37",
+                    "itunes:episode": "356",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:subtitle": "In this breakout session at TGCW24, Sarah Zylstra hosts a roundtable discussion with women serving in various parts of the world.",
+                    "itunes:summary": "In this breakout session at TGCW24, Sarah Zylstra hosts a roundtable discussion with women serving in various parts of the world.",
+                    "itunes:title": "What in the World Is God Doing?",
+                    "link": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/",
+                    "pubDate": "Fri, 28 Feb 2025 05:00:00 +0000",
+                    "title": "What in the World Is God Doing?"
+                },
+                {
                     "author": "podcasts@thegospelcoalition.org (Jen Oshman)",
                     "content:encoded": "<p>In this breakout session from TGCW24, Jen Oshman explores the deep-rooted human desire for security, whether through material wealth, productivity, or influence. She unpacks Jesus\u2019s parable of the rich fool in Luke 12, emphasizing the dangers of self-centered accumulation and misplaced trust in earthly possessions. She encourages listeners to seek true security in God by living generously, trusting Christ, and prioritizing eternal riches over temporary gain.</p><p>She teaches the following:</p><ul><li>The pursuit of security and materialism</li><li>An introduction to Luke 12</li><li>The rich fool's self-centered decision</li><li>The Lord's rebuke and true foolishness</li><li>Living for eternity and practical applications</li></ul>\n",
                     "description": "<p>In this breakout session from TGCW24, Jen Oshman explores the deep-rooted human desire for security, whether through material wealth, productivity, or influence. She unpacks Jesus\u2019s parable of the rich fool in Luke 12, emphasizing the dangers of self-centered accumulation and misplaced trust in earthly possessions. She encourages listeners to seek true security in God by living generously, trusting Christ, and prioritizing eternal riches over temporary gain.</p><p>She teaches the following:</p><ul><li>The pursuit of security and materialism</li><li>An introduction to Luke 12</li><li>The rich fool's self-centered decision</li><li>The Lord's rebuke and true foolishness</li><li>Living for eternity and practical applications</li></ul>\n",
@@ -9314,9 +9339,9 @@
             "itunes:summary": "The Gospel Coalition Podcast features keynote and breakout sessions from our national, regional, and women's conferences. We exist to equip the next generation of believers, pastors, and church leaders to shape life and ministry around the gospel.",
             "itunes:type": "episodic",
             "language": "en",
-            "lastBuildDate": "Fri, 21 Feb 2025 05:00:12 +0000",
+            "lastBuildDate": "Fri, 28 Feb 2025 05:00:16 +0000",
             "link": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/",
-            "pubDate": "Fri, 21 Feb 2025 05:00:00 +0000",
+            "pubDate": "Fri, 28 Feb 2025 05:00:00 +0000",
             "title": "TGC Podcast"
         }
     }

@@ -34,6 +34,28 @@
             },
             "item": [
                 {
+                    "content:encoded": "<p>Peter Lynch taught us to buy what we know. Can successful investing be that simple? And if we know and love the companies we own, how should we go about selling them? How are we supposed to remember why we bought these stocks in the first place? All this and more in month's mailbag!</p> <p>Companies Mentioned: TTD, AXON, COST, AAPL</p> <p>Host: David Gardner Producer: Rick Engdahl</p>",
+                    "description": "<p>Peter Lynch taught us to buy what we know. Can successful investing be that simple? And if we know and love the companies we own, how should we go about selling them? How are we supposed to remember why we bought these stocks in the first place? All this and more in month's mailbag!</p> <p>Companies Mentioned: TTD, AXON, COST, AAPL</p> <p>Host: David Gardner<br /> Producer: Rick Engdahl</p>",
+                    "enclosure": {
+                        "@length": "43459894",
+                        "@type": "audio/mpeg",
+                        "@url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/rulebreakerinvesting/20250226_RBI.mp3?dest-id=287608"
+                    },
+                    "guid": {
+                        "#text": "4a125e46-dce4-41e3-b690-ba01c157de79",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "45:10",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:keywords": null,
+                    "itunes:subtitle": "Peter Lynch taught us to buy what we know. Can successful investing be that simple? And if we know and love the companies we own, how should we go about selling them? How are we supposed to remember why we bought these stocks in the first place? All...",
+                    "itunes:title": "February 2025 Mailbag: Simple Stocks",
+                    "link": "https://rulebreakerinvesting.libsyn.com/february-2025-mailbag-simple-stocks",
+                    "pubDate": "Wed, 26 Feb 2025 20:30:00 +0000",
+                    "title": "February 2025 Mailbag: Simple Stocks"
+                },
+                {
                     "content:encoded": "<p>Little things can make a big difference. From spotting hidden competitive advantages in investing to rediscovering the joy in work, this episode is packed with moments that brighten our days. David shares fresh \u201cpet perks\u201d across investing, business, and life\u2014including seeing through dark clouds, the thrill of entrepreneurship, and the simple magic of a car wash. Tune in to celebrate \u201cthe small joys that make everything better\u201d!</p> <p>Companies Mentioned: NFLX, TSLA, WMT</p> <p>Host: David Gardner Producer: Rick Engdahl</p>",
                     "description": "<p>Little things can make a big difference. From spotting hidden competitive advantages in investing to rediscovering the joy in work, this episode is packed with moments that brighten our days. David shares fresh \u201cpet perks\u201d across investing, business, and life\u2014including seeing through dark clouds, the thrill of entrepreneurship, and the simple magic of a car wash. Tune in to celebrate \u201cthe small joys that make everything better\u201d!</p> <p>Companies Mentioned: NFLX, TSLA, WMT</p> <p>Host: David Gardner<br /> Producer: Rick Engdahl</p>",
                     "enclosure": {
@@ -4908,7 +4930,7 @@
                     "itunes:duration": "48:56",
                     "itunes:episodeType": "full",
                     "itunes:explicit": "false",
-                    "itunes:keywords": "life,Investing,business",
+                    "itunes:keywords": "life,investing,Business",
                     "itunes:subtitle": "Some things can and should be forgotten over time. But the best things, the best songs, the best stories... they grow stronger in the retelling. That selfie with Jeff Bezos. Jerry Garcia shaking hands with Seth Godin. Business lessons from... Xena,...",
                     "link": "https://rulebreakerinvesting.libsyn.com/blast-from-the-past-vol-5",
                     "pubDate": "Wed, 10 Feb 2021 20:00:00 +0000",
@@ -7830,7 +7852,7 @@
                     "itunes:image": {
                         "@href": "https://static.libsyn.com/p/assets/b/1/4/d/b14d28e30e3dc1c5/itunes-rule-breaker-investing.png"
                     },
-                    "itunes:keywords": "podcast,rule,breakers,RBI",
+                    "itunes:keywords": "Podcast,rule,breakers,RBI",
                     "itunes:subtitle": "She\u2019s back! Priya Parker rejoins David for a short-form, all-out-fun Weekend Extra, extemporaneously taking on anything he can throw at her, from how to improve your next family reunion to her take on Martha Stewart.",
                     "link": "https://rulebreakerinvesting.libsyn.com/extra-priya-parker-part-two",
                     "pubDate": "Sat, 11 Aug 2018 16:00:00 +0000",
@@ -7854,7 +7876,7 @@
                     "itunes:image": {
                         "@href": "https://static.libsyn.com/p/assets/5/2/8/6/5286581a27808ecc/itunes-rule-breaker-investing.png"
                     },
-                    "itunes:keywords": "rule,money,Investing,market,parker,breakers,priya",
+                    "itunes:keywords": "rule,money,investing,market,parker,breakers,priya",
                     "itunes:subtitle": "Authors in August continues this week, as David shares with you a Rule Breaker in the wide-ranging field of creating great events. Priya Parker is the author of the spectacular new book _The Art of Gathering_. She brings her innovative thought...",
                     "link": "https://rulebreakerinvesting.libsyn.com/authors-in-august-perfect-events-with-priya-parker",
                     "pubDate": "Wed, 08 Aug 2018 19:00:00 +0000",
@@ -7920,7 +7942,7 @@
                     "itunes:image": {
                         "@href": "https://static.libsyn.com/p/assets/6/e/0/e/6e0e49545e4cb550/itunes-rule-breaker-investing.png"
                     },
-                    "itunes:keywords": "rule,Investing,breakers",
+                    "itunes:keywords": "rule,investing,breakers",
                     "itunes:subtitle": "Long-time producer Mac Greer joins David once again to discuss and feature our whole interview with tennis legend Billie Jean King.",
                     "link": "https://rulebreakerinvesting.libsyn.com/extra-our-interview-with-billie-jean-king",
                     "pubDate": "Sat, 21 Jul 2018 16:00:00 +0000",
@@ -7968,7 +7990,7 @@
                     "itunes:image": {
                         "@href": "https://static.libsyn.com/p/assets/a/6/6/4/a6642656c1b5e51a/itunes-rule-breaker-investing.png"
                     },
-                    "itunes:keywords": "podcast,rule,money,Investing,market,breakers",
+                    "itunes:keywords": "Podcast,rule,money,investing,market,breakers",
                     "itunes:subtitle": "FANG: Facebook. Amazon. Netflix. Google. Or is it FAANG, with Apple too? Or\u2026 FAANMG?! Reacting to a Bloomberg Opinion piece, David addresses those who would turn some of his favorite companies into acronyms. What\u2019s your FAAMNG Score?",
                     "link": "https://rulebreakerinvesting.libsyn.com/a-rule-breaker-looks-at-fang-stocks",
                     "pubDate": "Wed, 11 Jul 2018 19:00:00 +0000",
@@ -8349,7 +8371,7 @@
                     "itunes:image": {
                         "@href": "https://static.libsyn.com/p/assets/3/3/6/0/33600f468291fb7b/itunes-rule-breaker-investing.png"
                     },
-                    "itunes:keywords": "rule,Investing,RBI,breaker",
+                    "itunes:keywords": "rule,investing,RBI,breaker",
                     "itunes:subtitle": "Does the company where you work, or in which you're thinking of investing, have a rich culture? A key component is often an \"Employee First\" mentality, one that celebrates and nurtures people and their humanity. David's semi-annual culture...",
                     "link": "https://rulebreakerinvesting.libsyn.com/company-culture-tips-vol-4-whats-your-motley",
                     "pubDate": "Wed, 04 Apr 2018 19:02:26 +0000",
@@ -10309,7 +10331,7 @@
                     },
                     "itunes:duration": "20:20",
                     "itunes:explicit": "false",
-                    "itunes:keywords": "Investing,rulebreaker,Brexit",
+                    "itunes:keywords": "investing,rulebreaker,Brexit",
                     "itunes:subtitle": "Five companies that we like over the next 3 years - all inspired by The United Kingdom's recent move to withdraw from the European Union. \u00a0",
                     "link": "https://rulebreakerinvesting.libsyn.com/the-brexit-inspired-stock-list",
                     "pubDate": "Wed, 13 Jul 2016 20:20:58 +0000",
@@ -11413,7 +11435,7 @@
                     },
                     "itunes:duration": "05:08",
                     "itunes:explicit": "false",
-                    "itunes:keywords": "Investing,Stocks",
+                    "itunes:keywords": "investing,stocks",
                     "itunes:subtitle": "Go against the conventional wisdom \u2013 buy a stock directly, and buy it to hold. David explains the importance of these actions and how anyone can be a Rule-Breaking investor.",
                     "link": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/rulebreakerinvesting/Rule_Breaker_Investing_06.24.2015.mp3",
                     "pubDate": "Wed, 08 Jul 2015 14:00:00 +0000",
@@ -11471,7 +11493,7 @@
             "itunes:image": {
                 "@href": "https://static.libsyn.com/p/assets/b/d/e/b/bdeb91a71ad9ae65bafc7308ab683e82/RuleBreakerInvesting-3000x30001.png"
             },
-            "itunes:keywords": "Fool,Investing,StockMarket,Stocks,business,company,foolish,growth,invest,rulebreaker",
+            "itunes:keywords": "Business,Fool,StockMarket,company,foolish,growth,invest,investing,rulebreaker,stocks",
             "itunes:owner": {
                 "itunes:email": "rbi@fool.com",
                 "itunes:name": "The Motley Fool"
@@ -11479,14 +11501,14 @@
             "itunes:summary": "David Gardner, co-founder of The Motley Fool, is among the most respected and trusted sources on investing. As a best-selling author, hugely successful stock picker, and financial authority, David has led The Motley Fool\u2019s growth into a worldwide investment and financial advisory services company.\nEach week David shares his insights into today's most innovative and disruptive publicly traded companies -- and how to profit from them by following his signature \u201cRule Breaker Investing\u201d principles.",
             "itunes:type": "episodic",
             "language": "en",
-            "lastBuildDate": "Wed, 19 Feb 2025 20:02:40 +0000",
+            "lastBuildDate": "Wed, 26 Feb 2025 20:34:02 +0000",
             "link": "https://www.fool.com/podcasts/rule-breaker-investing",
             "managingEditor": "rbi@fool.com (rbi@fool.com)",
             "podcast:locked": {
                 "#text": "no",
                 "@owner": "rbi@fool.com"
             },
-            "pubDate": "Wed, 19 Feb 2025 20:00:00 +0000",
+            "pubDate": "Wed, 26 Feb 2025 20:30:00 +0000",
             "title": "Rule Breaker Investing"
         }
     }

@@ -7,7 +7,7 @@
         "channel": {
             "copyright": "Copyright 2016-2021 StoryCorps, Inc. - For Personal Use Only",
             "description": "Stories of the human heart. A candid, unscripted conversation between two people about what's really important in life: love, loss, family, friendship. When the world seems out of hand, tune in to <em>StoryCorps</em> and be reminded of the things that matter most.",
-            "generator": "NPR Feed Publish Service v1.19.5",
+            "generator": "NPR Feed Publish Service v1.19.11",
             "image": {
                 "link": "https://www.npr.org/podcasts/510200/storycorps",
                 "palette": [
@@ -22,6 +22,37 @@
                 "url": "https://media.npr.org/assets/img/2022/09/23/story-corps_tile_npr-network-01_sq-2590f9fef8285e162e8aa524e0fedd5462c64292.jpg?s=1400&c=66&f=jpg"
             },
             "item": [
+                {
+                    "content:encoded": "On the podcast this week: Stories about Black love, staying true to yourself, and remembering the loved ones who made us.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "description": "On the podcast this week: Stories about Black love, staying true to yourself, and remembering the loved ones who made us.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "enclosure": {
+                        "@length": "11967513",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510200/traffic.megaphone.fm/NPR7490385965.mp3?d=747&size=11967513&e=1261217876&t=podcast&p=510200"
+                    },
+                    "guid": {
+                        "#text": "54754b4e-e846-43a9-b197-47ea2f558da0",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:block": "no",
+                    "itunes:duration": "747",
+                    "itunes:episode": "5",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://media.npr.org/assets/img/2025/02/24/ar_storycorp_morris_092_sq-dec463d5c0bbc8d910bb2787371af294c6862000.jpg?s=3000&c=66&f=jpg"
+                    },
+                    "itunes:season": "15",
+                    "itunes:title": "You're That Light",
+                    "link": "https://www.npr.org/2026/01/01/1261217876/youre-that-light",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://media.npr.org/assets/img/2025/02/24/ar_storycorp_morris_092_wide-c7e521e199e872e6e43c3a036b118a95168b0d24.jpg?s=1280&c=66&f=jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Tue, 25 Feb 2025 08:00:00 +0000",
+                    "title": "You're That Light"
+                },
                 {
                     "content:encoded": "After a 13-year-old girl fends off unwanted male attention for the first time, her mom convinces the girl's middle school to teach consent ed. It doesn't go as planned. This episode comes from The Longest Shortest Time, a podcast about parenthood and reproductive health that recently relaunched after a hiatus.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
                     "description": "After a 13-year-old girl fends off unwanted male attention for the first time, her mom convinces the girl's middle school to teach consent ed. It doesn't go as planned. This episode comes from The Longest Shortest Time, a podcast about parenthood and reproductive health that recently relaunched after a hiatus.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
@@ -1532,36 +1563,6 @@
                     },
                     "pubDate": "Mon, 29 May 2023 04:00:26 +0000",
                     "title": "EXTRA: Living Life For Them"
-                },
-                {
-                    "content:encoded": "On this short Mother's Day episode, Madzimoyo Owusu came to StoryCorps with her daughter, Johannah Owusu, to honor the memory of the woman who helped shape her life.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
-                    "description": "On this short Mother's Day episode, Madzimoyo Owusu came to StoryCorps with her daughter, Johannah Owusu, to honor the memory of the woman who helped shape her life.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
-                    "enclosure": {
-                        "@length": "4408678",
-                        "@type": "audio/mpeg",
-                        "@url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510200/traffic.megaphone.fm/NPR1345436864.mp3?d=275&size=4408678&e=1175679611&t=podcast&p=510200"
-                    },
-                    "guid": {
-                        "#text": "65178cc7-25a7-4b4b-a84e-af21bccdb25d",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:block": "no",
-                    "itunes:duration": "275",
-                    "itunes:episodeType": "bonus",
-                    "itunes:explicit": "no",
-                    "itunes:image": {
-                        "@href": "https://media.npr.org/assets/img/2023/05/11/owuso16x9_sq-5b15374c72cb4cf5779cadd3d09f50adb1619178.jpg?s=3000&c=66&f=jpg"
-                    },
-                    "itunes:season": "10",
-                    "itunes:title": "EXTRA: Grandma's Hands",
-                    "link": "https://www.npr.org/2023/05/11/1175679611/extra-grandmas-hands",
-                    "media:thumbnail": {
-                        "@height": "720",
-                        "@url": "https://media.npr.org/assets/img/2023/05/11/owuso16x9_wide-7bce21a557e299bce1e7f9322bb391ab8c0b388f.jpg?s=1280&c=66&f=jpg",
-                        "@width": "1280"
-                    },
-                    "pubDate": "Sun, 14 May 2023 06:00:19 +0000",
-                    "title": "EXTRA: Grandma's Hands"
                 }
             ],
             "itunes:author": "NPR",
@@ -1578,7 +1579,7 @@
             },
             "itunes:type": "episodic",
             "language": "en",
-            "lastBuildDate": "Tue, 11 Feb 2025 08:02:05 +0000",
+            "lastBuildDate": "Tue, 25 Feb 2025 19:55:57 +0000",
             "link": "https://www.npr.org/podcasts/510200/storycorps",
             "media:restriction": {
                 "#text": "es fi fr gb nl no se us dk at ch be au nz ca de it ie lu li ad mc pl pt is mx ee lv lt my gr ar hu cz mt bg sk cy br cl co uy sv py hn pa ni pe ec do gt cr bo id jp th ro il za",

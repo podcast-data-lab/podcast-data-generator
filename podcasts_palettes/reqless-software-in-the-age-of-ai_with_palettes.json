@@ -38,6 +38,38 @@
             },
             "item": [
                 {
+                    "content:encoded": "<p>Is it too late to regulate AI? On this week\u2019s Reqless, Paul and Rich assess what \u201cregulating AI\u201d could even mean, from controlling training data sources to moderating its ability to spread information\u2014and disinformation. They then zero in on the question in the context of the new American administration, and Paul muses about just how long he\u2019d like to hold his breath underwater given the current state of the news. (Five minutes? Ten?)</p>",
+                    "dc:creator": "Aboard",
+                    "description": "<p>Is it too late to regulate AI? On this week\u2019s Reqless, Paul and Rich assess what \u201cregulating AI\u201d could even mean, from controlling training data sources to moderating its ability to spread information\u2014and disinformation. They then zero in on the question in the context of the new American administration, and Paul muses about just how long he\u2019d like to hold his breath underwater given the current state of the news. (Five minutes? Ten?)</p>",
+                    "enclosure": {
+                        "@length": "28870992",
+                        "@type": "audio/mpeg",
+                        "@url": "https://podcasts.captivate.fm/media/a2633386-c169-43b8-b546-a8ee941df232/AboardPodcast-2025-02-25-converted.mp3"
+                    },
+                    "guid": {
+                        "#text": "dc6a8995-4aca-4c3a-9cda-be1d863c3e93",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Aboard",
+                    "itunes:duration": "34:22",
+                    "itunes:episode": "147",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://artwork.captivate.fm/ebe57b10-151c-4404-9aee-bebb817c2b57/hpMoPPz_LKuA-CLDbkmNiG7Z.png"
+                    },
+                    "itunes:season": [
+                        "2",
+                        "2"
+                    ],
+                    "itunes:title": "AI Regulation (and Disregulation)",
+                    "link": "https://ziade-ford.local/ai-regulation-and-disregulation",
+                    "podcast:episode": "147",
+                    "podcast:season": "2",
+                    "pubDate": "Tue, 25 Feb 2025 07:00:00 -0500",
+                    "title": "AI Regulation (and Disregulation)"
+                },
+                {
                     "content:encoded": "<p>How is generative AI transforming the university? On this week\u2019s Reqless, Paul and Rich sit down with someone on the front lines of AI in higher ed: Clay Shirky, a longtime educator and technologist who\u2019s currently the Vice Provost of Educational Technologies at New York University. Clay outlines how the university\u2019s approach to AI has shifted from semester to semester over the past few years, and then digs into the reasons why widespread student adoption of AI is worrying the faculty\u2014and the students themselves.</p>",
                     "dc:creator": "Aboard",
                     "description": "<p>How is generative AI transforming the university? On this week\u2019s Reqless, Paul and Rich sit down with someone on the front lines of AI in higher ed: Clay Shirky, a longtime educator and technologist who\u2019s currently the Vice Provost of Educational Technologies at New York University. Clay outlines how the university\u2019s approach to AI has shifted from semester to semester over the past few years, and then digs into the reasons why widespread student adoption of AI is worrying the faculty\u2014and the students themselves.</p>",
@@ -5624,7 +5656,7 @@
             "itunes:summary": "AI is changing how we build software\u2014for the better, for the worse, and in ways to be determined. In this podcast, two surprisingly entertaining software veterans go piece by piece, exploring how change is coming: for industries, for individuals, and always with a focus on how to put things into perspective, then put them into action to move your career along. Say goodbye to the endless requirements phase, say hello to building software as-needed\u2014it\u2019s time to get REQLESS.",
             "itunes:type": "episodic",
             "language": "en",
-            "lastBuildDate": "Tue, 18 Feb 2025 12:00:33 +0000",
+            "lastBuildDate": "Tue, 25 Feb 2025 12:00:36 +0000",
             "link": "https://aboard.com",
             "managingEditor": "Aboard",
             "podcast:guid": "501aa5f3-8b70-5233-bbb2-1a494f9a02fc",

@@ -20,6 +20,27 @@
             },
             "item": [
                 {
+                    "description": "With the mothers of Elon\u2019s kids begging for his attention on social media, he makes much of \u2018pronatalism\u2019 \u2013 but is that just a fancy word for bad parenting? \u2018I don\u2019t know whether I\u2019d describe it as fun,\u2019 says Aimee Lou Wood on the intensity of making The White Lotus. And are ordinary life experiences, bodily imperfections and normal differences being unnecessarily pathologised? Neurologist and author Suzanne O\u2019Sullivan argues just that",
+                    "enclosure": {
+                        "@length": "62600698",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2025/02/28-85068-gdn.weekend.250301.RP.Diagnosis.mp3"
+                    },
+                    "guid": {
+                        "#text": "67c090e08f08f021a67be92f",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "01:03:22",
+                    "itunes:explicit": "yes",
+                    "itunes:keywords": "Life and style, Aimee Lou Wood, Sex Education, The White Lotus, Elon Musk, Parents and parenting, Attention deficit hyperactivity disorder, Neurodiversity, Autism, Long Covid",
+                    "itunes:subtitle": "With the mothers of Elon\u2019s kids begging for his attention on social media, he makes much of \u2018pronatalism\u2019 \u2013 but is that just a fancy word for bad parenting? \u2018I don\u2019t know whether I\u2019d describe it as fun,\u2019 says Aimee Lou Wood on the intensity of making The White Lotus. And are ordinary life experiences, bodily imperfections and normal differences being unnecessarily pathologised? Neurologist and author Suzanne O\u2019Sullivan argues just that",
+                    "itunes:summary": "With the mothers of Elon\u2019s kids begging for his attention on social media, he makes much of \u2018pronatalism\u2019 \u2013 but is that just a fancy word for bad parenting? \u2018I don\u2019t know whether I\u2019d describe it as fun,\u2019 says Aimee Lou Wood on the intensity of making The White Lotus. And are ordinary life experiences, bodily imperfections and normal differences being unnecessarily pathologised? Neurologist and author Suzanne O\u2019Sullivan argues just that",
+                    "itunes:title": "The White Lotus actor Aimee Lou Wood, Marina Hyde on Daddy Musk, and are we over-diagnosing illness?",
+                    "pubDate": "Sat, 01 Mar 2025 05:00:29 GMT",
+                    "title": "The White Lotus actor Aimee Lou Wood, Marina Hyde on Daddy Musk, and are we over-diagnosing illness?"
+                },
+                {
                     "description": "Two years ago, transgender teenager Brianna Ghey was stabbed to death by two 15-year-olds. The killers had been radicalised on the dark web, while the victim was trapped in an online world of her own. Now her mother has become friends with the parent of one of the murderers. On the second anniversary of Brianna\u2019s death, Esther sits down with Simon Hattenstone to discuss her daughter\u2019s murder and her own extraordinary response.",
                     "enclosure": {
                         "@length": "33037493",
@@ -3643,7 +3664,7 @@
             },
             "itunes:summary": "Every Saturday, the Weekend podcast brings some of the best Guardian writing from the week, read by talented narrators. Listen to celebrity interviews, lifestyle features, and opinions from our most popular columnists including Marina Hyde and John Crace. Weekend is the perfect way to relax.",
             "language": "en-gb",
-            "lastBuildDate": "\n              Sun, 23 Feb 2025 00:40:40 GMT\n            ",
+            "lastBuildDate": "\n              Sun, 02 Mar 2025 00:38:10 GMT\n            ",
             "link": "https://www.theguardian.com/lifeandstyle/series/weekend",
             "title": "Weekend",
             "ttl": "15"

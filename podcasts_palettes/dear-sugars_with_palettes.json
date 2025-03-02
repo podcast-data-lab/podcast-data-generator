@@ -31,6 +31,40 @@
             "item": [
                 {
                     "category": "Dear Sugars",
+                    "content:encoded": "<p><em>This episode was originally released on July 21st, 2018.</em></p>\n\n<p>When it comes to love, money is supposed to be no object. But there\u2019s no disentangling love from anything in our lives, and income is no exception. So how do you assess the role money should play in a relationship, and what happens when your desires and means change over time?</p>\n\n<p>In\u00a0this\u00a0episode, five letter writers want to know how to discuss money with their romantic and familial partners. How do I stop resenting my husband for his low income? How do I ask my stay-at-home wife to get a job? Should I feel obligated to share the wealth with my fiscally irresponsible parents? The Sugars answer these questions and more in rapid-fire style.</p>",
+                    "dc:creator": {
+                        "#text": "WBUR",
+                        "@xmlns:dc": "http://purl.org/dc/elements/1.1/"
+                    },
+                    "description": "<p><em>This episode was originally released on July 21st, 2018.</em></p>\n\n<p>When it comes to love, money is supposed to be no object. But there\u2019s no disentangling love from anything in our lives, and income is no exception. So how do you assess the role money should play in a relationship, and what happens when your desires and means change over time?</p>\n\n<p>In\u00a0this\u00a0episode, five letter writers want to know how to discuss money with their romantic and familial partners. How do I stop resenting my husband for his low income? How do I ask my stay-at-home wife to get a job? Should I feel obligated to share the wealth with my fiscally irresponsible parents? The Sugars answer these questions and more in rapid-fire style.</p>",
+                    "enclosure": {
+                        "@length": "42559730",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR4414187299.mp3"
+                    },
+                    "guid": {
+                        "#text": "47cafcd5-7baa-449c-8d04-155092c74742",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": " WBUR ",
+                    "itunes:duration": "00:44:20",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:subtitle": "When it comes to love, money is supposed to be no object. But there\u2019s no disentangling love from anything in our lives, and income is no exception. So how do you assess the role money should play in a relationship, and what happens when your desires and means change over time? The Sugars answer 5 letters in this rapid-fire episode. ",
+                    "itunes:summary": "<em>This episode was originally released on July 21st, 2018.</em>\n\nWhen it comes to love, money is supposed to be no object. But there\u2019s no disentangling love from anything in our lives, and income is no exception. So how do you assess the role money should play in a relationship, and what happens when your desires and means change over time?\n\nIn\u00a0this\u00a0episode, five letter writers want to know how to discuss money with their romantic and familial partners. How do I stop resenting my husband for his low income? How do I ask my stay-at-home wife to get a job? Should I feel obligated to share the wealth with my fiscally irresponsible parents? The Sugars answer these questions and more in rapid-fire style.",
+                    "itunes:title": " Episodes We Love: Rapid Fire \u2014 Love & Money ",
+                    "link": "https://www.wbur.org/dearsugar/2025/03/01/episodes-we-love-rapid-fire-love-money",
+                    "media:content": {
+                        "@fileSize": "42559730",
+                        "@medium": "audio",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR4414187299.mp3"
+                    },
+                    "pubDate": "Sat, 01 Mar 2025 08:00:00 -0500",
+                    "title": "Episodes We Love: Rapid Fire \u2014 Love & Money"
+                },
+                {
+                    "category": "Dear Sugars",
                     "content:encoded": "<p><em>Cheryl and Steve are no longer dishing out new advice, but we're listening back to episodes we love every week. This episode was originally released November 6, 2015.</em></p>\n\n<p>____</p>\n\n<p>The Sugars get a letter from a young woman who has fallen head over heels in love. She and her boyfriend only met a month ago, but they are already in deep. Everything seems perfect, and yet the letter writer can't help but wonder if the traumas of her new love's past are hiding somewhere under the surface, threatening to resurface.</p>\n\n<p>In this episode, the Sugars do something new \u2014 and get the letter writer on the phone to speak with her directly about her fears.</p>",
                     "dc:creator": {
                         "#text": "WBUR",
@@ -13058,7 +13092,7 @@
             "itunes:summary": "Radically empathic advice. Produced by WBUR.",
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Sat, 22 Feb 2025 19:30:12 -0500",
+            "lastBuildDate": "Sat, 01 Mar 2025 19:30:08 -0500",
             "link": "https://www.wbur.org/podcasts/dearsugar",
             "title": "Dear Sugars"
         }

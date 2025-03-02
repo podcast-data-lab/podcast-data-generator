@@ -40,6 +40,31 @@
             "item": [
                 {
                     "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
+                    "content:encoded": "<p>Also: are the most memorable stories less likely to be true? This episode originally aired on July 19, 2020.\u00a0</p>\n",
+                    "description": "<p>Also: are the most memorable stories less likely to be true? This episode originally aired on July 19, 2020.\u00a0</p>\n",
+                    "enclosure": {
+                        "@length": "29249451",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/fab071f4-583a-498c-a495-58f7d4c71242/episodes/2e9c6b26-659d-4abe-8e0d-7ce2dc1a6e8d/audio/128/default.mp3?aid=rss_feed&awCollectionId=fab071f4-583a-498c-a495-58f7d4c71242&awEpisodeId=2e9c6b26-659d-4abe-8e0d-7ce2dc1a6e8d&feed=dfh_verV"
+                    },
+                    "guid": {
+                        "#text": "af99c720-691d-45b2-afe4-36084ea5f213",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Freakonomics Radio + Stitcher",
+                    "itunes:duration": "00:30:28",
+                    "itunes:episode": "10",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:subtitle": "Also: are the most memorable stories less likely to be true? This episode originally aired on July 19, 2020. ",
+                    "itunes:summary": "Also: are the most memorable stories less likely to be true? This episode originally aired on July 19, 2020. ",
+                    "itunes:title": "10. Why Are Stories Stickier Than Statistics?",
+                    "link": "https://freakonomics.com",
+                    "pubDate": "Sun, 23 Feb 2025 01:00:00 +0000",
+                    "title": "10. Why Are Stories Stickier Than Statistics?"
+                },
+                {
+                    "author": "editor@freakonomics.com (Freakonomics Radio + Stitcher)",
                     "content:encoded": "<p>Also: how do you avoid screwing up your kids? This episode originally aired on July 12, 2020.</p>\n",
                     "description": "<p>Also: how do you avoid screwing up your kids? This episode originally aired on July 12, 2020.</p>\n",
                     "enclosure": {
@@ -6652,9 +6677,9 @@
             "itunes:summary": "Research psychologist Angela Duckworth (author of \"Grit\") and tech and sports executive Mike Maughan really like to ask people questions, and they believe there\u2019s no such thing as a stupid one. So they have a podcast where they can ask each other as many \u201cstupid questions\u201d as they want. New episodes each week. \"No Stupid Questions\" is a production of the Freakonomics Radio Network.\n\nTo get every show in the Freakonomics Radio Network without ads and a monthly bonus episode of Freakonomics Radio, start a free trial for SiriusXM Podcasts+ on Apple Podcasts or by visiting siriusxm.com/podcastsplus.",
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Wed, 19 Feb 2025 23:35:50 +0000",
+            "lastBuildDate": "Sun, 23 Feb 2025 01:00:15 +0000",
             "link": "https://freakonomics.com",
-            "pubDate": "Sun, 16 Feb 2025 01:00:00 +0000",
+            "pubDate": "Sun, 23 Feb 2025 01:00:00 +0000",
             "title": "No Stupid Questions"
         }
     }

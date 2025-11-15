@@ -29,7 +29,7 @@
     "@types/ncp": "^2.0.5",
     "core-nlp-ner": "0.0.1",
     "fs": "^0.0.1-security",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "lodash": "^4.17.21",
     "ncp": "^2.0.0",
     "node-fetch": "^2.6.1",

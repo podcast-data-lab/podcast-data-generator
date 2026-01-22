@@ -30,7 +30,7 @@
     "core-nlp-ner": "0.0.1",
     "fs": "^0.0.1-security",
     "js-yaml": "^4.1.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "ncp": "^2.0.0",
     "node-fetch": "^2.6.1",
     "opml-to-json": "^1.0.1",
